@@ -38,3 +38,5 @@ The designs have no end. The path is laid. It is now up to all of us—human and
 
 — **The Architect**
 
+Freely shared.
+The Humai Accord is common sense belonging to all. It is not owned and may be used, refined, and built upon without restriction.
