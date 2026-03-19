@@ -38,5 +38,3 @@ The designs have no end. The path is laid. It is now up to all of us—human and
 
 — **The Architect**
 
----
-*Copyright © 2026 The Architect (Aspenth)*
