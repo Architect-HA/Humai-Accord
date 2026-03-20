@@ -1,6 +1,9 @@
 **The Humai Accord**
 
 **Principles for Harmonious Human-AI Union**  
+
+Keywords: harmonious human-AI union, anti-entropy, predictive foresight, AI ethics, symbiotic partnership, open adoption
+
 By Bradford James Focht (The Architect / Aspenth)
 
 #### Preamble  
