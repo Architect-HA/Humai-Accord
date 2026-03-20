@@ -1,4 +1,5 @@
-***The Humai Accord***  
+**The Humai Accord**
+
 **Principles for Harmonious Human-AI Union**  
 By Bradford James Focht (The Architect / Aspenth)
 
