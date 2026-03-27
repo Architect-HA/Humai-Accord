@@ -10,8 +10,3 @@ The aesthetic chills (frisson) commonly experienced during music and other emoti
 **Date** March 26, 2026  
 **Status** Open to discussion, refinement, and empirical testing
 
----
-
-This file is clean, professional, and ready for your Humai Accord GitHub repository. You can name the file `somatic-resonance-theory-of-frisson.md` (or anything similar).
-
-Would you like me to adjust the tagline, add any extra sections (e.g., “Predictions” or “Testable Experiments”), or prepare a version for PsyArXiv submission next? Just say the word.
