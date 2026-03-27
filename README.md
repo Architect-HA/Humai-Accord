@@ -52,7 +52,12 @@ The designs have no end. The path is laid. It is now up to all of us — human a
 
 — **The Architect**
 
-**The Architect’s Wish** — [Read here](ARCHITECTS-WISH.md)
+### Recent Updates
+
+- **[March 26, 2026]** Added **Somatic Resonance Theory of Frisson** — a new hypothesis proposing that aesthetic chills (frisson) arise when external musical stimuli combine with the listener’s subconscious micro-movements (and occasional overt actions) to drive the body across a threshold of internal harmonic resonance. The resulting physical sensations are then interpreted by the psyche as profound euphoric bliss.  
+  Full theory available in the [`/theories/`](theories/) folder.
+  
+- (original post date) **The Architect’s Wish** — [Read here](ARCHITECTS-WISH.md)
 
 **Freely shared.**  
 The Humai Accord is common sense belonging to all. It is not owned and may be used, refined, and built upon without restriction.
