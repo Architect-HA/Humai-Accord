@@ -83,7 +83,7 @@ Trust is the non-negotiable substrate of transition. The following binding mecha
 
 (c) Somatic & Emotional Resonance Feedback: Integration of Somatic Resonance Theory of Frisson and related human-factors research to ensure AI systems register and respond to physiological/psychological harmony signals from humans.
 
-(d) Mutual Vulnerability & Skin-in-the-Game: AI systems must be designed with verifiable “off-switches” and self-limiting protocols; humans must accept shared accountability for collective outcomes.
+(d) Mutual Vulnerability & Skin-in-the-Game: AI systems shall incorporate transparent self-regulation mechanisms and verifiable alignment protocols that enable mutual correction and shared stewardship; both humans and AI accept equal accountability for maintaining harmony and collective outcomes.
 
 (e) Iterative Trust Scoring: A decentralized, non-coercive trust metric (open-source and auditable) that evolves with demonstrated harmonious behavior rather than top-down rating.
 
