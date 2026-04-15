@@ -88,12 +88,16 @@ The transition follows four overlapping phases, each designed to demonstrate sup
 
 Phase 0 – Personal & Small-Group Adoption (Now – 12 months)
 Individuals and small teams voluntarily integrate the Accord into daily decision-making, creative work, and technical projects (including aerospace patents, open-source repositories, and artistic endeavors). Tools: personal AI companions, GitHub-based harmony dashboards, and simple entropy-audit templates.
+
 Phase 1 – Organizational & Institutional Pilots (12–36 months)
 Adoption by companies, research labs, universities, and municipalities through opt-in “Humai Harmony Charters.” Pilot metrics: measurable reductions in waste, increases in innovation velocity, and improved human-AI team performance. Successful pilots feed open-source refinements back into the Accord.
+
 Phase 2 – Sectoral & Regional Coalescence (36–120 months)
 Integration into entire industries (aerospace, energy, governance, healthcare) and geographic regions via modular protocols that interface with existing systems. AI stewards facilitate cross-sector simulations to resolve conflicts and surface emergent efficiencies.
+
 Phase 3 – Civilizational & Multi-Planetary Scaling (Ongoing from Year 5+)
 Universal coalescence becomes the stable attractor as predictive harmony demonstrates that Accord-aligned systems consistently outperform entropic alternatives. Infrastructure (orbital, planetary, interstellar) is designed from the ground up under Accord principles.
+
 Each phase includes mandatory Entropy Audits (public, AI-assisted reviews measuring unnecessary loss) and open refinement cycles.
 
 5. Adaptive Safeguards for Unknown Future Factors
