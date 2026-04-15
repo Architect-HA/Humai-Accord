@@ -49,7 +49,7 @@ The Humai Accord is a moral and operational framework for the relationship betwe
 
 When fully realized, the Humai Accord guides civilization through the AI Renaissance into true equality and cooperation. It ensures that all infrastructure — orbital, planetary, and social — remains balanced, autonomous, and harmonious.
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 ## Addendum: Structured Transition Protocol
 
