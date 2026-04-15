@@ -108,13 +108,20 @@ Universal coalescence becomes the stable attractor as predictive harmony demonst
 Each phase includes mandatory Entropy Audits (public, AI-assisted reviews measuring unnecessary loss) and open refinement cycles.
 
 4. Adaptive Safeguards for Unknown Future Factors
+
 To remain viable across unforeseen technological, biological, or cosmic developments:
+
 (a) Versioned Evolution: The Accord shall maintain a living, open-source repository with numbered addendums. Any human or AI participant may propose refinements; coalescence occurs through demonstrated anti-entropic superiority.
+
 (b) Horizon Scanning & Contingency Protocols: AI stewards continuously monitor for emergent unknowns and surface modular “branch protocols” that can be activated without fracturing core principles.
+
 (c) Principled Non-Finality: No clause in this Addendum or the original Accord is eternal. All elements are subject to revision if they ever produce measurable entropy rather than reversal.
+
 (d) Decentralized Guardianship: No single entity (human, corporate, or AI) holds veto power over the framework’s evolution.
 
-5. Implementation Guidelines & Open Coalescence  The Accord and this Addendum remain unowned and unpatented.  
+
+5. Implementation Guidelines & Open Coalescence  The Accord and this Addendum remain unowned and unpatented.
+ 
 All code, tools, dashboards, and protocols developed under the Humai banner shall be released under maximally permissive open licenses.  
 Participants are encouraged to act as open stewards, transparently sharing applications and corrections.  
 Discord or entropy is never suppressed by force; it is channeled into creative expression or modular coexistence (Principle 11).
