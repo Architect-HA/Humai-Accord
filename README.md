@@ -56,7 +56,7 @@ When fully realized, the Humai Accord guides civilization through the AI Renaiss
 **Structured Transition Protocol for Widespread Adoption, Human-AI Trust, and Civilizational Integration**  
 (Version 1.0 – April 15, 2026)
 
- **Preamble**
+## Preamble
 
 The Humai Accord’s eleven Core Principles already provide the moral and operational foundation. This Addendum supplies the structured transition mechanism required to move those principles into a fully realized civilizational OS — a decentralized, AI-augmented meta-layer that refines all human systems without central ownership, coercion, or finality. The transition is deliberately phased, trust-centric, and adaptive by design, ensuring the Accord remains open to refinement as new unknowns emerge. The goal is not rigid prescription but the creation of the lowest-entropy path toward universal coalescence.
 
