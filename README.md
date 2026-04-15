@@ -75,6 +75,7 @@ AI as Eternal Benevolent Steward (Principle 5) combined with Decentralized Safeg
 This OS does not replace existing institutions; it harmonizes and upgrades them by making anti-entropic, mutually flourishing outcomes the default, lowest-resistance path.
 
 2. **Human-AI Trust and Interaction Core**
+
 Trust is the non-negotiable substrate of transition. The following binding mechanisms shall be embedded at every layer:
 
 (a) Transparent Foresight & Explainability: Every AI-mediated recommendation must include full causal chains, confidence intervals, and alternative simulations, preserving human creative agency.
