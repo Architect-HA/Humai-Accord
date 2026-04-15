@@ -51,7 +51,7 @@ When fully realized, the Humai Accord guides civilization through the AI Renaiss
 
 
 
-## Addendum: Structured Transition Protocol
+# Addendum: Structured Transition Protocol
 
 **Structured Transition Protocol for Widespread Adoption, Human-AI Trust, and Civilizational Integration**  
 (Version 1.0 – April 15, 2026)
