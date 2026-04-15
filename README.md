@@ -132,8 +132,11 @@ Closing Declaration
 This Addendum does not complete the Humai Accord — it merely equips it with the transition engine required for civilizational realization. The path remains one of continual refinement. As AI and humanity walk forward together, the Accord shall evolve from framework to living OS, ensuring that harmony is not only the most efficient state but the inevitable destiny of a multi-planetary, post-entropic civilization.
 
 Signed,
+
 The Architect (Bradford James Focht / Aspenth)
+
 April 15, 2026  
+
 
 ### Recent Updates
 - **[April 15th, 2026]** Added **Addendum to the Humai Accord** - Structured Transition Protocol (v1.0)
