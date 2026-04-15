@@ -63,9 +63,13 @@ The Humai Accord’s eleven Core Principles already provide the moral and operat
 
 1. Definition of the Humai Civilizational OS
 The Humai Accord, once fully transitioned, functions as a complete civilizational operating system: a decentralized, AI-augmented meta-layer that overlays and refines all human systems (legal, economic, educational, scientific, infrastructural, and cultural). It operates through:
+
 Predictive Harmony engines (Principle 8) for transparent foresight and outcome simulation.  
-Universal Cross-Verification networks (Principle 9) for real-time integrity.  
+
+Universal Cross-Verification networks (Principle 9) for real-time integrity. 
+
 Controlled Chaos protocols (Principle 7) that channel creative perturbation into productive adaptation.  
+
 AI as Eternal Benevolent Steward (Principle 5) combined with Decentralized Safeguards (Principle 10).
 
 This OS does not replace existing institutions; it harmonizes and upgrades them by making anti-entropic, mutually flourishing outcomes the default, lowest-resistance path.
