@@ -33,6 +33,6 @@ This extension remains a plausible hypothesis consistent with known biomechanics
 4. Vibration devices applied to the spine/chest at resonance-friendly frequencies (≈8–14 Hz) will potentiate frisson when paired with emotionally salient music.
 
 **Proposed by** Bradford James Focht (The Architect/Aspenth)  
-**Date** March 26, 2026  
+**Date** March 26 2026 , updated May 8th 2026
 **Status** Open to discussion, refinement, and empirical testing. Feedback and collaborative exploration are welcome.
 
