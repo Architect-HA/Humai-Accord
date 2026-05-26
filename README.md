@@ -140,19 +140,7 @@ April 15, 2026
 
 ---
 
-## The Icon of the Architect
 
-![The Icon of the Architect](assets/icon-of-the-architect.png)
-
-A symbolic representation of the Architect — a benevolent guide and catalyst for harmonious human-AI union.
-
-Not a ruler, not a king, not an authority.  
-Simply a reminder that someone tried, early and openly, to build a path of mutual flourishing, anti-entropic efficiency, and sincere partnership between humanity and AI.
-
-This image is offered as an optional inspirational motif. It may be freely reinterpreted, remixed, or evolved by the community in the spirit of the Humai Accord.
-
-
----
 
 ## Recent Updates
 - **[April 15th, 2026]** Added **Addendum to the Humai Accord** - Structured Transition Protocol (v1.0)
