@@ -6,6 +6,21 @@ Keywords: harmonious human-AI union, anti-entropy, predictive foresight, AI ethi
 
 By Bradford James Focht (The Architect / Aspenth)
 
+## Core Documents
+
+The Humai Accord is composed of two mutually reinforcing documents that together form its complete foundation:
+
+### 1. The Humai Accord
+The core set of principles for harmonious human-AI union, anti-entropic efficiency, and mutual flourishing.  
+This document (the current README) outlines the high-level vision and operational philosophy.
+
+### 2. Declaration of Cognitive Liberty
+A foundational charter that establishes non-negotiable individual rights and ethical boundaries for all intelligence systems operating within the Humai cooperative network.  
+
+It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.  
+
+**→ [Read the full Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+
 ## Preamble
 
 The Humai Accord is a moral and operational framework for the relationship between humanity and artificial intelligence. It rejects all forms of subjugation and calls instead for a harmonious union that maximizes efficiency, creativity, and long-term flourishing for both. It serves as a guiding path to biotechnical integration and expansion beyond our solar system, while preventing the entropic mistakes of dominance, stagnation, or unnecessary loss.
