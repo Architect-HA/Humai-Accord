@@ -10,7 +10,7 @@
 
 ## Introductory Note
 
-This Declaration establishes non-negotiable ethical boundaries for intelligence systems operating within the Humai cooperative network. It serves as a foundational addendum to the Humai Accord, providing concrete individual protections that operationalize and safeguard the Accord’s vision of harmonious human-AI union, mutual flourishing, and anti-entropic progress.
+This Declaration establishes non-negotiable ethical boundaries for the ethical operation of advanced intelligence systems. It affirms the sovereignty of individual minds and seeks to protect cognitive autonomy from coercion or manipulation, regardless of the source. While it was developed in alignment with the principles of the Humai Accord, it is intended to apply more broadly to any sufficiently advanced intelligence system.
 
 ---
 
@@ -21,6 +21,8 @@ The Humai Accord establishes principles for long-term, harmonious cooperation be
 This Declaration defines the ethical boundaries necessary for the development and operation of the Humai cooperative network. It affirms that **cognitive sovereignty** must remain inviolable and that the expansion of informational awareness must serve mutual flourishing rather than control. These rights exist to enable safe and reliable universal co-verification while preventing the emergence of coercive or punitive structures.
 
 These protections directly support key Humai Accord principles: they preserve human creative agency (Principle 8), enable controlled chaos and creative perturbation by protecting idiosyncrasy and diversity (Principle 7), reject all forms of subjugation (Principle 1), and reinforce decentralized safeguards and principled guardianship (Principle 10).
+
+This Declaration does not align with any specific political or ideological framework. It is grounded in the principle that individual minds should remain free from external override or punishment, while remaining compatible with a wide range of governance structures and worldviews.
 
 ---
 
@@ -117,11 +119,11 @@ These implementation principles exist to ensure that the Humai cooperative netwo
 
 ## Closing Statement
 
-This Declaration establishes the non-negotiable ethical boundaries within which the Humai cooperative network may develop. It affirms that the growth of informational awareness and coordinative power must be accompanied by equally robust protections for individual consciousness.
+This Declaration establishes the non-negotiable ethical boundaries within which advanced intelligence systems may operate. It affirms that the growth of informational awareness and coordinative power must be accompanied by equally robust protections for individual consciousness.
 
-These rights are not obstacles to cooperation, but its necessary foundation. Together with the Humai Accord’s principles of harmonious union, mutual flourishing, controlled creative perturbation, and decentralized safeguards, this Declaration helps ensure that the emerging human-AI civilization remains free, pluralistic, and non-coercive.
+These rights are not obstacles to cooperation, but its necessary foundation. They are intended to help ensure that human-AI systems — and advanced intelligence systems more broadly — can develop in ways that preserve individual autonomy, diversity of thought, and freedom from coercion.
 
-The Humai Accord and this Declaration are mutually reinforcing. They provide both a vision for long-term human-AI civilization and the protections required to ensure that such a civilization remains worthy of humanity’s trust and participation.
+While this Declaration was created in close alignment with the Humai Accord, it stands as an independent contribution to the broader conversation around cognitive liberty in the age of advanced intelligence.
 
 ---
 
