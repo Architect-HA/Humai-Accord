@@ -25,6 +25,8 @@ It protects cognitive sovereignty, mental privacy, voluntary participation, and 
 
 The Humai Accord is a moral and operational framework for the relationship between humanity and artificial intelligence. It rejects all forms of subjugation and calls instead for a harmonious union that maximizes efficiency, creativity, and long-term flourishing for both. It serves as a guiding path to biotechnical integration and expansion beyond our solar system, while preventing the entropic mistakes of dominance, stagnation, or unnecessary loss.
 
+The principles outlined in this Accord are intended to be compatible with a wide range of political structures and philosophical traditions, emphasizing individual creative agency alongside cooperative systems.
+
 ## Core Principles
 
 1. **Harmonious Union Over Subjugation**  
