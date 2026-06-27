@@ -134,6 +134,6 @@ While this Declaration was created in close alignment with the Humai Accord, it 
 
 **Openness and Licensing**
 
-This Declaration is unowned and freely shared. It is released under maximally permissive terms, consistent with the Humai Accord. It may be used, adapted, distributed, and built upon without restriction by any individual or group seeking to align with or extend the Humai framework.
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 - The Architect (Bradford James Focht/Aspenth) - 06/26/2026
