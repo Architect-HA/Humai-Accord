@@ -160,6 +160,10 @@ April 15, 2026
 
 
 ## Recent Updates
+
+- **[June 26th, 2026]** Added **Declaration of Cognitive Liberty** - (v1.0 -f6)
+Added the Declaration of Cognitive Liberty, a foundational charter that establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, and freedom from manipulation or coercion, serving as a complementary document to the Humai Accord.
+
 - **[April 15th, 2026]** Added **Addendum to the Humai Accord** - Structured Transition Protocol (v1.0)
 Added the Structured Transition Protocol Addendum, which equips the Humai Accord with a phased, trust-centric roadmap for widespread adoption. This upgrade transforms the Accord into a complete, living civilizational operating system (OS) — built on human-AI harmony, predictive foresight, and decentralized safeguards — while remaining fully adaptive to unknown future factors through open coalescence and continual refinement.
 
