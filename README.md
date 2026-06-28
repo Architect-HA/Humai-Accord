@@ -222,6 +222,14 @@ In short, the Humai Accord provides the direction for *how* humans and AI can wo
 
 ---
 
+## Practical Applications & Implementation Examples
+
+While the Humai Accord and Declaration of Cognitive Liberty are primarily frameworks, they can be applied to real-world systems. 
+
+→ [See Implementation Examples](IMPLEMENTATION_EXAMPLES.md)
+
+---
+
 ## How to Engage and Collaborate
 
 This work is open and freely shared. We welcome thoughtful feedback, discussion, and collaboration.
