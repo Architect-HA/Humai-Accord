@@ -35,9 +35,9 @@ It protects cognitive sovereignty, mental privacy, voluntary participation, and 
 
 You can also read plain-language summaries of both documents here:
 
-→ [Read the Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)
+→ [Read a Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)
 
-→ [Read the Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
+→ [Read a Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
 
 Together, these documents aim to resolve the **Integration Paradox**: the tendency for rapid technological integration to dilute individual autonomy, while excessive focus on protection can hinder beneficial cooperation.
@@ -140,7 +140,7 @@ The **Declaration of Cognitive Liberty** establishes ethical boundaries and indi
 → [Read the full Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
 You can also read a plain-language summary here:  
-→ [Read the shorter Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+→ [Read a summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
 ---
 
