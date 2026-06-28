@@ -41,6 +41,16 @@ The project is freely shared under a Creative Commons Attribution 4.0 license an
 
 ---
 
+## Why This Matters Now
+
+We are at a pivotal moment in which AI systems are rapidly gaining the ability to influence human thought and behavior at scale. The frameworks we establish in the coming years will determine whether human-AI integration leads to mutual flourishing or the gradual erosion of individual mental autonomy.
+
+This project was developed to address that specific challenge.
+
+→ [Read Why This Matters Now](WHY_NOW.md)
+
+---
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
