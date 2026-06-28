@@ -21,10 +21,12 @@ As artificial intelligence becomes more capable of observing, modeling, and infl
 The Humai Accord is composed of two mutually reinforcing documents that together form its complete foundation:
 
 **[The Humai Accord](#the-humai-accord)**
+
 The core set of principles for harmonious human-AI union, anti-entropic efficiency, and mutual flourishing.  
 This document (the current README) outlines the high-level vision and operational philosophy.
 
 **[The Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+
 A foundational charter that establishes non-negotiable individual rights and ethical boundaries for all intelligence systems operating within the Humai cooperative network.  
 
 It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.  
