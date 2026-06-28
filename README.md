@@ -2,7 +2,8 @@
 
 **Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing**
 
-Keywords: harmonious human-AI union, anti-entropy, predictive foresight, AI ethics, symbiotic partnership, open adoption, civilizational OS
+*Keywords: Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS*
+
 
 By Bradford James Focht (The Architect / Aspenth)
 
