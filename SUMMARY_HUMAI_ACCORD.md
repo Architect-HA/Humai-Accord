@@ -1,6 +1,10 @@
 # Summary of the Humai Accord
 
-**A plain-language overview of the Humai Accord**
+**An overview of the Humai Accord**
+
+*This is a plain-language summary of the [The Humai Accord](README.md). For the full version, see the main document.*
+
+---
 
 The Humai Accord is a high-level framework for how humanity and advanced artificial intelligence can work together over the long term. Instead of treating AI as either a tool to be controlled or a threat to be feared, it proposes a genuine partnership based on mutual benefit and cooperation.
 
