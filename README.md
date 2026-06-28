@@ -32,8 +32,8 @@ A foundational charter that establishes non-negotiable individual rights and eth
 It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.  
 
 You can also read plain-language summaries of both documents here:
-- [Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)
-- [Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
+→ [Read the Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)
+→ [Read the Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
 Together, these documents aim to resolve the **Integration Paradox**: the tendency for rapid technological integration to dilute individual autonomy, while excessive focus on protection can hinder beneficial cooperation.
 
@@ -131,12 +131,11 @@ The Humai Accord includes a **Structured Transition Protocol** that outlines how
 ## The Declaration of Cognitive Liberty
 
 The **Declaration of Cognitive Liberty** establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, freedom from manipulation, and the right to non-punitiveness.
-
-You can read the full document here:  
-**[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+  
+→ [Read the full Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
 You can also read a plain-language summary here:  
-**[Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+→ [Read the shorter Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)**
 
 ---
 
@@ -166,7 +165,7 @@ While the Humai Accord and Declaration of Cognitive Liberty are primarily framew
 
 This work is open and freely shared. We welcome thoughtful feedback, discussion, and collaboration.
 
-- Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) to learn how you can contribute or suggest improvements.
+→ Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) to learn how you can contribute or suggest improvements.
 - Open an issue on GitHub if you have questions, suggestions, or critiques.
 - Share the work with others if you find it valuable.
 
