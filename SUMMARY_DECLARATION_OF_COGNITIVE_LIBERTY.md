@@ -5,6 +5,7 @@
 *This is a plain-language summary of the [The Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md). For the full version, see the main document.*
 
 
+
 The Declaration of Cognitive Liberty is a set of rights and ethical boundaries designed to protect the human mind in an age where AI systems can observe, predict, and influence human thoughts and behavior.
 
 ### Why It Exists
