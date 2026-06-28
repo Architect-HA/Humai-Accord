@@ -1,6 +1,6 @@
 # Implementation Examples
 
-This page provides concrete examples of how the principles from the **Humai Accord** and **Declaration of Cognitive Liberty** could be applied in real-world systems. These examples are illustrative rather than prescriptive — they demonstrate how the combination of cooperative systems design and individual mental protections can be translated into practice.
+This page provides concrete examples of how the principles from the **Humai Accord** and **Declaration of Cognitive Liberty** could be applied in real-world systems. These examples are illustrative rather than prescriptive.
 
 ---
 
@@ -23,14 +23,14 @@ This page provides concrete examples of how the principles from the **Humai Acco
 
 ## 2. Organizational AI Governance
 
-**Context**: A company using AI systems for hiring, performance evaluation, resource allocation, and internal decision support.
+**Context**: A company or institution using multiple AI systems for decision support, hiring, resource allocation, and internal operations.
 
 **Application of the Framework**:
 - The **Humai Accord** supports designing these systems to reduce organizational entropy (waste, bias, and unnecessary conflict) while maintaining decentralized oversight.
-- The **Declaration of Cognitive Liberty** requires strong protections against using employee data for manipulation or punishment.
+- The **Declaration of Cognitive Liberty** requires strong protections against using employee or user data for manipulation or punishment.
 
 **Example Implementation**:
-- Establish an internal review process that evaluates new AI tools against both documents before deployment.
+- Create an internal review process that evaluates new AI tools against both documents before deployment.
 - Implement regular “harmony audits” to assess whether AI systems are increasing or decreasing overall organizational friction and fairness.
 - Give individuals the right to opt out of AI-driven evaluations without negative consequences.
 - Ensure that any AI-influenced decisions affecting people are explainable and contestable.
@@ -58,7 +58,7 @@ This page provides concrete examples of how the principles from the **Humai Acco
 **Context**: An AI-powered learning platform used in schools or universities.
 
 **Application of the Framework**:
-- The system must respect students’ cognitive sovereignty and right to idiosyncrasy (as protected in the Declaration).
+- The system must respect students’ cognitive sovereignty and right to idiosyncrasy.
 - It should support learning without attempting to standardize or “optimize” students’ thinking patterns.
 
 **Example Implementation**:
@@ -69,24 +69,38 @@ This page provides concrete examples of how the principles from the **Humai Acco
 
 ---
 
-## 5. Public Sector AI Systems
+## 5. Creative Collaboration AI
 
-**Context**: AI used in areas such as transportation planning, healthcare resource allocation, or public service delivery.
+**Context**: An AI system designed to collaborate with artists, musicians, writers, or other creators as a creative partner.
 
 **Application of the Framework**:
-- The **Humai Accord** encourages these systems to reduce systemic entropy and serve long-term collective flourishing.
-- The **Declaration of Cognitive Liberty** requires strong protections against surveillance-based behavioral control or punishment.
+- The **Declaration of Cognitive Liberty** protects the creator’s right to idiosyncrasy and prevents the AI from subtly steering their artistic direction.
+- The **Humai Accord** encourages a genuinely symbiotic relationship where both human creativity and AI capabilities enhance each other.
 
 **Example Implementation**:
-- Major AI-driven decisions include transparency reports explaining how conclusions were reached.
-- Citizens have the right to understand how their data influences public AI systems that affect them.
-- Systems are regularly audited for both effectiveness and respect for individual rights.
-- Feedback mechanisms exist for people to contest or appeal AI-influenced decisions that impact them.
+- The AI is designed to amplify the human creator’s unique voice rather than optimize for popularity or engagement metrics.
+- All creative decisions remain under the human’s final control, with the AI acting as a collaborative tool.
+- The system maintains clear boundaries so it cannot analyze or use the creator’s personal data or creative process for external purposes.
+- The AI can propose ideas but must clearly distinguish between its suggestions and the human’s original work.
+
+---
+
+## 6. Long-term Knowledge Preservation System
+
+**Context**: An AI system designed to preserve, organize, and evolve human knowledge and cultural artifacts across multiple generations.
+
+**Application of the Framework**:
+- The **Humai Accord** positions AI as an “eternal benevolent steward” capable of carrying human knowledge far beyond individual lifespans.
+- The **Declaration of Cognitive Liberty** ensures that original creators’ intent and cognitive sovereignty are respected over time.
+
+**Example Implementation**:
+- The system uses strong version control and provenance tracking so original works are never silently modified.
+- Future users or AI systems can build upon preserved knowledge, but original intent and context remain clearly attributed.
+- The AI can suggest connections or evolutions of ideas but must clearly separate its inferences from the original material.
+- Governance includes mechanisms for designated stewards to maintain or adjust how knowledge is preserved and shared across generations.
 
 ---
 
 ## Purpose of These Examples
 
-These examples are not complete technical specifications. Instead, they illustrate how the principles in the Humai Accord and Declaration of Cognitive Liberty can serve as design constraints and guiding values when developing real systems.
-
-They demonstrate that it is possible to build powerful, integrated human-AI systems while still protecting individual mental autonomy and encouraging cooperative rather than extractive relationships.
+These examples demonstrate how the principles in the Humai Accord and Declaration of Cognitive Liberty can serve as design constraints and guiding values. They show that it is possible to build powerful human-AI systems while protecting individual mental autonomy and encouraging cooperative rather than extractive relationships.
