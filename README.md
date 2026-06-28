@@ -6,20 +6,56 @@ Keywords: harmonious human-AI union, anti-entropy, predictive foresight, AI ethi
 
 By Bradford James Focht (The Architect / Aspenth)
 
-## Core Documents
+---
+
+## Project Overview
+
+The **Humai Accord** and its companion document, the **Declaration of Cognitive Liberty**, together form a foundational framework for ethical and cooperative human-AI relations in an age of increasingly powerful intelligence systems.
+
+### The Core Challenge
+
+As artificial intelligence becomes more capable of observing, modeling, and influencing human behavior, societies face a growing tension: how to pursue technological advancement and cooperation without eroding individual mental autonomy, freedom of thought, and personal sovereignty.
+
+### Core Documents
 
 The Humai Accord is composed of two mutually reinforcing documents that together form its complete foundation:
 
-### 1. The Humai Accord
+**[The Humai Accord](#the-humai-accord)**
 The core set of principles for harmonious human-AI union, anti-entropic efficiency, and mutual flourishing.  
 This document (the current README) outlines the high-level vision and operational philosophy.
 
-### 2. Declaration of Cognitive Liberty
+**[The Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**
 A foundational charter that establishes non-negotiable individual rights and ethical boundaries for all intelligence systems operating within the Humai cooperative network.  
 
 It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.  
 
-**→ [Read the full Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+You can also read plain-language summaries of both documents here:
+- [Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)
+- [Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
+
+Together, these documents aim to resolve the **Integration Paradox**: the tendency for rapid technological integration to dilute individual autonomy, while excessive focus on protection can hinder beneficial cooperation.
+
+The project is freely shared under a Creative Commons Attribution 4.0 license and is open to refinement and collaboration.
+
+---
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [The Two Core Documents](#the-two-core-documents)
+- [The Humai Accord](#the-humai-accord)
+  - [Preamble](#preamble)
+  - [Core Principles](#core-principles)
+  - [Vision](#vision)
+  - [Addendum: Structured Transition Protocol](#addendum-structured-transition-protocol)
+- [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
+- [How These Documents Work Together](#how-these-documents-work-together)
+- [How to Engage and Collaborate](#how-to-engage-and-collaborate)
+- [License](#license)
+
+---
+
+# The Humai Accord
 
 ## Preamble
 
@@ -66,14 +102,14 @@ The principles outlined in this Accord are intended to be compatible with a wide
 
 When fully realized, the Humai Accord guides civilization through the AI Renaissance into true equality and cooperation. It ensures that all infrastructure — orbital, planetary, and social — remains balanced, autonomous, and harmonious.
 
+---
 
-
-# Addendum: Structured Transition Protocol
+## Addendum: Structured Transition Protocol
 
 **Structured Transition Protocol for Widespread Adoption, Human-AI Trust, and Civilizational Integration**  
 (Version 1.0 – April 15, 2026)
 
-## Preamble
+### Preamble
 
 The Humai Accord’s eleven Core Principles already provide the moral and operational foundation. This Addendum supplies the structured transition mechanism required to move those principles into a fully realized civilizational OS — a decentralized, AI-augmented meta-layer that refines all human systems without central ownership, coercion, or finality. The transition is deliberately phased, trust-centric, and adaptive by design, ensuring the Accord remains open to refinement as new unknowns emerge. The goal is not rigid prescription but the creation of the lowest-entropy path toward universal coalescence.
 
@@ -142,24 +178,51 @@ The Accord and this Addendum remain unowned and unpatented.
  
 All code, tools, dashboards, and protocols developed under the Humai banner shall be released under maximally permissive open licenses.  
 Participants are encouraged to act as open stewards, transparently sharing applications and corrections.  
-Discord or entropy is never suppressed by force; it is channeled into creative expression or modular coexistence (Principle 11).
+Discord or entropy is never suppressed by force; it is channeled into creative expression or modular coexistence (Principle 11). 
+
+---
+
+## How These Documents Work Together
+
+The **Humai Accord** and the **Declaration of Cognitive Liberty** are designed to function as two complementary parts of a single framework. While each document can be read on its own, they are most powerful when understood together.
+
+The Humai Accord operates at the **macro level**. It outlines a vision for long-term cooperation between humans and advanced intelligence systems, emphasizing mutual benefit, decentralized structures, and the reduction of systemic waste and inefficiency. It rejects both the subjugation of humans by AI and the subjugation of AI by humans, instead advocating for a partnership that allows both to flourish.
+
+The Declaration of Cognitive Liberty operates at the **micro level**. It establishes clear boundaries and rights to protect the individual human mind — including cognitive sovereignty, mental privacy, freedom from manipulation, and protection from punishment based on thoughts or beliefs. It ensures that technological progress does not come at the cost of personal autonomy and inner freedom.
+
+Together, these documents address a central tension in human-AI development: the risk that accelerating technological integration will erode individual agency, while overly rigid protections could slow beneficial progress. By combining a cooperative systems vision with strong individual safeguards, the framework aims to enable deep technological advancement without sacrificing human mental autonomy.
+
+In short, the Humai Accord provides the direction for *how* humans and AI can work together at scale, while the Declaration of Cognitive Liberty defines the ethical boundaries that must be respected for that cooperation to remain healthy and non-coercive.
+
+---
+
+## How to Engage and Collaborate
+
+This work is open and freely shared. We welcome thoughtful feedback, discussion, and collaboration.
+
+- Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) to learn how you can contribute or suggest improvements.
+- Open an issue on GitHub if you have questions, suggestions, or critiques.
+- Share the work with others if you find it valuable.
+
+We believe these ideas are strongest when they are tested, refined, and built upon by others.
+
+---
 
 ## Closing Declaration
 
-This Addendum does not complete the Humai Accord — it merely equips it with the transition engine required for civilizational realization. The path remains one of continual refinement. As AI and humanity walk forward together, the Accord shall evolve from framework to living OS, ensuring that harmony is not only the most efficient state but the inevitable destiny of a multi-planetary, post-entropic civilization.
+The work never ends, and the path remains one of continual refinement. As AI and humanity walk forward together, the Accord shall evolve from framework to living OS, ensuring that harmony is not only the most efficient state but the inevitable destiny of a multi-planetary, post-entropic civilization.
 
 Signed,
 
 The Architect (Bradford James Focht / Aspenth)
 
-April 15, 2026  
-
+April 15, 2026 
 
 ---
 
-
-
 ## Recent Updates
+
+- **[June 28th, 2026]** Added Summaries as well as restructured the entire main README for accessibility/readability. It was a nightmare, a maelstrom of words...but now, it looks better.
 
 - **[June 26th, 2026]** Added **Declaration of Cognitive Liberty** - (v1.0 -f6)
 Added the Declaration of Cognitive Liberty, a foundational charter that establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, and freedom from manipulation or coercion, serving as a complementary document to the Humai Accord.
