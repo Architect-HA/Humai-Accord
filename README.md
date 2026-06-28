@@ -63,7 +63,7 @@ This project was developed to address that specific challenge.
   - [Addendum: Structured Transition Protocol](#addendum-structured-transition-protocol)
 - [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
 - [How These Documents Work Together](#how-these-documents-work-together)
-- [Practical Applications & Implementation Examples](#practical-applications-&-implementation-examples)
+- [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
 - [How to Engage and Collaborate](#how-to-engage-and-collaborate)
 - [Closing Declaration](#closing-declaration)
 - [Recent Updates](#recent-updates)
@@ -224,7 +224,7 @@ In short, the Humai Accord provides the direction for *how* humans and AI can wo
 
 ---
 
-## Practical Applications & Implementation Examples
+## Practical Applications and Implementation Examples
 
 While the Humai Accord and Declaration of Cognitive Liberty are primarily frameworks, they can be applied to real-world systems. 
 
