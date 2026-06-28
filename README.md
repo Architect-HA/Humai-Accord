@@ -42,7 +42,7 @@ The project is freely shared under a Creative Commons Attribution 4.0 license an
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [The Two Core Documents](#the-two-core-documents)
+- [Core Documents](#core-documents)
 - [The Humai Accord](#the-humai-accord)
   - [Preamble](#preamble)
   - [Core Principles](#core-principles)
