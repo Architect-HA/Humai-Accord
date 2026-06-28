@@ -188,7 +188,7 @@ April 15, 2026
 
 ## Recent Updates
 
-- **[June 28th, 2026]** Added Summaries as well as restructured the entire main README for accessibility/readability. It was a nightmare, a maelstrom of words...but now, it looks better.
+- **[June 28th, 2026]** Added Summaries as well as restructured the entire main README for accessibility/readability. Added Implementation Examples, Why This Matters Now, and a Table of Contents. Also moved the Structured Transition Protocol to its own sub-page.
 
 - **[June 26th, 2026]** Added **Declaration of Cognitive Liberty** - (v1.0 -f6)
 Added the Declaration of Cognitive Liberty, a foundational charter that establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, and freedom from manipulation or coercion, serving as a complementary document to the Humai Accord.
