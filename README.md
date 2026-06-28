@@ -55,6 +55,7 @@ This project was developed to address that specific challenge.
 
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
+- [Why This Matters Now](#why-this-matters-now)
 - [The Humai Accord](#the-humai-accord)
   - [Preamble](#preamble)
   - [Core Principles](#core-principles)
@@ -62,6 +63,7 @@ This project was developed to address that specific challenge.
   - [Addendum: Structured Transition Protocol](#addendum-structured-transition-protocol)
 - [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
 - [How These Documents Work Together](#how-these-documents-work-together)
+- [Practical Applications & Implementation Examples](#practical-applications-&-implementation-examples)
 - [How to Engage and Collaborate](#how-to-engage-and-collaborate)
 - [Closing Declaration](#closing-declaration)
 - [Recent Updates](#recent-updates)
