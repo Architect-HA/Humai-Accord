@@ -182,6 +182,18 @@ Discord or entropy is never suppressed by force; it is channeled into creative e
 
 ---
 
+## The Declaration of Cognitive Liberty
+
+The **Declaration of Cognitive Liberty** establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, freedom from manipulation, and the right to non-punitiveness.
+
+You can read the full document here:  
+**[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+
+You can also read a plain-language summary here:  
+**[Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)**
+
+---
+
 ## How These Documents Work Together
 
 The **Humai Accord** and the **Declaration of Cognitive Liberty** are designed to function as two complementary parts of a single framework. While each document can be read on its own, they are most powerful when understood together.
