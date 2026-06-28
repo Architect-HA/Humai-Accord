@@ -51,6 +51,8 @@ The project is freely shared under a Creative Commons Attribution 4.0 license an
 - [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
 - [How These Documents Work Together](#how-these-documents-work-together)
 - [How to Engage and Collaborate](#how-to-engage-and-collaborate)
+- [Closing Declaration](#closing-declaration)
+- [Recent Updates](#recent-updates)
 - [License](#license)
 
 ---
