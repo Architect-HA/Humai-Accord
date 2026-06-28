@@ -32,8 +32,11 @@ A foundational charter that establishes non-negotiable individual rights and eth
 It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.  
 
 You can also read plain-language summaries of both documents here:
+
 → [Read the Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)
+
 → [Read the Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
+
 
 Together, these documents aim to resolve the **Integration Paradox**: the tendency for rapid technological integration to dilute individual autonomy, while excessive focus on protection can hinder beneficial cooperation.
 
