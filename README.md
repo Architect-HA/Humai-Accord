@@ -69,6 +69,7 @@ This project was developed to address that specific challenge.
   - [Addendum: Structured Transition Protocol](#addendum-structured-transition-protocol)
 - [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
 - [How These Documents Work Together](#how-these-documents-work-together)
+- [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
 - [How to Engage and Collaborate](#how-to-engage-and-collaborate)
 - [Closing Declaration](#closing-declaration)
@@ -159,6 +160,14 @@ In short, the Humai Accord provides the direction for *how* humans and AI can wo
 
 ---
 
+## Principled Stewardship Protocol
+
+The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
+
+→ [Read the Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)
+
+---
+
 ## Practical Applications and Implementation Examples
 
 While the Humai Accord and Declaration of Cognitive Liberty are primarily frameworks, they can be applied to real-world systems. 
@@ -192,6 +201,8 @@ April 15, 2026
 ---
 
 ## Recent Updates
+
+- **[July 2nd, 2026]** Added the **Principled Stewardship Protocol**, which defines decentralized governance processes for the ongoing stewardship, evolution, and protection of the Humai Accord and Declaration of Cognitive Liberty.
 
 - **[June 28th, 2026]** Added Summaries as well as restructured the entire main README for accessibility/readability. Added Implementation Examples, Why This Matters Now, and a Table of Contents. Also moved the Structured Transition Protocol to its own sub-page.
 
