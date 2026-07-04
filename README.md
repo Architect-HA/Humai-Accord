@@ -196,7 +196,7 @@ Signed,
 
 The Architect (Bradford James Focht / Aspenth)
 
-April 15, 2026 
+March 20th, 2026 - ongoing 
 
 ---
 
