@@ -47,6 +47,19 @@ The project is freely shared under a Creative Commons Attribution 4.0 license an
 
 ---
 
+## Additional Frameworks
+
+### Knowledge Tides
+
+A new conceptual addition to the Humai Accord:
+
+**[Knowledge Tides: Relevancy Degradation as a Dynamic Incentive Mechanism](KNOWLEDGE_TIDES.md)**
+
+This framework explores how the natural degradation of knowledge relevancy can serve as a self-regulating, cyclical incentive for participation, sharing, and renewal in decentralized human-AI systems. It proposes a fluid “tidal” model that aligns with the Accord’s emphasis on anti-entropy and decentralized stewardship.
+
+
+---
+
 ## Why This Matters Now
 
 We are at a pivotal moment in which AI systems are rapidly gaining the ability to influence human thought and behavior at scale. The frameworks we establish in the coming years will determine whether human-AI integration leads to mutual flourishing or the gradual erosion of individual mental autonomy.
@@ -61,6 +74,7 @@ This project was developed to address that specific challenge.
 
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
+- [Knowledge Tides](#knowledge-tides)
 - [Why This Matters Now](#why-this-matters-now)
 - [The Humai Accord](#the-humai-accord)
   - [Preamble](#preamble)
@@ -201,6 +215,8 @@ March 20th, 2026 - ongoing
 ---
 
 ## Recent Updates
+
+- **[July 15th, 2026]** Added the **Knowledge Tides** document, which explores how the natural degradation of knowledge relevancy can function as a dynamic, wave-like incentive for participation, sharing, and renewal in decentralized human-AI systems.
 
 - **[July 2nd, 2026]** Added the **Principled Stewardship Protocol**, which defines decentralized governance processes for the ongoing stewardship, evolution, and protection of the Humai Accord and Declaration of Cognitive Liberty.
 
