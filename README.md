@@ -216,7 +216,7 @@ March 20th, 2026 - ongoing
 
 ## Recent Updates
 
-- **[July 15th, 2026]** Added the **Knowledge Tides** document, which explores how the natural degradation of knowledge relevancy can function as a dynamic, wave-like incentive for participation, sharing, and renewal in decentralized human-AI systems.
+- **[July 15th, 2026]** Added and further refined the **Knowledge Tides** framework, which explores how the natural degradation of knowledge relevancy can function as a dynamic, wave-like incentive for participation, sharing, and renewal in decentralized human-AI systems.
 
 - **[July 2nd, 2026]** Added the **Principled Stewardship Protocol**, which defines decentralized governance processes for the ongoing stewardship, evolution, and protection of the Humai Accord and Declaration of Cognitive Liberty.
 
