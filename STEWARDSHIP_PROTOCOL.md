@@ -1,6 +1,10 @@
 # Principled Stewardship Protocol
 
-**Version 1.0 – July 2026** by Bradford James Focht (The Architect/Aspenth)
+**Version 1.0 – July 2026** 
+
+by Bradford James Focht (The Architect/Aspenth)
+
+---
 
 The **Principled Stewardship Protocol** defines how the Humai Accord and Declaration of Cognitive Liberty are stewarded and evolved. It establishes a decentralized, structured governance model that supports principled development while protecting the framework’s foundational intent and preventing the concentration of authority.
 
@@ -139,3 +143,9 @@ All governance activity shall meet the following minimum standards:
 ---
 
 This Stewardship Protocol exists to support the coherent and principled development of the Humai Accord and Declaration of Cognitive Liberty. It is itself subject to the same principles of transparency, decentralization, non-punitiveness, and evolution that it establishes.
+
+---
+
+**License & Sharing**
+
+This work is freely shared under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon this document with appropriate attribution.
