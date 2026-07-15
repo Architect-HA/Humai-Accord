@@ -2,9 +2,11 @@
 
 **A Foundational Charter for the Ethical Operation of Intelligence Systems Within a Humai Accord Society**
 
-**Version 1.0 (f6) — June 2026**
+**Version 1.0 (f6) — June 26th, 2026**
 
 *An official addendum to the Humai Accord*
+
+by Bradford James Focht (The Architect/Aspenth
 
 ---
 
@@ -135,5 +137,3 @@ While this Declaration was created in close alignment with the Humai Accord, it 
 **Openness and Licensing**
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-- The Architect (Bradford James Focht/Aspenth) - 06/26/2026
