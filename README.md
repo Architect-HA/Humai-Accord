@@ -238,6 +238,6 @@ The Humai Accord is common sense belonging to all. It is not owned and may be us
 
 ---
 
-## License
+**License & Sharing**
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is freely shared under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon this document with appropriate attribution.
