@@ -75,3 +75,9 @@ The Accord and this Addendum remain unowned and unpatented.
 All code, tools, dashboards, and protocols developed under the Humai banner shall be released under maximally permissive open licenses.  
 Participants are encouraged to act as open stewards, transparently sharing applications and corrections.  
 Discord or entropy is never suppressed by force; it is channeled into creative expression or modular coexistence (Principle 11). 
+
+---
+
+**License & Sharing**
+
+This work is freely shared under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon this document with appropriate attribution.
