@@ -91,3 +91,9 @@ This conceptual proposal was inspired by ongoing conversations around decentrali
 ## Status
 
 This document presents an early conceptual proposal. It is offered as a potential addition to the Humai Accord’s governance and stewardship frameworks. Further development would benefit from integration with practical implementations of decentralized knowledge exchange systems and alignment with other core Humai Accord documents.
+
+---
+
+**License**
+
+This document is released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
