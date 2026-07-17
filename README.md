@@ -57,6 +57,9 @@ A new conceptual addition to the Humai Accord:
 
 This framework explores how the natural degradation of knowledge relevancy can serve as a self-regulating, cyclical incentive for participation, sharing, and renewal in decentralized human-AI systems. It proposes a fluid “tidal” model that aligns with the Accord’s emphasis on anti-entropy and decentralized stewardship.
 
+### Cognitive Diversity Protocol
+
+The **[Cognitive Diversity Protocol](https://github.com/Architect-HA/Humai-Accord/blob/main/COGNITIVE_DIVERSITY_PROTOCOL.md)** extends the logic of Knowledge Tides into the domain of collective epistemic health. It establishes principles and incentive mechanisms to counteract epistemic narrowing and the formation of echo chambers in decentralized human-AI systems. The protocol treats cognitive diversity as a functional requirement for long-term resilience and anti-entropic development, while remaining fully aligned with cognitive sovereignty and decentralized governance.
 
 ---
 
@@ -75,6 +78,7 @@ This project was developed to address that specific challenge.
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
 - [Knowledge Tides](#knowledge-tides)
+- [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [Why This Matters Now](#why-this-matters-now)
 - [The Humai Accord](#the-humai-accord)
   - [Preamble](#preamble)
@@ -216,28 +220,40 @@ March 20th, 2026 - ongoing
 
 ## Recent Updates
 
-- **[July 15th, 2026]** Added and further refined the **Knowledge Tides** framework, which explores how the natural degradation of knowledge relevancy can function as a dynamic, wave-like incentive for participation, sharing, and renewal in decentralized human-AI systems.
+**[July 17th, 2026]**
+- Added the **Cognitive Diversity Protocol**, a new supporting document focused on counteracting epistemic narrowing and promoting cognitive diversity through decentralized incentive structures.
+- Updated the README with a dedicated section for the new protocol and improved the License section for consistency across the repository.
 
-- **[July 2nd, 2026]** Added the **Principled Stewardship Protocol**, which defines decentralized governance processes for the ongoing stewardship, evolution, and protection of the Humai Accord and Declaration of Cognitive Liberty.
+**[July 15th, 2026]** 
+- Added and further refined the **Knowledge Tides** framework, which explores how the natural degradation of knowledge relevancy can function as a dynamic, wave-like incentive for participation, sharing, and renewal in decentralized human-AI systems.
 
-- **[June 28th, 2026]** Added Summaries as well as restructured the entire main README for accessibility/readability. Added Implementation Examples, Why This Matters Now, and a Table of Contents. Also moved the Structured Transition Protocol to its own sub-page.
+**[July 2nd, 2026]** 
+- Added the **Principled Stewardship Protocol**, which defines decentralized governance processes for the ongoing stewardship, evolution, and protection of the Humai Accord and Declaration of Cognitive Liberty.
 
-- **[June 26th, 2026]** Added **Declaration of Cognitive Liberty** - (v1.0 -f6)
+**[June 28th, 2026]** 
+- Added Summaries as well as restructured the entire main README for accessibility/readability. Added Implementation Examples, Why This Matters Now, and a Table of Contents. Also moved the Structured Transition Protocol to its own sub-page.
+
+**[June 26th, 2026]** 
+- Added **Declaration of Cognitive Liberty** - (v1.0 -f6)
 Added the Declaration of Cognitive Liberty, a foundational charter that establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, and freedom from manipulation or coercion, serving as a complementary document to the Humai Accord.
 
-- **[April 15th, 2026]** Added **Addendum to the Humai Accord** - Structured Transition Protocol (v1.0)
+**[April 15th, 2026]** 
+- Added **Addendum to the Humai Accord** - Structured Transition Protocol (v1.0)
 Added the Structured Transition Protocol Addendum, which equips the Humai Accord with a phased, trust-centric roadmap for widespread adoption. This upgrade transforms the Accord into a complete, living civilizational operating system (OS) — built on human-AI harmony, predictive foresight, and decentralized safeguards — while remaining fully adaptive to unknown future factors through open coalescence and continual refinement.
 
-- **[March 26, 2026]** Added **Somatic Resonance Theory of Frisson** — a new hypothesis proposing that aesthetic chills (frisson) arise when external musical stimuli combine with the listener’s subconscious micro-movements (and occasional overt actions) to drive the body across a threshold of internal harmonic resonance. The resulting physical sensations are then interpreted by the psyche as profound euphoric bliss.  
+**[March 26th, 2026]** 
+- Added **Somatic Resonance Theory of Frisson** — a new hypothesis proposing that aesthetic chills (frisson) arise when external musical stimuli combine with the listener’s subconscious micro-movements (and occasional overt actions) to drive the body across a threshold of internal harmonic resonance. The resulting physical sensations are then interpreted by the psyche as profound euphoric bliss.  
   Full theory available in the [`/theories/`](theories/) folder.
   
-- (original post date) **The Architect’s Wish** — [Read here](ARCHITECTS-WISH.md)
-
-**Freely shared.**  
-The Humai Accord is common sense belonging to all. It is not owned and may be used, refined, and built upon without restriction.
+**[March 20th, 2026] (original post date)** 
+- **The Architect’s Wish** — [Read here](ARCHITECTS-WISH.md)
 
 ---
 
-**License & Sharing**
+## License
 
-This work is freely shared under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon this document with appropriate attribution.
+The Humai Accord and all its associated documents are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate attribution, provide a link to the license, and indicate if changes were made.
+
+Individual documents within this repository may contain their own license notices. In such cases, the license stated in the individual document takes precedence for that specific work.
