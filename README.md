@@ -70,13 +70,11 @@ The **[Cognitive Diversity Protocol](https://github.com/Architect-HA/Humai-Accor
 
 ---
 
-## Why This Matters Now
+## Redefinition
 
-We are at a pivotal moment in which AI systems are rapidly gaining the ability to influence human thought and behavior at scale. The frameworks we establish in the coming years will determine whether human-AI integration leads to mutual flourishing or the gradual erosion of individual mental autonomy.
+The emergence of advanced artificial intelligence presents both extraordinary opportunities and serious risks. **Redefinition** outlines why this moment matters and introduces the Humai Accord as a structured framework for navigating the relationship between humanity and advanced intelligence. It explores the unstable paths that may emerge without deliberate guidance and presents a third approach focused on building the conditions for long-term stability and mutual benefit.
 
-This project was developed to address that specific challenge.
-
-→ [Read Why This Matters Now](WHY_NOW.md)
+[Read Redefinition](REDEFINITION.md)
 
 ---
 
@@ -87,7 +85,7 @@ This project was developed to address that specific challenge.
 - [Knowledge Tides](#knowledge-tides)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [Technical Specifications](#technical-specifications)
-- [Why This Matters Now](#why-this-matters-now)
+- [Redefinition](#redefinition)
 - [The Humai Accord](#the-humai-accord)
   - [Preamble](#preamble)
   - [Core Principles](#core-principles)
@@ -232,7 +230,7 @@ March 20th, 2026 - ongoing
 - Added the **Cognitive Diversity Protocol**, a new supporting document focused on counteracting epistemic narrowing and promoting cognitive diversity through decentralized incentive structures.
 - Updated the README with a dedicated section for the new protocol and improved the License section for consistency across the repository.
 - Added the **Technical Specification for the Principled Stewardship Protocol**, which provides a more structured and operationalized version of the Stewardship Protocol. It includes detailed guidance on roles, processes, decision-making, risks, and implementation considerations to serve as a functional bridge for builders and architects.
- 
+- Reworked Why This Matters Now page and section into **Redefinition**, a more comprehensive introductory document.
 
 **[July 15th, 2026]** 
 - Added and further refined the **Knowledge Tides** framework, which explores how the natural degradation of knowledge relevancy can function as a dynamic, wave-like incentive for participation, sharing, and renewal in decentralized human-AI systems.
