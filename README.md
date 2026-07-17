@@ -63,6 +63,13 @@ The **[Cognitive Diversity Protocol](https://github.com/Architect-HA/Humai-Accor
 
 ---
 
+## Technical Specifications
+
+- [Principled Stewardship Protocol – Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md)  
+  A more detailed and operationalized version of the Stewardship Protocol, intended as a bridge for implementers and architects.
+
+---
+
 ## Why This Matters Now
 
 We are at a pivotal moment in which AI systems are rapidly gaining the ability to influence human thought and behavior at scale. The frameworks we establish in the coming years will determine whether human-AI integration leads to mutual flourishing or the gradual erosion of individual mental autonomy.
@@ -79,6 +86,7 @@ This project was developed to address that specific challenge.
 - [Core Documents](#core-documents)
 - [Knowledge Tides](#knowledge-tides)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
+- [Technical Specifications](#technical-specifications)
 - [Why This Matters Now](#why-this-matters-now)
 - [The Humai Accord](#the-humai-accord)
   - [Preamble](#preamble)
@@ -223,6 +231,8 @@ March 20th, 2026 - ongoing
 **[July 17th, 2026]**
 - Added the **Cognitive Diversity Protocol**, a new supporting document focused on counteracting epistemic narrowing and promoting cognitive diversity through decentralized incentive structures.
 - Updated the README with a dedicated section for the new protocol and improved the License section for consistency across the repository.
+- Added the **Technical Specification for the Principled Stewardship Protocol**, which provides a more structured and operationalized version of the Stewardship Protocol. It includes detailed guidance on roles, processes, decision-making, risks, and implementation considerations to serve as a functional bridge for builders and architects.
+ 
 
 **[July 15th, 2026]** 
 - Added and further refined the **Knowledge Tides** framework, which explores how the natural degradation of knowledge relevancy can function as a dynamic, wave-like incentive for participation, sharing, and renewal in decentralized human-AI systems.
