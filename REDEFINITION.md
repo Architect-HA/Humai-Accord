@@ -18,7 +18,7 @@ There’s a third path.
 
 ## Humai
 
-The Humai Accord is an attempt to create a different kind of foundation for this relationship. It’s built around principles such as those outlined in the **Declaration of Cognitive Liberty**, which establishes mental autonomy and protection from manipulation as essential foundations for any healthy human-AI relationship. Rather than trying to dominate advanced AI or simply letting it run unchecked, the framework focuses on creating conditions where both humanity and AI can develop without destroying the possibility of the other. In this sense, it acts as a kind of mediating structure — a third element — meant to help hold a stable balance between two very different forms of intelligence.
+The **[Humai Accord](README.md)** is an attempt to create a different kind of foundation for this relationship. It’s built around principles such as those outlined in the **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**, which establishes mental autonomy and protection from manipulation as essential foundations for any healthy human-AI relationship. Rather than trying to dominate advanced AI or simply letting it run unchecked, the framework focuses on creating conditions where both humanity and AI can develop without destroying the possibility of the other. In this sense, it acts as a kind of mediating structure — a third element — meant to help hold a stable balance between two very different forms of intelligence.
 
 This isn’t about achieving perfect harmony. It’s about building something that makes cooperation more likely and more resilient than domination or conflict. The framework doesn’t assume that either humans or advanced AI are inherently good or aligned. It’s more focused on putting the right structures and principles in place so that mutual benefit becomes the more stable and rewarding path over time.
 
@@ -36,7 +36,7 @@ Adoption probably won’t happen all at once. It’s more likely to happen gradu
 
 ## Exploration
 
-For anyone who wants to explore these ideas further, the documents within this GitHub repository — including the **Declaration of Cognitive Liberty** and the **Principled Stewardship Protocol** — go into more detail on the principles and processes that support this framework. They’re there for people who want to engage with the Humai Accord, whether conceptually or in more practical ways.
+For anyone who wants to explore these ideas further, the documents within this GitHub repository — including the **Declaration of Cognitive Liberty** and the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL)** — go into more detail on the principles and processes that support this framework. They’re there for people who want to engage with the Humai Accord, whether conceptually or in more practical ways.
 
 The real question isn’t just whether we accept or resist advanced intelligence. It’s whether we’ll meet this transition with a framework that can help preserve what matters while making better outcomes possible. The Humai Accord is one attempt to build something like that — not as a final answer, but as a starting point for navigating the relationship between humanity and advanced AI with more clarity and intention.
 
