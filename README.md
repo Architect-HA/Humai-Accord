@@ -112,7 +112,7 @@ This framework explores how the natural degradation of knowledge relevancy can s
 
 ### Cognitive Diversity Protocol
 
-The **[Cognitive Diversity Protocol](https://github.com/Architect-HA/Humai-Accord/blob/main/COGNITIVE_DIVERSITY_PROTOCOL.md)** extends the logic of Knowledge Tides into the domain of collective epistemic health. It establishes principles and incentive mechanisms to counteract epistemic narrowing and the formation of echo chambers in decentralized human-AI systems. The protocol treats cognitive diversity as a functional requirement for long-term resilience and anti-entropic development, while remaining fully aligned with cognitive sovereignty and decentralized governance.
+The **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** extends the logic of Knowledge Tides into the domain of collective epistemic health. It establishes principles and incentive mechanisms to counteract epistemic narrowing and the formation of echo chambers in decentralized human-AI systems. The protocol treats cognitive diversity as a functional requirement for long-term resilience and anti-entropic development, while remaining fully aligned with cognitive sovereignty and decentralized governance. It also connects to the Somatic Resonance Theory of Frisson by addressing complementary dimensions of internal experience and harmony in decentralized systems.
 
 ---
 
@@ -252,6 +252,7 @@ March 20th, 2026 - ongoing
 - Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
 - Added **Implementation Guide** for builders and adopters of the Humai Accord principles, added link to page from main README
 - Updated the **Somatic Resonance Theory of Frisson** document to v1.1, moving it to the Additional Documents section and properly linking to its page from the main README. The old (1.0) version still exists in the Theories folder for archival purposes.
+- Updated the **Cognitive Diversity Protocol** document to v1.2, expanding with significant expansions, improved structure, stronger integration with other Humai Accord documents (including the Somatic Resonance Theory of Frisson), and enhanced clarity and depth throughout.
 
 **[July 17th, 2026]**
 - Added the **Cognitive Diversity Protocol**, a new supporting document focused on counteracting epistemic narrowing and promoting cognitive diversity through decentralized incentive structures.
