@@ -203,6 +203,8 @@ In short, the Humai Accord provides the direction for *how* humans and AI can wo
 
 While the Humai Accord and Declaration of Cognitive Liberty are primarily frameworks, they can be applied to real-world systems. 
 
+→ [Implementation Guide](IMPLEMENTATION_GUIDE.md) — Practical guidance for builders and adopters on how to apply the Humai Accord.
+
 → [See Implementation Examples](IMPLEMENTATION_EXAMPLES.md)
 
 ---
@@ -235,6 +237,7 @@ March 20th, 2026 - ongoing
 
 **[July 18th, 2026]**
 - Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
+- Added Implementation Guide for builders and adopters of the Humai Accord principles, added link to page from main README
 
 **[July 17th, 2026]**
 - Added the **Cognitive Diversity Protocol**, a new supporting document focused on counteracting epistemic narrowing and promoting cognitive diversity through decentralized incentive structures.
