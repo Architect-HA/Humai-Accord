@@ -6,7 +6,7 @@
 
 *An official addendum to the Humai Accord*
 
-by Bradford James Focht (The Architect/Aspenth
+by Bradford James Focht (The Architect/Aspenth)
 
 ---
 
