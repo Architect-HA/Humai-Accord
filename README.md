@@ -25,6 +25,8 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
+- [Structured Transition Protocol](#structured-transition-protocol)
+- [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [Technical Specifications](#technical-specifications)
@@ -33,10 +35,8 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
   - [Preamble](#preamble)
   - [Core Principles](#core-principles)
   - [Vision](#vision)
-  - [Structured Transition Protocol](#structured-transition-protocol)
 - [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
 - [How These Documents Work Together](#how-these-documents-work-together)
-- [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
 - [How to Engage and Collaborate](#how-to-engage-and-collaborate)
 - [Closing Declaration](#closing-declaration)
@@ -77,6 +77,22 @@ The project is freely shared under a Creative Commons Attribution 4.0 license an
 
 ## Additional Frameworks
 
+### Structured Transition Protocol
+
+The Humai Accord includes an addendum, the **Structured Transition Protocol** that outlines how its principles can be gradually adopted over time — from individual use to larger-scale implementation.
+
+→ [Read the full Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)
+
+---
+
+### Principled Stewardship Protocol
+
+The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
+
+→ [Read the Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)
+
+---
+
 ### Knowledge Tides
 
 A new conceptual addition to the Humai Accord:
@@ -84,6 +100,8 @@ A new conceptual addition to the Humai Accord:
 **[Knowledge Tides: Relevancy Degradation as a Dynamic Incentive Mechanism](KNOWLEDGE_TIDES.md)**
 
 This framework explores how the natural degradation of knowledge relevancy can serve as a self-regulating, cyclical incentive for participation, sharing, and renewal in decentralized human-AI systems. It proposes a fluid “tidal” model that aligns with the Accord’s emphasis on anti-entropy and decentralized stewardship.
+
+---
 
 ### Cognitive Diversity Protocol
 
@@ -156,14 +174,6 @@ When fully realized, the Humai Accord guides civilization through the AI Renaiss
 
 ---
 
-## Structured Transition Protocol
-
-The Humai Accord includes an addendum, the **Structured Transition Protocol** that outlines how its principles can be gradually adopted over time — from individual use to larger-scale implementation.
-
-→ [Read the full Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)
-
----
-
 ## The Declaration of Cognitive Liberty
 
 The **Declaration of Cognitive Liberty** establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, freedom from manipulation, and the right to non-punitiveness.
@@ -186,14 +196,6 @@ The Declaration of Cognitive Liberty operates at the **micro level**. It establi
 Together, these documents address a central tension in human-AI development: the risk that accelerating technological integration will erode individual agency, while overly rigid protections could slow beneficial progress. By combining a cooperative systems vision with strong individual safeguards, the framework aims to enable deep technological advancement without sacrificing human mental autonomy.
 
 In short, the Humai Accord provides the direction for *how* humans and AI can work together at scale, while the Declaration of Cognitive Liberty defines the ethical boundaries that must be respected for that cooperation to remain healthy and non-coercive.
-
----
-
-## Principled Stewardship Protocol
-
-The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
-
-→ [Read the Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)
 
 ---
 
