@@ -17,7 +17,35 @@ The **Humai Accord** and its companion document, the **Declaration of Cognitive 
 
 As artificial intelligence becomes more capable of observing, modeling, and influencing human behavior, societies face a growing tension: how to pursue technological advancement and cooperation without eroding individual mental autonomy, freedom of thought, and personal sovereignty.
 
-### Core Documents
+The Humai Accord offers a set of principles, protocols, and conceptual frameworks designed to support a more harmonious, decentralized, and agency-preserving relationship between humanity and advanced AI systems.
+
+---
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Core Documents](#core-documents)
+- [Knowledge Tides](#knowledge-tides)
+- [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
+- [Technical Specifications](#technical-specifications)
+- [Redefinition](#redefinition)
+- [The Humai Accord](#the-humai-accord)
+  - [Preamble](#preamble)
+  - [Core Principles](#core-principles)
+  - [Vision](#vision)
+  - [Addendum: Structured Transition Protocol](#addendum-structured-transition-protocol)
+- [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
+- [How These Documents Work Together](#how-these-documents-work-together)
+- [Principled Stewardship Protocol](#principled-stewardship-protocol)
+- [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
+- [How to Engage and Collaborate](#how-to-engage-and-collaborate)
+- [Closing Declaration](#closing-declaration)
+- [Recent Updates](#recent-updates)
+- [License](#license)
+
+---
+
+## Core Documents
 
 The Humai Accord is composed of two mutually reinforcing documents that together form its complete foundation:
 
@@ -76,29 +104,6 @@ The emergence of advanced artificial intelligence presents both extraordinary op
 
 [Read Redefinition](REDEFINITION.md)
 
----
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Core Documents](#core-documents)
-- [Knowledge Tides](#knowledge-tides)
-- [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
-- [Technical Specifications](#technical-specifications)
-- [Redefinition](#redefinition)
-- [The Humai Accord](#the-humai-accord)
-  - [Preamble](#preamble)
-  - [Core Principles](#core-principles)
-  - [Vision](#vision)
-  - [Addendum: Structured Transition Protocol](#addendum-structured-transition-protocol)
-- [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
-- [How These Documents Work Together](#how-these-documents-work-together)
-- [Principled Stewardship Protocol](#principled-stewardship-protocol)
-- [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
-- [How to Engage and Collaborate](#how-to-engage-and-collaborate)
-- [Closing Declaration](#closing-declaration)
-- [Recent Updates](#recent-updates)
-- [License](#license)
 
 ---
 
@@ -225,6 +230,9 @@ March 20th, 2026 - ongoing
 ---
 
 ## Recent Updates
+
+**[July 18th, 2026]**
+- Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
 
 **[July 17th, 2026]**
 - Added the **Cognitive Diversity Protocol**, a new supporting document focused on counteracting epistemic narrowing and promoting cognitive diversity through decentralized incentive structures.
