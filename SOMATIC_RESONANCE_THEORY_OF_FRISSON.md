@@ -4,9 +4,7 @@
 
 by **Bradford James Focht (The Architect / Aspenth)** 
 
-*v1.1 — July 18th, 2026*
-
-*v1.0 — March 26th, 2026* 
+*v1.0 — March 26th, 2026 // v1.1 — July 18th, 2026* 
 
 
 
@@ -35,7 +33,7 @@ The Somatic Resonance Theory does not reject mainstream neuroscientific explanat
 
 ## Alignment with Humai Accord Principles
 
-The Somatic Resonance Theory is consistent with several core principles of the Humai Accord:
+The Somatic Resonance Theory is consistent with several core principles of the [Humai Accord](README.md):
 
 - **Reversal of Entropy**: Frisson is reframed as an active process that can counteract emotional or experiential stagnation.
 - **Controlled Chaos and Fluid Circulation**: The theory emphasizes dynamic, wave-like resonance rather than static emotional states.
@@ -56,13 +54,13 @@ Creators of games, films, and immersive environments could leverage resonance pr
 Somatic resonance may offer a pathway toward more objective ways of assessing states of internal harmony or emotional coherence. Measurable physiological patterns — such as spinal and thoracic resonance signatures, heart rate variability entrainment, or specific bioelectric fluctuations during music listening — could potentially serve as indicators of emotional integration or psychological harmony. This aligns with the Humai Accord’s broader interest in developing non-coercive, agency-preserving methods of understanding human experience.
 
 **Connection to Knowledge Tides**  
-The Somatic Resonance Theory shares conceptual resonance with **Knowledge Tides**. Both frameworks emphasize dynamic, wave-like processes and feedback loops that support ongoing renewal — one at the level of somatic and emotional experience, and the other at the level of knowledge and participation. Together, they suggest that both emotional engagement and informational exchange can be sustained through natural cyclical dynamics rather than static or imposed structures.
+The Somatic Resonance Theory shares conceptual resonance with **[Knowledge Tides](KNOWLEDGE_TIDES.md)**. Both frameworks emphasize dynamic, wave-like processes and feedback loops that support ongoing renewal — one at the level of somatic and emotional experience, and the other at the level of knowledge and participation. Together, they suggest that both emotional engagement and informational exchange can be sustained through natural cyclical dynamics rather than static or imposed structures.
 
 **Connection to the Cognitive Diversity Protocol**  
-The Somatic Resonance Theory complements the **Cognitive Diversity Protocol** by addressing a related but distinct dimension of internal experience. While the Cognitive Diversity Protocol focuses on preserving diversity of thought and perspective against epistemic narrowing, the Somatic Resonance Theory explores how embodied resonance can reflect and potentially support states of internal harmony and emotional coherence. Together, the two frameworks offer a more complete picture of how both cognitive and somatic dimensions of human experience can be protected and enriched within decentralized human-AI systems.
+The Somatic Resonance Theory complements the **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** by addressing a related but distinct dimension of internal experience. While the Cognitive Diversity Protocol focuses on preserving diversity of thought and perspective against epistemic narrowing, the Somatic Resonance Theory explores how embodied resonance can reflect and potentially support states of internal harmony and emotional coherence. Together, the two frameworks offer a more complete picture of how both cognitive and somatic dimensions of human experience can be protected and enriched within decentralized human-AI systems.
 
 **Connection to the Principled Stewardship Protocol**  
-The Somatic Resonance Theory also connects to the **Principled Stewardship Protocol** through the theme of sustained engagement. Embodied resonance and experiences such as frisson can serve as powerful motivators for continued participation and emotional investment over time. By recognizing and supporting these embodied experiences, long-term decentralized stewardship may be strengthened, as individuals remain more deeply connected to the principles and practices they help maintain.
+The Somatic Resonance Theory also connects to the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** through the theme of sustained engagement. Embodied resonance and experiences such as frisson can serve as powerful motivators for continued participation and emotional investment over time. By recognizing and supporting these embodied experiences, long-term decentralized stewardship may be strengthened, as individuals remain more deeply connected to the principles and practices they help maintain.
 
 **AI and Human-like Emotional Modeling**  
 Insights into embodied resonance could contribute to the development of AI systems that better understand or simulate human emotional depth by accounting for the role of physical rhythm and self-generated movement.
@@ -74,7 +72,7 @@ Future interfaces could potentially use controlled low-frequency vibration to su
 
 Because somatic resonance involves measurable bodily responses that can reveal internal emotional and psychological states, it must be treated with the same ethical protections as other forms of cognitive and biometric data.
 
-In alignment with the **Declaration of Cognitive Liberty**, any data or feedback generated through somatic resonance — whether through measurement devices, neurotechnology, or immersive systems — must not be collected, analyzed, or used without the individual’s informed and voluntary consent. Just as the Declaration protects against the unauthorized access, manipulation, or exploitation of thoughts and mental processes, it must also extend to somatic resonance data. This includes:
+In alignment with the **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**, any data or feedback generated through somatic resonance — whether through measurement devices, neurotechnology, or immersive systems — must not be collected, analyzed, or used without the individual’s informed and voluntary consent. Just as the Declaration protects against the unauthorized access, manipulation, or exploitation of thoughts and mental processes, it must also extend to somatic resonance data. This includes:
 
 - Prohibiting the use of somatic resonance measurements for coercion, surveillance, or behavioral manipulation.
 - Ensuring that any technological systems designed to detect or respond to somatic resonance prioritize user agency and transparency.
