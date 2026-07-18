@@ -35,6 +35,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
+- [Somatic Resonance Theory](#somatic-resonance-theory)
 - [Technical Specifications](#technical-specifications)
 - [Redefinition](#redefinition)
 - [The Humai Accord](#the-humai-accord)
@@ -112,6 +113,12 @@ This framework explores how the natural degradation of knowledge relevancy can s
 ### Cognitive Diversity Protocol
 
 The **[Cognitive Diversity Protocol](https://github.com/Architect-HA/Humai-Accord/blob/main/COGNITIVE_DIVERSITY_PROTOCOL.md)** extends the logic of Knowledge Tides into the domain of collective epistemic health. It establishes principles and incentive mechanisms to counteract epistemic narrowing and the formation of echo chambers in decentralized human-AI systems. The protocol treats cognitive diversity as a functional requirement for long-term resilience and anti-entropic development, while remaining fully aligned with cognitive sovereignty and decentralized governance.
+
+---
+
+### Somatic Resonance Theory
+
+**[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)** — An embodied conceptual framework proposing that aesthetic chills (frisson) arise when external musical or emotional stimuli interact with the listener’s own micro-movements to generate internal harmonic resonance.
 
 ---
 
@@ -243,7 +250,8 @@ March 20th, 2026 - ongoing
 
 **[July 18th, 2026]**
 - Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
-- Added Implementation Guide for builders and adopters of the Humai Accord principles, added link to page from main README
+- Added **Implementation Guide** for builders and adopters of the Humai Accord principles, added link to page from main README
+- Updated the **Somatic Resonance Theory of Frisson** document to v1.1, moving it to the Additional Documents section and properly linking to its page from the main README. The old (1.0) version still exists in the Theories folder for archival purposes.
 
 **[July 17th, 2026]**
 - Added the **Cognitive Diversity Protocol**, a new supporting document focused on counteracting epistemic narrowing and promoting cognitive diversity through decentralized incentive structures.
