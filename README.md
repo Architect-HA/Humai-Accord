@@ -33,7 +33,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
   - [Preamble](#preamble)
   - [Core Principles](#core-principles)
   - [Vision](#vision)
-  - [Addendum: Structured Transition Protocol](#addendum-structured-transition-protocol)
+  - [Structured Transition Protocol](#structured-transition-protocol)
 - [The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)
 - [How These Documents Work Together](#how-these-documents-work-together)
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
@@ -156,9 +156,9 @@ When fully realized, the Humai Accord guides civilization through the AI Renaiss
 
 ---
 
-## Addendum: Structured Transition Protocol
+## Structured Transition Protocol
 
-The Humai Accord includes a **Structured Transition Protocol** that outlines how its principles can be gradually adopted over time — from individual use to larger-scale implementation.
+The Humai Accord includes an addendum, the **Structured Transition Protocol** that outlines how its principles can be gradually adopted over time — from individual use to larger-scale implementation.
 
 → [Read the full Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)
 
