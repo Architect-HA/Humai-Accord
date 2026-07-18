@@ -3,6 +3,8 @@
 by Bradford James Focht (The Architect/Aspenth)  
 *March 26th, 2026*
 
+> **Note:** This document is now considered outdated/legacy; a link to the newest version can be found on the main README for the Humai Accord repository.
+
 ## Subtitle
 Aesthetic chills arise when external musical stimuli combine with the listener’s own subconscious micro-movements to drive the body across a threshold of internal harmonic resonance, which the psyche then interprets as profound euphoric bliss.
 
