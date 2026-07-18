@@ -9,7 +9,7 @@ by Bradford James Focht (The Architect/Aspenth)
 
 The **Principled Stewardship Protocol** defines how the [Humai Accord](README.md) and [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) are stewarded and evolved. It establishes a decentralized, structured governance model that supports principled development while protecting the framework’s foundational intent and preventing the concentration of authority.
 
-> **Note:** This document is the **Principled Stewardship Protocol**, a conceptual and governance-focused framework. It is distinct from the [Technical Specification for the Principled Stewardship Protocol](TSPSP.md), which provides more detailed technical guidance and implementation considerations for the same protocol.
+> **Note:** This document is the **Principled Stewardship Protocol**, a conceptual and governance-focused framework. It is distinct from the [Technical Specification for the Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md), which provides more detailed technical guidance and implementation considerations for the same protocol.
 
 ## 1. Purpose
 
