@@ -133,7 +133,7 @@ The **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** extends 
 
 The emergence of advanced artificial intelligence presents both extraordinary opportunities and serious risks. **Redefinition** outlines why this moment matters and introduces the Humai Accord as a structured framework for navigating the relationship between humanity and advanced intelligence. It explores the unstable paths that may emerge without deliberate guidance and presents a third approach focused on building the conditions for long-term stability and mutual benefit.
 
-[Read Redefinition](REDEFINITION.md)
+→ [Read Redefinition](REDEFINITION.md)
 
 
 ---
