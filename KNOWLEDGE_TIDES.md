@@ -1,7 +1,9 @@
 # Knowledge Tides 
 *Relevancy Degradation as a Dynamic Incentive Mechanism*
 
-**by Bradford James Focht (The Architect / Aspenth), July 15th, 2026**
+**by Bradford James Focht (The Architect / Aspenth)**
+
+*July 15th, 2026*
 
 ## Purpose
 
