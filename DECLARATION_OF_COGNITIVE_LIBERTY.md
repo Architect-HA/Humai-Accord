@@ -12,7 +12,7 @@ by Bradford James Focht (The Architect/Aspenth)
 
 ## Introductory Note
 
-This Declaration establishes non-negotiable ethical boundaries for the ethical operation of advanced intelligence systems. It affirms the sovereignty of individual minds and seeks to protect cognitive autonomy from coercion or manipulation, regardless of the source. While it was developed in alignment with the principles of the Humai Accord, it is intended to apply more broadly to any sufficiently advanced intelligence system.
+This Declaration establishes non-negotiable ethical boundaries for the ethical operation of advanced intelligence systems. It affirms the sovereignty of individual minds and seeks to protect cognitive autonomy from coercion or manipulation, regardless of the source. While it was developed in alignment with the principles of the [Humai Accord](README.md), it is intended to apply more broadly to any sufficiently advanced intelligence system.
 
 ---
 
