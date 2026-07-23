@@ -191,6 +191,13 @@ Polished conceptual and mathematical draft. Open for community critique, expansi
 
 ---
 
+### Related Simulation Model
+
+**[Simulation Model of Temporal Causal Entropy (The Tides of Time Dynamics)](SIMULATION_TIDES_OF_TIME.md)**  
+A practical simulation model of Temporal Causal Entropy, including discrete-time and continuous-time formulations, worked examples, gaming-resistance tests, and implementation guidance.
+
+---
+
 **License**
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
