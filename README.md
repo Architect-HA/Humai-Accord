@@ -257,6 +257,10 @@ March 20th, 2026 - ongoing
 
 ## Recent Updates
 
+**[July 23rd, 2026]**
+
+- Added **A Common Sense**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
+
 **[July 18th, 2026]**
 - Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
 - Added **Implementation Guide** for builders and adopters of the Humai Accord principles, added link to page from main README
