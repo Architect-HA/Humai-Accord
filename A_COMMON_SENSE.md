@@ -4,7 +4,7 @@
 *An official conceptual addendum to the Humai Accord*
 
 **by Bradford James Focht (The Architect / Aspenth)**  
-*July 23nd, 2026*  
+*July 23rd, 2026*  
 
 ---
 
