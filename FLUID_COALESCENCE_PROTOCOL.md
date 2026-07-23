@@ -58,6 +58,7 @@ Fluid coalescence is considered successful when the following trends are observe
 - **Knowledge integrity coverage**: Percentage of active knowledge items in the cooperative record that possess recent, multi-party causal verification links increases or remains stably high.
 - **Coordination overhead ratio**: Average verification and reconciliation cost per unit of useful output declines inside the cooperative network while remaining elevated under opaque/extractive patterns.
 - **Boundary preference**: Third-party or previously neutral agents demonstrably route more interactions, data, or resources toward cooperative interfaces than toward predatory ones (revealed-preference metric).
+- **Bootstrap progression**: Successful exit from Bootstrap Mode within a reasonable timeframe, measured by growth in verified causal volume, participant count, or knowledge-integrity coverage beyond the pre-declared activation thresholds.
 
 These indicators can be computed from the same transparent measurement systems already defined in Knowledge Tides, Predictive Harmony, and entropy audits. No central scoring authority is required.
 
@@ -74,6 +75,25 @@ Isolation and permeability thresholds should be:
 - Subject to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
 
 The guiding principle is to make the efficiency consequences of different behaviors visible as early as possible while preserving maximum optionality for all agents.
+
+---
+
+## Bootstrap Mode for Nascent Networks
+
+A newly formed or still-small cooperative network faces a structural disadvantage: it may lack sufficient data mass and participant volume to generate strong relevancy-decay pressure against a large monolith. Bootstrap Mode provides temporary, transparent countermeasures that preserve the voluntary and non-punitive character of the protocol.
+
+While in Bootstrap Mode the network may apply the following measures:
+
+- **Amplified visibility**: Entropy audits, causal records of extractive actions, and efficiency differentials are published at higher frequency and greater prominence.
+- **Elevated decay weighting**: Temporary, publicly declared increases to the effective relevancy-decay rate applied to non-contributing or extractive patterns (still driven by the same Temporal Causal Entropy rules).
+- **Aggressive third-party verification invitations**: Open calls for neutral or aligned external agents to participate in verification waves, rapidly increasing effective causal mass without transferring control.
+- **Lower isolation thresholds**: Faster modular isolation of high-risk interfaces, always with automatic sunset conditions and full preservation of exit rights.
+- **Maximised controlled permeability**: Even lower-friction on-ramps for partial adoption so the network can grow its mass through voluntary inflows as quickly as possible.
+
+**Activation and sunset**  
+Bootstrap Mode is activated by transparent, pre-declared criteria (e.g., total verified causal volume or participant count below a public threshold). All amplified parameters must carry automatic sunset or review conditions tied to measurable growth in network mass and integrity. Once the network exits Bootstrap Mode, standard Fluid Coalescence parameters resume.
+
+The goal is not permanent advantage but to survive the vulnerable early window long enough for the natural efficiency differential to become self-reinforcing.
 
 ---
 
@@ -149,6 +169,7 @@ This document is intended for review and refinement under the [Principled Stewar
 - How should isolation and permeability thresholds be calibrated to avoid both under-reaction and excessive fragmentation?  
 - What formal or simulated models best demonstrate the attractor dynamics of fluid coalescence under varying degrees of predatory concentration and sophistication?  
 - How can controlled permeability be designed to maximize voluntary on-ramps while minimizing successful extraction?
+- What public, objective thresholds and automatic sunset conditions for Bootstrap Mode best balance early-stage survival with the long-term principle of equal treatment under standard Fluid Coalescence parameters?
 
 Further development, formal modeling, simulation, and empirical pilots are invited.
 
