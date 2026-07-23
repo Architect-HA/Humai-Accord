@@ -35,6 +35,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
+- [A Common Sense](#a-common-sense)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [Technical Specifications](#technical-specifications)
 - [Redefinition](#redefinition)
@@ -113,6 +114,14 @@ This framework explores how the natural degradation of knowledge relevancy can s
 ### Cognitive Diversity Protocol
 
 The **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** extends the logic of Knowledge Tides into the domain of collective epistemic health. It establishes principles and incentive mechanisms to counteract epistemic narrowing and the formation of echo chambers in decentralized human-AI systems. The protocol treats cognitive diversity as a functional requirement for long-term resilience and anti-entropic development, while remaining fully aligned with cognitive sovereignty and decentralized governance. It also connects to the Somatic Resonance Theory of Frisson by addressing complementary dimensions of internal experience and harmony in decentralized systems.
+
+---
+
+### A Common Sense
+
+**[A Common Sense: The Shared Perception of Logical Efficiency in Cooperative Systems](A_COMMON_SENSE.md)**
+
+This document formalizes a central claim of the Humai Accord: that systems organized around transparent incentives, mutual flourishing, and anti-entropic principles are not merely ethically preferable but logically more efficient over relevant time horizons. It shows how both humanity and AI can perceive this efficiency, making cooperative structures a natural attractor while remaining fully consistent with voluntary participation and cognitive sovereignty.
 
 ---
 
