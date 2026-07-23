@@ -178,6 +178,13 @@ Polished conceptual draft. Open for community critique, expansion, and integrati
 
 ---
 
+### Related Simulation Model
+
+**[Simulation Model of the Fluid Coalescence Protocol](SIMULATION_FLUID_COALESCENCE.md)**  
+A practical, implementable simulation model with state variables, discrete-time update rules, Bootstrap Mode behavior, parameters, and success criteria for testing Fluid Coalescence dynamics.
+
+---
+
 **License**
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
