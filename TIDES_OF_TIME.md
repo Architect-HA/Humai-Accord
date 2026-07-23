@@ -107,6 +107,7 @@ Two knowledge items have identical age since last direct verification.
 Item $k_1$ has been successfully integrated into five later verified results ($D$ high).  
 Item $k_2$ has no downstream dependents ($D$ near zero).  
 $E(k_2)$ rises faster than $E(k_1)$, correctly reflecting lower systemic relevance of $k_2$.
+Note: In both examples $\gamma = 0$. When the environmental term is used, $\Delta_E(k)$ only becomes non-zero after supporting causal events have been permanently recorded and attested in $\mathcal{C}$.
 
 These examples illustrate how time creates baseline pressure while recorded causal structure modulates the rate of entropy increase.
 
@@ -121,6 +122,7 @@ The metric is designed so that common manipulation attempts fail or become prohi
 - **Timestamp manipulation**: The permanent, append-only nature of $\mathcal{C}$ with distributed or multi-party attestation makes unilateral rewriting detectable.
 - **Selective or private claims**: Events that never enter the public causal record have zero effect on $E(k, t)$.
 - **Circular reinforcement**: Cycles can be detected in the causal graph and given reduced or zero weight.
+- **Compromised environmental oracles**: Environmental divergence ($\Delta_E$) can only affect entropy when supported by valid causal events already recorded in $\mathcal{C}$. Unattested or live external sensory claims have zero influence, closing the oracle attack vector.
 
 Because only permanently recorded, attestable causal events affect the calculation, artificial inflation of relevancy without corresponding real-world linkage is ineffective.
 
@@ -180,6 +182,7 @@ This document is intended for review and refinement under the [Principled Stewar
 - What formal proofs or adversarial simulations best demonstrate resistance to known gaming strategies?  
 - How can the metric be extended most cleanly to highly dynamic or continuous knowledge representations?  
 - What empirical pilots would most clearly validate the usefulness of Temporal Causal Entropy as a foundation for Knowledge Tides and efficiency comparisons?
+- What multi-source attestation standards for environmental events best balance robustness against oracle attacks with practical usability across different domains?
 
 Further development, formalization, and testing are invited.
 
