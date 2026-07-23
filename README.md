@@ -36,6 +36,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [The Tides of Time](#the-tides-of-time)
+- [Simulation Models](#simulation-models)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [A Common Sense](#a-common-sense)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
@@ -126,6 +127,16 @@ This framework explores how the natural degradation of knowledge relevancy can s
 **[The Tides of Time: Temporal Causal Entropy of Knowledge](THE_TIDES_OF_TIME.md)**
 
 This document provides a universal, difficult-to-game mathematical metric for knowledge entropy, grounded in the irreversible flow of time and a permanent causal record of definitive events. It supplies a quantitative foundation for Knowledge Tides by making relevancy degradation objective, transparent, and resistant to artificial inflation or manipulation.
+
+---
+
+### Simulation Models
+
+**[→ Simulation Model of the Fluid Coalescence Protocol](SIMULATION_FLUID_COALESCENCE.md)**  
+Implementable simulation model of Fluid Coalescence dynamics, including Bootstrap Mode, voluntary migration, entropy differentials, and re-coalescence.
+
+**[→ Simulation Model of Temporal Causal Entropy](SIMULATION_TEMPORAL_CAUSAL_ENTROPY.md)**  
+Simulation model of The Tides of Time metric, covering discrete and continuous formulations, worked examples, anti-gaming tests, and practical implementation notes.
 
 ---
 
@@ -280,6 +291,8 @@ March 20th, 2026 - ongoing
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
 - Added **Fluidic Coalescence Protocol** which provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith.
 - Added **The Tides of Time - Temporal Causal Entropy of Knowledge** which provides a universal, difficult-to-game mathematical metric for knowledge entropy, expanding upon the work of Knowledge Tides.
+- Added **Simulation Model of the Fluid Coalescence Protocol** — practical state variables, discrete-time update rules, Bootstrap Mode behavior, and success criteria for testing Fluid Coalescence dynamics.
+- Added **Simulation Model of Temporal Causal Entropy (The Tides of Time Dynamics)** — implementable model of the Temporal Causal Entropy metric, including discrete and continuous-time formulations, worked examples, gaming-resistance tests, and implementation guidance.
 
 **[July 18th, 2026]**
 - Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
