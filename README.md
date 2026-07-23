@@ -32,6 +32,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
 - [Structured Transition Protocol](#structured-transition-protocol)
+- [Fluid Coalescence Protocol](#fluid-coalescence-protocol)
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
@@ -72,9 +73,9 @@ It protects cognitive sovereignty, mental privacy, voluntary participation, and 
 
 You can also read plain-language summaries of both documents here:
 
-→ [Read a Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)
+→ **[Read a Summary of the Humai Accord](SUMMARY_HUMAI_ACCORD.md)**
 
-→ [Read a Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
+→ **[Read a Summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)**
 
 
 Together, these documents aim to resolve the **Integration Paradox**: the tendency for rapid technological integration to dilute individual autonomy, while excessive focus on protection can hinder beneficial cooperation.
@@ -89,7 +90,15 @@ The project is freely shared under a Creative Commons Attribution 4.0 license an
 
 The Humai Accord includes an addendum, the **Structured Transition Protocol** that outlines how its principles can be gradually adopted over time — from individual use to larger-scale implementation.
 
-→ [Read the full Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)
+→ [Read the full **Structured Transition Protocol**](STRUCTURED_TRANSITION_PROTOCOL.md)
+
+---
+
+### Fluid Coalescence Protocol
+
+This protocol provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via Knowledge Tides, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery.
+
+→ [Read the **Fluid Coalescence Protocol**](FLUID_COALESCENCE_PROTOCOL.md)
 
 ---
 
@@ -97,7 +106,7 @@ The Humai Accord includes an addendum, the **Structured Transition Protocol** th
 
 The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
 
-→ [Read the Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)
+→ [Read the **Principled Stewardship Protocol**](STEWARDSHIP_PROTOCOL.md)
 
 ---
 
@@ -133,7 +142,7 @@ This document formalizes a central claim of the Humai Accord: that systems organ
 
 ## Technical Specifications
 
-- [Principled Stewardship Protocol – Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md)  
+- **[Principled Stewardship Protocol – Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md)**  
   A more detailed and operationalized version of the Stewardship Protocol, intended as a bridge for implementers and architects.
 
 ---
@@ -142,7 +151,7 @@ This document formalizes a central claim of the Humai Accord: that systems organ
 
 The emergence of advanced artificial intelligence presents both extraordinary opportunities and serious risks. **Redefinition** outlines why this moment matters and introduces the Humai Accord as a structured framework for navigating the relationship between humanity and advanced intelligence. It explores the unstable paths that may emerge without deliberate guidance and presents a third approach focused on building the conditions for long-term stability and mutual benefit.
 
-→ [Read Redefinition](REDEFINITION.md)
+→ **[Read Redefinition](REDEFINITION.md)**
 
 
 ---
@@ -260,6 +269,7 @@ March 20th, 2026 - ongoing
 **[July 23rd, 2026]**
 
 - Added **A Common Sense**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
+- Added **Fluidic Coalescence Protocol** which provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith.
 
 **[July 18th, 2026]**
 - Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
