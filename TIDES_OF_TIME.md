@@ -53,7 +53,7 @@ Define:
 - $t$ = current time  
 - $t_{\text{last}}(k)$ = timestamp of the most recent valid causal link to $k$ in $\mathcal{C}$  
 - $D(k)$ = density of downstream causal dependents (weighted count of later valid events in $\mathcal{C}$ that rely on $k$)  
-- $\Delta_E(k)$ = optional domain-specific measure of environmental or contextual divergence since $t_{\text{last}}(k)$
+- $\Delta_E(k)$ = measure of environmental or contextual divergence since $t_{\text{last}}(k)$
 
 The **Temporal Causal Entropy** of knowledge item $k$ at time $t$ is:
 
@@ -63,7 +63,26 @@ $$
 
 where $\alpha, \beta, \gamma > 0$ are publicly declared positive weighting parameters subject to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
 
+**Critical constraint on environmental divergence**  
+$\Delta_E(k)$ may only take a non-zero value when it is supported by one or more valid causal events already recorded in $\mathcal{C}$.  
+Live external sensor feeds, unilateral environmental claims, or any data that has not yet been permanently recorded and attested have zero effect on the entropy calculation. This closes the oracle problem: environmental context can influence entropy only after it has been subjected to the same permanent-record and attestation standards as every other causal link.
+
 Higher $E(k, t)$ indicates higher entropy (lower current relevancy and greater unnecessary loss if left unaddressed). In the absence of new valid causal links, $E(k, t)$ is monotonically non-decreasing.
+
+### Hardening Rules for Environmental Divergence
+
+To further protect the integrity of $\Delta_E(k)$:
+
+1. **Multi-source requirement**  
+   Environmental events that contribute significant weight to $\Delta_E(k)$ should be supported by multiple independent sources before receiving full weight. Single-source environmental claims may be recorded but carry reduced influence until corroborated.
+
+2. **Accelerated verification trigger**  
+   Large or sudden claimed changes in $\Delta_E(k)$ automatically trigger accelerated verification waves under the same processes used in the Fluid Coalescence Protocol and Knowledge Tides. This ensures that high-impact environmental assertions receive rapid, transparent scrutiny.
+
+3. **Public provenance**  
+   Every non-zero contribution to $\Delta_E(k)$ must publish its provenance (the specific causal events in $\mathcal{C}$ that justify it). This keeps the environmental term fully auditable by any participant.
+
+Domains that cannot reliably produce attested environmental events may simply set $\gamma = 0$, disabling the term entirely while retaining the core time- and density-based guarantees of the metric.
 
 ---
 
