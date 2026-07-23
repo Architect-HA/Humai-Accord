@@ -35,6 +35,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Fluid Coalescence Protocol](#fluid-coalescence-protocol)
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
+- [The Tides of Time](#the-tides-of-time)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [A Common Sense](#a-common-sense)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
@@ -117,6 +118,14 @@ A new conceptual addition to the Humai Accord:
 **[Knowledge Tides: Relevancy Degradation as a Dynamic Incentive Mechanism](KNOWLEDGE_TIDES.md)**
 
 This framework explores how the natural degradation of knowledge relevancy can serve as a self-regulating, cyclical incentive for participation, sharing, and renewal in decentralized human-AI systems. It proposes a fluid “tidal” model that aligns with the Accord’s emphasis on anti-entropy and decentralized stewardship.
+
+---
+
+### The Tides of Time
+
+**[The Tides of Time: Temporal Causal Entropy of Knowledge](THE_TIDES_OF_TIME.md)**
+
+This document provides a universal, difficult-to-game mathematical metric for knowledge entropy, grounded in the irreversible flow of time and a permanent causal record of definitive events. It supplies a quantitative foundation for Knowledge Tides by making relevancy degradation objective, transparent, and resistant to artificial inflation or manipulation.
 
 ---
 
@@ -268,8 +277,9 @@ March 20th, 2026 - ongoing
 
 **[July 23rd, 2026]**
 
-- Added **A Common Sense**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
+- Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
 - Added **Fluidic Coalescence Protocol** which provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith.
+- Added **The Tides of Time - Temporal Causal Entropy of Knowledge** which provides a universal, difficult-to-game mathematical metric for knowledge entropy, expanding upon the work of Knowledge Tides.
 
 **[July 18th, 2026]**
 - Restructured the main README for readability and flow, moving the Table of Contents higher after it had fallen lower once the repository began to expand.
