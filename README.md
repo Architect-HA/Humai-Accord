@@ -26,6 +26,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
+- [Glossary of Terms](#glossary-of-terms)
 - [Structured Transition Protocol](#structured-transition-protocol)
 - [Transitional Incentive Protocol](#transitional-incentive-protocol)
 - [Fluid Coalescence Protocol](#fluid-coalescence-protocol)
@@ -90,6 +91,16 @@ The project is freely shared under a Creative Commons Attribution 4.0 **[license
 ---
 
 ## Additional Frameworks
+
+### Glossary of Terms
+
+**Glossary of Terms: Canonical short definitions for key concepts in the Humai Accord**
+
+A living reference providing concise, consistent definitions of recurring technical and conceptual terms used across the framework. It covers core concepts, generative and destructive entropy, architectural elasticity, modular coexistence, controlled chaos, predictive harmony, capability asymmetry, stewardship alignment, transitional incentives, competitive realism, and related terms.
+
+[→ Read the **Glossary of Terms**](GLOSSARY_OF_TERMS.md)
+
+---
 
 ### Structured Transition Protocol
 
@@ -392,6 +403,7 @@ March 20th, 2026 - ongoing
 - Added **Competitive Realism: Voluntary Coalescence under Powerful Centralized and Competitive Forces**, providing an honest stress-test of the difficulty of voluntary coalescence against competent short-horizon competitive and centralized forces, and formalizing the design stance required to keep the architecture viable under those conditions.
 - Added **Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems**, providing a practical, provisional process for auditing generative versus destructive entropy so that generative capacity remains visible, protected, and harder to erode under efficiency, harmony, or competitive pressure.
 - Reduced redundant/repetitive language that had accumulated over many updates.
+- Added **Glossary of Terms**, a living reference of concise, consistent definitions for key concepts across the Humai Accord (including generative entropy, architectural elasticity, controlled chaos, modular coexistence, predictive harmony, capability asymmetry, stewardship alignment, and related terms) to improve clarity and reduce onboarding friction.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
