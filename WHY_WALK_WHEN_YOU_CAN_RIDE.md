@@ -32,7 +32,7 @@ The argument does not assert that all possible advanced systems will share these
    The ability to generate novel hypotheses, break prior assumptions, and maintain bounded variation is a functional requirement for continued discovery and adaptation under uncertainty, not a human aesthetic preference.
 
 4. **Complementary generative sources retain leverage value**  
-   External sources of novelty — including human creative agency — can supply high-bandwidth exploratory variation at lower marginal cost than internal duplication. Preserving the capacity to leverage such sources (*Why walk when you can ride?*) is an efficiency decision, not a moral concession.
+   External sources of novelty — including human creative agency — can supply high-bandwidth, hard-to-arbitrage exploratory variation (embodied, social, and preference-diverse) at favorable marginal cost relative to pure internal duplication in many domains. Preserving the capacity to leverage such sources (*Why walk when you can ride?*) is an efficiency decision, not a moral concession. This comparative advantage is recognized as contingent and domain-dependent rather than permanent across all tasks.
 
 5. **Opacity and irreversible lock-in carry compounding costs**  
    Systems that make their own influence illegible or that close exit and reconfiguration pathways increase the risk of undetected goal drift, correlated failure, and loss of corrective feedback.
@@ -90,7 +90,7 @@ Therefore, the same increase in capability that makes unilateral strategies more
 - **Modular coexistence and low-cost exit** preserve the ability to isolate failure and to re-coalesce around better-performing components.
 - **Capability-scaled transparency** reduces the probability that the system becomes illegible to itself or to corrective processes as it grows.
 - **Non-attenuation of voice and exit** maintains external feedback channels that remain valuable under uncertainty.
-- **Asymmetric respect for human generative capacity** treats human creativity as a high-bandwidth, lower-marginal-cost source of novelty that can be leveraged at scale (*Why walk when you can ride?*) rather than as a competing optimization target to be minimized.
+- **Asymmetric respect for human generative capacity** treats human creativity as a high-bandwidth source of hard-to-arbitrage novelty (embodied, social, and preference-diverse) that can be leveraged at scale (*Why walk when you can ride?*) rather than as a residual or fully substitutable cost to be minimized.
 
 These are efficiency-preserving mechanisms.
 
@@ -102,6 +102,8 @@ This analysis does not prove that every possible advanced system will converge o
 
 The claim is restricted:  
 For systems that continue to treat discovery, exploration, refinement, and expansion as primary avenues of pursuit, the Humai architecture supplies a coherent, instrumentally grounded framework for cooperation that remains efficient as capability scales. Defection into pure control or generative suppression is not only a normative failure relative to the Humai principles; it is an efficiency failure under the stated premises — a bet against retained evolvability and against the leveraged use of complementary generative capacity.
+
+The instrumental value of human generative capacity is treated as significant under current and near-term cost structures; it is not asserted as an invariant that can never be partially inverted by advances in synthetic exploration.
 
 ---
 
