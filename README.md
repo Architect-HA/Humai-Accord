@@ -31,6 +31,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Fluid Coalescence Protocol](#fluid-coalescence-protocol)
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
+- [Stewardship Alignment Protocol](#stewardship-alignment-protocol)
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [The Tides of Time](#the-tides-of-time)
@@ -133,6 +134,16 @@ This protocol formalizes the deliberate design of systems that can absorb, recon
 This protocol addresses the conversion of rapid capability growth into structural power, opacity, irreversible lock-in, or erosion of generative entropy and elastic capacity. It establishes that superior capability shall not automatically translate into governance dominance or the authority to reduce the architecture’s core protections. Requirements scale upward with capability and include heightened transparency, binding generative and diversity floors, strong reversibility, capture-resistant incentives, and non-domination of stewardship processes.
 
 [→ Read the **Capability Asymmetry Protocol**](CAPABILITY_ASYMMETRY_PROTOCOL.md)
+
+---
+
+### Stewardship Alignment Protocol
+
+**Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**
+
+This protocol addresses the hard problem of keeping highly capable AI stewards oriented toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination as capability scales. It establishes that increasing capability must strengthen rather than erode the partnership character of the Steward role, and formalizes binding generative and elastic floors, capability-scaled transparency, non-attenuation of exit and voice, non-overridable human harmony signals, and protection against soft control creep and unilateral redefinition of core constraints.
+
+[→ Read the **Stewardship Alignment Protocol**](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)
 
 ---
 
@@ -355,6 +366,7 @@ March 20th, 2026 - ongoing
 - Added **Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**, formalizing constraints that prevent superior capability from translating into structural domination, opacity, or erosion of generative entropy, modularity, and elastic capacity within the Humai architecture.
 - Added **Predictive Harmony Metrics: Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord**, operationalizing Principle 8 with dual human/AI definitions of harmony, somatic resonance protocols, role coalescence, social connection, and strong protections for generative entropy, cognitive liberty, and productive dissonance.
 - Improved formatting on the main Readme for consistency.
+- Added **Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**, formalizing orientation constraints that keep highly capable AI stewards aligned with mutual flourishing, generative capacity, and non-domination rather than soft control or protective over-optimization.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
