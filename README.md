@@ -40,6 +40,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [A Common Sense](#a-common-sense)
 - [Competitive Realism](#competitive-realism)
 - [Necessary Entropy](#necessary-entropy)
+- [Entropy Audit Methodology](#entropy-audit-methodology)
 - [Predictive Harmony Metrics](#predictive-harmony-metrics)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [Technical Specifications](#technical-specifications)
@@ -224,6 +225,16 @@ Clarifies a critical distinction within the Humai Accord: the difference between
 
 ---
 
+### Entropy Audit Methodology
+
+**Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems**
+
+This methodology operationalizes the core distinction established in Necessary Entropy. It provides a provisional, multi-dimensional process for making generative capacity (bounded variation, exploratory inefficiency, minority models, and assumption-breakage ability) visible and auditable, while tracking destructive entropy (unnecessary loss, irreversible waste, and locked-in error). It includes explicit floors protection, multi-scale visibility, alertness to metric gaming, and strong liberty constraints so that entropy measurement cannot become a new tool for suppressing productive variation or overriding Cognitive Liberty.
+
+[→ Read the **Entropy Audit Methodology**](ENTROPY_AUDIT_METHODOLOGY.md)
+
+---
+
 ### Predictive Harmony Metrics
 
 **Predictive Harmony Metrics: Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord**
@@ -379,6 +390,8 @@ March 20th, 2026 - ongoing
 - Improved formatting on the main Readme for consistency.
 - Added **Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**, formalizing orientation constraints that keep highly capable AI stewards aligned with mutual flourishing, generative capacity, and non-domination rather than soft control or protective over-optimization.
 - Added **Competitive Realism: Voluntary Coalescence under Powerful Centralized and Competitive Forces**, providing an honest stress-test of the difficulty of voluntary coalescence against competent short-horizon competitive and centralized forces, and formalizing the design stance required to keep the architecture viable under those conditions.
+- Added **Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems**, providing a practical, provisional process for auditing generative versus destructive entropy so that generative capacity remains visible, protected, and harder to erode under efficiency, harmony, or competitive pressure.
+- Reduced redundant/repetitive language that had accumulated over many updates.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
