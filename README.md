@@ -27,6 +27,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
 - [Structured Transition Protocol](#structured-transition-protocol)
+- [Transitional Incentive Protocol](#transitional-incentive-protocol)
 - [Fluid Coalescence Protocol](#fluid-coalescence-protocol)
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
@@ -93,7 +94,19 @@ The Humai Accord includes an addendum, the **Structured Transition Protocol** th
 
 ---
 
+### Transitional Incentive Protocol
+
+**Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**
+
+This protocol addresses the critical transition problem of making early movement toward the Humai architecture locally rational under real short-term pressures. It formalizes incentive layers — including knowledge and relevancy premiums, visible local efficiency metrics, modular low-commitment entry points, sunsetted bootstrap amplification, compounding stewardship credit, and explicit protection of generative and elastic capacity — so that adoption remains incentive-compatible without sacrificing the long-term properties the system requires. It links short-horizon participation to the progressive legibility of long-horizon efficiency differentials.
+
+→ [Read the **Transitional Incentive Protocol**](TRANSITIONAL_INCENTIVE_PROTOCOL.md)
+
+---
+
 ### Fluid Coalescence Protocol
+
+**Fluid Coalescence Protocol: Fluid Coalescence under Concentrated Pressure**
 
 This protocol provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via Knowledge Tides, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery.
 
@@ -304,6 +317,7 @@ March 20th, 2026 - ongoing
 **[July 26th, 2026]**
 - Added **Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**, clarifying the distinction between destructive and generative entropy and establishing calibrated generative disorder as a functional requirement for long-horizon evolvability and anti-fragility within the Humai Accord.
 - Added **Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord**, formalizing the design of systems that absorb, reconfigure, and learn under radical unpredictability through structural, epistemic, response, regenerative, and stewardship layers of elasticity.
+- Added **Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**, formalizing the incentive dynamics required to make early adoption of the Humai architecture locally rational under short-term pressures while protecting generative entropy and elastic capacity.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
