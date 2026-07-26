@@ -66,7 +66,7 @@ A system that eliminates generative entropy in pursuit of harmony becomes, over 
 
 Several existing elements already operationalize this distinction:
 
-- **Principle 7 — Controlled Chaos and Fluid Circulation** explicitly rejects rigid stasis. Harmony is defined as dynamic, self-regulating flow that deliberately encourages bounded variation, creative perturbation, and adaptive experimentation.
+- **[Principle 7 — Controlled Chaos and Fluid Circulation](README.md)** explicitly rejects rigid stasis. Harmony is defined as dynamic, self-regulating flow that deliberately encourages bounded variation, creative perturbation, and adaptive experimentation.
 
 - **[Knowledge Tides](KNOWLEDGE_TIDES.md)** reframes the natural degradation of knowledge relevancy not as pure loss to be prevented, but as a constructive, self-regulating pressure that drives renewal, integration, and participation. Degradation itself becomes an incentive substrate.
 
