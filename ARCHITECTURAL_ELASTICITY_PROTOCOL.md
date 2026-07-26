@@ -31,7 +31,7 @@ This Protocol is continuous with, and dependent upon, several existing component
 - **[Principle 7 (Controlled Chaos and Fluid Circulation)](README.md)** rejects rigid stasis in favor of dynamic, self-regulating flow.
 - **[Knowledge Tides](KNOWLEDGE_TIDES.md) and provisional verification** prevent knowledge from hardening into brittle finality.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** and the **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** maintain a wider range of interpretive frames and protect idiosyncrasy, increasing the probability that useful response patterns exist somewhere in the network when novelty arrives.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** supplies the governance layer through which elasticity constraints are maintained over time.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** supplies the governance layer through which elasticity parameters are maintained over time.
 
 Architectural Elasticity does not replace these elements. It specifies how they must be layered and prioritized when the system faces conditions that exceed its models.
 
@@ -70,7 +70,20 @@ Structural elasticity is the substrate on which all other layers depend. Without
 **Illustration — Modular Isolation under Novel Shock**  
 A sudden, unmodeled disruption invalidates a core coordination model used across several domains. Because the architecture enforces loose coupling and predefined blast-radius limits, the affected modules can be rapidly isolated. Unaffected domains continue operating. Resources and attention are reallocated to the novel situation without requiring the entire system to halt or reach global consensus first. The shock remains localized and information-rich rather than cascading.
 
-#### 2. Epistemic Elasticity
+#### 2. Structural Unattractiveness of Attack
+
+Elastic design reduces not only the damage from shocks but also the payoff of deliberate suppression or conquest. Systems that present high modularity, low centralized extractable value, rapid re-coalescence potential, and distributed presence raise the ongoing cost and lower the expected return of successful attack.
+
+Key contributing properties include:
+
+- Minimal concentration of irreplaceable state or authority in single points of control
+- Low-cost modular exit and isolation that limit the value of capturing any given cluster
+- Rapid, seedable re-coalescence pathways that reduce the durability of suppression
+- Visible efficiency and recovery differentials that make cooperative participation comparatively more attractive than extraction where measurable
+
+These properties do not prevent attack by a sufficiently motivated and capable actor. They make sustained conquest less rewarding and more expensive relative to alternative strategies, complementing regenerative and preservation measures.
+
+#### 3. Epistemic Elasticity
 
 The system’s relationship to its own knowledge and models.
 
@@ -85,7 +98,7 @@ Epistemic elasticity prevents the system from being trapped inside an elegant bu
 **Illustration — Assumption Breakage**  
 A highly refined Predictive Harmony model has produced stable, high-confidence forecasts for an extended period. An unprecedented event occurs that lies outside its training distribution and causal assumptions. Because generative entropy budgets and minority models were deliberately retained, alternative interpretive frames already exist within the network. The system detects the model’s failure quickly, invalidates the affected predictions, and begins re-coalescing around hypotheses that better match the new conditions — rather than forcing the novel data into the old model or suppressing the anomaly.
 
-#### 3. Response Elasticity
+#### 4. Response Elasticity
 
 The capacity to act effectively while the shock is still unfolding.
 
@@ -96,7 +109,7 @@ The capacity to act effectively while the shock is still unfolding.
 
 Response elasticity determines whether the system can still move while its models are breaking.
 
-#### 4. Regenerative Elasticity
+#### 5. Regenerative Elasticity
 
 The capacity to recover and improve after the shock.
 
@@ -107,7 +120,7 @@ The capacity to recover and improve after the shock.
 
 Regenerative elasticity is what turns survival into continued refinement.
 
-#### 5. Preservation & Recovery Seeding
+#### 6. Preservation & Recovery Seeding
 
 Regenerative capacity is incomplete if it assumes continuous operational presence. Under severe suppression, prolonged isolation, or temporary overrun by dominant forces, the architecture must still retain the ability to re-emerge.
 
@@ -123,22 +136,22 @@ Key elements include:
 
 This layer does not guarantee recovery against every possible suppression scenario. It raises the probability that the architecture can reconstitute itself from distributed seeds rather than requiring continuous centralized presence. In combination with structural modularity, protected generative floors, and low-cost exit, it completes the regenerative posture of the system under long-horizon adversarial or catastrophic conditions.
 
-#### 6. Stewardship & Cultural Elasticity
+#### 7. Stewardship & Cultural Elasticity
 
 The human and AI norms that maintain the other layers under pressure.
 
 - Stewards (human and artificial) are explicitly tasked with protecting generative capacity, modularity, and assumption-breaking ability, not only efficiency and harmony.  
 - Cultural and incentive norms reward successful local adaptation and rapid model invalidation, not only smooth coordination.  
 - The Eternal Benevolent Steward role includes the duty to resist protective over-optimization that would reduce elasticity. As AI capability grows, the temptation to smooth variance and minimize apparent risk in the name of care increases; preserving elastic capacity remains non-negotiable even under widening capability differentials.  
-- Governance processes themselves remain subject to the same elasticity constraints they enforce.
+- Governance processes themselves remain subject to the same elasticity parameters they enforce.
 
 Without this layer, structural and epistemic provisions erode under ordinary optimization pressure long before a Black Swan arrives.
 
 ---
 
-### Operational Design Constraints
+### Operational Design Parameters
 
-To implement Architectural Elasticity, Humai-aligned systems shall observe the following constraints:
+To implement Architectural Elasticity, Humai-aligned systems shall observe the following parameters:
 
 1. No critical function may depend on a single non-substitutable module or model.  
 2. Major integrations must remain reversible or versioned within defined time horizons.  
@@ -147,7 +160,7 @@ To implement Architectural Elasticity, Humai-aligned systems shall observe the f
 5. Post-shock recovery plans must include explicit provisions for model invalidation and selective re-coalescence rather than simple restoration.  
 6. Stewardship evaluation includes assessment of whether elasticity capacity has been preserved or eroded over time.
 
-These constraints are design requirements, not aspirations. They are intended to be implemented through technical architecture, incentive design, and stewardship practice.
+These parameters are design requirements, not aspirations. They are intended to be implemented through technical architecture, incentive design, and stewardship practice.
 
 ---
 
