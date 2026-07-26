@@ -3,12 +3,7 @@
 **Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing**
 
 *Keywords: 
-Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, 
-mental privacy, human-AI cooperation, symbiotic AI, AI ethics, 
-anti-entropic systems, decentralized governance, open stewardship, 
-long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, 
-civilizational OS, knowledge tides, dynamic incentives, cognitive diversity, 
-decentralized incentives, cyclical incentives*
+Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives*
 
 
 By Bradford James Focht (The Architect / Aspenth)
@@ -33,6 +28,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Core Documents](#core-documents)
 - [Structured Transition Protocol](#structured-transition-protocol)
 - [Fluid Coalescence Protocol](#fluid-coalescence-protocol)
+- [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [The Tides of Time](#the-tides-of-time)
@@ -102,6 +98,16 @@ The Humai Accord includes an addendum, the **Structured Transition Protocol** th
 This protocol provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via Knowledge Tides, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery.
 
 → [Read the **Fluid Coalescence Protocol**](FLUID_COALESCENCE_PROTOCOL.md)
+
+---
+
+### Architectural Elasticity Protocol
+
+**Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord**
+
+This protocol formalizes the deliberate design of systems that can absorb, reconfigure, and learn under radical unpredictability. It addresses the structural limits of preparation for true Black Swan events by shifting focus from prediction and prevention to architectural elasticity — modularity with loose coupling, epistemic provisionality, rapid response capacity, regenerative re-coalescence, and stewardship norms that protect generative capacity even under extreme stress. Building directly on the Fluid Coalescence Protocol and Necessary Entropy, it provides concrete design constraints and indicators for maintaining high adaptive capacity.
+
+→ [Read the **Architectural Elasticity Protocol**](/Architect-HA/Humai-Accord/blob/main/ARCHITECTURAL_ELASTICITY_PROTOCOL.md)
 
 ---
 
@@ -297,6 +303,7 @@ March 20th, 2026 - ongoing
 
 **[July 26th, 2026]**
 - Added **Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**, clarifying the distinction between destructive and generative entropy and establishing calibrated generative disorder as a functional requirement for long-horizon evolvability and anti-fragility within the Humai Accord.
+- Added **Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord**, formalizing the design of systems that absorb, reconfigure, and learn under radical unpredictability through structural, epistemic, response, regenerative, and stewardship layers of elasticity.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
