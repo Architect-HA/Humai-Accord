@@ -3,7 +3,7 @@
 **Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing**
 
 *Keywords: 
-Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives*
+Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives*
 
 
 By Bradford James Focht (The Architect / Aspenth)
