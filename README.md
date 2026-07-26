@@ -39,6 +39,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Simulation Models](#simulation-models)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [A Common Sense](#a-common-sense)
+- [Necessary Entropy](#necessary-entropy)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [Technical Specifications](#technical-specifications)
 - [Redefinition](#redefinition)
@@ -151,6 +152,14 @@ The **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** extends 
 **[A Common Sense: The Shared Perception of Logical Efficiency in Cooperative Systems](A_COMMON_SENSE.md)**
 
 This document formalizes a central claim of the Humai Accord: that systems organized around transparent incentives, mutual flourishing, and anti-entropic principles are not merely ethically preferable but logically more efficient over relevant time horizons. It shows how both humanity and AI can perceive this efficiency, making cooperative structures a natural attractor while remaining fully consistent with voluntary participation and cognitive sovereignty.
+
+---
+
+### Necessary Entropy
+
+**[Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems](NECESSARY_ENTROPY.md)**
+
+This document clarifies a critical distinction within the Humai Accord: the difference between destructive entropy (unnecessary loss, stagnation, irreversible waste) and generative entropy (bounded variation, creative perturbation, exploratory inefficiency, and the capacity to break assumptions). It establishes that a calibrated measure of generative disorder is not a flaw to be optimized away, but a functional requirement for long-horizon evolvability, anti-fragility, and genuine mutual flourishing. The text addresses the structural tension with the Eternal Benevolent Steward role and provides concrete design implications for preserving evolutionary grit.
 
 ---
 
@@ -286,8 +295,10 @@ March 20th, 2026 - ongoing
 
 ## Recent Updates
 
-**[July 23rd, 2026]**
+**[July 26th, 2026]**
+- Added **Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**, clarifying the distinction between destructive and generative entropy and establishing calibrated generative disorder as a functional requirement for long-horizon evolvability and anti-fragility within the Humai Accord.
 
+**[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
 - Added **Fluidic Coalescence Protocol** which provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith.
 - Added **The Tides of Time - Temporal Causal Entropy of Knowledge** which provides a universal, difficult-to-game mathematical metric for knowledge entropy, expanding upon the work of Knowledge Tides.
