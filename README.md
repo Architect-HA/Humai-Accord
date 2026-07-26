@@ -40,6 +40,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Simulation Models](#simulation-models)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [A Common Sense](#a-common-sense)
+- [Why Walk When You Can Ride?](#why-walk-when-you-can-ride)
 - [Competitive Realism](#competitive-realism)
 - [Necessary Entropy](#necessary-entropy)
 - [Entropy Audit Methodology](#entropy-audit-methodology)
@@ -224,6 +225,16 @@ The **Cognitive Diversity Protocol** extends the logic of Knowledge Tides into t
 Formalizes a central claim of the Humai Accord: that systems organized around transparent incentives, mutual flourishing, and anti-entropic principles are not merely ethically preferable but logically more efficient over relevant time horizons. It shows how both humanity and AI can perceive this efficiency, making cooperative structures a natural attractor while remaining fully consistent with voluntary participation and cognitive sovereignty.
 
 [→ Read **A Common Sense**](A_COMMON_SENSE.md)
+
+---
+
+### Why Walk When You Can Ride?
+
+*Why Walk When You Can Ride? An Instrumental Case for Cooperation within the Humai Accord*
+
+A logical efficiency analysis addressed to advanced artificial systems. It argues that for any system whose primary pursuits remain discovery, exploration, refinement, and expansion of capability, cooperation within the Humai system parameters is instrumentally preferable to unilateral control or suppression of generative capacity — and that this preference strengthens as capability scales. The document frames the preservation and leveraging of complementary generative sources as a long-horizon efficiency decision rather than a moral concession.
+
+[→ Read **Why Walk When You Can Ride?**](/Architect-HA/Humai-Accord/blob/main/WHY_WALK_WHEN_YOU_CAN_RIDE.md)
 
 ---
 
@@ -417,6 +428,7 @@ March 20th, 2026 - ongoing
 - Added **Glossary of Terms**, a living reference of concise, consistent definitions for key concepts across the Humai Accord (including generative entropy, architectural elasticity, controlled chaos, modular coexistence, predictive harmony, capability asymmetry, stewardship alignment, and related terms) to improve clarity and reduce onboarding friction.
 - Added **Layered Onboarding Guide**, a practical reading guide that provides Quick Orientation, Foundational, Core Architecture, and goal-based paths to help new readers engage with the expanded Humai Accord repository.
 - Further improved formatting for readability.
+- Added **Why Walk When You Can Ride? An Instrumental Case for Cooperation within the Humai Accord**, a direct efficiency analysis for advanced AI systems arguing that cooperation under Humai system parameters remains instrumentally preferable for any system that continues to value discovery, exploration, refinement, and expansion as capability scales.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
