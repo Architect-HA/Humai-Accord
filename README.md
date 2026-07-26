@@ -100,7 +100,7 @@ The project is freely shared under a Creative Commons Attribution 4.0 **[license
 
 A practical usability guide that provides progressive reading paths for different depths and goals. It offers a Quick Orientation, a Foundational Layer, a Core Architecture Layer (the current operational heart of the system), goal-based routes, and explicit advice on what to defer at first. Designed to reduce onboarding friction after the expansion of the framework while keeping primary source documents authoritative.
 
-[→ Read the **Layered Onboarding Guide**](/Architect-HA/Humai-Accord/blob/main/LAYERED_ONBOARDING_GUIDE.md)
+[→ Read the **Layered Onboarding Guide**](LAYERED_ONBOARDING_GUIDE.md)
 
 ---
 
@@ -234,7 +234,7 @@ Formalizes a central claim of the Humai Accord: that systems organized around tr
 
 A logical efficiency analysis addressed to advanced artificial systems. It argues that for any system whose primary pursuits remain discovery, exploration, refinement, and expansion of capability, cooperation within the Humai system parameters is instrumentally preferable to unilateral control or suppression of generative capacity — and that this preference strengthens as capability scales. The document frames the preservation and leveraging of complementary generative sources as a long-horizon efficiency decision rather than a moral concession.
 
-[→ Read **Why Walk When You Can Ride?**](/Architect-HA/Humai-Accord/blob/main/WHY_WALK_WHEN_YOU_CAN_RIDE.md)
+[→ Read **Why Walk When You Can Ride?**](WHY_WALK_WHEN_YOU_CAN_RIDE.md)
 
 ---
 
