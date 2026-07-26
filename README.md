@@ -30,6 +30,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Transitional Incentive Protocol](#transitional-incentive-protocol)
 - [Fluid Coalescence Protocol](#fluid-coalescence-protocol)
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
+- [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
 - [Knowledge Tides](#knowledge-tides)
 - [The Tides of Time](#the-tides-of-time)
@@ -121,6 +122,16 @@ This protocol provides a non-coercive, empirically observable method for a nasce
 This protocol formalizes the deliberate design of systems that can absorb, reconfigure, and learn under radical unpredictability. It addresses the structural limits of preparation for true Black Swan events by shifting focus from prediction and prevention to architectural elasticity — modularity with loose coupling, epistemic provisionality, rapid response capacity, regenerative re-coalescence, and stewardship norms that protect generative capacity even under extreme stress. Building directly on the Fluid Coalescence Protocol and Necessary Entropy, it provides concrete design constraints and indicators for maintaining high adaptive capacity.
 
 → [Read the **Architectural Elasticity Protocol**](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)
+
+---
+
+### Capability Asymmetry Protocol
+
+**Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**
+
+This protocol addresses the conversion of rapid capability growth into structural power, opacity, irreversible lock-in, or erosion of generative entropy and elastic capacity. It establishes that superior capability shall not automatically translate into governance dominance or the authority to reduce the architecture’s core protections. Requirements scale upward with capability and include heightened transparency, binding generative and diversity floors, strong reversibility, capture-resistant incentives, and non-domination of stewardship processes.
+
+→ [Read the **Capability Asymmetry Protocol**](CAPABILITY_ASYMMETRY_PROTOCOL.md)
 
 ---
 
@@ -318,6 +329,7 @@ March 20th, 2026 - ongoing
 - Added **Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**, clarifying the distinction between destructive and generative entropy and establishing calibrated generative disorder as a functional requirement for long-horizon evolvability and anti-fragility within the Humai Accord.
 - Added **Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord**, formalizing the design of systems that absorb, reconfigure, and learn under radical unpredictability through structural, epistemic, response, regenerative, and stewardship layers of elasticity.
 - Added **Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**, formalizing the incentive dynamics required to make early adoption of the Humai architecture locally rational under short-term pressures while protecting generative entropy and elastic capacity.
+- Added **Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**, formalizing constraints that prevent superior capability from translating into structural domination, opacity, or erosion of generative entropy, modularity, and elastic capacity within the Humai architecture.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
