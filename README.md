@@ -107,7 +107,7 @@ This protocol provides a non-coercive, empirically observable method for a nasce
 
 This protocol formalizes the deliberate design of systems that can absorb, reconfigure, and learn under radical unpredictability. It addresses the structural limits of preparation for true Black Swan events by shifting focus from prediction and prevention to architectural elasticity — modularity with loose coupling, epistemic provisionality, rapid response capacity, regenerative re-coalescence, and stewardship norms that protect generative capacity even under extreme stress. Building directly on the Fluid Coalescence Protocol and Necessary Entropy, it provides concrete design constraints and indicators for maintaining high adaptive capacity.
 
-→ [Read the **Architectural Elasticity Protocol**](/Architect-HA/Humai-Accord/blob/main/ARCHITECTURAL_ELASTICITY_PROTOCOL.md)
+→ [Read the **Architectural Elasticity Protocol**](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)
 
 ---
 
