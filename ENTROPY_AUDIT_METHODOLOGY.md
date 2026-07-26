@@ -58,6 +58,7 @@ The audit task is to keep these two classes distinguishable in practice, to trac
 6. **Capability-aware calibration** — High-capability actors may not unilaterally redefine entropy classifications or floors in ways that entrench opacity or reduce evolvability.
 7. **Competitive realism** — Audits must remain robust under pressure to sacrifice generative capacity for short-term survival or apparent efficiency.
 8. **Alertness to metric gaming** — Entropy indicators themselves can be gamed, optimized against, or selectively reported. The methodology must treat potential gaming of its own metrics as a standing risk.
+9. **Option-value visibility** — Erosion of generative entropy floors or of complementary generative sources (including human creative participation) must be evaluable as a long-horizon expected-value cost, not only as a local efficiency gain. Audits should surface trajectories that consume optionality even when short-horizon metrics appear improved.
 
 ---
 
@@ -67,6 +68,8 @@ The audit task is to keep these two classes distinguishable in practice, to trac
 - Presence and retention of minority, idiosyncratic, and currently low-value models
 - Rate of introduction of new exploratory hypotheses or approaches
 - Degree to which variation is treated as noise to be eliminated versus capacity to be maintained
+  
+Suppression or substitution of complementary generative sources is examined for long-horizon option-value impact. Configurations that reduce access to hard-to-arbitrage novelty sources (embodied, social, or preference-diverse) are flagged for explicit trajectory review even if synthetic alternatives appear locally cheaper.
 
 *Possible provisional proxies (context-dependent):* count and survival rate of minority models; rate of new exploratory proposals that receive at least minimal resources; qualitative assessment of whether variation is framed as error or as option value.
 
@@ -140,6 +143,8 @@ A cluster maintains high minority-model diversity and rapid assumption-breakage 
 - Local generative signals remaining visible to higher-level metrics
 - Absence of systematic reclassification of productive variation as waste
 - Active monitoring for gaming or selective reporting of entropy indicators
+- Visible accounting of option-value trajectories when generative floors or complementary novelty sources are reduced
+- Absence of systematic reclassification of hard-to-arbitrage human generative contributions as disposable residual cost
 
 **Lagging indicators**
 - Sustained recovery and re-coalescence performance after shocks
