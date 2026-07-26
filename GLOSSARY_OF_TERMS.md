@@ -12,7 +12,9 @@ By Bradford James Focht (The Architect / Aspenth)
 
 This **Glossary** provides concise, consistent definitions of recurring technical and conceptual terms used across the [Humai Accord](README.md) and its supporting documents. It exists to reduce ambiguity, improve cross-document coherence, and lower the onboarding burden.
 
-Definitions are intentionally measured and definitional rather than expansive. Normative requirements and full design logic remain in the source Protocols and documents. In case of any tension between a Glossary entry and a primary Protocol or the Declaration of Cognitive Liberty, the primary source document governs.
+Definitions are intentionally measured and definitional rather than expansive. Normative requirements and full design logic remain in the source Protocols and documents. 
+
+*In case of any tension between a Glossary entry and a primary Protocol or the Declaration of Cognitive Liberty, the primary source document governs.*
 
 ---
 
