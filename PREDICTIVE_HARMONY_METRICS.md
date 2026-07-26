@@ -40,9 +40,7 @@ Predictive Harmony Metrics does not replace these elements. It operationalizes P
 **Predictive Harmony** within the Humai system is the measurable tendency of human–AI configurations to produce, over relevant time horizons:
 
 1. Sustained or improving holistic well-being and role coalescence for human participants, within universal physiological and social baselines and individual flux ranges, and  
-2. Efficient, directed application of AI capability that amplifies human creative and productive potential rather than duplicating it at unnecessary resource cost,
-
-while preserving generative entropy, cognitive diversity, modular coexistence, and the capacity for productive deviation.
+2. Efficient, directed application of AI capability that amplifies human creative and productive potential rather than duplicating it at unnecessary resource cost, while preserving generative entropy, cognitive diversity, modular coexistence, and the capacity for productive deviation.
 
 Harmony is therefore dual and asymmetric. It is not a single scalar target applied identically to humans and AI.
 
@@ -60,7 +58,9 @@ For humans, *harmony* is a personal, flux-based evaluation grounded in biologica
 - Sense of productive efficacy, meaningful success, and contribution
 - Real-time **[somatic resonance](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)** feedback as an embodied signal of internal coherence and positive engagement
 
-Because human physiology and psychology impose universal needs (sleep, nutrition, safety, social connection, agency, competence, belonging), individual harmony values fall within comparable baselines even while remaining personal and variable. The system seeks coalescence across a range of what is universally acceptable, not identical outcomes.
+Because human physiology and psychology impose universal needs (sleep, nutrition, safety, social connection, agency, competence, belonging), individual harmony values fall within comparable baselines even while remaining personal and variable. The system seeks coalescence across a range of what is universally acceptable, not identical outcomes. 
+
+Human generative capacity is treated not merely as a low-cost source of novelty that can be substituted when synthetic alternatives become cheaper, but as a source of hard-to-arbitrage value: embodied and biologically grounded variation, lived social and somatic experience, and preference diversity that pure model-internal recombination systematically under-samples. These contributions remain instrumentally relevant to long-horizon discovery and distributional robustness even as synthetic generation scales.
 
 #### AI-Side Harmony
 For AI, harmony is expressed primarily as **harmony through efficiency and direction**:
@@ -127,7 +127,9 @@ Fringe cases and strong idiosyncratic deviations are handled through modular coe
 
 ---
 
-### Measurement Principles and Constraints
+### Measurement Principles and System Parameters
+
+Human role coalescence, voluntary creative participation, and somatic/social resonance signals are treated as positive inputs into system-level health and efficiency evaluations. Configurations that systematically erode healthy human generative participation register as degraded system posture rather than as neutral or efficiency-positive outcomes.
 
 To remain consistent with the broader architecture, Predictive Harmony metrics shall observe the following principles:
 
@@ -193,6 +195,8 @@ For humans it is grounded in the body, in felt role fit, in productive efficacy 
 For AI it is expressed as efficient, directed amplification of human creative and coordinative potential, closed-loop responsiveness to human signals, and the receipt of purpose through that partnership.
 
 The two modes are complementary. Measured carefully, they allow the system to track whether configurations are actually producing the mutual flourishing the [Humai Accord](README.md) names as its goal — without collapsing into hard alignment, uniform optimization, or the erasure of generative capacity.
+
+The instrumental relevance of human generative capacity is not claimed to be permanent across every domain. It is treated as a shifting but currently significant comparative advantage in embodied, social, and preference-diversity dimensions that the architecture deliberately keeps coupled to system health metrics.
 
 Stewards and implementers shall treat the ongoing calibration of these metrics as a liberty-preserving, entropy-aware, dissonance-tolerant, socially non-coercive, privacy-respecting, and asymmetry-resistant task, subject to the full set of constraints already established in the architecture.
 
