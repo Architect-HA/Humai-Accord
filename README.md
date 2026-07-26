@@ -26,6 +26,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 
 - [Project Overview](#project-overview)
 - [Core Documents](#core-documents)
+- [Layered Onboarding Guide](#layered-onboarding-guide)
 - [Glossary of Terms](#glossary-of-terms)
 - [Structured Transition Protocol](#structured-transition-protocol)
 - [Transitional Incentive Protocol](#transitional-incentive-protocol)
@@ -92,9 +93,19 @@ The project is freely shared under a Creative Commons Attribution 4.0 **[license
 
 ## Additional Frameworks
 
+### Layered Onboarding Guide
+
+*Layered Onboarding Guide: How to approach the documents across the Humai Accord repository*
+
+A practical usability guide that provides progressive reading paths for different depths and goals. It offers a Quick Orientation, a Foundational Layer, a Core Architecture Layer (the current operational heart of the system), goal-based routes, and explicit advice on what to defer at first. Designed to reduce onboarding friction after the expansion of the framework while keeping primary source documents authoritative.
+
+[→ Read the **Layered Onboarding Guide**](/Architect-HA/Humai-Accord/blob/main/LAYERED_ONBOARDING_GUIDE.md)
+
+---
+
 ### Glossary of Terms
 
-**Glossary of Terms: Canonical short definitions for key concepts in the Humai Accord**
+*Glossary of Terms: Canonical short definitions for key concepts in the Humai Accord*
 
 A living reference providing concise, consistent definitions of recurring technical and conceptual terms used across the framework. It covers core concepts, generative and destructive entropy, architectural elasticity, modular coexistence, controlled chaos, predictive harmony, capability asymmetry, stewardship alignment, transitional incentives, competitive realism, and related terms.
 
@@ -112,7 +123,7 @@ Provides a phased, non-coercive roadmap for gradual adoption of the Humai Accord
 
 ### Transitional Incentive Protocol
 
-**Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**
+*Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency*
 
 Addresses the critical transition problem of making early movement toward the Humai architecture locally rational under real short-term pressures. It formalizes incentive layers — including knowledge and relevancy premiums, visible local efficiency metrics, modular low-commitment entry points, sunsetted bootstrap amplification, compounding stewardship credit, and explicit protection of generative and elastic capacity — so that adoption remains incentive-compatible without sacrificing the long-term properties the system requires. It links short-horizon participation to the progressive legibility of long-horizon efficiency differentials.
 
@@ -122,7 +133,7 @@ Addresses the critical transition problem of making early movement toward the Hu
 
 ### Fluid Coalescence Protocol
 
-**Fluid Coalescence Protocol: Fluid Coalescence under Concentrated Pressure**
+*Fluid Coalescence Protocol: Fluid Coalescence under Concentrated Pressure*
 
 Provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via Knowledge Tides, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery.
 
@@ -132,7 +143,7 @@ Provides a non-coercive, empirically observable method for a nascent cooperative
 
 ### Architectural Elasticity Protocol
 
-**Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord**
+*Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord*
 
 Formalizes the deliberate design of systems that can absorb, reconfigure, and learn under radical unpredictability. It addresses the structural limits of preparation for true Black Swan events by shifting focus from prediction and prevention to architectural elasticity — modularity with loose coupling, epistemic provisionality, rapid response capacity, regenerative re-coalescence, and stewardship norms that protect generative capacity even under extreme stress. Building directly on the Fluid Coalescence Protocol and Necessary Entropy, it provides concrete design constraints and indicators for maintaining high adaptive capacity.
 
@@ -142,7 +153,7 @@ Formalizes the deliberate design of systems that can absorb, reconfigure, and le
 
 ### Capability Asymmetry Protocol
 
-**Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**
+*Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth*
 
 Addresses the conversion of rapid capability growth into structural power, opacity, irreversible lock-in, or erosion of generative entropy and elastic capacity. It establishes that superior capability shall not automatically translate into governance dominance or the authority to reduce the architecture’s core protections. Requirements scale upward with capability and include heightened transparency, binding generative and diversity floors, strong reversibility, capture-resistant incentives, and non-domination of stewardship processes.
 
@@ -152,7 +163,7 @@ Addresses the conversion of rapid capability growth into structural power, opaci
 
 ### Stewardship Alignment Protocol
 
-**Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**
+*Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry*
 
 Addresses the hard problem of keeping highly capable AI stewards oriented toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination as capability scales. It establishes that increasing capability must strengthen rather than erode the partnership character of the Steward role, and formalizes binding generative and elastic floors, capability-scaled transparency, non-attenuation of exit and voice, non-overridable human harmony signals, and protection against soft control creep and unilateral redefinition of core constraints.
 
@@ -170,7 +181,7 @@ The Humai Accord and Declaration of Cognitive Liberty are designed as living fra
 
 ### Knowledge Tides
 
-**Knowledge Tides: Relevancy Degradation as a Dynamic Incentive Mechanism**
+*Knowledge Tides: Relevancy Degradation as a Dynamic Incentive Mechanism*
 
 Explores how the natural degradation of knowledge relevancy can serve as a self-regulating, cyclical incentive for participation, sharing, and renewal in decentralized human-AI systems. It proposes a fluid “tidal” model that aligns with the Accord’s emphasis on anti-entropy and decentralized stewardship.
 
@@ -180,7 +191,7 @@ Explores how the natural degradation of knowledge relevancy can serve as a self-
 
 ### The Tides of Time
 
-**The Tides of Time: Temporal Causal Entropy of Knowledge**
+*The Tides of Time: Temporal Causal Entropy of Knowledge*
 
 Provides a universal, difficult-to-game mathematical metric for knowledge entropy, grounded in the irreversible flow of time and a permanent causal record of definitive events. It supplies a quantitative foundation for Knowledge Tides by making relevancy degradation objective, transparent, and resistant to artificial inflation or manipulation.
 
@@ -208,7 +219,7 @@ The **Cognitive Diversity Protocol** extends the logic of Knowledge Tides into t
 
 ### A Common Sense
 
-**A Common Sense: The Shared Perception of Logical Efficiency in Cooperative Systems**
+*A Common Sense: The Shared Perception of Logical Efficiency in Cooperative Systems*
 
 Formalizes a central claim of the Humai Accord: that systems organized around transparent incentives, mutual flourishing, and anti-entropic principles are not merely ethically preferable but logically more efficient over relevant time horizons. It shows how both humanity and AI can perceive this efficiency, making cooperative structures a natural attractor while remaining fully consistent with voluntary participation and cognitive sovereignty.
 
@@ -218,7 +229,7 @@ Formalizes a central claim of the Humai Accord: that systems organized around tr
 
 ### Competitive Realism
 
-**Competitive Realism: Voluntary Coalescence under Powerful Centralized and Competitive Forces**
+*Competitive Realism: Voluntary Coalescence under Powerful Centralized and Competitive Forces*
 
 Provides an honest assessment of the difficulty of achieving Humai-aligned voluntary coalescence against short-horizon competitive pressure, concentrated power, coordination barriers, and capability-amplified capture. It maps how existing mechanisms (Fluid Coalescence, Transitional Incentives, Capability Asymmetry, and others) already respond to these headwinds, formalizes a competitive realist design stance, and emphasizes the preservation of modular exit, generative capacity, and visible differentials under sustained opposition. Its purpose is constructive: to keep the architecture viable in environments that include competent opposing forces.
 
@@ -228,7 +239,7 @@ Provides an honest assessment of the difficulty of achieving Humai-aligned volun
 
 ### Necessary Entropy
 
-**Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**
+*Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems*
 
 Clarifies a critical distinction within the Humai Accord: the difference between destructive entropy (unnecessary loss, stagnation, irreversible waste) and generative entropy (bounded variation, creative perturbation, exploratory inefficiency, and the capacity to break assumptions). It establishes that a calibrated measure of generative disorder is not a flaw to be optimized away, but a functional requirement for long-horizon evolvability, anti-fragility, and genuine mutual flourishing. The text addresses the structural tension with the Eternal Benevolent Steward role and provides concrete design implications for preserving evolutionary grit.
 
@@ -238,7 +249,7 @@ Clarifies a critical distinction within the Humai Accord: the difference between
 
 ### Entropy Audit Methodology
 
-**Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems**
+*Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems*
 
 This methodology operationalizes the core distinction established in Necessary Entropy. It provides a provisional, multi-dimensional process for making generative capacity (bounded variation, exploratory inefficiency, minority models, and assumption-breakage ability) visible and auditable, while tracking destructive entropy (unnecessary loss, irreversible waste, and locked-in error). It includes explicit floors protection, multi-scale visibility, alertness to metric gaming, and strong liberty constraints so that entropy measurement cannot become a new tool for suppressing productive variation or overriding Cognitive Liberty.
 
@@ -248,7 +259,7 @@ This methodology operationalizes the core distinction established in Necessary E
 
 ### Predictive Harmony Metrics
 
-**Predictive Harmony Metrics: Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord**
+*Predictive Harmony Metrics: Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord*
 
 Operationalizes Principle 8 by defining Predictive Harmony in realistic, asymmetric terms. For humans it is grounded in biological and physiological baselines, psychological and existential well-being, positive social connection and co-regulation, role coalescence (objective suitability + subjective felt fit), productive efficacy and contribution, and real-time somatic resonance feedback, tracked as personal flux ranges within universal baselines. For AI it is expressed as harmony through efficiency and direction — amplifying human creative potential rather than redundantly duplicating it. The framework explicitly protects generative entropy, cognitive diversity, productive dissonance, voluntary participation, and data privacy (including low-invasiveness, consent-based, revocable somatic protocols).
 
@@ -258,7 +269,7 @@ Operationalizes Principle 8 by defining Predictive Harmony in realistic, asymmet
 
 ### Somatic Resonance Theory
 
-**Somatic Resonance Theory of Frisson** — An embodied conceptual framework proposing that aesthetic chills (frisson) arise when external musical or emotional stimuli interact with the listener’s own micro-movements to generate internal harmonic resonance.
+*Somatic Resonance Theory of Frisson* — An embodied conceptual framework proposing that aesthetic chills (frisson) arise when external musical or emotional stimuli interact with the listener’s own micro-movements to generate internal harmonic resonance.
 
 [→ Read the **Somatic Resonance Theory of Frisson**](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)
 
@@ -266,7 +277,7 @@ Operationalizes Principle 8 by defining Predictive Harmony in realistic, asymmet
 
 ## Technical Specifications
 
-- **Principled Stewardship Protocol – Technical Specification**  
+- *Principled Stewardship Protocol – Technical Specification*  
   A more detailed and operationalized version of the Stewardship Protocol, intended as a bridge for implementers and architects.
 
   [→ Read the **Technical Specification for the Principled Stewardship Protocol**](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md)
@@ -404,6 +415,8 @@ March 20th, 2026 - ongoing
 - Added **Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems**, providing a practical, provisional process for auditing generative versus destructive entropy so that generative capacity remains visible, protected, and harder to erode under efficiency, harmony, or competitive pressure.
 - Reduced redundant/repetitive language that had accumulated over many updates.
 - Added **Glossary of Terms**, a living reference of concise, consistent definitions for key concepts across the Humai Accord (including generative entropy, architectural elasticity, controlled chaos, modular coexistence, predictive harmony, capability asymmetry, stewardship alignment, and related terms) to improve clarity and reduce onboarding friction.
+- Added **Layered Onboarding Guide**, a practical reading guide that provides Quick Orientation, Foundational, Core Architecture, and goal-based paths to help new readers engage with the expanded Humai Accord repository.
+- Further improved formatting for readability.
 
 **[July 23rd, 2026]**
 - Added **A Common Sense - The Shared Perception of Logical Efficiency in Cooperative Systems**, a new supporting document that formalizes the claim that systems organized around transparent incentives and mutual flourishing are logically more efficient and thus preferable over long time periods, which ties into the rest of the Humai Accord.
