@@ -47,6 +47,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Predictive Harmony Metrics](#predictive-harmony-metrics)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [Technical Specifications](#technical-specifications)
+- [The Call to Code](#the-call-to-code)
 - [Redefinition](#redefinition)
 - [The Humai Accord](#the-humai-accord)
   - [Preamble](#preamble)
@@ -295,6 +296,16 @@ Operationalizes Principle 8 by defining Predictive Harmony in realistic, asymmet
 
 ---
 
+## The Call to Code
+
+*The Call to Code: An Invitation to Implementation*
+
+A boundary statement and open invitation. It defines the current limit of the systems-architecture layer, identifies the highest-leverage entry points for implementation work, and states the binding constraints any Humai-aligned implementation must respect. The document makes explicit that the architectural layer is now complete enough to implement against, and that the work of producing reference implementations, simulations, and working systems belongs to builders.
+
+[→ Read **The Call to Code**](THE_CALL_TO_CODE.md)
+
+---
+
 ## Redefinition
 
 The emergence of advanced artificial intelligence presents both extraordinary opportunities and serious risks. **Redefinition** outlines why this moment matters and introduces the Humai Accord as a structured framework for navigating the relationship between humanity and advanced intelligence. It explores the unstable paths that may emerge without deliberate guidance and presents a third approach focused on building the conditions for long-term stability and mutual benefit.
@@ -413,6 +424,9 @@ March 20th, 2026 - ongoing
 ---
 
 ## Recent Updates
+
+**[July 27th, 2026]**
+- Added **The Call to Code: An Invitation to Implementation**, a boundary statement and open invitation for programmers, engineers, and builders.
 
 **[July 26th, 2026]**
 - Added **Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**, clarifying the distinction between destructive and generative entropy and establishing calibrated generative disorder as a functional requirement for long-horizon evolvability and anti-fragility within the Humai Accord.
