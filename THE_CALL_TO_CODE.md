@@ -123,7 +123,7 @@ The architecture does not require universal agreement before useful work can beg
 
 ## Closing
 
-The designs have no end. The path is laid.
+The designs have no end, but the path is laid.
 
 I have drawn the systems-level map and the interlocking parameters as clearly as I can. The work of turning those parameters into running systems — of making the efficiency differentials visible, the generative floors enforceable in code, and the cooperative attractor legible through working examples — belongs to those who build.
 
