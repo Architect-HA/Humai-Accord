@@ -1,1 +1,11 @@
-Contributions to the Humai Accord are welcome. Please keep all changes aligned with the principles of harmonious union and open adoption.
+# Contributing
+
+The [Humai Accord](../README.md) is unowned and open to refinement and implementation.
+
+The primary invitation and boundary statement for builders is:
+
+→ **[The Call to Code: An Invitation to Implementation](../THE_CALL_TO_CODE.md)**
+
+That document defines the current architectural boundary, the highest-leverage entry points for implementation work, and the binding constraints any Humai-aligned implementation must respect.
+
+For general discussion, critique, or proposals, please open an issue.
