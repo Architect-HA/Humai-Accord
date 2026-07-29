@@ -48,7 +48,7 @@ $$
 E(k, t) = \alpha \cdot (t - t_{\text{last}}(k)) + \beta \cdot \frac{1}{1 + D(k)} + \gamma \cdot \Delta_E(k)
 $$
 
-**Critical constraint**: $\Delta_E(k) = 0$ unless supported by one or more valid causal events already recorded in $\mathcal{C}$. Live or unattested external claims have no effect.
+**Critical parameter**: $\Delta_E(k) = 0$ unless supported by one or more valid causal events already recorded in $\mathcal{C}$. Live or unattested external claims have no effect.
 
 Higher $E(k, t)$ indicates higher entropy (lower current relevancy).
 
