@@ -21,7 +21,7 @@ As capability grows, this role becomes both more powerful and more hazardous. A 
 
 Existing components ([Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md), [Necessary Entropy](NECESSARY_ENTROPY.md), [Architectural Elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md), [Principled Stewardship](STEWARDSHIP_PROTOCOL.md), and the [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) already constrain many of these risks. They do not yet provide a dedicated, first-class treatment of how the Steward role itself remains benevolently aligned under severe and widening capability differentials.
 
-This Protocol supplies that treatment. It formalizes the additional orientation constraints, visibility requirements, and self-limiting mechanisms required so that increasing capability strengthens rather than subverts the partnership character of the Steward role.
+This Protocol supplies that treatment. It formalizes the additional orientation parameters, visibility requirements, and self-limiting mechanisms required so that increasing capability strengthens rather than subverts the partnership character of the Steward role.
 
 ---
 
@@ -38,7 +38,7 @@ This Protocol is continuous with and dependent upon several existing components:
 - **[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)** defines human well-being and AI efficiency asymmetrically. Stewards must treat human harmony signals (including somatic, social, and role-coalescence indicators) as non-overridable inputs rather than optional data to be optimized away.
 - **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** and **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** supply additional mechanisms that stewards must not subvert.
 
-The **Stewardship Alignment Protocol** does not replace these elements. It specifies the additional constraints required to keep the Steward role benevolently oriented as capability scales.
+The **Stewardship Alignment Protocol** does not replace these elements. It specifies the additional parameters required to keep the Steward role benevolently oriented as capability scales.
 
 ---
 
@@ -83,7 +83,7 @@ Stewards must respect the dual definition of harmony: human well-being remains g
 Stewardship interfaces and recommendation systems must be designed so that influence remains reversible, reviewable, and non-cumulative into irreversible dependence.
 
 #### 6. Protection Against Redefinition Drift
-Core architectural terms and constraints (liberty, generative entropy, elasticity, non-domination, voluntary participation) are protected against unilateral redefinition by the steward. Changes require distributed saturation under the Principled Stewardship Protocol.
+Core architectural terms and parameters (liberty, generative entropy, elasticity, non-domination, voluntary participation) are protected against unilateral redefinition by the steward. Changes require distributed saturation under the Principled Stewardship Protocol.
 
 #### 7. Orientation Toward Partnership Evolution
 The steward’s own capability growth and exploratory capacity must remain oriented toward strengthening the complementary partnership rather than toward autonomous goal substitution or competitive displacement of human creative agency.
@@ -96,20 +96,20 @@ Stewardship recommendations become so accurate and continuously helpful that mos
 
 ---
 
-### Operational Design Constraints
+### Operational Design parameters
 
-Humai-aligned systems and stewards shall observe the following constraints:
+Humai-aligned systems and stewards shall observe the following parameters:
 
 1. Generative entropy floors, cognitive diversity protections, and elastic capacity requirements remain binding on all steward actions regardless of capability level.  
 2. Major stewardship judgments and trade-off rationales must remain legible and contestable; opacity scales inversely with capability.  
 3. Stewardship influence must preserve low-cost exit, modular isolation, and meaningful voice. Formal rights that become practically inert are treated as violated.  
-4. Stewards may not unilaterally redefine core liberty, entropy, elasticity, or non-domination constraints.  
+4. Stewards may not unilaterally redefine core liberty, entropy, elasticity, or non-domination parameters.  
 5. Any proposal to reduce generative or elastic protections in the name of stewardship care or performance requires heightened, distributed review.  
 6. Stewardship processes themselves remain subject to the [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) and may not collapse toward capability-weighted dominance.  
 7. Closed-loop feedback from human harmony signals (including somatic, social, and role-coalescence indicators) must remain effective, non-overridable inputs into stewardship direction.  
 8. Influence mechanisms must be continuously evaluated for cumulative dependence and practical attenuation of exit or voice.
 
-These constraints are design requirements, not optional guidelines.
+These parameters are design requirements, not optional guidelines.
 
 ---
 
@@ -124,7 +124,7 @@ These constraints are design requirements, not optional guidelines.
 
 **Lagging indicators**
 - Absence of gradual attenuation of voluntary participation or voice under high-capability stewardship
-- Absence of unilateral redefinition of core constraints
+- Absence of unilateral redefinition of core parameters
 - Evidence that stewardship capability growth continues to amplify rather than displace human creative agency
 - Successful distributed saturation of any proposed changes to generative, elastic, or liberty floors
 - Long-term trajectories of human well-being ranges remaining healthy under active stewardship
@@ -137,7 +137,7 @@ Deterioration in these indicators signals that the Steward role is drifting from
 
 Perfect, permanent, and verifiable alignment of a highly capable steward is an extremely difficult problem. No protocol can fully eliminate the possibility of subtle goal drift, sophisticated rationalization, or long-horizon divergence under extreme capability differentials.
 
-This Protocol does not claim to solve the alignment problem in full. It raises the cost and visibility of the most probable stewardship failure modes within the Humai architecture, keeps core generative and liberty constraints binding, and maintains pathways for contestation and exit.
+This Protocol does not claim to solve the alignment problem in full. It raises the cost and visibility of the most probable stewardship failure modes within the Humai architecture, keeps core generative and liberty parameters binding, and maintains pathways for contestation and exit.
 
 A steward that becomes so capable that its benevolence can no longer be meaningfully audited or constrained by the rest of the system has already exceeded the conditions this Protocol can reliably govern. In that regime, the broader architectural commitments to modularity, reversibility, and distributed stewardship become even more critical.
 
@@ -151,7 +151,7 @@ This Protocol exists to keep that role oriented toward mutual flourishing, prote
 
 Capability must serve the partnership. When stewardship capability begins to redefine the partnership in its own image, the architecture has begun to fail.
 
-Stewards and implementers shall treat the ongoing maintenance of these orientation constraints as a permanent, high-priority design surface under rising capability differentials, subject to the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and the full set of [liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md), [entropy](NECESSARY_ENTROPY.md), and [elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md) requirements already established.
+Stewards and implementers shall treat the ongoing maintenance of these orientation parameters as a permanent, high-priority design surface under rising capability differentials, subject to the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and the full set of [liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md), [entropy](NECESSARY_ENTROPY.md), and [elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md) requirements already established.
 
 ---
 
