@@ -52,7 +52,7 @@ The audit task is to keep these two classes distinguishable in practice, to trac
 
 1. **Provisionality** — All entropy metrics, thresholds, and classifications remain subject to revision, cross-verification, and [Knowledge Tides](KNOWLEDGE_TIDES.md) pressure.
 2. **Non-collapse of the distinction** — Audits must not treat all variation as destructive or all efficiency gains as unqualified goods.
-3. **Floor protection** — Generative entropy floors are treated as binding constraints, not as soft targets to be traded away.
+3. **Floor protection** — Generative entropy floors are treated as binding parameters, not as soft targets to be traded away.
 4. **Multi-scale visibility** — Audits should operate at multiple scales (local modules, clusters, system-level) so that local generative capacity is not invisible to global optimization.
 5. **Liberty and non-coercion** — Entropy audits may never be used to override [Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) protections, assign roles, or punish productive idiosyncrasy. Human-side generative correlates remain fully voluntary and subordinate to exit rights and non-punitiveness.
 6. **Capability-aware calibration** — High-capability actors may not unilaterally redefine entropy classifications or floors in ways that entrench opacity or reduce evolvability.
@@ -124,7 +124,7 @@ Explicitly assess whether efficiency, harmony, competitive, or stewardship press
 Make provisional findings available for cross-verification and distributed review. Material recommendations to change floors or budgets require heightened saturation under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
 
 **Step 7 — Record and Provisional Update**  
-Publish a transparent audit record (respecting privacy constraints) and update local or system-level entropy visibility accordingly. All classifications remain provisional.
+Publish a transparent audit record (respecting privacy parameters) and update local or system-level entropy visibility accordingly. All classifications remain provisional.
 
 **Illustration 1 — Quiet Erosion of Exploratory Budgets**  
 Successive efficiency reviews gradually reduce the fraction of resources marked for exploration. No single decision appears dramatic, but the trajectory shows clear decline. An entropy audit surfaces the trend, flags the reduction against the generative floor, and forces explicit justification and saturation rather than allowing the erosion to remain invisible.
@@ -170,7 +170,7 @@ An audit regime that becomes a new tool for suppressing productive idiosyncrasy,
 
 By distinguishing destructive from generative entropy, tracking trajectories across multiple dimensions, remaining alert to metric gaming, and subjecting floor changes to heightened scrutiny, the methodology supports the long-horizon evolvability and adaptive capacity of the [Humai Accord](README.md) architecture without turning entropy itself into a new rigid target.
 
-Stewards and implementers shall treat entropy auditing as an ongoing, provisional, liberty-preserving, gaming-aware, and competitive-realist practice, subject to the full set of constraints already established in the architecture.
+Stewards and implementers shall treat entropy auditing as an ongoing, provisional, liberty-preserving, gaming-aware, and competitive-realist practice, subject to the full set of parameters already established in the architecture.
 
 ---
 
