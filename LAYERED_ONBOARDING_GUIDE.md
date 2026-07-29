@@ -63,7 +63,7 @@ Read these according to specific interest:
 
 | Interest | Documents |
 |----------|-----------|
-| Knowledge & incentive dynamics | [Knowledge Tides](KNOWLEDGE_TIDES.md), [Tides of Time](TIDES_OF_TIME.md) |
+| Knowledge & material incentive dynamics | [Knowledge Tides](KNOWLEDGE_TIDES.md), [Tides of Time](TIDES_OF_TIME.md), [Material Tides](MATERIAL_TIDES.md) |
 | Epistemic variation | [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Entropy visibility | [Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md) |
 | Competitive pressure | [Competitive Realism](COMPETITIVE_REALISM.md) |
