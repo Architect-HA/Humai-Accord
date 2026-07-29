@@ -51,8 +51,9 @@ These documents form the current operational heart of the architecture. Once the
 2. **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Design for radical unpredictability and Black Swans
 3. **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — Making early adoption locally rational
 4. **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Constraining power under capability growth
-5. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — Keeping the Eternal Benevolent Steward oriented toward partnership
-6. **[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)** — Operationalizing harmony in realistic human and AI terms
+5. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Preserving human agency at the actual point of interaction
+6. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — Keeping the Eternal Benevolent Steward oriented toward partnership
+7. **[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)** — Operationalizing harmony in realistic human and AI terms
 
 ---
 
@@ -67,9 +68,11 @@ Read these according to specific interest:
 | Entropy visibility | [Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md) |
 | Competitive pressure | [Competitive Realism](COMPETITIVE_REALISM.md) |
 | Embodied feedback | [Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) |
+| Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
 | Governance process | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and its [Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md) |
 | Implementation | [Implementation Guide](IMPLEMENTATION_GUIDE.md), [Implementation Examples](IMPLEMENTATION_EXAMPLES.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md) |
+
 
 ---
 
@@ -89,10 +92,10 @@ They become more useful once the main architectural commitments are already clea
 ### Suggested Paths by Reader Goal
 
 **“I want the big picture and the rights foundation”**  
-README (The Humai Accord) → Declaration of Cognitive Liberty → Glossary → Necessary Entropy → A Common Sense
+README (The Humai Accord) → Declaration of Cognitive Liberty → Glossary → Necessary Entropy → Agency Interface Protocol → A Common Sense
 
 **“I want to understand how the system is supposed to survive and adapt”**  
-Fluid Coalescence → Architectural Elasticity → Capability Asymmetry → Stewardship Alignment → Competitive Realism
+Fluid Coalescence → Architectural Elasticity → Capability Asymmetry → Agency Interface Protocol → Stewardship Alignment → Competitive Realism
 
 **“I care about adoption and incentives”**  
 Structured Transition → Transitional Incentive Protocol → Knowledge Tides → Competitive Realism
