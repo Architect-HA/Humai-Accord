@@ -160,6 +160,9 @@ Choose the path that best matches your current interest or goal. You may switch 
 3. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
    How these knowledge and incentive dynamics are tested through simulation and audit.
 
+4. **[Material Tides](MATERIAL_TIDES.md)**  
+   Extends the same tidal logic into the material domain (compute, energy, attention, and related substrates), treating under-utilization and lock-in as constructive pressures for modular circulation.
+
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Builder Path](#route-4--builder--implementer-path)
 
