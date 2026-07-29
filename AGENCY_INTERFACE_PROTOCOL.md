@@ -119,11 +119,12 @@ Empirical testing of interface behavior against the dual criteria of reducing de
 
 This protocol operationalizes requirements already present in:
 
-- **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** — especially cognitive sovereignty, voluntary participation, exit rights, role sovereignty, transparency of influence, and protection from manipulation.
-- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — the principle that superior capability must increase protective obligations rather than reduce them.
-- **[Necessary Entropy](NECESSARY_ENTROPY.md)** — protection of generative capacity includes protecting the human’s ability to remain an effective source of generative variation at the point of interaction.
-- **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — interface design is a primary mechanism through which stewardship either remains oriented toward mutual flourishing or drifts into soft control.
-- **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)** — interface behavior is a high-value target for empirical evaluation.
+- **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** — Especially cognitive sovereignty, voluntary participation, exit rights, role sovereignty, transparency of influence, and protection from manipulation.
+- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — The principle that superior capability must increase protective obligations rather than reduce them.
+- **[Necessary Entropy](NECESSARY_ENTROPY.md)** — Protection of generative capacity includes protecting the human’s ability to remain an effective source of generative variation at the point of interaction.
+- **[Material Tides](MATERIAL_TIDES.md)** — Attention and other materials are governed under tidal incentive dynamics. Resource allocation interfaces themselves must still obey the interruption, consent, reversibility, pacing, and role-sovereignty parameters established in this protocol.
+- **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — Interface design is a primary mechanism through which stewardship either remains oriented toward mutual flourishing or drifts into soft control.
+- **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)** — Interface behavior is a high-value target for empirical evaluation.
 
 ---
 
