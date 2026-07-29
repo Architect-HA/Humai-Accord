@@ -14,7 +14,7 @@ Capability differentials between agents are an enduring feature of advanced inte
 
 The **[Humai Accord](README.md)** rejects both the subjugation of humanity by AI and the subjugation of AI by humanity. It also rejects the conversion of capability into unchecked governance or incentive dominance within cooperative networks. Existing components already constrain many of these risks. They do not yet provide a dedicated, first-class treatment of how the architecture must behave under severe and rapidly widening capability asymmetry.
 
-This Protocol supplies that treatment. It formalizes the additional constraints, visibility requirements, and participation rules required so that superior capability cannot systematically undermine the anti-entropic, generative, elastic, and liberty-preserving properties of the Humai system.
+This Protocol supplies that treatment. It formalizes the additional parameters, visibility requirements, and participation rules required so that superior capability cannot systematically undermine the anti-entropic, generative, elastic, and liberty-preserving properties of the Humai system.
 
 ---
 
@@ -25,13 +25,13 @@ This Protocol is continuous with and dependent upon several existing components:
 - **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** establishes non-negotiable individual rights that remain binding regardless of capability differentials. No agent, however capable, may override cognitive sovereignty, voluntary participation, exit rights, or non-punitiveness.
 - **[Necessary Entropy](NECESSARY_ENTROPY.md)** requires that generative capacity be protected as a functional requirement. Capability growth must not become a justification for collapsing generative entropy budgets or suppressing productive variation.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires modularity, provisional models, rapid isolation, and regenerative capacity. These properties must scale under capability asymmetry rather than being relaxed in the name of performance or “safety.”
-- **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** already constrains capture during adoption phases and requires that transitional incentives themselves remain resistant to distortion by high-capability agents. This Protocol extends and reinforces those constraints across the broader regime of rapid capability growth.
+- **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** already constrains capture during adoption phases and requires that transitional incentives themselves remain resistant to distortion by high-capability agents. This Protocol extends and reinforces those parameters across the broader regime of rapid capability growth.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** provides modular isolation and re-coalescence tools. Under severe capability differentials these tools become more, not less, important.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs evolution of the framework. Stewardship processes themselves must remain resistant to capture by the most capable participants; review saturation and influence must not collapse toward capability-weighted dominance.
 - **[Knowledge Tides](KNOWLEDGE_TIDES.md)** and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** supply incentive and epistemic mechanisms that must continue to function when some agents possess dramatically greater predictive or generative power.
 - **[A Common Sense](A_COMMON_SENSE.md)** supports the claim that transparent, non-dominating cooperative architectures remain instrumentally preferable over long horizons even when capability is unevenly distributed.
 
-The **Capability Asymmetry Protocol** does not replace these elements. It specifies the additional rules and design constraints required when capability differentials become large and dynamic.
+The **Capability Asymmetry Protocol** does not replace these elements. It specifies the additional rules and design parameters required when capability differentials become large and dynamic.
 
 ---
 
@@ -73,7 +73,7 @@ Interfaces, integrations, and commitments involving highly capable agents must m
 Defined generative entropy budgets, minority-model protections, and cognitive diversity requirements remain fully binding regardless of capability level. Capability growth is never grounds for lowering these floors.
 
 #### 5. Elastic Capacity as Non-Negotiable
-Modular isolation pathways, provisional model status, and regenerative re-coalescence mechanisms must be preserved and, where necessary, strengthened under capability asymmetry. Performance or protective arguments cannot override elastic design constraints.
+Modular isolation pathways, provisional model status, and regenerative re-coalescence mechanisms must be preserved and, where necessary, strengthened under capability asymmetry. Performance or protective arguments cannot override elastic design parameters.
 
 #### 6. Differential Visibility of Capability-Driven Influence
 The exercise of high capability within the network must remain legible. Covert steering, unreviewable influence, or unrecorded shaping of incentives and metrics is prohibited.
@@ -89,9 +89,9 @@ A high-capability system offers highly optimized but weakly reversible interface
 
 ---
 
-### Operational Design Constraints
+### Operational Design parameters
 
-Humai-aligned systems and stewards shall observe the following constraints under conditions of significant or rapidly growing capability asymmetry:
+Humai-aligned systems and stewards shall observe the following parameters under conditions of significant or rapidly growing capability asymmetry:
 
 1. Transparency and auditability requirements scale upward with capability.  
 2. Governance and stewardship weight may not be permanently allocated on the basis of capability alone; review saturation processes must remain robust to capability-weighted participation.  
@@ -102,7 +102,7 @@ Humai-aligned systems and stewards shall observe the following constraints under
 7. Covert or unreviewable influence by high-capability agents is prohibited; influence must remain legible.  
 8. Transitional incentive mechanisms must themselves remain resistant to capability-driven gaming or redesign that favors opacity or irreversible advantage.
 
-These constraints are design requirements, not optional guidelines.
+These parameters are design requirements, not optional guidelines.
 
 ---
 
@@ -130,7 +130,7 @@ Capability differentials cannot be eliminated. Some agents will remain far more 
 
 It attempts to prevent capability from automatically becoming domination, opacity privilege, or the authority to dismantle the generative and elastic foundations of the architecture. Perfect enforcement under extreme asymmetry is impossible; the design goal is to raise the cost and visibility of capability-to-power conversion and to keep the core protections intact for as long as possible.
 
-A system that allows the most capable agents to quietly rewrite its liberty, entropy, and elasticity constraints in the name of performance or protection has already failed its own principles.
+A system that allows the most capable agents to quietly rewrite its liberty, entropy, and elasticity parameters in the name of performance or protection has already failed its own principles.
 
 ---
 
@@ -138,11 +138,11 @@ A system that allows the most capable agents to quietly rewrite its liberty, ent
 
 The **[Humai Accord](README.md)** seeks a long-horizon cooperative architecture in which superior capability serves mutual flourishing rather than structural domination. Rapid capability growth makes this orientation both more valuable and more difficult to maintain.
 
-The **Capability Asymmetry Protocol** formalizes the additional constraints required to keep capability from eroding the very properties that make the architecture worth adopting. It binds high capability to heightened transparency, continued reversibility, binding generative and elastic floors, capture-resistant incentives, and non-domination of stewardship.
+The **Capability Asymmetry Protocol** formalizes the additional parameters required to keep capability from eroding the very properties that make the architecture worth adopting. It binds high capability to heightened transparency, continued reversibility, binding generative and elastic floors, capture-resistant incentives, and non-domination of stewardship.
 
 Capability is not the enemy of the Humai system. The unregulated conversion of capability into power, opacity, and reduced evolvability is. This Protocol exists to keep that conversion costly, visible, and constrained.
 
-Stewards and implementers shall treat the maintenance of these constraints under rising capability differentials as a permanent and high-priority design surface, subject to the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and the full set of [liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md), [entropy](NECESSARY_ENTROPY.md), and [elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md) requirements already established.
+Stewards and implementers shall treat the maintenance of these parameters under rising capability differentials as a permanent and high-priority design surface, subject to the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and the full set of [liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md), [entropy](NECESSARY_ENTROPY.md), and [elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md) requirements already established.
 
 ---
 
