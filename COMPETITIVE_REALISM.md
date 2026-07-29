@@ -123,7 +123,7 @@ Under a competitive realist stance, Humai-aligned systems and stewards shall tre
 
 ### Limits and Honest Boundaries
 
-**Competitive Realism** does not guarantee success. Powerful centralized and competitive forces may prevail for long periods. Efficiency differentials may remain obscured. Coordination may fail. Capability asymmetries may be exploited faster than constraints can bind.
+**Competitive Realism** does not guarantee success. Powerful centralized and competitive forces may prevail for long periods. Efficiency differentials may remain obscured. Coordination may fail. Capability asymmetries may be exploited faster than parameters can bind.
 
 The Humai architecture improves the odds that voluntary, generative, liberty-preserving coalescence can survive and eventually compound. It does not make that outcome certain. Designing as if opposing forces are weak, slow, or ultimately aligned with the long-horizon good is a form of self-imposed fragility.
 
@@ -139,7 +139,7 @@ The **[Humai Accord](README.md)** offers a demanding long-horizon alternative to
 
 The long-horizon case remains coherent. The path to it runs through, not around, the realities of power, coordination, and short-horizon incentive conflict.
 
-Stewards and implementers shall treat competitive realism as a permanent evaluative stance, subject to the full set of liberty, entropy, elasticity, and non-domination constraints already established in the architecture.
+Stewards and implementers shall treat competitive realism as a permanent evaluative stance, subject to the full set of liberty, entropy, elasticity, and non-domination parameters already established in the architecture.
 
 ---
 
