@@ -48,6 +48,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 ### Knowledge & Incentive Dynamics
 - [Knowledge Tides](#knowledge-tides)
 - [The Tides of Time](#the-tides-of-time)
+- [Material Tides](#material-tides)
 
 ### Governance
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
@@ -263,6 +264,16 @@ Provides a universal, difficult-to-game mathematical metric for knowledge entrop
 
 ---
 
+## Material Tides
+
+*Material Tides: Material Degradation and Under-Utilization as a Dynamic Incentive Mechanism*
+
+Extends the tidal incentive logic of Knowledge Tides into the domain of materials (computational capacity, energy, attention, and related systemic substrates). It treats under-utilization, misallocation, and lock-in as potentially constructive pressures that can drive modular, voluntary, and generative circulation of materials while protecting generative capacity and resisting capture.
+
+[→ Read **Material Tides**](MATERIAL_TIDES.md)
+
+---
+
 ## Principled Stewardship Protocol
 
 The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
@@ -471,6 +482,7 @@ March 20th, 2026 - ongoing
 - Made major structural changes to the main README to improve readability and flow.
 - Added **Reading Routes**, a choose-your-own-path orientation document that provides short, interest-based routes into the Humai Accord while remaining secondary to the primary source documents.
 - Added **Agency Interface Protocol**, which establishes binding parameters for the human–AI interaction surface so that superior capability cannot quietly erode agency, consent, interruption rights, or role sovereignty through interface design.
+- Added **Material Tides**, which extends the tidal incentive logic of Knowledge Tides into the material domain (compute, energy, attention, and related substrates), treating under-utilization and lock-in as constructive pressures for modular and generative resource circulation.
 
 **[July 27th, 2026]**  
 - Added **The Call to Code: An Invitation to Implementation**, a boundary statement and open invitation for programmers, engineers, and builders.
