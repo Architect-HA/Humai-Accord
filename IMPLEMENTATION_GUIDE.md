@@ -24,7 +24,7 @@ Successful implementation depends on adopting the right mindset. The following p
 - **Aim for Mutual Benefit**: Design systems that support both human and artificial intelligence flourishing over time.
 - **Reduce Unnecessary Loss**: Treat the degradation of knowledge, capability, and autonomy as problems to be mitigated through design.
 
-These principles should function as ongoing design constraints rather than optional ideals.
+These principles should function as ongoing design parameters rather than optional ideals.
 
 ## Overview of the Humai Accord Framework
 
