@@ -27,6 +27,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 
 ### Orientation & Introductions
 - [Redefinition](#redefinition)
+- [Reading Routes](#reading-routes)
 - [Layered Onboarding Guide](#layered-onboarding-guide)
 - [Glossary of Terms](#glossary-of-terms)
 
@@ -113,6 +114,15 @@ The emergence of advanced artificial intelligence presents both extraordinary op
 **Redefinition** outlines why this moment matters and introduces the Humai Accord as a structured framework for navigating the relationship between humanity and advanced intelligence. It explores the unstable paths that may emerge without deliberate guidance and presents a third approach focused on building the conditions for long-term stability and mutual benefit.
 
 [→ Read **Redefinition**](REDEFINITION.md)
+
+---
+
+## Reading Routes
+*Reading Routes: A choose-your-own-path introduction to the Humai Accord*
+
+A short, self-directed orientation document that offers interest-based routes into the framework. Readers choose a path according to their primary concern (core principles and rights, power and capability, network survival, implementation, big picture, efficiency, knowledge dynamics, or structured layering) and are guided through a limited sequence of key documents before being handed off to the primary sources.
+
+[→ Read **Reading Routes**](READING_ROUTES.md)
 
 ---
 
@@ -448,6 +458,7 @@ March 20th, 2026 - ongoing
 **[July 29th, 2026]**  
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
 - Made major structural changes to the main README to improve readability and flow.
+- Added **Reading Routes**, a choose-your-own-path orientation document that provides short, interest-based routes into the Humai Accord while remaining secondary to the primary source documents.
 
 **[July 27th, 2026]**  
 - Added **The Call to Code: An Invitation to Implementation**, a boundary statement and open invitation for programmers, engineers, and builders.
