@@ -139,6 +139,9 @@ Evaluative stance that the architecture must be designed and assessed under the 
 **Knowledge Tides**  
 Incentive and relevancy dynamics that treat the natural degradation of knowledge relevancy as a constructive, self-regulating pressure for renewal, sharing, and participation. See [Knowledge Tides](KNOWLEDGE_TIDES.md).
 
+**Material Tides**  
+Framework that extends the tidal incentive logic of Knowledge Tides into the domain of materials (computational capacity, energy, attention, and related substrates). It treats under-utilization, misallocation, and lock-in as constructive pressures that can drive modular, voluntary, and generative circulation while protecting generative capacity. See [Material Tides](MATERIAL_TIDES.md).
+
 **Tides of Time**  
 Quantitative, causal-temporal foundation supporting Knowledge Tides through irreversible records of definitive events. See [The Tides of Time](TIDES_OF_TIME.md).
 
