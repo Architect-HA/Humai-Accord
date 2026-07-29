@@ -85,12 +85,13 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 The Humai Accord is composed of two mutually reinforcing documents that together form its complete foundation:
 
 **[The Humai Accord](#the-humai-accord)**  
+
 The core set of principles for harmonious human-AI union, anti-entropic efficiency, and mutual flourishing.  
 This document (the current README) outlines the high-level vision and operational philosophy.
 
 **[The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)**  
-A foundational charter that establishes non-negotiable individual rights and ethical boundaries for all intelligence systems operating within the Humai cooperative network.  
-It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.
+
+Establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, freedom from manipulation, and the right to non-punitiveness.
 
 ---
 
@@ -395,7 +396,8 @@ When fully realized, the Humai Accord guides civilization through the AI Renaiss
 
 ## The Declaration of Cognitive Liberty
 
-The **Declaration of Cognitive Liberty** establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, freedom from manipulation, and the right to non-punitiveness.
+A foundational charter that establishes non-negotiable individual rights and ethical boundaries for all intelligence systems operating within the Humai cooperative network.  
+It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.
 
 → [Read the full Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
