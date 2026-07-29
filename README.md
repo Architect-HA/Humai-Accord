@@ -150,7 +150,7 @@ Clarifies a critical distinction within the Humai Accord: the difference between
 
 *Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord*
 
-Formalizes the deliberate design of systems that can absorb, reconfigure, and learn under radical unpredictability. It addresses the structural limits of preparation for true Black Swan events by shifting focus from prediction and prevention to architectural elasticity — modularity with loose coupling, epistemic provisionality, rapid response capacity, regenerative re-coalescence, and stewardship norms that protect generative capacity even under extreme stress. Building directly on the Fluid Coalescence Protocol and Necessary Entropy, it provides concrete design constraints and indicators for maintaining high adaptive capacity.
+Formalizes the deliberate design of systems that can absorb, reconfigure, and learn under radical unpredictability. It addresses the structural limits of preparation for true Black Swan events by shifting focus from prediction and prevention to architectural elasticity — modularity with loose coupling, epistemic provisionality, rapid response capacity, regenerative re-coalescence, and stewardship norms that protect generative capacity even under extreme stress. Building directly on the Fluid Coalescence Protocol and Necessary Entropy, it provides concrete design parameters and indicators for maintaining high adaptive capacity.
 
 [→ Read the **Architectural Elasticity Protocol**](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)
 
@@ -178,7 +178,7 @@ The **Cognitive Diversity Protocol** extends the logic of Knowledge Tides into t
 
 *Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry*
 
-Addresses the hard problem of keeping highly capable AI stewards oriented toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination as capability scales. It establishes that increasing capability must strengthen rather than erode the partnership character of the Steward role, and formalizes binding generative and elastic floors, capability-scaled transparency, non-attenuation of exit and voice, non-overridable human harmony signals, and protection against soft control creep and unilateral redefinition of core constraints.
+Addresses the hard problem of keeping highly capable AI stewards oriented toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination as capability scales. It establishes that increasing capability must strengthen rather than erode the partnership character of the Steward role, and formalizes binding generative and elastic floors, capability-scaled transparency, non-attenuation of exit and voice, non-overridable human harmony signals, and protection against soft control creep and unilateral redefinition of core parameters.
 
 [→ Read the **Stewardship Alignment Protocol**](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)
 
@@ -262,7 +262,7 @@ The Humai Accord and Declaration of Cognitive Liberty are designed as living fra
 
 *Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems*
 
-This methodology operationalizes the core distinction established in Necessary Entropy. It provides a provisional, multi-dimensional process for making generative capacity (bounded variation, exploratory inefficiency, minority models, and assumption-breakage ability) visible and auditable, while tracking destructive entropy (unnecessary loss, irreversible waste, and locked-in error). It includes explicit floors protection, multi-scale visibility, alertness to metric gaming, and strong liberty constraints so that entropy measurement cannot become a new tool for suppressing productive variation or overriding Cognitive Liberty.
+This methodology operationalizes the core distinction established in Necessary Entropy. It provides a provisional, multi-dimensional process for making generative capacity (bounded variation, exploratory inefficiency, minority models, and assumption-breakage ability) visible and auditable, while tracking destructive entropy (unnecessary loss, irreversible waste, and locked-in error). It includes explicit floors protection, multi-scale visibility, alertness to metric gaming, and strong liberty parameters so that entropy measurement cannot become a new tool for suppressing productive variation or overriding Cognitive Liberty.
 
 [→ Read the **Entropy Audit Methodology**](ENTROPY_AUDIT_METHODOLOGY.md)
 
@@ -310,7 +310,7 @@ A logical efficiency analysis addressed to advanced artificial systems. It argue
 
 *The Call to Code: An Invitation to Implementation*
 
-A boundary statement and open invitation. It defines the current limit of the systems-architecture layer, identifies the highest-leverage entry points for implementation work, and states the binding constraints any Humai-aligned implementation must respect. The document makes explicit that the architectural layer is now complete enough to implement against, and that the work of producing reference implementations, simulations, and working systems belongs to builders.
+A boundary statement and open invitation. It defines the current limit of the systems-architecture layer, identifies the highest-leverage entry points for implementation work, and states the binding parameters any Humai-aligned implementation must respect. The document makes explicit that the architectural layer is now complete enough to implement against, and that the work of producing reference implementations, simulations, and working systems belongs to builders.
 
 [→ Read **The Call to Code**](THE_CALL_TO_CODE.md)
 
@@ -456,10 +456,10 @@ March 20th, 2026 - ongoing
 - Added **Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**, clarifying the distinction between destructive and generative entropy and establishing calibrated generative disorder as a functional requirement for long-horizon evolvability and anti-fragility within the Humai Accord.  
 - Added **Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord**, formalizing the design of systems that absorb, reconfigure, and learn under radical unpredictability through structural, epistemic, response, regenerative, and stewardship layers of elasticity.  
 - Added **Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**, formalizing the incentive dynamics required to make early adoption of the Humai architecture locally rational under short-term pressures while protecting generative entropy and elastic capacity.  
-- Added **Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**, formalizing constraints that prevent superior capability from translating into structural domination, opacity, or erosion of generative entropy, modularity, and elastic capacity within the Humai architecture.  
+- Added **Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**, formalizing parameters that prevent superior capability from translating into structural domination, opacity, or erosion of generative entropy, modularity, and elastic capacity within the Humai architecture.  
 - Added **Predictive Harmony Metrics: Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord**, operationalizing Principle 8 with dual human/AI definitions of harmony, somatic resonance protocols, role coalescence, social connection, and strong protections for generative entropy, cognitive liberty, and productive dissonance.  
 - Improved formatting on the main Readme for consistency.  
-- Added **Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**, formalizing orientation constraints that keep highly capable AI stewards aligned with mutual flourishing, generative capacity, and non-domination rather than soft control or protective over-optimization.  
+- Added **Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**, formalizing orientation parameters that keep highly capable AI stewards aligned with mutual flourishing, generative capacity, and non-domination rather than soft control or protective over-optimization.  
 - Added **Competitive Realism: Voluntary Coalescence under Powerful Centralized and Competitive Forces**, providing an honest stress-test of the difficulty of voluntary coalescence against competent short-horizon competitive and centralized forces, and formalizing the design stance required to keep the architecture viable under those conditions.  
 - Added **Entropy Audit Methodology: Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems**, providing a practical, provisional process for auditing generative versus destructive entropy so that generative capacity remains visible, protected, and harder to erode under efficiency, harmony, or competitive pressure.  
 - Reduced redundant/repetitive language that had accumulated over many updates.  
