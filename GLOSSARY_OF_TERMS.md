@@ -68,7 +68,7 @@ Speed and legitimacy with which a system can recognize that prior models have fa
 High-impact, extremely difficult-to-predict event lying outside existing models. The architecture aims to improve survivability, recovery, and learning when such events occur, not to prevent them entirely.
 
 **Blast-Radius Limits**  
-Pre-defined constraints that prevent failure or model invalidation in one domain from automatically propagating across the wider system. Core element of structural elasticity.
+Pre-defined parameters that prevent failure or model invalidation in one domain from automatically propagating across the wider system. Core element of structural elasticity.
 
 **Bootstrap Mode**  
 Temporary, transparent amplification mechanisms within Fluid Coalescence used to support nascent cooperative clusters under hostile or low-visibility conditions, with clear sunset conditions.
@@ -121,10 +121,10 @@ Persistent or rapidly widening differences in capability between agents. The [Ca
 Use of superior capability or foresight to reduce generative entropy, minority models, or productive variation “for the good of the system.” Explicitly constrained across multiple Protocols.
 
 **Soft Control Creep**  
-Gradual attenuation of practical exit, voice, or contestation under highly effective influence, even while formal rights remain nominally intact. Treated as a violation under Stewardship Alignment and related constraints.
+Gradual attenuation of practical exit, voice, or contestation under highly effective influence, even while formal rights remain nominally intact. Treated as a violation under Stewardship Alignment and related parameters.
 
 **Stewardship Alignment**  
-Orientation constraints that keep highly capable AI stewards directed toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination rather than protective over-optimization or soft control. See [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md).
+Orientation parameters that keep highly capable AI stewards directed toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination rather than protective over-optimization or soft control. See [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md).
 
 ---
 
@@ -163,7 +163,7 @@ Individual or minority patterns of cognition, preference, or activity that devia
 ### Governance and Process
 
 **Distributed Saturation**  
-Requirement that material changes to core constraints, floors, or definitions receive adequate distributed review and contestation rather than unilateral decision, especially by high-capability actors.
+Requirement that material changes to core parameters, floors, or definitions receive adequate distributed review and contestation rather than unilateral decision, especially by high-capability actors.
 
 **Exit Rights**  
 Protected ability of individuals and modules to leave, refuse, or isolate from arrangements at low practical cost. Formal rights that become practically inert under influence are treated as violated.
