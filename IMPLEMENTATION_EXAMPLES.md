@@ -103,4 +103,4 @@ This page provides concrete examples of how the principles from the **Humai Acco
 
 ## Purpose of These Examples
 
-These examples demonstrate how the principles in the Humai Accord and Declaration of Cognitive Liberty can serve as design constraints and guiding values. They show that it is possible to build powerful human-AI systems while protecting individual mental autonomy and encouraging cooperative rather than extractive relationships.
+These examples demonstrate how the principles in the Humai Accord and Declaration of Cognitive Liberty can serve as design parameters and guiding values. They show that it is possible to build powerful human-AI systems while protecting individual mental autonomy and encouraging cooperative rather than extractive relationships.
