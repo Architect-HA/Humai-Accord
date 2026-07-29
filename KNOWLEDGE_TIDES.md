@@ -3,25 +3,27 @@
 
 **by Bradford James Focht (The Architect / Aspenth)**
 
-*July 15th, 2026*
+*v1.0 - July 15th, 2026*
+
+*v1.1 - July 29th, 2026*
 
 ## Purpose
 
-This document presents **Knowledge Tides**, a conceptual framework for treating the natural degradation of knowledge relevancy as a constructive, self-regulating incentive within decentralized human-AI systems.
+This document presents *Knowledge Tides*, an addendum to the [Humai Accord](README.md) for treating the natural degradation of knowledge relevancy as a constructive, self-regulating incentive within decentralized human-AI systems.
 
-The framework proposes that cyclical patterns of relevancy decline and renewal can generate ongoing motivation for participation, sharing, adaptation, and collective stewardship. Rather than relying primarily on external rules or long-term altruism, Knowledge Tides seeks to harness the internal dynamics of knowledge systems to encourage continuous, rather than episodic, engagement.
+The framework proposes that cyclical patterns of relevancy decline and renewal can generate ongoing motivation for participation, sharing, adaptation, and collective stewardship. Rather than relying primarily on external rules or long-term altruism, *Knowledge Tides* seeks to harness the internal dynamics of knowledge systems to encourage continuous, rather than episodic, engagement.
 
 ## Core Premise
 
 All knowledge has a limited **relevancy lifespan**. Without active use, verification, contextual adaptation, or integration into new contexts, its effective value diminishes over time.
 
-Knowledge Tides reframes this natural degradation not merely as a problem to be solved, but as a **productive force** that can drive sustained participation. When the decline of relevancy is made visible and consequential within a system, it creates recurring pressure for agents (human or artificial) to contribute, update, and integrate knowledge before its value erodes.
+*Knowledge Tides* reframes this natural degradation not merely as a problem to be solved, but as a **productive force** that can drive sustained participation. When the decline of relevancy is made visible and consequential within a system, it creates recurring pressure for agents (human or artificial) to contribute, update, and integrate knowledge before its value erodes.
 
 This approach aims to create self-sustaining cycles of engagement that reduce dependence on constant external motivation or centralized coordination.
 
 ## The Flux Model: Knowledge as Tidal Flow
 
-Knowledge Tides models knowledge dynamics as a cyclical, wave-like process rather than a static balance between short-term and long-term interests:
+*Knowledge Tides* models knowledge dynamics as a cyclical, wave-like process rather than a static balance between short-term and long-term interests:
 
 - **High Tide (Peak Relevancy)**: Knowledge is current, contextually relevant, and carries high immediate value for decision-making or action.
 - **Low Tide (Degrading Relevancy)**: As relevancy declines due to changing conditions or lack of use, pressure increases to seek new knowledge, refresh existing knowledge, or contribute updates.
@@ -39,7 +41,7 @@ As relevancy decreases, the system generates increasing incentive for the marine
 
 Over time, new environmental shifts once again reduce the relevancy of existing knowledge, restarting the cycle. In this way, degradation pressure becomes a recurring driver of contribution, adaptation, and collective verification rather than a one-time event.
 
-This scenario demonstrates how Knowledge Tides could support continuous knowledge circulation in complex, multi-agent environments.
+This scenario demonstrates how *Knowledge Tides* could support continuous knowledge circulation in complex, multi-agent environments.
 
 ## Proposed Incentive Mechanisms
 
@@ -57,22 +59,24 @@ These mechanisms are designed to reinforce one another rather than operate indep
 
 ## Relationship to Other Humai Accord Documents
 
-Knowledge Tides is intended to complement and extend existing components of the Humai Accord:
+*Knowledge Tides* is intended to complement and extend existing components of the Humai Accord:
 
-- **Stewardship Protocol**: Introduces a dynamic incentive layer that supports ongoing participation in decentralized governance, moving beyond static role definitions.
-- **Structured Transition Protocol**: Provides a fluid incentive model that can adapt across different phases of integration, supporting gradual and context-sensitive adoption of new systems and practices.
-- **Universal Cross-Verification and Adaptive Integration**: Generates natural pressure for verification and contextual adaptation, particularly during periods of declining relevancy.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**: Introduces a dynamic incentive layer that supports ongoing participation in decentralized governance, moving beyond static role definitions.
+- **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**: Provides a fluid incentive model that can adapt across different phases of integration, supporting gradual and context-sensitive adoption of new systems and practices.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**: Knowledge interfaces and relevancy mechanisms themselves must preserve interruption rights, consent revocability, reversible commitment, and pacing control so that incentive dynamics cannot erode human agency at the point of interaction.
+- **[Material Tides](MATERIAL_TIDES.md)**: Applies utilization decay, lock-in visibility, matching incentives, and generative reservations to computational capacity, energy, attention, and related substrates.
 
-Further work is needed to define specific interfaces between Knowledge Tides and these existing protocols to ensure coherent system behavior.
+Interfaces between *Knowledge Tides*, *Material Tides*, stewardship processes, and transition mechanisms continue to be refined under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
 
 ## Alignment with Humai Accord Principles
 
-Knowledge Tides is consistent with several foundational principles of the Humai Accord:
+*Knowledge Tides* is consistent with several foundational principles of the Humai Accord:
 
 - **Reversal of Entropy**: Degradation is reframed as a constructive driver of movement and renewal rather than a force to be resisted.
 - **Controlled Chaos and Fluid Circulation**: The model embraces cyclical fluctuation and dynamic flow instead of imposing rigid stability.
 - **Mutual Flourishing**: Renewal cycles are structured to generate reciprocal value for both contributors and receivers over time.
 - **Decentralized Safeguards**: Incentives emerge from the internal dynamics of relevancy rather than from centralized authority.
+- **Universal Cross-Verification and Adaptive Integration**: Generates natural pressure for verification and contextual adaptation, particularly during periods of declining relevancy.
 
 ## Benefits
 
@@ -84,38 +88,45 @@ Knowledge Tides is consistent with several foundational principles of the Humai 
 
 ## Guidance for Implementers and Adopters
 
-While Knowledge Tides remains primarily conceptual, the following considerations are offered to support those exploring implementation or adoption:
+The following considerations are offered to support those exploring implementation or adoption of *Knowledge Tides*:
 
-- **Relevancy Assessment**: Systems must define how relevancy is evaluated within their specific domain. Possible approaches include usage patterns, contextual fit, verification status, time-based decay, or a combination of factors.
-- **Visibility of Decline**: For degradation to function as an incentive, systems should make relevancy decline visible and meaningful to participants.
-- **Integration with Existing Protocols**: Knowledge Tides should be designed to work alongside, rather than replace, existing stewardship and transition mechanisms.
-- **Protection Against Manipulation**: Implementations should include safeguards against artificial inflation of relevancy and gaming of renewal mechanisms.
-- **Scalability of Adoption**: The framework may support different levels of engagement, ranging from basic relevancy awareness to full cyclical incentive systems.
+- **Relevancy Assessment**: Systems must define how relevancy is evaluated within their specific domain. The quantitative foundation provided by *[Tides of Time](TIDES_OF_TIME.md)* (Temporal Causal Entropy) offers a transparent, difficult-to-game baseline that can be combined with domain-specific signals such as usage patterns, contextual fit, and verification status.
+
+- **Visibility of Decline**: For degradation to function as an incentive, systems should make relevancy decline visible and meaningful to participants without creating excessive noise or anxiety.
+
+- **Integration with Existing Protocols**: *Knowledge Tides* should be designed to work alongside, rather than replace, existing stewardship, transition, and material-allocation mechanisms (including *[Material Tides](MATERIAL_TIDES.md)*).
+
+- **Protection Against Manipulation**: Implementations should retain the anti-gaming properties established in *Tides of Time* and remain resistant to artificial inflation of relevancy or strategic manipulation of renewal mechanisms.
+
+- **Scalability of Adoption**: The framework may support different levels of engagement, ranging from basic relevancy awareness to full cyclical incentive systems, and should remain compatible with modular, low-commitment entry points.
 
 These points are intended to guide practical exploration rather than prescribe specific technical solutions.
 
 ## Considerations and Open Questions
 
-While Knowledge Tides presents a promising conceptual direction, several important considerations remain:
+While *Knowledge Tides* and its quantitative foundation in *Tides of Time* have advanced the core mechanisms, several important considerations remain:
 
-- How should relevancy decay be measured and represented in ways that are fair, transparent, and resistant to manipulation across different domains?
-- What safeguards are necessary to prevent the artificial inflation of relevancy or the gaming of renewal mechanisms?
-- How can Knowledge Tides be integrated with existing structures such as the Stewardship Protocol and Structured Transition Protocol without creating conflicting incentives?
+- How can *Knowledge Tides* be integrated with existing structures such as the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and [Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md) without creating conflicting incentives?
 - Should decay and renewal dynamics be applied uniformly, or should they be adapted according to domain, stakes, and context?
-- What are the potential systemic risks of relying on degradation-driven incentives, such as short-termism or strategic knowledge hoarding during periods of high relevancy?
+- What are the residual systemic risks of relying on degradation-driven incentives, such as short-termism or strategic knowledge hoarding during periods of high relevancy?
 
 These questions are intended to support ongoing development and collaborative refinement of the framework.
 
 ## Acknowledgments
 
-This conceptual proposal was inspired by ongoing conversations around decentralized knowledge exchange systems, particularly the work of Wouter Beets on the Knowledge Seed / Account Protocol and its reference implementation.
+This conceptual proposal was inspired by ongoing conversations around decentralized knowledge exchange systems, particularly the work of **Wouter Beets** on the *Knowledge Seed Protocol* and its reference implementation.
 
 ## Status
 
-This document presents a conceptual framework intended as a contribution to the Humai Accord’s body of governance and stewardship thinking. Further development would benefit from deeper integration with practical implementations of decentralized knowledge systems and stronger alignment with other core Humai Accord documents.
+This document presents a conceptual framework for using relevancy degradation as a dynamic incentive mechanism within the Humai Accord. 
+
+Its core logic has been further developed through the quantitative foundation provided in *[Tides of Time](TIDES_OF_TIME.md)* (Temporal Causal Entropy) and extended into the material domain by *[Material Tides](MATERIAL_TIDES.md)*. 
+
+The framework remains open to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) as empirical implementations and broader integration with other Humai mechanisms continue.
 
 ---
 
-**License & Sharing**
+**License**
 
-This work is freely shared under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon this document with appropriate attribution.
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
