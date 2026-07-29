@@ -114,6 +114,9 @@ Embodied, often pre-reflective signals (including frisson/chills and related mar
 
 ### Power, Capability, and Alignment
 
+**Agency Interface Protocol**  
+Protocol that establishes binding parameters for the human–AI interaction surface, ensuring that interruption rights, consent revocability, attention boundaries, reversible commitments, pacing control, and role sovereignty are preserved, and that these protections scale upward with system capability. See [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md).
+
 **Capability Asymmetry**  
 Persistent or rapidly widening differences in capability between agents. The [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) constrains conversion of superior capability into structural power, opacity, irreversible lock-in, or erosion of generative and elastic protections.
 
@@ -149,6 +152,9 @@ Process by which agents freely choose to participate in and contribute to Humai-
 
 ### Rights and Diversity
 
+**Attention Allocation Ethics**  
+The requirement that human attention not be treated as an extractable resource; system-initiated interruptions and notifications must remain justified, proportional, and subject to human-defined boundaries.
+
 **Cognitive Diversity**  
 Maintained presence of varied interpretive frames, models, and perspectives, treated as a functional requirement for long-term resilience and anti-entropic development. See [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md).
 
@@ -157,6 +163,9 @@ Cluster of rights protecting cognitive sovereignty, mental privacy, freedom from
 
 **Idiosyncrasy**  
 Individual or minority patterns of cognition, preference, or activity that deviate from current majority or optimized norms. Protected both as a liberty interest and as a potential source of generative capacity.
+
+**Reversible Commitment Mechanics**  
+Interface design rules requiring that any commitment, preference, or ongoing arrangement established through interaction remains legible and low-cost to reverse.
 
 ---
 
