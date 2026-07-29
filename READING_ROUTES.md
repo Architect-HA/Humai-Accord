@@ -43,6 +43,9 @@ Choose the path that best matches your current interest or goal. You may switch 
 3. **[Necessary Entropy](NECESSARY_ENTROPY.md)**  
    Distinguishes destructive entropy from generative entropy and establishes why calibrated generative capacity must be protected as a functional requirement.
 
+4. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
+   Ensures that the interaction surface itself preserves interruption rights, consent revocability, pacing control, and role sovereignty.
+
 **Next options:**  
 [Return to Start](#start-here) · [Power & Capability](#route-2--power-capability--non-domination) · [Builder Path](#route-4--builder--implementer-path)
 
@@ -58,7 +61,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 2. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
    Keeps highly capable stewards oriented toward mutual flourishing, generative capacity, and non-domination.
 
-3. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
+3. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
+   Applies capability-scaled obligations directly to the human–AI interaction surface so that superior capability cannot erode agency through interface design.
+
+4. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
    Provides an honest assessment of voluntary coalescence under real short-horizon and concentrated opposing forces.
 
 **Next options:**  
