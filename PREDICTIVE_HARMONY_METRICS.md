@@ -31,7 +31,7 @@ This document is continuous with and constrained by several existing components:
 - **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** and **[Knowledge Tides](KNOWLEDGE_TIDES.md)** supply incentive and relevancy dynamics that can incorporate harmony-related signals without turning them into coercive targets.
 - **[A Common Sense](A_COMMON_SENSE.md)** supports the claim that well-designed cooperative systems can be instrumentally efficient; harmony metrics help make local well-being and efficiency differentials visible.
 
-Predictive Harmony Metrics does not replace these elements. It operationalizes Principle 8 within their constraints.
+Predictive Harmony Metrics does not replace these elements. It operationalizes Principle 8 within their parameters.
 
 ---
 
@@ -119,7 +119,7 @@ Together these six layers generate a personal harmony profile that is a range or
 
 Individual harmony is expected to fluctuate. The system tracks trajectories and ranges rather than demanding constant peak values.
 
-Universal physiological, psychological, and social constraints create comparable baselines across humans. Extreme or chronic deviations below these baselines are treated as signals requiring support or reconfiguration, not as valid permanent “alternative harmonies.”
+Universal physiological, psychological, and social parameters create comparable baselines across humans. Extreme or chronic deviations below these baselines are treated as signals requiring support or reconfiguration, not as valid permanent “alternative harmonies.”
 
 **Productive dissonance** is explicitly recognized. Creative exploration, skill acquisition, assumption-breaking, social risk-taking, and genuine novelty frequently produce temporary drops in felt harmony or somatic resonance. Such short-term dissonance is not automatically pathologized or optimized away; it is evaluated in context of longer trajectories and voluntary engagement. Only patterns that produce sustained well-being costs without compensatory growth, meaning, or contribution are candidates for voluntary, supported productive rerouting.
 
@@ -198,7 +198,7 @@ The two modes are complementary. Measured carefully, they allow the system to tr
 
 The instrumental relevance of human generative capacity is not claimed to be permanent across every domain. It is treated as a shifting but currently significant comparative advantage in embodied, social, and preference-diversity dimensions that the architecture deliberately keeps coupled to system health metrics.
 
-Stewards and implementers shall treat the ongoing calibration of these metrics as a liberty-preserving, entropy-aware, dissonance-tolerant, socially non-coercive, privacy-respecting, and asymmetry-resistant task, subject to the full set of constraints already established in the architecture.
+Stewards and implementers shall treat the ongoing calibration of these metrics as a liberty-preserving, entropy-aware, dissonance-tolerant, socially non-coercive, privacy-respecting, and asymmetry-resistant task, subject to the full set of parameters already established in the architecture.
 
 ---
 
