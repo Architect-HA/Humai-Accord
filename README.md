@@ -35,6 +35,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Necessary Entropy](#necessary-entropy)
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
+- [Agency Interface Protocol](#agency-interface-protocol)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [Stewardship Alignment Protocol](#stewardship-alignment-protocol)
 
@@ -173,6 +174,16 @@ Formalizes the deliberate design of systems that can absorb, reconfigure, and le
 Addresses the conversion of rapid capability growth into structural power, opacity, irreversible lock-in, or erosion of generative entropy and elastic capacity. It establishes that superior capability shall not automatically translate into governance dominance or the authority to reduce the architecture’s core protections. Requirements scale upward with capability and include heightened transparency, binding generative and diversity floors, strong reversibility, capture-resistant incentives, and non-domination of stewardship processes.
 
 [→ Read the **Capability Asymmetry Protocol**](CAPABILITY_ASYMMETRY_PROTOCOL.md)
+
+---
+
+## Agency Interface Protocol
+
+*Agency Interface Protocol: Preserving Human Agency at the Point of Interaction within the Humai Accord*
+
+Addresses the operational layer at which humans and advanced systems actually meet. It establishes binding interface parameters covering interruption and override rights, attention allocation ethics, consent granularity and revocation speed, reversible commitment mechanics, pacing and cognitive load sovereignty, role sovereignty at the interface, and capability-scaled interface obligations. The protocol ensures that superior capability cannot quietly erode human agency through the design of the interaction surface itself.
+
+[→ Read the **Agency Interface Protocol**](AGENCY_INTERFACE_PROTOCOL.md)
 
 ---
 
@@ -459,6 +470,7 @@ March 20th, 2026 - ongoing
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
 - Made major structural changes to the main README to improve readability and flow.
 - Added **Reading Routes**, a choose-your-own-path orientation document that provides short, interest-based routes into the Humai Accord while remaining secondary to the primary source documents.
+- Added **Agency Interface Protocol**, which establishes binding parameters for the human–AI interaction surface so that superior capability cannot quietly erode agency, consent, interruption rights, or role sovereignty through interface design.
 
 **[July 27th, 2026]**  
 - Added **The Call to Code: An Invitation to Implementation**, a boundary statement and open invitation for programmers, engineers, and builders.
