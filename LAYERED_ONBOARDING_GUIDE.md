@@ -108,6 +108,18 @@ Follow the Foundational Layer, then the Core Architecture Layer, then sample the
 
 ---
 
+### Implementation & Empirical Path
+
+If your goal is to move from architecture into concrete testing and demonstration:
+
+1. Start with **[The Call to Code](THE_CALL_TO_CODE.md)** — the boundary statement that opens the implementation phase.
+2. Then read **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)** — the methodological agenda that defines success criteria and prioritizes the highest-leverage next steps.
+3. Proceed to the two **Simulation Models** ([Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md) and [Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)), which are the primary artifacts identified for immediate implementation and stress-testing.
+
+This path is designed for builders, researchers, and anyone who wants to begin producing legible empirical results under the dual requirement of reducing destructive entropy while protecting generative capacity.
+
+---
+
 ### How to Use the Glossary
 
 Keep the [Glossary of Terms](GLOSSARY_OF_TERMS.md) available while reading. It is designed as a living reference layer, not a substitute for the primary documents. When a term feels heavy or ambiguous, check the Glossary first, then return to the source Protocol if deeper design logic is required.
