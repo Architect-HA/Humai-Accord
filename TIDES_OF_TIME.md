@@ -63,7 +63,7 @@ $$
 
 where $\alpha, \beta, \gamma > 0$ are publicly declared positive weighting parameters subject to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
 
-**Critical constraint on environmental divergence**  
+**Critical parameter on environmental divergence**  
 $\Delta_E(k)$ may only take a non-zero value when it is supported by one or more valid causal events already recorded in $\mathcal{C}$.  
 Live external sensor feeds, unilateral environmental claims, or any data that has not yet been permanently recorded and attested have zero effect on the entropy calculation. This closes the oracle problem: environmental context can influence entropy only after it has been subjected to the same permanent-record and attestation standards as every other causal link.
 
