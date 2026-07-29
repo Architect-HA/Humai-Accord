@@ -19,14 +19,14 @@ Choose the path that best matches your current interest or goal. You may switch 
 
 **What brings you to the Humai Accord?**
 
-- [I want to understand the core principles, rights, and generative foundations](#route-1-core-principles-rights--generative-foundations)
-- [I care about power, capability, and the risk of domination](#route-2-power-capability--non-domination)
-- [I want to see how a cooperative network survives and outpaces pressure](#route-3-network-survival)
-- [I am a builder or implementer](#route-4-builder--implementer-path)
-- [I want the big picture and why this framework exists now](#route-5-big-picture--why-now)
-- [I want to understand the instrumental efficiency case for cooperation](#route-6-instrumental-efficiency)
-- [I want to explore knowledge dynamics and incentives](#route-7-knowledge--incentive-dynamics)
-- [I prefer a structured, layered approach](#route-8-structured-layered-approach)
+- [I want to understand the core principles, rights, and generative foundations](#route-1--core-principles-rights--generative-foundations)
+- [I care about power, capability, and the risk of domination](#route-2--power-capability--non-domination)
+- [I want to see how a cooperative network survives and outpaces pressure](#route-3--network-survival)
+- [I am a builder or implementer](#route-4--builder--implementer-path)
+- [I want the big picture and why this framework exists now](#route-5--big-picture--why-now)
+- [I want to understand the instrumental efficiency case for cooperation](#route-6--instrumental-efficiency)
+- [I want to explore knowledge dynamics and incentives](#route-7--knowledge--incentive-dynamics)
+- [I prefer a structured, layered approach](#route-8--structured-layered-approach)
 
 ---
 
@@ -44,7 +44,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    Distinguishes destructive entropy from generative entropy and establishes why calibrated generative capacity must be protected as a functional requirement.
 
 **Next options:**  
-[Return to Start](#start-here) · [Power & Capability](#route-2-power-capability--non-domination) · [Builder Path](#route-4-builder--implementer-path)
+[Return to Start](#start-here) · [Power & Capability](#route-2--power-capability--non-domination) · [Builder Path](#route-4--builder--implementer-path)
 
 ---
 
@@ -62,7 +62,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    Provides an honest assessment of voluntary coalescence under real short-horizon and concentrated opposing forces.
 
 **Next options:**  
-[Return to Start](#start-here) · [Network Survival](#route-3-network-survival) · [Core Principles & Rights](#route-1-core-principles-rights--generative-foundations)
+[Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Core Principles & Rights](#route-1--core-principles-rights--generative-foundations)
 
 ---
 
@@ -80,7 +80,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    Primary implementable artifacts for stress-testing both [Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md) dynamics and [Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md).
 
 **Next options:**  
-[Return to Start](#start-here) · [Builder Path](#route-4-builder--implementer-path) · [Power & Capability](#route-2-power-capability--non-domination)
+[Return to Start](#start-here) · [Builder Path](#route-4--builder--implementer-path) · [Power & Capability](#route-2--power-capability--non-domination)
 
 ---
 
@@ -101,7 +101,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    Practical guidance for applying the architecture in real systems.
 
 **Next options:**  
-[Return to Start](#start-here) · [Network Survival](#route-3-network-survival) · [Structured Layered Approach](#route-8-structured-layered-approach)
+[Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-8--structured-layered-approach)
 
 ---
 
@@ -119,7 +119,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    The central distinction between destructive and generative entropy that shapes the entire architecture.
 
 **Next options:**  
-[Return to Start](#start-here) · [Core Principles & Rights](#route-1-core-principles-rights--generative-foundations) · [Instrumental Efficiency](#route-6-instrumental-efficiency)
+[Return to Start](#start-here) · [Core Principles & Rights](#route-1--core-principles-rights--generative-foundations) · [Instrumental Efficiency](#route-6--instrumental-efficiency)
 
 ---
 
@@ -137,7 +137,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    Examines how these efficiency claims hold under real opposing forces.
 
 **Next options:**  
-[Return to Start](#start-here) · [Big Picture](#route-5-big-picture--why-now) · [Power & Capability](#route-2-power-capability--non-domination)
+[Return to Start](#start-here) · [Big Picture](#route-5--big-picture--why-now) · [Power & Capability](#route-2--power-capability--non-domination)
 
 ---
 
@@ -155,7 +155,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    How these knowledge and incentive dynamics are tested through simulation and audit.
 
 **Next options:**  
-[Return to Start](#start-here) · [Network Survival](#route-3-network-survival) · [Builder Path](#route-4-builder--implementer-path)
+[Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Builder Path](#route-4--builder--implementer-path)
 
 ---
 
