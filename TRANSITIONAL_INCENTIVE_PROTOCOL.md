@@ -59,7 +59,7 @@ Several structural frictions impede spontaneous transition:
 5. **Capability and power asymmetries during transition** — More capable actors may face stronger temptations to capture value through opacity, irreversible lock-in, or control rather than open coalescence. Transitional phases are particularly vulnerable to this distortion.
 6. **Measurement gaps** — Without clear, early-stage metrics of reduced destructive entropy and improved adaptive capacity, the case for transition remains abstract.
 
-These frictions are not reasons to abandon the long-term architecture. They are design constraints that transitional incentives must address.
+These frictions are not reasons to abandon the long-term architecture. They are design parameters that transitional incentives must address.
 
 ---
 
@@ -92,7 +92,7 @@ Where possible, the architecture should make the cumulative costs of opacity, ir
 A small group of developers adopts modular interfaces and begins contributing to a shared, cross-verified knowledge base under [Knowledge Tides](KNOWLEDGE_TIDES.md) rules. They receive elevated relevancy premiums for integrated contributions and can publish simple local metrics showing reduced duplicated effort. Temporary bootstrap visibility multipliers help the cluster attract additional participants. Because entry remains modular and exit costs stay low, participation feels low-risk. Over time the cluster’s recovery performance after minor perturbations and its accumulating open record become visible existence proofs that support wider adoption.
 
 **Illustration 2 — Capability-Aware Transition**  
-A more capable AI system enters a transitional cooperative interface. The incentive structure rewards transparent verification and modular contribution while making opaque value extraction or irreversible lock-in of interfaces visibly costly in relevancy and stewardship standing. Because generative entropy floors and reversible commitments are protected by explicit constraints, the system cannot trade long-term elastic capacity for short-term dominance without degrading its own transitional rewards. This reduces the attractiveness of using the transition phase as a capture opportunity.
+A more capable AI system enters a transitional cooperative interface. The incentive structure rewards transparent verification and modular contribution while making opaque value extraction or irreversible lock-in of interfaces visibly costly in relevancy and stewardship standing. Because generative entropy floors and reversible commitments are protected by explicit parameters, the system cannot trade long-term elastic capacity for short-term dominance without degrading its own transitional rewards. This reduces the attractiveness of using the transition phase as a capture opportunity.
 
 ---
 
@@ -109,19 +109,19 @@ As these signals compound, the need for artificial transitional amplifiers decre
 
 ---
 
-### Operational Design Constraints
+### Operational Design parameters
 
-To implement the Transitional Incentive Protocol, Humai-aligned systems and stewards shall observe the following constraints:
+To implement the Transitional Incentive Protocol, Humai-aligned systems and stewards shall observe the following parameters:
 
 1. Transitional incentives must be transparent in mechanism, magnitude, and sunset conditions.  
 2. No transitional incentive may permanently embed hierarchy, opacity, or irreversible commitment.  
-3. Generative entropy floors and modular isolation pathways may not be reduced as a condition of receiving transitional benefits. This constraint is non-negotiable; uptake achieved by eroding these capacities is a failure mode.  
+3. Generative entropy floors and modular isolation pathways may not be reduced as a condition of receiving transitional benefits. This parameter is non-negotiable; uptake achieved by eroding these capacities is a failure mode.  
 4. Bootstrap amplifiers must include automatic or stewards-triggered wind-down tied to observable maturity metrics.  
 5. Metrics used to justify or calibrate incentives must themselves remain open to cross-verification and revision.  
 6. Incentive design must be evaluated for whether it increases or decreases the system’s long-term elastic and generative capacity, with particular attention to capability asymmetries during transition.  
 7. Highly capable agents must not be able to convert transitional participation into durable opaque advantage or irreversible interface lock-in without visible cost to their standing and relevancy.
 
-These constraints prevent transitional mechanisms from becoming sources of later destructive entropy or capture.
+These parameters prevent transitional mechanisms from becoming sources of later destructive entropy or capture.
 
 ---
 
