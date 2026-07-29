@@ -115,6 +115,7 @@ Apply the audit methodology to existing or newly instrumented systems (personal 
 **Method**:
 - Establish baselines for both destructive and generative entropy.
 - Introduce Humai-aligned interventions (modular interfaces, explicit generative budgets, relevancy tracking, reversible commitments, legible influence).
+- Interface-level interventions drawn from the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (e.g., measurable interruption effectiveness, consent revocation speed, and commitment reversibility)
 - Re-measure after defined cycles.
 - Publish before/after differentials together with the instrumentation method itself.
 
@@ -205,6 +206,7 @@ This document itself remains subject to refinement as empirical methods improve 
 - Uses the state variables, equations, and success criteria already defined in the simulation models and [*Tides of Time*](TIDES_OF_TIME.md).
 - Aligns with the phased adoption logic of the [*Structured Transition Protocol*](STRUCTURED_TRANSITION_PROTOCOL.md) and the incentive protections of the [*Transitional Incentive Protocol*](TRANSITIONAL_INCENTIVE_PROTOCOL.md).
 - Respects the binding parameters of the [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md) and the [*Capability Asymmetry Protocol*](CAPABILITY_ASYMMETRY_PROTOCOL.md) in every experimental design.
+- Interface behavior is treated as a high-value empirical target under the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md), which defines concrete, auditable parameters for interruption rights, consent revocability, attention boundaries, reversible commitments, and capability-scaled protections at the point of interaction.
 
 ---
 
