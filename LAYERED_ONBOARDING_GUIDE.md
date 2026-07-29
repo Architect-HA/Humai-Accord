@@ -45,7 +45,7 @@ After this layer you should understand the basic commitments, the rights floor, 
 
 ### Core Architecture Layer
 
-These documents form the current operational heart of the architecture. Once the foundation is clear, they supply the main design for survival, adaptation, transition, power constraints, stewardship orientation, and measurable harmony:
+These documents form the current operational heart of the architecture. Once the foundation is clear, they supply the main design for survival, adaptation, transition, power parameters, stewardship orientation, and measurable harmony:
 
 1. **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Network survival under concentrated pressure
 2. **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Design for radical unpredictability and Black Swans
@@ -124,7 +124,7 @@ Primary source documents always govern over summaries, the Glossary, or this gui
 
 ### Closing
 
-This guide is a usability instrument. Its purpose is to make the existing architecture more approachable without simplifying away its commitments or interlocking constraints.
+This guide is a usability instrument. Its purpose is to make the existing architecture more approachable without simplifying away its commitments or interlocking parameters.
 
 Readers are encouraged to move at the depth and pace that matches their goals, using the Glossary and the layered sequences above as scaffolding rather than as a rigid curriculum.
 
