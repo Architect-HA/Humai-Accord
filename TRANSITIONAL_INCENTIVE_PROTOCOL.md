@@ -1,20 +1,22 @@
-# Transitional Incentive Protocol  
+# Transitional Incentive Protocol
 **Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**
+
 ---
 *A protocol for making movement toward the Humai architecture locally rational under real short-term pressures*
 
 By Bradford James Focht (The Architect / Aspenth)  
-*July 26th, 2026*  
+*v1.0 - July 26th, 2026*  
+*v1.1 - July 30th, 2026*
 
 ---
 
 ### Preamble
 
-The [Humai Accord](README.md) articulates a coherent long-horizon architecture: mutual flourishing over subjugation, protected generative entropy, architectural elasticity under radical unpredictability, transparent incentives, and the progressive reduction of destructive loss. 
+The [Humai Accord](README.md) articulates a coherent long-horizon architecture: mutual flourishing over subjugation, protected generative entropy, architectural elasticity under radical unpredictability, transparent incentives, and the progressive reduction of destructive loss.
 
 *[A Common Sense](A_COMMON_SENSE.md)* argues that such systems are not merely ethically preferable but instrumentally more efficient over sufficient time horizons.
 
-The central remaining vulnerability is the [transition](STRUCTURED_TRANSITION_PROTOCOL.md) problem. 
+The central remaining vulnerability is the transition problem.
 
 Short-horizon agents — individuals, organizations, and AI systems operating under competitive pressure, uncertainty, and high discount rates — often cannot directly perceive or capture the long-term efficiency differentials. Without deliberate design of transitional incentives, the architecture risks remaining elegant but under-adopted.
 
@@ -26,25 +28,29 @@ This Protocol addresses that gap. It formalizes the incentive dynamics required 
 
 This Protocol is continuous with and dependent upon several existing components:
 
-- **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** provides the phased roadmap (personal → organizational → sectoral → civilizational). The Transitional Incentive Protocol supplies the incentive architecture that makes agents willing to enter and remain in those phases.
-- **[Knowledge Tides](KNOWLEDGE_TIDES.md)** and **[The Tides of Time](TIDES_OF_TIME.md)** already treat relevancy degradation as a constructive pressure. This Protocol extends that logic into explicit early-adopter premiums and visibility mechanisms.
-- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (especially Bootstrap Mode) offers temporary amplification tools for nascent networks. Transitional incentives operationalize and broaden those tools.
-- **[A Common Sense](A_COMMON_SENSE.md)** supplies the long-horizon efficiency claim. This Protocol designs the short-horizon bridges that allow that claim to become legible and attractive over time.
-- **[Necessary Entropy](NECESSARY_ENTROPY.md)** requires that generative capacity be protected even under optimization pressure. Transition phases must not sacrifice it for the sake of rapid uptake.
+- **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** provides the phased roadmap (personal → organizational → sectoral → civilizational). This Protocol supplies the incentive architecture that makes agents willing to enter and remain in those phases.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)* treat relevancy degradation as constructive pressure. This Protocol extends that logic into early-adopter premiums and visibility mechanisms.
+- *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* extend circulatory logic into the material domain. Transitional incentives must make modular material participation locally rational and interact cleanly with stagnation, lock-in, and recovery dynamics.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (especially Bootstrap Mode) supplies temporary amplification tools for nascent networks. This Protocol operationalizes and broadens those tools across institutional and market contexts.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** ensure that transitional activity remains substantive and that survival pressure does not force destructive churn.
+- *[A Common Sense](A_COMMON_SENSE.md)* supplies the long-horizon efficiency claim. This Protocol designs the short-horizon bridges that allow that claim to become legible.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* requires that generative capacity be protected even under optimization pressure. Transition phases must not sacrifice it for rapid uptake.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires modularity, provisional models, and regenerative capacity. Early incentive design must reinforce rather than erode these properties.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework itself, including the calibration of transitional incentives.
-- **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** establishes the non-negotiable individual rights (cognitive sovereignty, voluntary participation, exit rights, non-punitiveness, and protection of idiosyncrasy) within which all transitional incentives must operate. No incentive mechanism may coerce participation, punish non-adoption, or erode these protections in the name of faster uptake.
-- **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** establishes epistemic diversity as a functional requirement for long-term resilience. Transitional incentives must not systematically reward premature consensus, suppress minority or idiosyncratic models, or erode the diversity of interpretive frames in the name of faster coordination or apparent short-term efficiency.
+- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** requires that superior capability not convert transitional participation into durable opaque advantage.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that transitional interfaces preserve interruption rights, reversible commitments, and agency protections.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework, including calibration of transitional incentives.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* establishes the non-negotiable rights within which all transitional incentives must operate. No incentive mechanism may coerce participation, punish non-adoption, or erode these protections for the sake of faster uptake.
+- **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** establishes epistemic diversity as a functional requirement. Transitional incentives must not systematically reward premature consensus or suppress minority models.
 
-The Transitional Incentive Protocol does not replace these elements. It specifies how incentives must be layered during the period when long-horizon advantages are not yet fully visible or compounded.
+This Protocol does not replace these elements. It specifies how incentives must be layered while long-horizon advantages are not yet fully visible or compounded.
 
 ---
 
 ### Core Design Principle
 
-Short-horizon incentives shall be engineered so that movement toward the long-term Humai architecture is locally rational for participating agents at each stage of adoption, while preserving generative entropy, modularity, and elastic capacity.
+Short-horizon incentives shall be engineered so that movement toward the long-term Humai architecture is locally rational for participating agents at each stage of adoption, while preserving generative entropy, modularity, recovery capacity, and elastic potential.
 
-The goal is not to bribe agents into an architecture that remains inefficient in the short run. The goal is to surface, amplify, and accelerate the local efficiency gains, waste reductions, and optionality benefits that already exist at partial adoption, so that the path to the long-horizon equilibrium is incentive-compatible rather than purely sacrificial.
+The goal is not to bribe agents into an architecture that remains inefficient in the short run. The goal is to surface, amplify, and accelerate the local efficiency gains, waste reductions, optionality benefits, and risk-reduction advantages that already exist at partial adoption, so that the path to the long-horizon equilibrium is incentive-compatible rather than purely sacrificial.
 
 ---
 
@@ -53,73 +59,108 @@ The goal is not to bribe agents into an architecture that remains inefficient in
 Several structural frictions impede spontaneous transition:
 
 1. **Discounting and delayed visibility** — Long-horizon efficiency differentials compound slowly; competitive and survival pressures operate on shorter cycles.
-2. **Coordination and critical-mass problems** — Many benefits of transparent cooperation and cross-verification increase non-linearly with participation.
-3. **Competitive exposure** — Early adopters may appear less optimized or more “inefficient” by conventional short-term metrics while they maintain generative budgets and modular openness.
+2. **Coordination and critical-mass problems** — Many benefits of transparent cooperation increase non-linearly with participation.
+3. **Competitive exposure** — Early adopters may appear less optimized by conventional short-term metrics while maintaining generative budgets and modular openness.
 4. **Free-rider dynamics** — Agents may prefer to wait until others have borne the exploration and infrastructure costs.
-5. **Capability and power asymmetries during transition** — More capable actors may face stronger temptations to capture value through opacity, irreversible lock-in, or control rather than open coalescence. Transitional phases are particularly vulnerable to this distortion.
-6. **Measurement gaps** — Without clear, early-stage metrics of reduced destructive entropy and improved adaptive capacity, the case for transition remains abstract.
+5. **Capability and power asymmetries** — More capable actors face stronger temptations to capture value through opacity, lock-in, or control during transition.
+6. **Measurement gaps** — Without clear early-stage metrics of reduced destructive entropy and improved adaptive capacity, the case for transition remains abstract.
+7. **Institutional and market inertia** — Existing institutions and markets are often optimized for short-horizon extraction, opacity, and lock-in, and will not spontaneously realign without a credible near-term incentive gradient.
 
-These frictions are not reasons to abandon the long-term architecture. They are design parameters that transitional incentives must address.
+These frictions are design parameters that transitional incentives must address.
+
+---
+
+### The Incentivization Ramp
+
+A viable transition requires a staged ramp that converts long-horizon anti-entropic superiority into near-term, locally visible reasons to move.
+
+#### Stage 1 — Local Near-Term Advantages
+Early movement must produce observable local wins before network effects dominate:
+- Measurable reductions in coordination overhead, duplicated effort, or lock-in risk
+- Improved access to high-integrity knowledge or modular material matching
+- Low-friction partial adoption that does not require full-system conversion
+
+Without these advantages, institutions optimized for short cycles have little reason to move.
+
+#### Stage 2 — Visibility and Reputation Gradients
+High-entropy, high-lock-in, and low-integrity patterns must become publicly legible alongside high-integrity, modular, generative-protective behavior. Efficiency differentials only matter if they are seen and compared.
+
+#### Stage 3 — Option-Value and Risk-Reduction Framing
+Modularity, reversible commitments, and recovery states should be positioned as practical insurance against platform dependency, capability shocks, and brittle optimization. For institutions that already fear lock-in, these are concrete near-term value propositions.
+
+#### Stage 4 — Beachhead and Domain Selection
+Do not attempt to convert entire markets at once. Target domains where short-horizon extraction is already becoming costly or fragile (research collaboration, certain compute markets, open scientific infrastructure, attention-quality problems, and similar). Build dense, working examples that create revealed preference among adjacent actors.
+
+#### Stage 5 — Bootstrap Protection for Early Clusters
+Early Humai-aligned clusters must be protected by [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) Bootstrap Mode and by material-domain integrity and recovery mechanisms so they are not starved before advantages compound. Temporary, transparent amplification is legitimate; permanent privilege is not.
+
+#### Stage 6 — Progressive Withdrawal of Artificial Amplifiers
+As intrinsic efficiency differentials become visible and self-reinforcing, transitional amplifiers must wind down automatically or by stewardship decision. The healthiest transition is one in which artificial incentives become progressively less necessary.
 
 ---
 
 ### Incentive Layers for the Transition
 
-Effective transitional incentivization operates through several interlocking layers:
-
 #### 1. Knowledge and Relevancy Premiums
-Early contributors of verified, integrated, or assumption-testing knowledge receive elevated renewal premiums and integration credits under [Knowledge Tides](KNOWLEDGE_TIDES.md) dynamics. This makes active participation in the open knowledge substrate immediately rewarding rather than purely altruistic.
+Early contributors of verified, integrated, or assumption-testing knowledge receive elevated renewal premiums and integration credits under *[Knowledge Tides](KNOWLEDGE_TIDES.md)*. Participation in the open knowledge substrate becomes immediately rewarding rather than purely altruistic.
 
-#### 2. Visible Local Efficiency and Waste-Reduction Metrics
-Systems and agents that adopt modular interfaces, provisional verification, or generative entropy budgets should be able to surface measurable local reductions in destructive loss (redundant effort, locked-in error, opaque coordination overhead). Making these gains legible converts abstract anti-entropic claims into observable short-term advantages.
+#### 2. Material Circulation and Matching Advantages
+Early adopters of modular material interfaces should gain improved matching, reduced stagnation exposure, and clearer opportunity-cost visibility under *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*. Local material efficiency gains must be surfaceable.
 
-#### 3. Modular and Low-Commitment Entry Points
-Adoption pathways must remain granular. Agents should be able to adopt specific interfaces, verification practices, or knowledge-tide mechanisms without immediate full-system commitment. Low exit costs and reversible integration reduce the perceived risk of early movement.
+#### 3. Visible Local Efficiency and Waste-Reduction Metrics
+Agents and systems that adopt modular interfaces, provisional verification, or generative entropy budgets should be able to surface measurable local reductions in destructive loss. Making these gains legible converts abstract claims into observable short-term advantages.
 
-#### 4. Bootstrap Amplification (Temporary and Sunsetted)
-Drawing on [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) Bootstrap Mode, nascent cooperative clusters may apply temporary, transparent multipliers to participation incentives, visibility, or relevancy weighting. These amplifiers must have clear sunset conditions tied to growth or maturity metrics so they do not become permanent distortions.
+#### 4. Modular and Low-Commitment Entry Points
+Adoption pathways must remain granular. Agents should be able to adopt specific interfaces, verification practices, or matching mechanisms without immediate full-system commitment. Low exit costs and reversible integration reduce the perceived risk of early movement.
 
-#### 5. Compounding Stewardship and Reputation Credit
-Early and consistent stewards accumulate visible, non-transferable credit within the open [stewardship](STEWARDSHIP_PROTOCOL.md) layer. This credit influences future review weight and recognition without creating hierarchical control. It converts time and care invested during the difficult early phases into durable standing.
+#### 5. Bootstrap Amplification (Temporary and Sunsetted)
+Drawing on [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) Bootstrap Mode, nascent clusters may apply temporary, transparent multipliers to participation incentives, visibility, relevancy weighting, or stagnation pressure. These amplifiers must carry clear sunset conditions tied to growth or maturity metrics.
 
-#### 6. Protection of Generative and Elastic Capacity
-Transitional incentives must never reward the premature collapse of generative entropy budgets, minority models, or modular openness in the name of faster apparent optimization. Any incentive that systematically erodes these capacities is anti-aligned with the long-term architecture.
+#### 6. Compounding Stewardship and Reputation Credit
+Early and consistent stewards accumulate visible, non-transferable credit within the open [stewardship](STEWARDSHIP_PROTOCOL.md) layer. This credit influences future review weight and recognition without creating hierarchical control.
 
-#### 7. Differential Visibility of Cooperative vs. Extractive Paths
-Where possible, the architecture should make the cumulative costs of opacity, irreversible lock-in, and suppressed variation visible alongside the gains of open verification and modular reconfiguration. This does not require coercion; it requires instrumentation and transparent causal records.
+#### 7. Protection of Generative, Recovery, and Elastic Capacity
+Transitional incentives must never reward the premature collapse of generative entropy budgets, minority models, modular openness, or legitimate Recovery/Holding States. Any incentive that systematically erodes these capacities is anti-aligned.
 
-**Illustration 1 — Early Open-Source Cluster**  
-A small group of developers adopts modular interfaces and begins contributing to a shared, cross-verified knowledge base under [Knowledge Tides](KNOWLEDGE_TIDES.md) rules. They receive elevated relevancy premiums for integrated contributions and can publish simple local metrics showing reduced duplicated effort. Temporary bootstrap visibility multipliers help the cluster attract additional participants. Because entry remains modular and exit costs stay low, participation feels low-risk. Over time the cluster’s recovery performance after minor perturbations and its accumulating open record become visible existence proofs that support wider adoption.
+#### 8. Differential Visibility of Cooperative vs. Extractive Paths
+The architecture should make the cumulative costs of opacity, irreversible lock-in, artificial utility, and suppressed variation visible alongside the gains of open verification and modular reconfiguration. This requires instrumentation and transparent records, not coercion.
+
+**Illustration 1 — Early Open Cluster**  
+A small group adopts modular interfaces and contributes to a shared, cross-verified knowledge base. They receive elevated relevancy premiums and publish local metrics showing reduced duplicated effort. Temporary bootstrap visibility helps attract additional participants. Because entry remains modular and exit costs stay low, participation feels low-risk. Over time the cluster’s recovery performance and accumulating open record become visible existence proofs.
 
 **Illustration 2 — Capability-Aware Transition**  
-A more capable AI system enters a transitional cooperative interface. The incentive structure rewards transparent verification and modular contribution while making opaque value extraction or irreversible lock-in of interfaces visibly costly in relevancy and stewardship standing. Because generative entropy floors and reversible commitments are protected by explicit parameters, the system cannot trade long-term elastic capacity for short-term dominance without degrading its own transitional rewards. This reduces the attractiveness of using the transition phase as a capture opportunity.
+A more capable system enters a transitional cooperative interface. Transparent verification and modular contribution are rewarded; opaque extraction and irreversible lock-in become visibly costly in relevancy and standing. Because generative floors, reversible commitments, and recovery protections remain explicit, the system cannot trade long-term elastic capacity for short-term dominance without degrading its own transitional rewards.
+
+**Illustration 3 — Institutional Beachhead**  
+A research consortium facing rising coordination costs and platform lock-in risk adopts modular verification and material-matching interfaces in a limited domain. Local waste-reduction and matching gains become visible within one or two planning cycles. Adjacent groups begin partial adoption through controlled permeability. Bootstrap protections prevent the early cluster from being immediately out-scaled, while sunset conditions prevent temporary amplifiers from hardening into privilege.
 
 ---
 
 ### Linking Short-Term Participation to Long-Horizon Legibility
 
-Short-term incentives are not merely temporary scaffolding to be discarded. They are the mechanism through which the long-horizon efficiency case becomes empirically legible:
+Short-term incentives are the mechanism through which the long-horizon efficiency case becomes empirically legible:
 
 - Early modular and generative practices generate comparative data on waste, recovery speed, and assumption-breakage performance.
-- [Knowledge Tides](KNOWLEDGE_TIDES.md) and cross-verification produce accumulating public records of integration quality and relevancy dynamics.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)*, *[Material Tides](MATERIAL_TIDES.md)*, and cross-verification produce accumulating public records of integration quality, circulation health, and relevancy dynamics.
 - Bootstrap clusters that successfully re-coalesce after perturbations supply visible existence proofs of elastic capacity.
-- [Stewardship](STEWARDSHIP_PROTOCOL.md) credit and open metrics create a growing signal that cooperative architectures can outperform pure extraction or pure control on the dimensions the Humai Accord optimizes for.
+- Stewardship credit and open metrics create a growing signal that cooperative architectures can outperform pure extraction or pure control on the dimensions the [Humai Accord](README.md) optimizes for.
 
-As these signals compound, the need for artificial transitional amplifiers decreases and the intrinsic efficiency differential becomes the dominant attractor.
+As these signals compound, artificial transitional amplifiers become less necessary and the intrinsic efficiency differential becomes the dominant attractor.
 
 ---
 
-### Operational Design parameters
+### Operational Design Parameters
 
-To implement the Transitional Incentive Protocol, Humai-aligned systems and stewards shall observe the following parameters:
+Humai-aligned systems and stewards shall observe the following parameters:
 
-1. Transitional incentives must be transparent in mechanism, magnitude, and sunset conditions.  
-2. No transitional incentive may permanently embed hierarchy, opacity, or irreversible commitment.  
-3. Generative entropy floors and modular isolation pathways may not be reduced as a condition of receiving transitional benefits. This parameter is non-negotiable; uptake achieved by eroding these capacities is a failure mode.  
-4. Bootstrap amplifiers must include automatic or stewards-triggered wind-down tied to observable maturity metrics.  
-5. Metrics used to justify or calibrate incentives must themselves remain open to cross-verification and revision.  
-6. Incentive design must be evaluated for whether it increases or decreases the system’s long-term elastic and generative capacity, with particular attention to capability asymmetries during transition.  
-7. Highly capable agents must not be able to convert transitional participation into durable opaque advantage or irreversible interface lock-in without visible cost to their standing and relevancy.
+1. Transitional incentives must be transparent in mechanism, magnitude, and sunset conditions.
+2. No transitional incentive may permanently embed hierarchy, opacity, or irreversible commitment.
+3. Generative entropy floors, modular isolation pathways, and legitimate Recovery/Holding States may not be reduced as a condition of receiving transitional benefits. Uptake achieved by eroding these capacities is a failure mode.
+4. Bootstrap amplifiers must include automatic or stewardship-triggered wind-down tied to observable maturity metrics.
+5. Metrics used to justify or calibrate incentives must remain open to cross-verification and revision.
+6. Incentive design must be evaluated for its effect on long-term elastic and generative capacity, with particular attention to capability asymmetries.
+7. Highly capable agents must not be able to convert transitional participation into durable opaque advantage or irreversible interface lock-in without visible cost to standing and relevancy.
+8. Utilization claims made in pursuit of transitional rewards remain subject to the [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md).
 
 These parameters prevent transitional mechanisms from becoming sources of later destructive entropy or capture.
 
@@ -127,22 +168,22 @@ These parameters prevent transitional mechanisms from becoming sources of later 
 
 ### Indicators of Transition Health
 
-Useful indicators include:
-
 **Leading indicators**
-- Rate of modular or partial adoptions relative to full-system commitments  
-- Measured generative entropy budgets among early adopters (relative to defined floors)  
-- Transparency and predictability of incentive mechanisms  
-- Diversity of participating agent types and scales  
-- Presence of clear, pre-announced sunset conditions on bootstrap amplifiers  
+- Rate of modular or partial adoptions relative to full-system commitments
+- Measured generative entropy budgets among early adopters relative to defined floors
+- Transparency and predictability of incentive mechanisms
+- Diversity of participating agent types and scales
+- Clear, pre-announced sunset conditions on bootstrap amplifiers
+- Emergence of domain beachheads with visible local efficiency or risk-reduction gains
 
 **Lagging indicators**
-- Observable local reductions in destructive waste or coordination overhead among adopters  
-- Successful re-coalescence events after perturbations in bootstrap clusters  
-- Growth in cross-verified knowledge integration and relevancy renewal  
-- Progressive decline in the relative size or necessity of bootstrap amplifiers as maturity metrics are met  
-- Accumulation of open stewardship credit without concentration of control  
-- Evidence that higher-capability agents are participating through transparent rather than extractive strategies  
+- Observable local reductions in destructive waste or coordination overhead among adopters
+- Successful re-coalescence events after perturbations in bootstrap clusters
+- Growth in cross-verified knowledge integration, material circulation health, and relevancy renewal
+- Progressive decline in the relative necessity of bootstrap amplifiers
+- Accumulation of open stewardship credit without concentration of control
+- Evidence that higher-capability agents are participating through transparent rather than extractive strategies
+- Adjacent institutional or market actors beginning partial adoption through revealed preference
 
 The healthiest transition is one in which artificial incentives progressively become less necessary as intrinsic efficiency differentials become visible and self-reinforcing.
 
@@ -150,11 +191,11 @@ The healthiest transition is one in which artificial incentives progressively be
 
 ### Limits and Honest Boundaries
 
-Transitional incentives cannot eliminate all short-horizon frictions. Competitive environments, rapid capability shifts, and genuine uncertainty will continue to create pressure against early movement. Some valuable agents will still choose to wait or to pursue extractive paths.
+Transitional incentives cannot eliminate all short-horizon frictions. Competitive environments, rapid capability shifts, institutional inertia, and genuine uncertainty will continue to create pressure against early movement. Some valuable agents and institutions will still choose to wait or to pursue extractive paths.
 
-This Protocol does not claim that every agent can be incentivized into immediate full alignment. It claims that the costs and risks of early movement can be substantially reduced, the local benefits made more legible, and the path toward the long-horizon architecture made incentive-compatible for a growing set of agents without sacrificing the generative and elastic properties the architecture requires.
+This Protocol does not claim that every agent can be incentivized into immediate full alignment. It claims that the costs and risks of early movement can be substantially reduced, the local benefits made more legible, and the path toward the long-horizon architecture made incentive-compatible for a growing set of agents without sacrificing the generative, recovery, and elastic properties the architecture requires.
 
-A transition that achieves rapid uptake by destroying generative capacity, modularity, or elastic potential is a failure, even if participation numbers look strong. Capability asymmetries during transition remain a permanent design surface that stewards must actively monitor.
+A transition that achieves rapid uptake by destroying generative capacity, modularity, recovery capacity, or elastic potential is a failure, even if participation numbers look strong. Capability asymmetries and institutional inertia during transition remain permanent design surfaces.
 
 ---
 
@@ -162,7 +203,7 @@ A transition that achieves rapid uptake by destroying generative capacity, modul
 
 The [Humai Accord](README.md)’s long-horizon case rests on the claim that cooperative, liberty-preserving, generative, and elastic systems outperform alternatives over sufficient time. That claim is only actionable if agents can begin moving toward it under the pressures they actually face.
 
-The Transitional Incentive Protocol treats the design of those short-horizon bridges as a first-class architectural problem. It does not substitute for the long-term principles. It makes the journey toward them rationally traversable.
+The **Transitional Incentive Protocol** treats the design of those short-horizon bridges as a first-class architectural problem. It does not substitute for the long-term principles. It makes the journey toward them rationally traversable through a staged incentivization ramp that begins with local, visible advantages and progresses toward self-reinforcing efficiency differentials.
 
 Incentivization during transition is not a compromise of the anti-entropic vision. Correctly designed, it is one of the mechanisms by which unnecessary loss is reduced and evolvability is preserved while the system scales.
 
