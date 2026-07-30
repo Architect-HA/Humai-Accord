@@ -223,7 +223,7 @@ Provides a non-coercive, empirically observable method for a nascent cooperative
 
 *Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency*
 
-Addresses the critical transition problem of making early movement toward the Humai architecture locally rational under real short-term pressures. It formalizes incentive layers — including knowledge and relevancy premiums, visible local efficiency metrics, modular low-commitment entry points, sunsetted bootstrap amplification, compounding stewardship credit, and explicit protection of generative and elastic capacity — so that adoption remains incentive-compatible without sacrificing the long-term properties the system requires. It links short-horizon participation to the progressive legibility of long-horizon efficiency differentials.
+Addresses the critical transition problem of making early movement toward the Humai architecture locally rational under real short-term pressures. It formalizes a staged incentivization ramp — from near-term local efficiency and risk-reduction advantages, through visibility gradients and beachhead selection, to bootstrap protection and the progressive withdrawal of artificial amplifiers — along with supporting incentive layers such as relevancy premiums, modular low-commitment entry points, stewardship credit, and explicit protection of generative, recovery, and elastic capacity. The goal is incentive-compatible adoption without sacrificing the long-term properties the system requires.
 
 [→ Read the **Transitional Incentive Protocol**](TRANSITIONAL_INCENTIVE_PROTOCOL.md)
 
@@ -514,6 +514,7 @@ March 20th, 2026 - ongoing
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
 - Added **Circulation Recovery Protocol**, which establishes legitimate rest, recovery, and holding states for both materials and knowledge so that circulation and relevancy pressure cannot become destructive through forced churn, physical wear, or burnout.
 - Updated **Fluid Coalescence Protocol** with a strengthened Bootstrap Mode that explicitly addresses material-domain cold-start vulnerability, including circulation density thresholds, recovery-state precedence, and integration with *Material Tides*, *Tides of Circulation*, Utilization Integrity Protocol, and Circulation Recovery Protocol; updated section description to reflect the change.
+- Updated **Transitional Incentive Protocol** with a full staged incentivization ramp for institutional and market adoption, including near-term local advantages, visibility gradients, option-value framing, beachhead selection, bootstrap protection, and progressive withdrawal of artificial amplifiers, while preserving generative, recovery, and elastic capacity.
 
 **[July 29th, 2026]**  
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
