@@ -365,7 +365,9 @@ A logical efficiency analysis addressed to advanced artificial systems. It argue
 
 ## Somatic Resonance Theory
 
-*Somatic Resonance Theory of Frisson* — An embodied conceptual framework proposing that aesthetic chills (frisson) arise when external musical or emotional stimuli interact with the listener’s own micro-movements to generate internal harmonic resonance.
+*Somatic Resonance Theory of Frisson* 
+
+An embodied conceptual framework proposing that aesthetic chills (frisson) arise when external musical or emotional stimuli interact with the listener’s own micro-movements to drive a multi-tissue threshold of internal harmonic resonance across the body’s heterogeneous materials.
 
 [→ Read the **Somatic Resonance Theory of Frisson**](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)
 
@@ -516,6 +518,7 @@ March 20th, 2026 - ongoing
 - Updated **Fluid Coalescence Protocol** with a strengthened Bootstrap Mode that explicitly addresses material-domain cold-start vulnerability, including circulation density thresholds, recovery-state precedence, and integration with *Material Tides*, *Tides of Circulation*, Utilization Integrity Protocol, and Circulation Recovery Protocol; updated section description to reflect the change.
 - Updated **Transitional Incentive Protocol** with a full staged incentivization ramp for institutional and market adoption, including near-term local advantages, visibility gradients, option-value framing, beachhead selection, bootstrap protection, and progressive withdrawal of artificial amplifiers, while preserving generative, recovery, and elastic capacity.
 - Updated keywords list at top of README.
+- Updated **Somatic Resonance Theory of Frisson** to v1.2, expanding the concept as well as updated the README section to reflect the changes.
 
 **[July 29th, 2026]**  
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
