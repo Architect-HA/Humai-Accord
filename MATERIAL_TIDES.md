@@ -84,6 +84,10 @@ The two systems are complementary:
 - Materials without relevant knowledge and agency remain misallocated.
 - Both benefit from modularity, legibility, and resistance to irreversible capture.
 
+### Quantitative Foundation
+
+Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for Knowledge Tides, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost.
+
 ---
 
 ## Alignment with Core Humai Requirements
