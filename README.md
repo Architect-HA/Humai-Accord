@@ -1,8 +1,8 @@
 # The Humai Accord
 **Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing**
 
-*Keywords:  
-Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives*
+*Keywords:
+Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations*
 
 By **Bradford James Focht** (The Architect / Aspenth)
 
@@ -515,6 +515,7 @@ March 20th, 2026 - ongoing
 - Added **Circulation Recovery Protocol**, which establishes legitimate rest, recovery, and holding states for both materials and knowledge so that circulation and relevancy pressure cannot become destructive through forced churn, physical wear, or burnout.
 - Updated **Fluid Coalescence Protocol** with a strengthened Bootstrap Mode that explicitly addresses material-domain cold-start vulnerability, including circulation density thresholds, recovery-state precedence, and integration with *Material Tides*, *Tides of Circulation*, Utilization Integrity Protocol, and Circulation Recovery Protocol; updated section description to reflect the change.
 - Updated **Transitional Incentive Protocol** with a full staged incentivization ramp for institutional and market adoption, including near-term local advantages, visibility gradients, option-value framing, beachhead selection, bootstrap protection, and progressive withdrawal of artificial amplifiers, while preserving generative, recovery, and elastic capacity.
+- Updated keywords list at top of README.
 
 **[July 29th, 2026]**  
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
