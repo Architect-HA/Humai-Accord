@@ -155,13 +155,16 @@ Choose the path that best matches your current interest or goal. You may switch 
    Relevancy degradation as a dynamic incentive for participation, sharing, and renewal.
 
 2. **[The Tides of Time](TIDES_OF_TIME.md)**  
-   Quantitative foundation — the Temporal Causal Entropy metric and its resistance to gaming.
+   Quantitative foundation for *Knowledge Tides* — the Temporal Causal Entropy metric and its resistance to gaming.
 
-3. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
-   How these knowledge and incentive dynamics are tested through simulation and audit.
-
-4. **[Material Tides](MATERIAL_TIDES.md)**  
+3. **[Material Tides](MATERIAL_TIDES.md)**  
    Extends the same tidal logic into the material domain (compute, energy, attention, and related substrates), treating under-utilization and lock-in as constructive pressures for modular circulation.
+
+4. **[Tides of Circulation](TIDES_OF_CIRCULATION.md)**  
+   Quantitative foundation for *Material Tides* — Circulation Entropy as a measure of material stagnation, lock-in, and opportunity cost.
+
+5. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
+   How these knowledge and incentive dynamics are tested through simulation and audit.
 
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Builder Path](#route-4--builder--implementer-path)
