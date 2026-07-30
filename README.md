@@ -50,6 +50,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [The Tides of Time](#the-tides-of-time)
 - [Material Tides](#material-tides)
 - [The Tides of Circulation](#the-tides-of-circulation)
+- [Utilization Integrity Protocol](#utilization-integrity-protocol)
 
 ### Governance
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
@@ -285,6 +286,16 @@ Provides a quantitative, difficult-to-game metric for material stagnation and un
 
 ---
 
+## Utilization Integrity Protocol
+
+*Utilization Integrity Protocol: Standards for Meaningful Use, Attestation, and Resistance to Artificial Utility in Material Circulation*
+
+Establishes binding standards for distinguishing productive and generative use from token or artificial activity. It defines attestation requirements, anti-wash-trading rules, and capability-scaled integrity obligations so that only genuine contribution meaningfully reduces Circulation Entropy, while protecting Generative Reservations and respecting agency constraints.
+
+[→ Read the **Utilization Integrity Protocol**](UTILIZATION_INTEGRITY_PROTOCOL.md)
+
+---
+
 ## Principled Stewardship Protocol
 
 The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
@@ -487,6 +498,9 @@ March 20th, 2026 - ongoing
 ---
 
 ## Recent Updates
+
+**[July 30th, 2026]**
+- Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
 
 **[July 29th, 2026]**  
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
