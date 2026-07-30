@@ -49,6 +49,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Knowledge Tides](#knowledge-tides)
 - [The Tides of Time](#the-tides-of-time)
 - [Material Tides](#material-tides)
+- [The Tides of Circulation](#the-tides-of-circulation)
 
 ### Governance
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
@@ -274,6 +275,16 @@ Extends the tidal incentive logic of Knowledge Tides into the domain of material
 
 ---
 
+## The Tides of Circulation
+
+*Tides of Circulation: Utilization and Lock-in Entropy of Materials*
+
+Provides a quantitative, difficult-to-game metric for material stagnation and under-utilization. It serves as the formal foundation for Material Tides by measuring time since last productive or generative use, downstream density, lock-in, and attested opportunity cost, while protecting Generative Reservations and respecting agency constraints.
+
+[→ Read **The Tides of Circulation**](TIDES_OF_CIRCULATION.md)
+
+---
+
 ## Principled Stewardship Protocol
 
 The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
@@ -483,6 +494,7 @@ March 20th, 2026 - ongoing
 - Added **Reading Routes**, a choose-your-own-path orientation document that provides short, interest-based routes into the Humai Accord while remaining secondary to the primary source documents.
 - Added **Agency Interface Protocol**, which establishes binding parameters for the human–AI interaction surface so that superior capability cannot quietly erode agency, consent, interruption rights, or role sovereignty through interface design.
 - Added **Material Tides**, which extends the tidal incentive logic of Knowledge Tides into the material domain (compute, energy, attention, and related substrates), treating under-utilization and lock-in as constructive pressures for modular and generative resource circulation.
+- Added **The Tides of Circulation**, the quantitative foundation for Material Tides. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last use, downstream density, lock-in, and opportunity cost.
 
 **[July 27th, 2026]**  
 - Added **The Call to Code: An Invitation to Implementation**, a boundary statement and open invitation for programmers, engineers, and builders.
