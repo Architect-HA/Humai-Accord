@@ -12,7 +12,7 @@ By Bradford James Focht (The Architect / Aspenth)
 
 The [Humai Accord](README.md) has grown into a substantial body of interconnected documents. This is a strength for architectural completeness, but it creates a real onboarding cost for new readers.
 
-This guide provides layered reading paths so that people can engage productively at different depths and with different goals, rather than facing the entire corpus at once. It is a usability document, not a normative one. Primary source documents always govern over this guide, the Glossary, or any summary.
+This guide provides layered reading paths so that people can engage productively at different depths and with different goals, rather than facing the entire corpus at once. It is a usability document, not a normative one. Primary source documents always govern over this guide, the [Glossary](GLOSSARY_OF_TERMS.md), or any summary.
 
 ---
 
@@ -63,7 +63,7 @@ Read these according to specific interest:
 
 | Interest | Documents |
 |----------|-----------|
-| Knowledge & material incentive dynamics | [Knowledge Tides](KNOWLEDGE_TIDES.md), [Tides of Time](TIDES_OF_TIME.md), [Material Tides](MATERIAL_TIDES.md) |
+| Knowledge & material incentive dynamics | [Knowledge Tides](KNOWLEDGE_TIDES.md), [Tides of Time](TIDES_OF_TIME.md), [Material Tides](MATERIAL_TIDES.md), [Tides of Circulation](TIDES_OF_CIRCULATION.md) |
 | Epistemic variation | [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Entropy visibility | [Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md) |
 | Competitive pressure | [Competitive Realism](COMPETITIVE_REALISM.md) |
@@ -98,7 +98,7 @@ README (The Humai Accord) → Declaration of Cognitive Liberty → Glossary → 
 Fluid Coalescence → Architectural Elasticity → Capability Asymmetry → Agency Interface Protocol → Stewardship Alignment → Competitive Realism
 
 **“I care about adoption and incentives”**  
-Structured Transition → Transitional Incentive Protocol → Knowledge Tides → Competitive Realism
+Structured Transition → Transitional Incentive Protocol → Knowledge Tides → Material Tides → Competitive Realism
 
 **“I care about human well-being and measurement”**  
 Predictive Harmony Metrics → Somatic Resonance Theory → Declaration of Cognitive Liberty → Entropy Audit Methodology
