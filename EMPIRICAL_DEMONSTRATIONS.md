@@ -208,6 +208,7 @@ This document itself remains subject to refinement as empirical methods improve 
 - Respects the binding parameters of the [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md) and the [*Capability Asymmetry Protocol*](CAPABILITY_ASYMMETRY_PROTOCOL.md) in every experimental design.
 - Interface behavior is treated as a high-value empirical target under the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md), which defines concrete, auditable parameters for interruption rights, consent revocability, attention boundaries, reversible commitments, and capability-scaled protections at the point of interaction.
 - Material allocation and circulation behavior is treated as a valid empirical target under [Material Tides](MATERIAL_TIDES.md) and its quantitative foundation [Tides of Circulation](TIDES_OF_CIRCULATION.md), which provides a measurable Circulation Entropy signal that can be instrumented and tested under the dual entropy criteria.
+- Utilization claims in the material domain are subject to the integrity standards defined in the [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md). Artificial utility, wash trading, and token activity are treated as failures of alignment under the dual entropy criteria.
 
 ---
 
