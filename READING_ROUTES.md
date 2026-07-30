@@ -163,7 +163,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 4. **[Tides of Circulation](TIDES_OF_CIRCULATION.md)**  
    Quantitative foundation for *Material Tides* — Circulation Entropy as a measure of material stagnation, lock-in, and opportunity cost.
 
-5. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
+5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
+   Standards for meaningful use, attestation, and resistance to artificial utility so that Circulation Entropy cannot be gamed by token activity or wash trading.
+
+6. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
    How these knowledge and incentive dynamics are tested through simulation and audit.
 
 **Next options:**  
