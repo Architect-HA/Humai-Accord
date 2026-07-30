@@ -73,6 +73,7 @@ where $\alpha, \beta, \delta, \gamma > 0$ are publicly declared positive weighti
 - $L(m)$ may only increase when the increased exit cost or irreversibility is itself attested in the permanent record.
 - Live external claims, unilateral assertions of high utilization, or private opportunity-cost arguments that have not been permanently recorded and attested have zero effect on the entropy calculation.
 - Material held under explicit **Generative Reservation** (as defined in *Material Tides*) shall not be scored as simple under-utilization. Implementations must apply a reduced or zero time-based penalty to properly reserved generative capacity, or otherwise re-weight the metric so that protected exploratory use is not treated as stagnation.
+- Events intended to reduce Circulation Entropy are subject to the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**. Only claims that meet its standards for productive or generative use may receive full weight; token or artificial activity must receive reduced or zero weight.
 
 Higher $E(m, t)$ indicates higher stagnation (greater under-utilization, stronger lock-in, or higher opportunity cost). In the absence of new valid use or release events, $E(m, t)$ is monotonically non-decreasing.
 
