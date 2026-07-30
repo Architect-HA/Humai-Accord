@@ -204,11 +204,12 @@ This document itself remains subject to refinement as empirical methods improve 
 - Directly implements the invitation in [*The Call to Code*](THE_CALL_TO_CODE.md).
 - Operationalizes the dual requirement of [*Necessary Entropy*](NECESSARY_ENTROPY.md).
 - Uses the state variables, equations, and success criteria already defined in the simulation models and [*Tides of Time*](TIDES_OF_TIME.md).
-- Aligns with the phased adoption logic of the [*Structured Transition Protocol*](STRUCTURED_TRANSITION_PROTOCOL.md) and the incentive protections of the [*Transitional Incentive Protocol*](TRANSITIONAL_INCENTIVE_PROTOCOL.md).
-- Respects the binding parameters of the [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md) and the [*Capability Asymmetry Protocol*](CAPABILITY_ASYMMETRY_PROTOCOL.md) in every experimental design.
+- Aligns with the phased adoption logic of the [Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md) and the incentive protections of the [Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md).
+- Respects the binding parameters of the [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md) and the [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) in every experimental design.
 - Interface behavior is treated as a high-value empirical target under the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md), which defines concrete, auditable parameters for interruption rights, consent revocability, attention boundaries, reversible commitments, and capability-scaled protections at the point of interaction.
-- Material allocation and circulation behavior is treated as a valid empirical target under [Material Tides](MATERIAL_TIDES.md) and its quantitative foundation [Tides of Circulation](TIDES_OF_CIRCULATION.md), which provides a measurable Circulation Entropy signal that can be instrumented and tested under the dual entropy criteria.
+- Material allocation and circulation behavior is treated as a valid empirical target under [*Material Tides*](MATERIAL_TIDES.md) and its quantitative foundation [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), which provides a measurable Circulation Entropy signal that can be instrumented and tested under the dual entropy criteria.
 - Utilization claims in the material domain are subject to the integrity standards defined in the [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md). Artificial utility, wash trading, and token activity are treated as failures of alignment under the dual entropy criteria.
+- Recovery, holding, and quiet-state behavior is a relevant empirical target under the [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md). The balance between constructive circulation pressure and destructive forced churn can be instrumented and tested under the dual entropy criteria.
 
 ---
 
