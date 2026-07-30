@@ -176,6 +176,7 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** gains a measurable way to detect capability-driven material capture.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** gains support for detecting high-exit-cost interface patterns and for protecting attention from pure extractive scoring.
 - **[A Common Sense](A_COMMON_SENSE.md)** makes the efficiency consequences of high-circulation versus high-stagnation strategies legible to both human and artificial agents.
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** defines legitimate Material Recovery and Holding States that may receive reduced or zero time-based Circulation Entropy penalties when properly attested and bounded, preventing forced circulation from becoming physically destructive.
 
 ---
 
