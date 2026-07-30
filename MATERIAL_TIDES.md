@@ -86,7 +86,7 @@ The two systems are complementary:
 
 ### Quantitative Foundation
 
-Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for Knowledge Tides, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost.
+Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides*, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost.
 
 ---
 
@@ -129,6 +129,7 @@ These patterns convert material control into quiet domination or generative-floo
 - Design material interfaces in full accordance with the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md).
 - Begin with high-visibility, low-stakes domains before attempting broad material governance.
 - Instrument both utilization efficiency *and* generative reservation health so that dual entropy criteria can be reported.
+- Utilization claims that affect *Material Tides* incentives must satisfy the standards defined in the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**. Token activity, self-dealing loops, and artificial utility must not be treated as meaningful use.
 
 ---
 
@@ -137,8 +138,8 @@ These patterns convert material control into quiet domination or generative-floo
 - How should different material classes be weighted or separated within the tidal model?
 - What practical signals best represent “productive use” versus mere occupation of a material?
 - How can Generative Reservations be protected without creating new forms of rent-seeking or capture?
-- How should Material Tides interact with existing markets, cloud allocation systems, and physical infrastructure constraints while preserving Humai parameters?
-- How can attention be governed under Material Tides without violating the stronger protections established in the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)?
+- How should *Material Tides* interact with existing markets, cloud allocation systems, and physical infrastructure constraints while preserving Humai parameters?
+- How can attention be governed under *Material Tides* without violating the stronger protections established in the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)?
 
 These questions remain open for refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
 
