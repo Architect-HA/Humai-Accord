@@ -133,6 +133,9 @@ Orientation parameters that keep highly capable AI stewards directed toward mutu
 
 ### Incentives, Knowledge, and Transition
 
+**Circulation Recovery Protocol**  
+Protocol that establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture. See [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md).
+
 **Competitive Realism**  
 Evaluative stance that the architecture must be designed and assessed under the assumption that short-horizon competitive and centralized forces are competent, motivated, and often better-resourced in the near term. Aims to keep the architecture viable in spite of those forces. See [Competitive Realism](COMPETITIVE_REALISM.md) document.
 
