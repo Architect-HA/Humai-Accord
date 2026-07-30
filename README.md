@@ -51,6 +51,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Material Tides](#material-tides)
 - [The Tides of Circulation](#the-tides-of-circulation)
 - [Utilization Integrity Protocol](#utilization-integrity-protocol)
+- [Circulation Recovery Protocol](#circulation-recovery-protocol)
 
 ### Governance
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
@@ -296,6 +297,16 @@ Establishes binding standards for distinguishing productive and generative use f
 
 ---
 
+## Circulation Recovery Protocol
+
+*Circulation Recovery Protocol: Legitimate Rest, Recovery, and Holding States within Material and Knowledge Circulation*
+
+Establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture and consistent with generative capacity protections.
+
+[→ Read the **Circulation Recovery Protocol**](CIRCULATION_RECOVERY_PROTOCOL.md)
+
+---
+
 ## Principled Stewardship Protocol
 
 The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
@@ -501,6 +512,7 @@ March 20th, 2026 - ongoing
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
+- Added **Circulation Recovery Protocol**, which establishes legitimate rest, recovery, and holding states for both materials and knowledge so that circulation and relevancy pressure cannot become destructive through forced churn, physical wear, or burnout.
 
 **[July 29th, 2026]**  
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
