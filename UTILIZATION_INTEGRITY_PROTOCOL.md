@@ -160,6 +160,7 @@ This protocol directly supports and constrains:
 
 - **[Material Tides](MATERIAL_TIDES.md)** — by protecting the integrity of the utilization signals that drive its incentive dynamics
 - **[Tides of Circulation](TIDES_OF_CIRCULATION.md)** — by defining the standards under which events may legitimately affect Circulation Entropy
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Recovery, Holding, and Quiet State claims are themselves subject to integrity standards. Artificial or indefinite recovery claims used to disguise lock-in or avoid legitimate activity remain anti-aligned.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by preventing capability from translating into easier fabrication of utility
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims remain constrained by agency protections
 - **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)** — by making utilization claims more auditable and testable under dual entropy criteria
