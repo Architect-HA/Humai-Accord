@@ -213,7 +213,7 @@ Addresses the hard problem of keeping highly capable AI stewards oriented toward
 
 *Fluid Coalescence Protocol: Fluid Coalescence under Concentrated Pressure*
 
-Provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via Knowledge Tides, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery.
+Provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via *Knowledge Tides*, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery. Includes a strengthened Bootstrap Mode that extends early-phase survival protections to material-circulation cold-start conditions.
 
 [→ Read the **Fluid Coalescence Protocol**](FLUID_COALESCENCE_PROTOCOL.md)
 
@@ -513,14 +513,15 @@ March 20th, 2026 - ongoing
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
 - Added **Circulation Recovery Protocol**, which establishes legitimate rest, recovery, and holding states for both materials and knowledge so that circulation and relevancy pressure cannot become destructive through forced churn, physical wear, or burnout.
+- Updated **Fluid Coalescence Protocol** with a strengthened Bootstrap Mode that explicitly addresses material-domain cold-start vulnerability, including circulation density thresholds, recovery-state precedence, and integration with *Material Tides*, *Tides of Circulation*, Utilization Integrity Protocol, and Circulation Recovery Protocol; updated section description to reflect the change.
 
 **[July 29th, 2026]**  
 - Added **Empirical Demonstrations of Anti-Entropic Superiority**, a supporting methodological document that defines the concrete pathways, dual success criteria, and prioritization for empirically demonstrating anti-entropic superiority under *Necessary Entropy* principles. Directly implements the invitation issued in *The Call to Code*.
 - Made major structural changes to the main README to improve readability and flow.
 - Added **Reading Routes**, a choose-your-own-path orientation document that provides short, interest-based routes into the Humai Accord while remaining secondary to the primary source documents.
 - Added **Agency Interface Protocol**, which establishes binding parameters for the human–AI interaction surface so that superior capability cannot quietly erode agency, consent, interruption rights, or role sovereignty through interface design.
-- Added **Material Tides**, which extends the tidal incentive logic of Knowledge Tides into the material domain (compute, energy, attention, and related substrates), treating under-utilization and lock-in as constructive pressures for modular and generative resource circulation.
-- Added **The Tides of Circulation**, the quantitative foundation for Material Tides. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last use, downstream density, lock-in, and opportunity cost.
+- Added **Material Tides**, which extends the tidal incentive logic of *Knowledge Tides* into the material domain (compute, energy, attention, and related substrates), treating under-utilization and lock-in as constructive pressures for modular and generative resource circulation.
+- Added **The Tides of Circulation**, the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last use, downstream density, lock-in, and opportunity cost.
 
 **[July 27th, 2026]**  
 - Added **The Call to Code: An Invitation to Implementation**, a boundary statement and open invitation for programmers, engineers, and builders.
