@@ -151,6 +151,9 @@ Quantitative, causal-temporal foundation supporting *Knowledge Tides* through ir
 **Transitional Incentives**  
 Short-horizon incentive layers designed to make early movement toward the Humai architecture locally rational while protecting generative capacity and elastic properties during adoption. See [Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md).
 
+**Utilization Integrity Protocol**  
+Standards for distinguishing productive and generative use from token or artificial activity in material circulation. Establishes attestation requirements, anti-wash-trading rules, and capability-scaled integrity obligations so that only genuine contribution meaningfully affects Circulation Entropy. See [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md).
+
 **Voluntary Coalescence**  
 Process by which agents freely choose to participate in and contribute to Humai-aligned structures. Treated as difficult and contested under *Competitive Realism*; never assumed to be automatic.
 
