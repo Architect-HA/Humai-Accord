@@ -27,13 +27,28 @@ The Architectural Elasticity Protocol sits within the [Humai Accord](README.md) 
 This Protocol is continuous with, and dependent upon, several existing components:
 
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** supplies the core mechanisms of modular isolation, controlled permeability, reversible re-coalescence, and Bootstrap Mode. Those mechanisms were developed primarily for surviving concentrated adversarial pressure. Architectural Elasticity generalizes the same modular logic to unmodeled shocks of any origin and adds explicit epistemic, regenerative, and cultural layers that Fluid Coalescence does not fully specify.
-- **[Necessary Entropy](NECESSARY_ENTROPY.md)** establishes generative disorder as a functional requirement for evolvability. Elasticity requires that this generative capacity be actively protected even — and especially — under extreme stress.
+
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* establishes generative disorder as a functional requirement for evolvability. Elasticity requires that this generative capacity be actively protected even — and especially — under extreme stress.
+
 - **[Principle 7 (Controlled Chaos and Fluid Circulation)](README.md)** rejects rigid stasis in favor of dynamic, self-regulating flow.
-- **[Knowledge Tides](KNOWLEDGE_TIDES.md) and provisional verification** prevent knowledge from hardening into brittle finality.
-- **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** and the **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** maintain a wider range of interpretive frames and protect idiosyncrasy, increasing the probability that useful response patterns exist somewhere in the network when novelty arrives.
+
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and provisional verification prevent knowledge from hardening into brittle finality.
+
+- *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* supply the material-domain circulation dynamics whose pressures Architectural Elasticity must remain capable of absorbing and regenerating from.
+
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** supports regenerative capacity by allowing legitimate, bounded rest states for both materials and knowledge, preventing pure continuous operation from becoming a source of brittleness or destructive churn.
+
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** helps ensure that activity and recovery claims remain substantive rather than artificial, supporting genuine rather than theatrical adaptive capacity.
+
+- **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** and the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* maintain a wider range of interpretive frames and protect idiosyncrasy, increasing the probability that useful response patterns exist somewhere in the network when novelty arrives.
+
+- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** requires that superior capability must not become a justification for reducing elastic capacity, modular openness, or regenerative protections.
+
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that elastic response and recovery mechanisms at the human–AI interaction surface continue to respect interruption rights, reversible commitments, and agency protections.
+
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** supplies the governance layer through which elasticity parameters are maintained over time.
 
-Architectural Elasticity does not replace these elements. It specifies how they must be layered and prioritized when the system faces conditions that exceed its models.
+**Architectural Elasticity** does not replace these elements. It specifies how they must be layered and prioritized when the system faces conditions that exceed its models.
 
 ---
 
