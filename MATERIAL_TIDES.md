@@ -129,7 +129,8 @@ These patterns convert material control into quiet domination or generative-floo
 - Design material interfaces in full accordance with the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md).
 - Begin with high-visibility, low-stakes domains before attempting broad material governance.
 - Instrument both utilization efficiency *and* generative reservation health so that dual entropy criteria can be reported.
-- Utilization claims that affect *Material Tides* incentives must satisfy the standards defined in the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**. Token activity, self-dealing loops, and artificial utility must not be treated as meaningful use.
+- Utilization claims that affect *Material Tides* incentives must satisfy the standards defined in the [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md). Token activity, self-dealing loops, and artificial utility must not be treated as meaningful use.
+- Legitimate rest and recovery from continuous circulation pressure are governed by the [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md). Material Recovery and Holding States must remain bounded, visible, and non-capturing.
 
 ---
 
