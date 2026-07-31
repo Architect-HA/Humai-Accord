@@ -72,13 +72,13 @@ The same logic can apply, with appropriate tuning, to energy budgets, attention 
 
 ---
 
-## Relationship to Knowledge Tides and Tides of Time
+## Relationship to Other Humai Documents
 
 *Material Tides* is the direct material-domain counterpart to *[Knowledge Tides](KNOWLEDGE_TIDES.md)*.
 
 Where *Knowledge Tides* uses relevancy degradation (supported quantitatively by Temporal Causal Entropy in *[Tides of Time](TIDES_OF_TIME.md)*) to drive knowledge renewal, *Material Tides* uses utilization decay, lock-in visibility, and matching incentives to drive material circulation.
 
-The two systems are complementary:
+The knowledge and material tidal systems are complementary:
 
 - Knowledge without accessible materials remains inert.
 - Materials without relevant knowledge and agency remain misallocated.
@@ -87,6 +87,14 @@ The two systems are complementary:
 ### Quantitative Foundation
 
 Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides*, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost.
+
+### Additional Alignments
+
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Defines what counts as meaningful productive or generative use so Circulation Entropy and *Material Tides* incentives cannot be gamed by token activity or wash trading.
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Establishes legitimate recovery, holding, and purpose-scoped states so circulation pressure cannot force destructive churn or physical degradation.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Allocation and attention interfaces remain subject to interruption, consent, proposal-surface, and purpose-scope parameters; *Material Tides* does not override agency protections.
+- *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Provides the relational complement to material under-utilization and matching pressures: fluid clusters of mutual enablement among material units (and hybrid knowledge–material links under typed co-enablement rules). Orbits do not replace Circulation Entropy or exempt members from modular circulation incentives.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Refinement of material-domain parameters remains subject to decentralized stewardship review.
 
 ---
 
