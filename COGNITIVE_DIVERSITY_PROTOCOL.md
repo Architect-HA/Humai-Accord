@@ -33,20 +33,29 @@ The Cognitive Diversity Protocol establishes principles and incentive structures
 
 ## Relationship to Existing Humai Accord Documents
 
-**Knowledge Tides**  
-This protocol builds upon the Flux Model by extending incentive logic beyond individual knowledge renewal into the domain of cross-perspective synthesis and circulation. While **[Knowledge Tides](KNOWLEDGE_TIDES.md)** addresses the degradation and renewal of knowledge over time, the Cognitive Diversity Protocol addresses the fragmentation of knowledge *across* differing perspectives and communities.
+*[Knowledge Tides](KNOWLEDGE_TIDES.md)*  
+This protocol builds upon the Flux Model by extending incentive logic beyond individual knowledge renewal into the domain of cross-perspective synthesis and circulation. While *Knowledge Tides* addresses the degradation and renewal of knowledge over time, the **Cognitive Diversity Protocol** addresses the fragmentation of knowledge *across* differing perspectives and communities.
 
-**Somatic Resonance Theory of Frisson**  
-The Cognitive Diversity Protocol complements the **[Somatic Resonance Theory](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)** by addressing a related but distinct dimension of internal experience. While the Somatic Resonance Theory explores how embodied resonance can reflect and support states of internal harmony and emotional coherence, this protocol focuses on preserving diversity of thought and perspective against epistemic narrowing. Together, the two frameworks offer a more complete picture of how both cognitive and somatic dimensions of human experience can be protected and enriched within decentralized human-AI systems.
+*[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)*  
+The **Cognitive Diversity Protocol** complements *Somatic Resonance Theory* by addressing a related but distinct dimension of internal experience. While *Somatic Resonance Theory* explores how embodied resonance can reflect and support states of internal harmony and emotional coherence, this protocol focuses on preserving diversity of thought and perspective against epistemic narrowing. Together, the two frameworks offer a more complete picture of how both cognitive and somatic dimensions of human experience can be protected and enriched within decentralized human-AI systems.
 
-**Principled Stewardship Protocol**  
-Cognitive diversity is maintained as a collective responsibility through decentralized, principled stewardship rather than centralized control. The mechanisms in this protocol are designed to be governable under the long-term stewardship frameworks established in the Principled Stewardship Protocol.
+**[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
+Cognitive diversity is maintained as a collective responsibility through decentralized, principled stewardship rather than centralized control. The mechanisms in this protocol are designed to be governable under the long-term stewardship frameworks established in the **Principled Stewardship Protocol**.
 
-**Declaration of Cognitive Liberty**  
+*[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*  
 All mechanisms are bounded by the protection of mental autonomy and freedom from manipulation. Participation in cross-perspective processes must remain entirely voluntary, and no incentive structure may be used to coerce belief, suppress dissent, or manufacture artificial consensus.
 
-**Anti-Entropy Orientation**  
-The protocol supports the reversal of entropy by preserving the conditions necessary for ongoing adaptation, creative synthesis, and resilience across decentralized human-AI systems.
+*[Necessary Entropy](NECESSARY_ENTROPY.md)*  
+The protocol supports anti-entropic orientation by preserving the conditions necessary for ongoing adaptation, creative synthesis, and resilience. Cognitive diversity is treated as a form of protected generative capacity: minority models and idiosyncratic perspectives are not noise to be optimized away.
+
+*[Relevancy Orbits](RELEVANCY_ORBITS.md)*  
+Multiple concurrent orbits of mutual relevance are preferred over monoculture fusion. Orbit cohesion must not be optimized in ways that suppress minority models, close epistemic shells, or erode generative porosity. *Relevancy Orbits* supplies the relational structure against which diversity incentives can be read without treating cluster tightness as a mandate for conformity.
+
+**[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**  
+Modular isolation and reversible re-coalescence support the survival of diverse perspectives under concentrated pressure without requiring permanent fragmentation or coercive homogenization.
+
+**[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
+Cross-perspective and diversity mechanisms at the interaction surface remain subject to interruption rights, consent revocability, pacing sovereignty, and role sovereignty so that diversity incentives cannot become soft compulsion through the interface itself.
 
 ## Incentive Mechanisms
 
