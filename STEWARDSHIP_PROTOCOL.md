@@ -148,6 +148,28 @@ To prevent the accumulation of undue influence, the following safeguards apply:
   - time-in-role exceeding a published band (e.g., on the order of months to a small number of years, scaled to activity level);
   - a high share of advanced proposals or review weight concentrated under the same steward cluster;
   - sustained decline in diversity of reviewing participants or rise in governance coordination overhead relative to useful throughput.
+  
+### Additional Illustrative Rotation and Review Bands
+
+The rotation *triggers* (time-in-role, concentration of influence, stewardship-health signals) are binding as a design posture. The following bands are **orientation aids only**. Implementations should publish their own thresholds and revise them under stewardship review.
+
+**Time-in-role (examples):**
+
+- Low-activity or early-stage networks: review on the order of many months to a small number of years
+- High-throughput governance periods: shorter published bands so influence cannot accumulate silently across dense proposal cycles
+
+**Concentration of influence (examples):**
+
+- A large share of advanced proposals, review weight, or merge/canonical decisions concentrated under the same steward cluster over a published window triggers review even if time-in-role has not elapsed
+- Persistent single-cluster dominance of “review saturation” assessments is itself a concentration signal
+
+**Stewardship-health signals (examples):**
+
+- Rising coordination overhead relative to useful throughput
+- Sustained decline in diversity of reviewing participants
+- Repeated failure to propagate Substantive or Foundational proposals beyond a narrow cluster
+
+Fixed-term rotation may still be used. Entropy- and concentration-based review exists so that rotation cannot be deferred indefinitely while influence accumulates. Exact percentages and durations remain local and revisable.
 
   These examples are orientation aids, not fixed constitutional numbers. Implementations should publish their own thresholds and subject them to review.
 - Any Participant may raise concerns about power concentration through open channels.
