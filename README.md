@@ -50,6 +50,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [The Tides of Time](#the-tides-of-time)
 - [Material Tides](#material-tides)
 - [The Tides of Circulation](#the-tides-of-circulation)
+- [Relevancy Orbits](#relevancy-orbits)
 - [Utilization Integrity Protocol](#utilization-integrity-protocol)
 - [Circulation Recovery Protocol](#circulation-recovery-protocol)
 
@@ -285,6 +286,16 @@ Extends the tidal incentive logic of Knowledge Tides into the domain of material
 Provides a quantitative, difficult-to-game metric for material stagnation and under-utilization. It serves as the formal foundation for Material Tides by measuring time since last productive or generative use, downstream density, lock-in, and attested opportunity cost, while protecting Generative Reservations and respecting agency parameters.
 
 [→ Read **The Tides of Circulation**](TIDES_OF_CIRCULATION.md)
+
+---
+
+## Relevancy Orbits
+
+*Relevancy Orbits: Fluid Clusters of Mutual Relevance across Knowledge and Materials*
+
+A supporting conceptual and quantitative frame for the **relational** structure of relevance: how knowledge items and material units bind, cluster, strengthen, weaken, and reconfigure relative to one another. Complements the **temporal** pressure of *Knowledge Tides* / *Material Tides* and the aggregate enablement signal of downstream density. Bond strength is attestation-weighted, integrity-sensitive, and time-decaying; orbits remain modular and fluid rather than permanent capture shells. Hybrid knowledge–material orbits require typed co-enablement links, not mere co-location.
+
+[→ Read **Relevancy Orbits**](RELEVANCY_ORBITS.md)
 
 ---
 
@@ -530,6 +541,7 @@ March 20th, 2026 - ongoing
 - Updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (v1.1) — simulation integrity rule (reference runs illustrative; adversarial regimes required for stronger claims); prefer trajectories over snapshot-only metrics.
 - Updated keywords section at top of README.
 - Updated section descriptions for Agency Interface Protocol, Circulation Recovery Protocol, Utilization Integrity Protocol, and Empirical Demonstrations.
+- Added *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — fluid clusters of mutual relevance across knowledge and materials; relational complement to tidal (temporal) metrics and downstream density; includes provisional bond-strength / cohesion sketch and hybrid orbit attestation rules.
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
