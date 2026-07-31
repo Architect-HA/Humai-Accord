@@ -120,6 +120,7 @@ Certain tensions are permanent design surfaces rather than temporary drafting ga
 - **Exit rights vs. verification integrity** — Residual data-retention or co-verification obligations after exit must remain narrow, time-bounded, and minimum-necessary. Ambiguity shall be resolved in favor of the individual’s exit and deletion rights, consistent with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*.
 - **Non-punitiveness vs. network stability** — Appeals to “network stability” alone are insufficient grounds for containment or restriction. Protective measures require clear, imminent, severe harm from observable actions, and must remain time-limited, reversible, and non-punitive. Dissent is not instability.
 - **Calibration of illustrative bands** — Attestation-weight examples, steward-rotation bands, Bootstrap exit indicators, and residual-data examples published in primary documents are orientation aids. Implementations should publish local thresholds and revise them under stewardship review rather than treating any single numerical example as frozen.
+- **Stewardship-health legibility** — Rotation and anti-concentration safeguards depend on published signals of tenure, influence concentration, and governance-process health. Opacity of those signals undermines progressive decentralization.
 
 Proposals that would widen residual powers in these areas, or convert provisional administrative control into permanent authority, require heightened scrutiny and should not advance without strong, diverse review saturation.
 
@@ -201,6 +202,28 @@ All governance activity shall meet the following minimum standards:
 - Significant decisions must include documented justification.
 - The current list of active Stewards shall be publicly visible.
 - Governance processes should allow Participants to understand how and why decisions are reached.
+
+## Publication of Stewardship-Health Signals
+
+Stewardship-health signals exist to keep provisional authority and rotation triggers **legible**. They are not ranking scores, reputation markets, or grounds for punishment.
+
+When stewardship is active for a public canonical or coordinating node, the following should be published in a form Participants can inspect without special access:
+
+- **Active stewards** — current list, already required under Transparency
+- **Time-in-role** — how long each steward or steward cluster has held material coordinating responsibility
+- **Concentration indicators** — high-level signals of proposal, review, or merge-weight concentration under the same cluster over a published window (aligned with the rotation triggers above)
+- **Stewardship-health indicators** — where tracked: diversity of reviewing participants, coordination overhead relative to useful throughput, and whether Substantive or Foundational proposals are propagating beyond a narrow cluster
+- **Standing design surfaces** — which permanent tensions are under active calibration, and major open proposals affecting residual powers
+
+### Parameters
+
+- Publication should be **routine and low-friction**, not crisis-only.
+- Signals feed the rotation and review posture already defined in this Protocol. They do **not** create new punitive powers, exclusion rights, or formal credentials for participation.
+- Exact metrics and bands remain **local and revisable** under stewardship review (see illustrative rotation and review bands above). Implementations should publish their own thresholds rather than treating any single example as frozen.
+- Absence of perfect metrics is not license for indefinite opacity. Where quantitative signals are immature, qualitative public status (steward list, tenure, open concentration concerns, pending foundational proposals) still satisfies the legibility intent.
+- Multi-node and mirrored stewardship is encouraged; publication at one provisional repository does not preclude independent nodes from publishing their own stewardship-health status.
+
+Quiet accumulation of influence without visible tenure, concentration, or health signals is treated as a transparency and anti-concentration failure, not as neutral administration.
 
 ---
 
