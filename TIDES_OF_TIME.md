@@ -238,7 +238,7 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 ## Integration with Existing Humai Components
 
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* receives a precise quantitative signal for relevancy decay, renewal premiums, and co-verification waves.
-- *[Entropy Audits Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gain an objective, comparable measure of unnecessary loss.
+- *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gain an objective, comparable measure of unnecessary loss.
 - *[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)* can compute clear relative entropy differentials between cooperative and predatory patterns.
 - *[A Common Sense](A_COMMON_SENSE.md)* makes the efficiency consequences of high-entropy versus low-entropy strategies legible to both human and artificial agents.
 - **[Predictive Harmony and Universal Cross-Verification](README.md#core-principles)** supply the processes that maintain the integrity of the causal record itself.
