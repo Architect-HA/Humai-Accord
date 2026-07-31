@@ -116,6 +116,17 @@ Upon exit, they retain the right to request the deletion or permanent isolation 
 
 Exit rights are primary. Verification-integrity exceptions are narrow, exceptional, and must not swallow the right. Ambiguity in residual requirements shall be resolved in favor of the individual’s exit and deletion rights.
 
+**Illustrative residual-data examples (non-exhaustive, non-binding):**
+
+The following orient implementers only. They do not expand residual powers.
+
+- **May more readily qualify as minimum-necessary residual data:** public confirmability metadata for an already-attested causal event (event ID, timestamp, attestation class, validity outcome) that other participants legitimately rely upon; cryptographic commitments or proofs that preserve confirmability without retaining underlying personal content
+- **Should generally be deleted or isolated on request:** message bodies, detailed behavioral logs, inferred psychological profiles, somatic or biometric payloads, attention traces, and any personal content beyond what is required for public confirmability of event validity
+- **Time-bounding:** residual retention, where permitted at all, should carry a published review or sunset horizon rather than indefinite default retention
+- **Ambiguity:** when it is unclear whether an item is required for confirmability, resolve in favor of deletion or isolation
+
+These examples implement Article IX; they do not amend it.
+
 ---
 
 ## Article X — Right to Oversight and Distributed Governance
