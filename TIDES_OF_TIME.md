@@ -264,12 +264,16 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 ## Integration with Existing Humai Components
 
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* receives a precise quantitative signal for relevancy decay, renewal premiums, and co-verification waves.
-- *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gain an objective, comparable measure of unnecessary loss.
-- *[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)* can compute clear relative entropy differentials between cooperative and predatory patterns.
+- *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gains an objective, comparable measure of unnecessary loss.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** can compute clear relative entropy differentials between cooperative and predatory patterns.
 - *[A Common Sense](A_COMMON_SENSE.md)* makes the efficiency consequences of high-entropy versus low-entropy strategies legible to both human and artificial agents.
 - **[Predictive Harmony and Universal Cross-Verification](README.md#core-principles)** supply the processes that maintain the integrity of the causal record itself.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** provides parallel recovery logic for the knowledge domain. Properly attested Knowledge Quiet States may moderate relevancy-decay pressure for bounded periods without suspending correction of misleading or harmful knowledge.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** supplies parallel integrity standards for material-domain utilization claims; the same burden-of-proof and anti-fabrication posture applies across both domains.
+- *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* is the material-domain counterpart metric (Circulation Entropy), completing the parallel quantitative structure across knowledge and materials.
+- *[Relevancy Orbits](RELEVANCY_ORBITS.md)* uses valid causal events in $\mathcal{C}$ as inputs to time-decaying, integrity-weighted bond strengths between knowledge items. Downstream density $D(k)$ remains an aggregate enablement signal for a single unit; orbits describe cluster structure and bond flux among sets of units. Neither replaces the other. Orbit cohesion is not a substitute for Temporal Causal Entropy.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* treats Temporal Causal Entropy and its anti-gaming behavior as primary simulation and audit targets under the dual entropy criteria and simulation-integrity rules.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs refinement of weighting parameters, attestation bands, and operational definitions.
 
 ---
 
