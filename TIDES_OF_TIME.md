@@ -117,6 +117,32 @@ Attestation is stratified by weight:
 
 The more an event would reduce Temporal Causal Entropy, the stronger the required attestation class. Exact numerical thresholds for “moderate” and “high” weight remain subject to stewardship refinement; the ordering itself is binding.
 
+### Illustrative Attestation Weight Bands
+
+The ordering of attestation classes is binding. The numerical or procedural cutoffs below are **illustrative only**. Local implementations should publish their own bands and subject them to review under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+**Provisional orientation (non-binding examples):**
+
+| Claimed effect on $E(k, t)$ | Suggested minimum attestation class | Illustrative notes |
+|----------------------------|-------------------------------------|--------------------|
+| Negligible or cosmetic entropy change | Self-attestation acceptable | Recordable; little or no weight toward resetting $t_{\mathrm{last}}$ or increasing $D(k)$ |
+| Moderate reduction (routine verification, ordinary integration) | Multi-party attestation | Confirmations not under common control; sufficient for ordinary renewal signals |
+| Large reset of $t_{\mathrm{last}}$, large increase in $D(k)$, or large $\Delta_E$ | Independent / high-weight attestation | Separation along organizational, technical, incentive, or procedural lines; fabrication should be clearly costly |
+
+**Independence (illustrative heuristics, not binary tests):**
+
+- Prefer at least one confirming party outside the originator’s operational control for moderate-weight links
+- Prefer two or more independent axes of separation (e.g., organization *and* infrastructure) for high-weight links
+- Treat unverifiable claims of independence as self-attestation
+
+**Sybil cost (illustrative posture):**
+
+- Low-weight events may remain cheap to submit
+- High-weight events should face cost, reputation, multi-party, or equivalent requirements that rise with claimed influence on $E(k, t)$
+- Weight in $D(k)$ should not scale linearly with low-separation identities under common control
+
+These bands exist to reduce translation friction. They are not constitutional numbers. Domains may publish tighter or looser bands if the ordering and anti-fabrication posture are preserved.
+
 ### Independence
 
 Independence is treated as a continuous design goal rather than a binary property. For high-weight attestation, implementations should prefer confirmations that are separated along at least one of:
