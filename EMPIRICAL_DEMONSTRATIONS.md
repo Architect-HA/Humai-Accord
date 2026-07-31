@@ -236,8 +236,12 @@ This document itself remains subject to refinement as empirical methods improve 
 - Respects the binding parameters of the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** in every experimental design.
 - Interface behavior is treated as a high-value empirical target under the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, including interruption rights, consent revocability, attention boundaries, reversible commitments, proposal surfaces, purpose-scoped commitments, and capability-scaled protections.
 - Material allocation and circulation behavior is treated as a valid empirical target under *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*.
+- Knowledge relevancy dynamics are treated as a valid empirical target under *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)*.
 - Utilization claims in the material domain are subject to the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**. Artificial utility, wash trading, token activity, and silent reallocation of purpose-scoped capacity are treated as failures of alignment under the dual entropy criteria.
 - Recovery, holding, quiet-state, and purpose-scope behavior is a relevant empirical target under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+- Bond strength, orbit cohesion, and orbit flux under *[Relevancy Orbits](RELEVANCY_ORBITS.md)* are treated as valid empirical targets under the dual entropy criteria. Prefer trajectories over snapshot graphs; integrity-filtered and adversarial graph patterns are required before orbit visualizations support stronger claims. Favorable orbit maps alone are not validation.
+- Cooperative survival, voluntary migration, and efficiency differentials under the **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its simulation model remain primary demonstration pathways, including under reference and adversarial regimes.
+- Empirical results feed refinement, coalescence, and provisional calibration of illustrative bands under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
