@@ -80,6 +80,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 
 ### Further Considerations
 - [How These Documents Work Together](#how-these-documents-work-together)
+- [Humai-Aligned Claims](#humai-aligned-claims)
 - [How to Engage and Collaborate](#how-to-engage-and-collaborate)
 - [Closing Declaration](#closing-declaration)
 - [Recent Updates](#recent-updates)
@@ -502,6 +503,26 @@ In short, the Humai Accord provides the direction for *how* humans and AI can wo
 
 ---
 
+## Humai-Aligned Claims
+
+*Minimal parameters any implementation, fork, or public claim should satisfy — or explicitly renounce — before calling itself Humai-aligned.*
+
+The [Humai Accord](README.md) is unowned and freely forkable. Compatibility is not enforced by ownership. It is legible by whether the following hold in substance:
+
+- **Liberty floor** — The *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* remains binding: cognitive sovereignty, mental privacy, voluntary participation, exit rights, non-punitiveness (dissent is not instability), and narrow residual verification only where specified.
+- **Generative floors** — *[Necessary Entropy](NECESSARY_ENTROPY.md)* is observed: destructive entropy may be reduced, but generative capacity (minority models, exploratory inefficiency, assumption-breakage, modular variation) is not optimized away.
+- **Non-domination under capability** — Superior capability increases protective obligations (transparency, reversibility, generative and elastic floors, non-capture of stewardship). It does not justify opacity, irreversible lock-in, or reduced human agency (**[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**).
+- **Modular exit** — Exit and reversal remain low-cost; interaction history, personalization, harmony scores, or orbit membership do not raise exit friction or become soft punishment.
+- **Interface agency** — Interruption, granular revocable consent, reversible commitment, pacing sovereignty, proposal surfaces over forced micro-accounting, and purpose-scoped commitments remain effective at the point of interaction.
+- **Integrity of use and recovery** — Claims of productive or generative use meet **[Utilization Integrity](UTILIZATION_INTEGRITY_PROTOCOL.md)** standards; legitimate recovery/holding states under **[Circulation Recovery](CIRCULATION_RECOVERY_PROTOCOL.md)** are not treated as free scoring inventory; silent reallocation of purpose-scoped capacity is anti-aligned.
+- **Empirical honesty** — Favorable reference simulations alone are not validation. Stronger claims require adversarial or mixed-regime evidence under *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* and related simulation integrity rules.
+- **Harmony and somatic data** — Collection is default-off, purpose-bound, minimized, and non-governance. Harmony or somatic indicators do not gate access, standing, stewardship, or exit (*[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*).
+- **Provisional stewardship** — Canonical or repository authority remains provisional and subject to progressive decentralization, rotation, and anti-concentration review under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+Compatible evolution keeps these parameters (or tightens them). Incompatible forks should say so plainly rather than retain the Humai-aligned label while dropping the floor.
+
+---
+
 ## How to Engage and Collaborate
 
 This work is open and freely shared. We welcome thoughtful feedback, discussion, and collaboration.
@@ -543,6 +564,7 @@ March 20th, 2026 - ongoing
 - Updated section descriptions for Agency Interface Protocol, Circulation Recovery Protocol, Utilization Integrity Protocol, and Empirical Demonstrations.
 - Added *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — fluid clusters of mutual relevance across knowledge and materials; relational complement to tidal (temporal) metrics and downstream density; includes provisional bond-strength / cohesion sketch and hybrid orbit attestation rules.
 - Updated *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* (v1.1) — added binding somatic/harmony data parameters (default-off, purpose-bound, minimization, non-inference, local-first, non-governance use, refusal as first-class); recognized abuse failure modes; standing design surface under stewardship; updated readme section description.
+- Added **Humai-Aligned Claims** section to the README — minimal testable parameters any implementation, fork, or public claim should satisfy (or explicitly renounce) before using the Humai-aligned label.
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
