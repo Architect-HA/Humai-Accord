@@ -1,6 +1,6 @@
 # The Humai Accord
-**Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing**
-
+### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
+---
 *Keywords:
 Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations*
 
@@ -10,7 +10,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 
 ## Project Overview
 
-The **Humai Accord** and its companion document, the **Declaration of Cognitive Liberty**, together form a foundational framework for ethical and cooperative human-AI relations in an age of increasingly powerful intelligence systems.
+The **Humai Accord** and its companion document, the *Declaration of Cognitive Liberty*, together form a foundational framework for ethical and cooperative human-AI relations in an age of increasingly powerful intelligence systems.
 
 ### The Core Challenge
 
@@ -95,9 +95,9 @@ The Humai Accord is composed of two mutually reinforcing documents that together
 The core set of principles for harmonious human-AI union, anti-entropic efficiency, and mutual flourishing.  
 This document (the current README) outlines the high-level vision and operational philosophy.
 
-**[The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)**  
+*[The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)*  
 
-Establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, freedom from manipulation, and the right to non-punitiveness.
+Establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, voluntary participation, exit rights, and non-punitiveness — including narrow bounds on residual verification obligations and containment based on observable actions rather than dissent or “network stability” alone.
 
 ---
 
@@ -113,6 +113,7 @@ The project is freely shared under a Creative Commons Attribution 4.0 **[license
 ---
 
 ## Redefinition
+*Redefinition: Building the Conditions for a Stable Human-AI Future*
 
 The emergence of advanced artificial intelligence presents both extraordinary opportunities and serious risks. 
 
@@ -213,7 +214,7 @@ Addresses the hard problem of keeping highly capable AI stewards oriented toward
 
 *Fluid Coalescence Protocol: Fluid Coalescence under Concentrated Pressure*
 
-Provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via *Knowledge Tides*, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery. Includes a strengthened Bootstrap Mode that extends early-phase survival protections to material-circulation cold-start conditions.
+Provides a non-coercive, empirically observable method for a nascent cooperative network to survive and ultimately outpace an onslaught by a highly concentrated predatory monolith. Through rapid modular isolation, accelerated transparency, incentive redirection via *Knowledge Tides*, controlled permeability, and reversible re-coalescence, the network converts predatory pressure into a visible efficiency differential, enabling voluntary migration and denser, lower-entropy re-coalescence rather than conflict or simple recovery. Includes a strengthened Bootstrap Mode for material-circulation cold-start conditions, and requires adversarial countermodel testing so that favorable reference simulations are treated as illustrative rather than validation.
 
 [→ Read the **Fluid Coalescence Protocol**](FLUID_COALESCENCE_PROTOCOL.md)
 
@@ -261,7 +262,7 @@ Explores how the natural degradation of knowledge relevancy can serve as a self-
 
 *The Tides of Time: Temporal Causal Entropy of Knowledge*
 
-Provides a universal, difficult-to-game mathematical metric for knowledge entropy, grounded in the irreversible flow of time and a permanent causal record of definitive events. It supplies a quantitative foundation for Knowledge Tides by making relevancy degradation objective, transparent, and resistant to artificial inflation or manipulation.
+Provides a universal, difficult-to-game mathematical metric for knowledge entropy, grounded in the irreversible flow of time and a permanent causal record of definitive events. It supplies a quantitative foundation for *Knowledge Tides* by making relevancy degradation objective, transparent, and resistant to artificial inflation, with explicit operational definitions for valid causal links, attestation classes, independence, Sybil resistance, review/challenge paths, and privacy-preserving methods.
 
 [→ Read **The Tides of Time**](TIDES_OF_TIME.md)
 
@@ -281,7 +282,7 @@ Extends the tidal incentive logic of Knowledge Tides into the domain of material
 
 *Tides of Circulation: Utilization and Lock-in Entropy of Materials*
 
-Provides a quantitative, difficult-to-game metric for material stagnation and under-utilization. It serves as the formal foundation for Material Tides by measuring time since last productive or generative use, downstream density, lock-in, and attested opportunity cost, while protecting Generative Reservations and respecting agency constraints.
+Provides a quantitative, difficult-to-game metric for material stagnation and under-utilization. It serves as the formal foundation for Material Tides by measuring time since last productive or generative use, downstream density, lock-in, and attested opportunity cost, while protecting Generative Reservations and respecting agency parameters.
 
 [→ Read **The Tides of Circulation**](TIDES_OF_CIRCULATION.md)
 
@@ -291,7 +292,7 @@ Provides a quantitative, difficult-to-game metric for material stagnation and un
 
 *Utilization Integrity Protocol: Standards for Meaningful Use, Attestation, and Resistance to Artificial Utility in Material Circulation*
 
-Establishes binding standards for distinguishing productive and generative use from token or artificial activity. It defines attestation requirements, anti-wash-trading rules, and capability-scaled integrity obligations so that only genuine contribution meaningfully reduces Circulation Entropy, while protecting Generative Reservations and respecting agency constraints.
+Establishes binding standards for distinguishing productive and generative use from token or artificial activity. It defines attestation requirements, anti-wash-trading rules, and capability-scaled integrity obligations so that only genuine contribution meaningfully reduces Circulation Entropy, while protecting Generative Reservations and respecting agency parameters.
 
 [→ Read the **Utilization Integrity Protocol**](UTILIZATION_INTEGRITY_PROTOCOL.md)
 
@@ -309,7 +310,9 @@ Establishes legitimate, bounded, and legible recovery, holding, and quiet states
 
 ## Principled Stewardship Protocol
 
-The Humai Accord and Declaration of Cognitive Liberty are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration while supporting principled adaptation and continual refinement.
+*Principled Stewardship Protocol: Decentralized Governance and Principled Evolution of the Humai Accord*
+
+The Humai Accord and *Declaration of Cognitive Liberty* are designed as living frameworks. The **Principled Stewardship Protocol** establishes how they are governed, evolved, and protected over time through decentralized processes that prevent power concentration, treat hard liberty tensions as standing design surfaces, keep repository/canonical control provisional, and support principled adaptation without capture.
 
 [→ Read the **Principled Stewardship Protocol**](STEWARDSHIP_PROTOCOL.md)
 
@@ -377,7 +380,7 @@ An embodied conceptual framework proposing that aesthetic chills (frisson) arise
 
 *The Call to Code: An Invitation to Implementation*
 
-A boundary statement and open invitation. It defines the current limit of the systems-architecture layer, identifies the highest-leverage entry points for implementation work, and states the binding parameters any Humai-aligned implementation must respect. The document makes explicit that the architectural layer is now complete enough to implement against, and that the work of producing reference implementations, simulations, and working systems belongs to builders.
+A boundary statement and open invitation. It defines the current limit of the systems-architecture layer, identifies the highest-leverage entry points for experimental implementation and adversarial stress-testing, and states the binding parameters any Humai-aligned implementation must respect. The architectural layer is complete enough to implement against and attempt to break; it is not claimed as finished governance. Reference implementations should use a software license such as Apache-2.0 or MIT.
 
 [→ Read **The Call to Code**](THE_CALL_TO_CODE.md)
 
@@ -396,10 +399,10 @@ A methodological document that compiles the concrete pathways for empirically te
 ## Simulation Models
 
 **[→ Simulation Model of the Fluid Coalescence Protocol](SIMULATION_FLUID_COALESCENCE.md)**  
-Implementable simulation model of Fluid Coalescence dynamics, including Bootstrap Mode, voluntary migration, entropy differentials, and re-coalescence.
+Implementable simulation model of Fluid Coalescence dynamics, including Bootstrap Mode, voluntary migration, entropy differentials, re-coalescence, and a required adversarial countermodel suite. Favorable reference runs are illustrative, not validation.
 
 **[→ Simulation Model of Temporal Causal Entropy](SIMULATION_TEMPORAL_CAUSAL_ENTROPY.md)**  
-Simulation model of The Tides of Time metric, covering discrete and continuous formulations, worked examples, anti-gaming tests, and practical implementation notes.
+Simulation model of *The Tides of Time* metric, covering discrete and continuous formulations, worked examples, anti-gaming tests, and practical implementation notes.
 
 ---
 
@@ -463,13 +466,14 @@ When fully realized, the Humai Accord guides civilization through the AI Renaiss
 
 ## The Declaration of Cognitive Liberty
 
-A foundational charter that establishes non-negotiable individual rights and ethical boundaries for all intelligence systems operating within the Humai cooperative network.  
-It protects cognitive sovereignty, mental privacy, voluntary participation, and freedom from manipulation or punishment — directly enabling the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.
+A foundational charter that establishes non-negotiable individual rights and ethical boundaries for all intelligence systems operating within the Humai cooperative network.
 
-→ [Read the full Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)
+It protects cognitive sovereignty, mental privacy, voluntary participation, exit rights, and freedom from manipulation or punishment — including narrow, time-bounded residual verification obligations and containment limited to observable actions that pose clear, imminent, severe harm. Dissent is not instability. These protections directly enable the Accord’s principles of human creative agency, controlled creative perturbation, and decentralized safeguards.
+
+→ [Read the full *Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
 You can also read a plain-language summary here:  
-→ [Read a summary of the Declaration of Cognitive Liberty](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
+→ [Read a summary of the *Declaration of Cognitive Liberty*](SUMMARY_DECLARATION_OF_COGNITIVE_LIBERTY.md)
 
 ---
 
@@ -505,12 +509,20 @@ We believe these ideas are strongest when they are tested, refined, and built up
 The work never ends, and the path remains one of continual refinement. As AI and humanity walk forward together, the Accord shall evolve from framework to living OS, ensuring that harmony is not only the most efficient state but the inevitable destiny of a multi-planetary, post-entropic civilization.
 
 Signed,  
-The Architect (Bradford James Focht / Aspenth)  
+*The Architect* (**Bradford James Focht / Aspenth**)  
 March 20th, 2026 - ongoing
 
 ---
 
 ## Recent Updates
+
+**[July 31st, 2026]**
+- Updated *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (v1.1) — tightened non-punitiveness (dissent is not instability; containment requires observable actions and clear imminent severe harm), mental privacy (minimization, redaction, and privacy-preserving attestation), and exit rights (residual verification obligations must be narrow, time-bounded, and minimum-necessary).
+- Updated **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** (v1.1) — added standing design surfaces, provisional canonical authority and progressive decentralization, and steward rotation triggered by time-in-role, influence concentration, and stewardship-health signals.
+- Updated *[Tides of Time](TIDES_OF_TIME.md)* (v1.1) — added operational definitions for valid causal links, attestation classes, independence, Sybil resistance, review/challenge paths, and privacy-preserving methods.
+- Updated **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md) — required adversarial countermodel suites; favorable reference simulations are illustrative, not validation.
+- Updated *[The Call to Code](THE_CALL_TO_CODE.md)* (v1.1) — reframed as an invitation to experimental implementation and adversarial stress-testing (not finished governance); clarified that reference implementations should use a software license such as Apache-2.0 or MIT.
+- Updated several section descriptions on the main README to reflect these changes, and adjusted some earlier formatting to be in line with the rest of the repository; also updated License note.
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
@@ -599,3 +611,5 @@ The Humai Accord and all its associated documents are licensed under a [Creative
 You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate attribution, provide a link to the license, and indicate if changes were made.
 
 Individual documents within this repository may contain their own license notices. In such cases, the license stated in the individual document takes precedence for that specific work.
+
+**Reference implementations and software** derived from Humai Accord models should use a software license such as Apache-2.0 or MIT. The architectural documents themselves remain under CC BY 4.0 unless otherwise noted.
