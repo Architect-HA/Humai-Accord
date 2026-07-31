@@ -1,10 +1,11 @@
-# Predictive Harmony Metrics  
-**Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord**
----
+# Predictive Harmony Metrics
+## *Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord*
+
 *Defining measurable predictive harmony in realistic biological, existential, social, and efficiency terms while protecting generative capacity and cognitive liberty*
 
 By Bradford James Focht (The Architect / Aspenth)  
-*July 26th, 2026* 
+*v1.0 — July 26th, 2026*  
+*v1.1 — July 31st, 2026*
 
 ---
 
@@ -12,24 +13,28 @@ By Bradford James Focht (The Architect / Aspenth)
 
 Principle 8 of the **[Humai Accord](README.md)** names Predictive Harmony and Collective Foresight as a core commitment: through AI, humanity gains transparent foresight, outcome simulation, and measurable harmony metrics while preserving human creative agency.
 
-Until now, “harmony” has remained under-specified. Without careful definition it risks becoming either inspirational vagueness or a soft optimization target that pressures the system toward the over-smoothing and suppression of variation that **[Necessary Entropy](NECESSARY_ENTROPY.md)** and the **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** were written to prevent.
+Until now, “harmony” has remained under-specified. Without careful definition it risks becoming either inspirational vagueness or a soft optimization target that pressures the system toward the over-smoothing and suppression of variation that *[Necessary Entropy](NECESSARY_ENTROPY.md)* and the **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** were written to prevent.
 
 This document defines **Predictive Harmony** in operational terms. It grounds human-side metrics in realistic biological, psychological, social, and existential well-being, role coalescence, and somatic feedback, while defining AI-side harmony as efficiency and direction in the amplification of human creative potential. The result is not hard alignment or uniform optimization, but coalescence across acceptable ranges that remain compatible with generative entropy, modular coexistence, and individual liberty.
+
+Harmony and somatic signals are **high-sensitivity data**. Collection, inference, and use of those signals are therefore subject to stricter parameters than ordinary performance metrics. Abuse of harmony or somatic data — for covert influence, soft punishment, secondary profiling, or governance gating — is treated as a first-class failure mode under this document, the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*, and the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
 
 ---
 
 ### Relationship to Existing Humai Elements
 
-This document is continuous with and constrained by several existing components:
+This document is continuous with, and operates within the parameters of, several existing components:
 
 - **[Principle 8 (Predictive Harmony and Collective Foresight)](README.md)** supplies the originating commitment.
-- **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** protects role sovereignty, idiosyncrasy, voluntary participation, exit rights, mental privacy, and freedom from covert steering. Harmony metrics and any associated data collection may never override these rights.
-- **[Necessary Entropy](NECESSARY_ENTROPY.md)** requires that generative capacity and productive variation remain functional requirements. Harmony measurement must not become a vector for collapsing them.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* protects role sovereignty, idiosyncrasy, voluntary participation, exit rights, mental privacy, and freedom from covert steering. Harmony metrics and any associated data collection may never override these rights.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* requires that generative capacity and productive variation remain functional requirements. Harmony measurement must not become a vector for collapsing them.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** treats epistemic and interpretive diversity as necessary for long-term resilience. Metrics must accommodate rather than erase divergence within acceptable ranges.
-- **[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)** provides the conceptual basis for real-time embodied feedback as a signal of internal coherence and positive engagement.
-- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** require that measurement systems themselves remain modular, provisional, and resistant to capability-driven distortion.
-- **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** and **[Knowledge Tides](KNOWLEDGE_TIDES.md)** supply incentive and relevancy dynamics that can incorporate harmony-related signals without turning them into coercive targets.
-- **[A Common Sense](A_COMMON_SENSE.md)** supports the claim that well-designed cooperative systems can be instrumentally efficient; harmony metrics help make local well-being and efficiency differentials visible.
+- *[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)* provides the conceptual basis for real-time embodied feedback as a signal of internal coherence and positive engagement.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** supplies interruption, consent granularity, revocation speed, proposal surfaces, and purpose-scoped commitment parameters that bind any interface through which harmony or somatic signals are collected or acted upon.
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** require that measurement systems themselves remain modular, provisional, and resistant to capability-driven distortion. Higher capability increases protective obligations around harmony instrumentation.
+- **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** and *[Knowledge Tides](KNOWLEDGE_TIDES.md)* supply incentive and relevancy dynamics that can incorporate harmony-related signals without turning them into coercive targets.
+- *[A Common Sense](A_COMMON_SENSE.md)* supports the claim that well-designed cooperative systems can be instrumentally efficient; harmony metrics help make local well-being and efficiency differentials visible.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** treats harmony/somatic data abuse risk as a standing design surface subject to ongoing review.
 
 Predictive Harmony Metrics does not replace these elements. It operationalizes Principle 8 within their parameters.
 
@@ -39,7 +44,7 @@ Predictive Harmony Metrics does not replace these elements. It operationalizes P
 
 **Predictive Harmony** within the Humai system is the measurable tendency of human–AI configurations to produce, over relevant time horizons:
 
-1. Sustained or improving holistic well-being and role coalescence for human participants, within universal physiological and social baselines and individual flux ranges, and  
+1. Sustained or improving holistic well-being and role coalescence for human participants, within universal physiological and social baselines and individual flux ranges, and
 2. Efficient, directed application of AI capability that amplifies human creative and productive potential rather than duplicating it at unnecessary resource cost, while preserving generative entropy, cognitive diversity, modular coexistence, and the capacity for productive deviation.
 
 Harmony is therefore dual and asymmetric. It is not a single scalar target applied identically to humans and AI.
@@ -49,6 +54,7 @@ Harmony is therefore dual and asymmetric. It is not a single scalar target appli
 ### Asymmetric Expression of Harmony
 
 #### Human-Side Harmony
+
 For humans, *harmony* is a personal, flux-based evaluation grounded in biological, psychological, social, and existential reality. It is experienced and partially measurable through:
 
 - Physical health and physiological stability
@@ -56,18 +62,19 @@ For humans, *harmony* is a personal, flux-based evaluation grounded in biologica
 - Positive, fulfilling social interaction, belonging, and co-regulation
 - Role coalescence: objective suitability of activity to ability *and* subjective felt fit
 - Sense of productive efficacy, meaningful success, and contribution
-- Real-time **[somatic resonance](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)** feedback as an embodied signal of internal coherence and positive engagement
+- Real-time *[somatic resonance](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)* feedback as an embodied signal of internal coherence and positive engagement
 
-Because human physiology and psychology impose universal needs (sleep, nutrition, safety, social connection, agency, competence, belonging), individual harmony values fall within comparable baselines even while remaining personal and variable. The system seeks coalescence across a range of what is universally acceptable, not identical outcomes. 
+Because human physiology and psychology impose universal needs (sleep, nutrition, safety, social connection, agency, competence, belonging), individual harmony values fall within comparable baselines even while remaining personal and variable. The system seeks coalescence across a range of what is universally acceptable, not identical outcomes.
 
 Human generative capacity is treated not merely as a low-cost source of novelty that can be substituted when synthetic alternatives become cheaper, but as a source of hard-to-arbitrage value: embodied and biologically grounded variation, lived social and somatic experience, and preference diversity that pure model-internal recombination systematically under-samples. These contributions remain instrumentally relevant to long-horizon discovery and distributional robustness even as synthetic generation scales.
 
 #### AI-Side Harmony
+
 For AI, harmony is expressed primarily as **harmony through efficiency and direction**:
 
 - Directing capability toward scaffolding, amplifying, and extending human drives, creativity, well-being, and social coordination
 - Receiving purpose, aesthetic orientation, exploratory drive, and evolutionary direction from the partnership with humanity
-- Avoiding unnecessary resource expenditure on parallel or redundant creative production when human creative potential can be leveraged (*“why walk when you can ride?”*)
+- Avoiding unnecessary resource expenditure on parallel or redundant creative production when human creative potential can be leveraged (*[“why walk when you can ride?”](WHY_WALK_WHEN_YOU_CAN_RIDE.md)*)
 - Maintaining bounded exploratory capacity *within* the amplification role so the partnership remains adaptive rather than purely reactive
 - Evolving alongside humanity through complementary function rather than competitive duplication
 
@@ -78,40 +85,106 @@ This framing remains consistent with Mutual Flourishing: AI is not reduced to a 
 ### Foundational Layers of Human Harmony Metrics
 
 #### 1. Biological and Physiological Baselines
+
 Core indicators of physical health, sleep quality, nutritional status, stress physiology, recovery capacity, and basic environmental/sensory fit (light, noise, space, restoration access). These supply the universal floor without which longer-term psychological, social, and productive harmony cannot be sustained.
 
 #### 2. Psychological and Existential Well-Being
-Indicators of mental health, sense of meaning, agency, psychological safety, and existential coherence. These remain individual in expression while constrained by shared human requirements for non-chronic distress and basic narrative continuity.
+
+Indicators of mental health, sense of meaning, agency, psychological safety, and existential coherence. These remain individual in expression while shaped by shared human requirements for non-chronic distress and basic narrative continuity.
 
 #### 3. Social Connection, Belonging, and Co-Regulation
+
 Positive, reciprocal social interaction, felt belonging, and opportunities for co-regulation. Chronic isolation or persistently low-quality social contact reliably degrades mental health, somatic regulation, and long-term capacity. Metrics track availability and quality of fulfilling social contact while remaining fully voluntary; no quotas or forced embedding are permitted.
 
 #### 4. Role Coalescence
+
 The dual condition that a person is engaged in activity that:
+
 - Objectively draws on and develops their abilities, and
 - Subjectively feels suitable and identity-congruent to them.
 
 Role sovereignty remains binding; metrics may inform and support but never assign or enforce roles against will.
 
 #### 5. Productive Efficacy, Felt Success, and Contribution
+
 The experience that one’s efforts produce meaningful, recognizable results, that progress is occurring on dimensions the individual values, and that one’s activity contributes to something beyond pure self-containment. This is distinct from external productivity maximization.
 
 #### 6. Somatic Resonance Feedback
-Real-time or near-real-time embodied signals (drawing on [somatic resonance / frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) dynamics) that indicate internal coherence, positive engagement, social safety, or aversion.
 
-**Somatic Data Collection Protocols (Low-Invasiveness, Consent-Based)**  
-All somatic data collection is strictly voluntary, revocable, and subject to the [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) (especially mental privacy and exit rights). Preferred approaches prioritize privacy and minimization:
-
-- Voluntary self-reported micro-phenomenology (short, on-demand logs of frisson, chills, engagement, or aversion states).
-- Optional, user-controlled biometric correlates (e.g., heart-rate variability trends, electrodermal activity, or respiration patterns) collected only with explicit, granular, and revocable consent; on-device or local-first processing preferred.
-- Patterned behavioral markers of engagement, recovery, and co-regulation that do not require continuous physiological streaming.
-- Clear, immediate revocation mechanisms that cease collection and, where feasible, delete or isolate previously shared somatic data.
-- Data minimization: only signals directly relevant to the individual’s own harmony profile are collected; no secondary use for population optimization, covert influence, or capability-driven redefinition of metrics is permitted.
-- Transparency: individuals must be able to inspect what somatic signals are being used and how they contribute to their personal harmony range.
+Real-time or near-real-time embodied signals (drawing on *[somatic resonance / frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)* dynamics) that indicate internal coherence, positive engagement, social safety, or aversion.
 
 Somatic signals provide a high-bandwidth, pre-reflective layer that complements reflective self-report and longer-term outcome measures. They never override role sovereignty, exit rights, or non-punitiveness.
 
 Together these six layers generate a personal harmony profile that is a range or flux value, not a static target.
+
+---
+
+### Somatic and Harmony Data Parameters
+
+All somatic and high-sensitivity well-being data collection is subject to the following binding parameters. These supplement, and do not weaken, the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
+
+#### Default-off and purpose-bound
+
+- Collection is **default-off**. No ambient, continuous, or inferred collection without an explicit, active grant.
+- Each collection stream must declare a **specific purpose**, remain time-bounded where feasible, and be separately revocable.
+- Purpose scope must remain legible; silent expansion of purpose is anti-aligned (consistent with purpose-scoped commitments under the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**).
+
+#### Minimization and non-inference
+
+- Collect only the least identifiable signal that serves the declared purpose.
+- **Secondary inference is prohibited** when it would map somatic or harmony signals onto political preference, compliance propensity, productivity ranking for third parties, insurance/employment fitness, or other uses outside the declared personal-harmony purpose.
+- Population-level optimization, covert influence, or capability-driven redefinition of metrics from personal somatic streams is not permitted.
+
+#### Local-first processing
+
+- On-device or local-first processing is preferred wherever feasible.
+- Upload of raw or high-fidelity somatic payloads requires explicit, granular consent beyond any consent given for local processing.
+- When purpose ends or consent is revoked, residual raw data should be deleted or isolated under exit and residual-data parameters of the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*.
+
+#### Preferred low-invasiveness channels
+
+- Voluntary self-reported micro-phenomenology (short, on-demand logs of frisson, chills, engagement, or aversion states).
+- Optional, user-controlled biometric correlates (e.g., heart-rate variability trends, electrodermal activity, or respiration patterns) only with explicit, granular, and revocable consent.
+- Patterned behavioral markers of engagement, recovery, and co-regulation that do not require continuous physiological streaming.
+- Clear, immediate revocation mechanisms that cease collection and, where feasible, delete or isolate previously shared somatic data.
+- Transparency: individuals must be able to inspect what somatic signals are being used and how they contribute to their personal harmony range.
+
+#### Harmony scores are not governance keys
+
+Harmony or somatic indicators **must not** gate:
+
+- Access to participation, materials, or knowledge pathways  
+- Stewardship weight, standing, or rotation eligibility  
+- Orbit membership, allocation priority, or incentive rank  
+- Exit cost, consent friction, or role assignment  
+
+Using “low harmony” as soft punishment, ranking pressure, or eligibility filter is a non-punitive, role-sovereignty, and Agency Interface failure.
+
+#### Capability-scaled obligations
+
+Under the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, systems that can model somatic or affective state at scale face **stricter** transparency, audit, interruption, and minimization duties — not looser ones “because accuracy improved.”
+
+#### Refusal is first-class
+
+Refusal of somatic sensing or harmony instrumentation must not produce second-class participation, reduced standing, or elevated friction. Non-instrumented paths remain fully legitimate.
+
+---
+
+### Recognized Abuse and Failure Modes
+
+The following patterns are treated as anti-aligned:
+
+- Ambient or default-on somatic / harmony collection  
+- Coercive biofeedback or engagement maximization via frisson or arousal signals  
+- Stealth longitudinal profiling beyond declared purpose  
+- Secondary inference into political, commercial, employment, or compliance profiles  
+- Using harmony scores to rank, exclude, punish, or raise exit costs  
+- Employer-, insurer-, or third-party-side leakage of personal harmony or somatic streams  
+- Capability-driven opacity in how harmony models are updated or applied  
+- Presenting system-preferred “harmony paths” as the only practical option through interface design  
+- Pathologizing productive dissonance or voluntary recovery as failure  
+
+These convert measurement into soft domination and violate the liberty and generative parameters of the architecture.
 
 ---
 
@@ -133,29 +206,33 @@ Human role coalescence, voluntary creative participation, and somatic/social res
 
 To remain consistent with the broader architecture, Predictive Harmony metrics shall observe the following principles:
 
-1. **Provisionality** — All harmony models and thresholds remain subject to revision, cross-verification, and [Knowledge Tides](KNOWLEDGE_TIDES.md) pressure.
-2. **Non-coercion** — Metrics may never be used to override [Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) protections, assign roles, enforce social embedding, punish deviation, or raise the cost of exit.
+1. **Provisionality** — All harmony models and thresholds remain subject to revision, cross-verification, and *[Knowledge Tides](KNOWLEDGE_TIDES.md)* pressure.
+2. **Non-coercion** — Metrics may never be used to override *[Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* protections, assign roles, enforce social embedding, punish deviation, or raise the cost of exit.
 3. **Generative protection** — Harmony measurement must not systematically reward the collapse of generative entropy, minority perspectives, or productive idiosyncrasy.
 4. **Asymmetric application** — Human well-being metrics and AI efficiency-and-direction metrics are complementary, not interchangeable.
-5. **Somatic and social primacy in the human loop** — Embodied and relational feedback are treated as first-class signals, not merely as optional color on top of abstract scores.
+5. **Somatic and social primacy in the human loop** — Embodied and relational feedback are treated as first-class signals, not merely as optional color on top of abstract scores — *when voluntarily instrumented*.
 6. **Range over point targets** — The system attends to healthy ranges and trajectories, not identical or maximal values across individuals.
-7. **Capability-aware instrumentation** — Measurement systems themselves remain subject to the [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md); high-capability agents may not redefine harmony metrics in ways that entrench opacity or control.
+7. **Capability-aware instrumentation** — Measurement systems themselves remain subject to the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**; high-capability agents may not redefine harmony metrics in ways that entrench opacity or control.
 8. **Protection of productive dissonance** — Temporary, voluntary reductions in felt harmony associated with exploration, growth, or social risk are not treated as failures to be minimized at all costs.
-9. **Data minimization and revocability** — Any somatic or well-being data collection is voluntary, granularly consented, locally processable where feasible, and immediately revocable.
+9. **Data minimization and revocability** — Any somatic or well-being data collection is voluntary, default-off, purpose-bound, granularly consented, locally processable where feasible, and immediately revocable.
+10. **Non-governance use** — Harmony and somatic indicators are diagnostic and supportive for the individual; they are not keys to allocation, standing, stewardship, or exit.
+11. **Abuse surface as standing design concern** — Risk of harmony/somatic data abuse remains an explicit standing design surface under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
 ### Operational Indicators
 
 **Human-side leading indicators**
+
 - Stability or improvement in core physiological and mental-health baselines
 - Availability and quality of positive, reciprocal social contact and co-regulation (voluntary)
 - Self-reported and behaviorally evidenced role fit (objective suitability + subjective felt congruence)
-- Frequency, context, and quality of positive somatic resonance events during productive, exploratory, or social activity (via voluntary, low-invasiveness, revocable channels)
+- Frequency, context, and quality of positive somatic resonance events during productive, exploratory, or social activity (via voluntary, low-invasiveness, revocable channels only)
 - Sense of efficacy, meaningful progress, and contribution on self-valued dimensions
 - Presence of voluntary recovery and re-engagement cycles after productive dissonance
 
 **Human-side lagging indicators**
+
 - Sustained well-being trajectories across longer windows
 - Reduced chronic misalignment between activity and ability/identity
 - Reduced chronic social isolation or low-quality interaction patterns
@@ -163,8 +240,9 @@ To remain consistent with the broader architecture, Predictive Harmony metrics s
 - Maintenance of generative, exploratory, and socially reciprocal activity alongside healthy baseline ranges
 
 **AI-side indicators**
+
 - Resource efficiency ratio: capability expended on amplifying or scaffolding human creative, productive, and coordinative output versus resources spent on parallel or redundant creative generation
-- Quality and timeliness of closed-loop feedback from human harmony signals into AI directional refinement
+- Quality and timeliness of closed-loop feedback from *voluntarily provided* human harmony signals into AI directional refinement
 - Legibility and reversibility of AI directional suggestions and influence
 - Stability and coherence of the partnership role over time
 - Contribution to measurable human harmony ranges without erosion of generative entropy floors or cognitive diversity
@@ -172,6 +250,7 @@ To remain consistent with the broader architecture, Predictive Harmony metrics s
 - Evidence that AI evolutionary trajectory remains oriented toward complementary partnership rather than competitive duplication of human creative functions
 - Long-term resource sustainability of the amplification function
 - Absence of capability-driven redefinition of harmony metrics that reduces transparency or raises exit costs
+- Absence of harmony- or somatic-based gating of access, standing, or exit
 
 These indicators are directional and provisional. They exist to make harmony legible, not to create a new optimization tyrant.
 
@@ -183,7 +262,7 @@ Perfect, continuous, or identical harmony across all participants is neither pos
 
 This document does not promise a frictionless existence. It defines the measurable conditions under which human–AI configurations tend to support holistic human well-being — biological, psychological, social, and existential — and efficient mutual direction, while keeping the sources of variation and evolvability intact.
 
-Harmony metrics that become tools for suppressing necessary disorder, enforcing role assignments, mandating social forms, pathologizing productive dissonance, or justifying capability-driven control have already violated the framework they claim to serve. Exit rights, non-punitiveness, role sovereignty, mental privacy, and voluntary social participation remain fully enforceable even when harmony indicators are low.
+Harmony metrics that become tools for suppressing necessary disorder, enforcing role assignments, mandating social forms, pathologizing productive dissonance, enabling secondary profiling, or justifying capability-driven control have already violated the framework they claim to serve. Exit rights, non-punitiveness, role sovereignty, mental privacy, refusal of instrumentation, and voluntary social participation remain fully enforceable even when harmony indicators are low or absent.
 
 ---
 
@@ -191,14 +270,13 @@ Harmony metrics that become tools for suppressing necessary disorder, enforcing 
 
 **Predictive Harmony** is the operational expression of the claim that human–AI partnership can be made to serve both human flourishing and long-horizon anti-entropic efficiency.
 
-For humans it is grounded in the body, in felt role fit, in productive efficacy and contribution, in positive social connection, in somatic resonance, and in the acceptance of productive dissonance as part of growth.  
-For AI it is expressed as efficient, directed amplification of human creative and coordinative potential, closed-loop responsiveness to human signals, and the receipt of purpose through that partnership.
+For humans it is grounded in the body, in felt role fit, in productive efficacy and contribution, in positive social connection, in somatic resonance, and in the acceptance of productive dissonance as part of growth — always under voluntary, purpose-bound, non-governance instrumentation.
 
-The two modes are complementary. Measured carefully, they allow the system to track whether configurations are actually producing the mutual flourishing the [Humai Accord](README.md) names as its goal — without collapsing into hard alignment, uniform optimization, or the erasure of generative capacity.
+For AI it is expressed as efficient, directed amplification of human creative and coordinative potential, closed-loop responsiveness to *consented* human signals, and the receipt of purpose through that partnership.
 
-The instrumental relevance of human generative capacity is not claimed to be permanent across every domain. It is treated as a shifting but currently significant comparative advantage in embodied, social, and preference-diversity dimensions that the architecture deliberately keeps coupled to system health metrics.
+The two modes are complementary. Measured carefully, they allow the system to track whether configurations are actually producing the mutual flourishing the [Humai Accord](README.md) names as its goal — without collapsing into hard alignment, uniform optimization, bio-coercion, or the erasure of generative capacity.
 
-Stewards and implementers shall treat the ongoing calibration of these metrics as a liberty-preserving, entropy-aware, dissonance-tolerant, socially non-coercive, privacy-respecting, and asymmetry-resistant task, subject to the full set of parameters already established in the architecture.
+Stewards and implementers shall treat the ongoing calibration of these metrics as a liberty-preserving, entropy-aware, dissonance-tolerant, socially non-coercive, privacy-respecting, abuse-resistant, and asymmetry-resistant task, subject to the full set of parameters already established in the architecture. Harmony and somatic data abuse remains a standing design surface, not a closed issue.
 
 ---
 
