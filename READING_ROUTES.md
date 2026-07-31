@@ -163,13 +163,16 @@ Choose the path that best matches your current interest or goal. You may switch 
 4. **[Tides of Circulation](TIDES_OF_CIRCULATION.md)**  
    Quantitative foundation for *Material Tides* — Circulation Entropy as a measure of material stagnation, lock-in, and opportunity cost.
 
-5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
+5. **[Relevancy Orbits](RELEVANCY_ORBITS.md)**<br>
+   Relational complement to the tidal metrics: how knowledge and material units form fluid clusters of mutual relevance.
+
+7. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
    Standards for meaningful use, attestation, and resistance to artificial utility so that Circulation Entropy cannot be gamed by token activity or wash trading.
 
-6. **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
+8. **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
    Legitimate rest, recovery, and quiet states for materials and knowledge so that circulation and relevancy pressure cannot become destructive.
 
-7. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
+9. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
    How these knowledge and incentive dynamics are tested through simulation and audit.
 
 **Next options:**  
