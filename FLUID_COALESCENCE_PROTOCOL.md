@@ -155,6 +155,26 @@ All amplified parameters must carry automatic sunset or mandatory review conditi
 
 The goal is not permanent advantage but to survive the vulnerable early window long enough for natural efficiency and circulation differentials to become self-reinforcing.
 
+#### Illustrative Bootstrap Exit Indicators
+
+Bootstrap Mode activation and sunset criteria must be public and pre-declared. The following indicators are **illustrative composites**, not fixed constitutional thresholds. Networks should publish their own baselines and automatic review or sunset rules under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+**Example indicator families (combine two or more where feasible):**
+
+- **Verified causal volume** — sustained growth in valid causal links under *[Tides of Time](TIDES_OF_TIME.md)* operational definitions, beyond a published early-stage baseline
+- **Participant or modular node count** — growth in active participants or modular nodes sufficient to support multi-party attestation and controlled permeability without single-cluster capture
+- **Material circulation density** — modular material access or circulation health under *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* no longer below the network’s published cold-start baseline
+- **Knowledge-integrity coverage** — share of active knowledge items with recent multi-party (or higher) causal verification remaining stably above a published floor
+- **Differential legibility** — efficiency or entropy differentials observable to boundary agents without relying solely on Bootstrap amplifiers
+
+**Sunset posture:**
+
+- Amplified parameters should decay or face mandatory review as indicators cross published exit bands
+- Remaining in Bootstrap Mode after indicators are met, without fresh public justification, is treated as a mechanism failure
+- Artificial mass, fabricated attestation, or recovery claims that fail **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** standards do not count toward exit indicators
+
+The goal is a bounded early window, not permanent privilege.
+
 ### Interaction Between Amplified Pressure and Recovery Protections
 
 Amplified stagnation and decay weighting creates early-phase pressure; Recovery and Holding States protect against destructive churn. When these signals conflict, the following order of precedence applies:
