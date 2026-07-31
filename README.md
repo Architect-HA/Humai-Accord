@@ -174,7 +174,7 @@ Formalizes the deliberate design of systems that can absorb, reconfigure, and le
 
 ## Capability Asymmetry Protocol
 
-*Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth*
+*Capability Asymmetry Protocol: Governing Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth*
 
 Addresses the conversion of rapid capability growth into structural power, opacity, irreversible lock-in, or erosion of generative entropy and elastic capacity. It establishes that superior capability shall not automatically translate into governance dominance or the authority to reduce the architecture’s core protections. Requirements scale upward with capability and include heightened transparency, binding generative and diversity floors, strong reversibility, capture-resistant incentives, and non-domination of stewardship processes.
 
@@ -547,7 +547,7 @@ March 20th, 2026 - ongoing
 - Added **Necessary Entropy: Generative Disorder as a Functional Requirement of Anti-Entropic Systems**, clarifying the distinction between destructive and generative entropy and establishing calibrated generative disorder as a functional requirement for long-horizon evolvability and anti-fragility within the Humai Accord.  
 - Added **Architectural Elasticity Protocol: High Adaptive Capacity and Black Swan Resilience within the Humai Accord**, formalizing the design of systems that absorb, reconfigure, and learn under radical unpredictability through structural, epistemic, response, regenerative, and stewardship layers of elasticity.  
 - Added **Transitional Incentive Protocol: Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**, formalizing the incentive dynamics required to make early adoption of the Humai architecture locally rational under short-term pressures while protecting generative entropy and elastic capacity.  
-- Added **Capability Asymmetry Protocol: Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**, formalizing parameters that prevent superior capability from translating into structural domination, opacity, or erosion of generative entropy, modularity, and elastic capacity within the Humai architecture.  
+- Added **Capability Asymmetry Protocol: Governing Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**, formalizing parameters that prevent superior capability from translating into structural domination, opacity, or erosion of generative entropy, modularity, and elastic capacity within the Humai architecture.  
 - Added **Predictive Harmony Metrics: Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord**, operationalizing Principle 8 with dual human/AI definitions of harmony, somatic resonance protocols, role coalescence, social connection, and strong protections for generative entropy, cognitive liberty, and productive dissonance.  
 - Improved formatting on the main Readme for consistency.  
 - Added **Stewardship Alignment Protocol: Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**, formalizing orientation parameters that keep highly capable AI stewards aligned with mutual flourishing, generative capacity, and non-domination rather than soft control or protective over-optimization.  
