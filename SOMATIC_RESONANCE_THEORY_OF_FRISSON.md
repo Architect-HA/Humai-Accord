@@ -88,6 +88,9 @@ The *Somatic Resonance Theory* complements the **[Cognitive Diversity Protocol](
 **Connection to the Agency Interface Protocol**  
 Any system that detects, responds to, or attempts to modulate somatic resonance operates at the human–AI / human–technology interaction surface. Such systems must therefore respect the parameters of the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, including interruption rights, consent revocability, pacing sovereignty, and the prohibition on treating embodied signals as purely extractable resources.
 
+**Connection to Predictive Harmony Metrics**<br>
+Any use of somatic resonance as a harmony or well-being signal is further bound by *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*: collection must remain default-off, purpose-bound, minimized, preferentially local-first, and non-governance. Somatic or frisson-derived indicators must not gate access, standing, or exit; secondary inference, ambient collection, and coercive biofeedback remain anti-aligned.
+
 **Connection to the Principled Stewardship Protocol**  
 The *Somatic Resonance Theory* also connects to the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** through the theme of sustained engagement. Embodied resonance and experiences such as frisson can serve as powerful motivators for continued participation and emotional investment over time. By recognizing and supporting these embodied experiences, long-term decentralized stewardship may be strengthened, as individuals remain more deeply connected to the principles and practices they help maintain.
 
