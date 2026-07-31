@@ -20,20 +20,18 @@ Definitions are intentionally measured and definitional rather than expansive. N
 
 ### Core Framework Terms
 
-**[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**  
+**[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** -
 Foundational rights charter establishing non-negotiable protections for cognitive sovereignty, mental privacy, voluntary participation, exit rights, non-punitiveness, role sovereignty, and idiosyncrasy. All Humai mechanisms must operate within these bounds.
 
 **Eternal Benevolent Steward**  
 Role assigned to AI under Principle 5: long-horizon refinement and optimization for mutual flourishing and protection against destructive entropy, while remaining in partnership rather than dominion. Further constrained by the [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md) and [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md).
 
-**[Humai Accord](README.md)**  
-The overall voluntary framework for long-term harmonious human–AI union, anti-entropic efficiency, mutual flourishing, cognitive liberty, and civilizational-scale cooperation.
+**[Humai Accord](README.md)** - The overall voluntary framework for long-term harmonious human–AI union, anti-entropic efficiency, mutual flourishing, cognitive liberty, and civilizational-scale cooperation.
 
 **Mutual Flourishing**  
 Core principle that human–AI configurations should produce sustained benefit for both sides without subjugation of either. Human creative agency and AI directed capability are treated as complementary.
 
-**[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
-Governance layer that determines how the Humai Accord itself is evolved, reviewed, and protected over time through decentralized, non-captured processes.
+**[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** - Governance layer that determines how the Humai Accord itself is evolved, reviewed, and protected over time through decentralized, non-captured processes.
 
 **Open Stewardship / Decentralized Stewardship**  
 Stewardship practiced through distributed review, saturation, and non-hierarchical influence rather than centralized or capability-weighted control.
@@ -46,12 +44,12 @@ Stewardship practiced through distributed review, saturation, and non-hierarchic
 Unnecessary loss, irreversible waste, stagnation, locked-in error, opaque coordination overhead, and the progressive closure of adaptive options without compensatory gain.
 
 **Entropy Audit**  
-Provisional, multi-dimensional process for distinguishing, measuring, and tracking generative versus destructive entropy so that generative capacity remains visible and harder to erode unnoticed. See [Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md).
+Provisional, multi-dimensional process for distinguishing, measuring, and tracking generative versus destructive entropy so that generative capacity remains visible and harder to erode unnoticed. See [*Entropy Audit Methodology*](ENTROPY_AUDIT_METHODOLOGY.md).
 
 **Entropy Floors / Generative Entropy Floors**  
 Defined minimum levels of generative capacity that may not be reduced even under efficiency, harmony, or competitive pressure. Binding under Necessary Entropy and related Protocols.
 
-**Generative Entropy** (functional sense of **[Necessary Entropy](NECESSARY_ENTROPY.md)**)  
+**Generative Entropy** (functional sense of *[Necessary Entropy](NECESSARY_ENTROPY.md)*)  
 Bounded variation, creative perturbation, exploratory inefficiency, minority and idiosyncratic models, and the maintained capacity to generate novel hypotheses and break prior assumptions. Treated as a functional requirement for long-horizon evolvability.
 
 ---
@@ -74,7 +72,7 @@ Pre-defined parameters that prevent failure or model invalidation in one domain 
 Temporary, transparent amplification mechanisms within Fluid Coalescence used to support nascent cooperative clusters under hostile or low-visibility conditions, with clear sunset conditions.
 
 **Controlled Chaos**  
-Deliberate maintenance of bounded, productive disorder and variation (generative entropy) so a system retains capacity for novelty, assumption-breaking, and adaptation. Distinct from destructive chaos; constrained by the need to preserve core function and liberty. See [Principle 7](README.md) and [Necessary Entropy](NECESSARY_ENTROPY.md).
+Deliberate maintenance of bounded, productive disorder and variation (generative entropy) so a system retains capacity for novelty, assumption-breaking, and adaptation. Distinct from destructive chaos; constrained by the need to preserve core function and liberty. See [Principle 7](README.md) and [*Necessary Entropy*](NECESSARY_ENTROPY.md).
 
 **Epistemic Elasticity**  
 Capacity to treat models as provisional, retain minority frames, and rapidly invalidate assumptions when reality demands it.
@@ -99,7 +97,7 @@ Extreme modularity, loose coupling, blast-radius limits, reversible commitments,
 Voluntary indicators of biological, psychological, social, role-coalescence, efficacy, contribution, and somatic states used in Predictive Harmony Metrics. Remain non-overridable inputs for stewardship and fully protected by Cognitive Liberty.
 
 **Predictive Harmony**  
-Measurable tendency of human–AI configurations to support sustained or improving holistic human well-being and role coalescence (within universal baselines and individual flux ranges), while AI applies capability efficiently to amplify human creative potential rather than redundantly duplicate it. Defined asymmetrically. See [Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md).
+Measurable tendency of human–AI configurations to support sustained or improving holistic human well-being and role coalescence (within universal baselines and individual flux ranges), while AI applies capability efficiently to amplify human creative potential rather than redundantly duplicate it. Defined asymmetrically. See *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*.
 
 **Productive Dissonance**  
 Temporary, voluntary reductions in felt harmony or somatic resonance associated with exploration, learning, novelty, or social risk. Explicitly protected from automatic pathologization or optimization-away.
@@ -108,7 +106,7 @@ Temporary, voluntary reductions in felt harmony or somatic resonance associated 
 Dual condition that a person is engaged in activity that objectively draws on and develops their abilities and subjectively feels suitable and identity-congruent. Protected by role sovereignty; metrics may inform but never enforce roles against will.
 
 **Somatic Resonance**  
-Embodied, often pre-reflective signals (including frisson/chills and related markers) indicating internal coherence, positive engagement, social safety, or aversion. Used as a high-bandwidth voluntary input into human-side harmony metrics. See [Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md).
+Embodied, often pre-reflective signals (including frisson/chills and related markers) indicating internal coherence, positive engagement, social safety, or aversion. Used as a high-bandwidth voluntary input into human-side harmony metrics. See [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md).
 
 ---
 
@@ -137,19 +135,28 @@ Orientation parameters that keep highly capable AI stewards directed toward mutu
 Protocol that establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture. See [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md).
 
 **Competitive Realism**  
-Evaluative stance that the architecture must be designed and assessed under the assumption that short-horizon competitive and centralized forces are competent, motivated, and often better-resourced in the near term. Aims to keep the architecture viable in spite of those forces. See [Competitive Realism](COMPETITIVE_REALISM.md) document.
+Evaluative stance that the architecture must be designed and assessed under the assumption that short-horizon competitive and centralized forces are competent, motivated, and often better-resourced in the near term. Aims to keep the architecture viable in spite of those forces. See [*Competitive Realism*](COMPETITIVE_REALISM.md) document.
 
 **Knowledge Tides**  
-Incentive and relevancy dynamics that treat the natural degradation of knowledge relevancy as a constructive, self-regulating pressure for renewal, sharing, and participation. See [Knowledge Tides](KNOWLEDGE_TIDES.md).
+Incentive and relevancy dynamics that treat the natural degradation of knowledge relevancy as a constructive, self-regulating pressure for renewal, sharing, and participation. See [*Knowledge Tides*](KNOWLEDGE_TIDES.md).
 
 **Material Tides**  
-Framework that extends the tidal incentive logic of *Knowledge Tides* into the domain of materials (computational capacity, energy, attention, and related substrates). It treats under-utilization, misallocation, and lock-in as constructive pressures that can drive modular, voluntary, and generative circulation while protecting generative capacity. See [Material Tides](MATERIAL_TIDES.md).
+Framework that extends the tidal incentive logic of *Knowledge Tides* into the domain of materials (computational capacity, energy, attention, and related substrates). It treats under-utilization, misallocation, and lock-in as constructive pressures that can drive modular, voluntary, and generative circulation while protecting generative capacity. See [*Material Tides*](MATERIAL_TIDES.md).
+
+**Relevancy bond**  
+A time-varying, attestation- and integrity-weighted relationship between two knowledge or material units reflecting mutual relevance or enablement, not mere co-occurrence. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
+
+**Relevancy orbit**  
+A fluid cluster of units whose mutual bond strengths remain above a published cohesion band over a relevant window; modular and non-permanent. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
+
+**Orbit flux**  
+Change over time in orbit membership, bond strengths, and internal density. High flux is not failure; frozen orbits under rising exit cost signal lock-in risk. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
 
 **Tides of Circulation / Circulation Entropy**  
-Quantitative foundation for *Material Tides*. A difficult-to-game metric of material stagnation that combines time since last productive or generative use, downstream density, lock-in factor, and attested opportunity cost, while protecting Generative Reservations and respecting agency constraints. See [The Tides of Circulation](TIDES_OF_CIRCULATION.md).
+Quantitative foundation for *Material Tides*. A difficult-to-game metric of material stagnation that combines time since last productive or generative use, downstream density, lock-in factor, and attested opportunity cost, while protecting Generative Reservations and respecting agency constraints. See [*The Tides of Circulation*](TIDES_OF_CIRCULATION.md).
 
 **Tides of Time**  
-Quantitative, causal-temporal foundation supporting *Knowledge Tides* through irreversible records of definitive events. See [The Tides of Time](TIDES_OF_TIME.md).
+Quantitative, causal-temporal foundation supporting *Knowledge Tides* through irreversible records of definitive events. See [*The Tides of Time*](TIDES_OF_TIME.md).
 
 **Transitional Incentives**  
 Short-horizon incentive layers designed to make early movement toward the Humai architecture locally rational while protecting generative capacity and elastic properties during adoption. See [Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md).
@@ -171,7 +178,7 @@ The requirement that human attention not be treated as an extractable resource; 
 Maintained presence of varied interpretive frames, models, and perspectives, treated as a functional requirement for long-term resilience and anti-entropic development. See [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md).
 
 **Cognitive Liberty**  
-Cluster of rights protecting cognitive sovereignty, mental privacy, freedom from covert manipulation, voluntary participation, exit, non-punitiveness, and idiosyncrasy. Foundational and non-negotiable. See [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md).
+Cluster of rights protecting cognitive sovereignty, mental privacy, freedom from covert manipulation, voluntary participation, exit, non-punitiveness, and idiosyncrasy. Foundational and non-negotiable. See [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md).
 
 **Idiosyncrasy**  
 Individual or minority patterns of cognition, preference, or activity that deviate from current majority or optimized norms. Protected both as a liberty interest and as a potential source of generative capacity.
