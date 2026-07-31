@@ -170,13 +170,18 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 
 ## Integration with Existing Humai Components
 
-- **[Material Tides](MATERIAL_TIDES.md)** receives a precise quantitative signal for utilization decay, lock-in cost, opportunity cost, and renewal premiums.
-- **[Entropy audits](ENTROPY_AUDIT_METHODOLOGY.md)** gain an objective, comparable measure of material stagnation and unnecessary lock-in.
-- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** can compute clear relative entropy differentials involving material circulation.
+- *[Material Tides](MATERIAL_TIDES.md)* receives a precise quantitative signal for utilization decay, lock-in cost, opportunity cost, and renewal premiums.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)* form the parallel knowledge-domain structure; Circulation Entropy is the material counterpart to Temporal Causal Entropy.
+- *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gains an objective, comparable measure of material stagnation and unnecessary lock-in.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** can compute clear relative entropy differentials involving material circulation, including under Bootstrap Mode and cold-start conditions.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** gains a measurable way to detect capability-driven material capture.
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** gains support for detecting high-exit-cost interface patterns and for protecting attention from pure extractive scoring.
-- **[A Common Sense](A_COMMON_SENSE.md)** makes the efficiency consequences of high-circulation versus high-stagnation strategies legible to both human and artificial agents.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** gains support for detecting high-exit-cost interface patterns and for protecting attention from pure extractive scoring; proposal surfaces and purpose-scoped commitments remain binding at allocation interfaces.
+- *[A Common Sense](A_COMMON_SENSE.md)* makes the efficiency consequences of high-circulation versus high-stagnation strategies legible to both human and artificial agents.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** defines legitimate Material Recovery and Holding States that may receive reduced or zero time-based Circulation Entropy penalties when properly attested and bounded, preventing forced circulation from becoming physically destructive.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** defines what counts as meaningful productive or generative use so Circulation Entropy cannot be reduced by token activity, wash trading, or silent reallocation of purpose-scoped capacity.
+- *[Relevancy Orbits](RELEVANCY_ORBITS.md)* uses attested utilization and enablement events in $\mathcal{U}$ as inputs to time-decaying, integrity-weighted bond strengths between material units. Downstream density $D(m)$ remains an aggregate enablement signal for a single unit; orbits describe cluster structure and bond flux among sets of units. Hybrid knowledge–material bonds require typed co-enablement under integrity rules. Orbit cohesion is not a substitute for Circulation Entropy.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* treats Circulation Entropy and related material-circulation signals as valid empirical targets under the dual entropy criteria, with preference for trajectories over snapshot-only metrics.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs refinement of weighting parameters, attestation bands, and operational definitions.
 
 ---
 
