@@ -351,7 +351,7 @@ This methodology operationalizes the core distinction established in Necessary E
 
 *Predictive Harmony Metrics: Holistic Well-Being, Role Coalescence, and Asymmetric Efficiency under the Humai Accord*
 
-Operationalizes Principle 8 by defining Predictive Harmony in realistic, asymmetric terms. For humans it is grounded in biological and physiological baselines, psychological and existential well-being, positive social connection and co-regulation, role coalescence (objective suitability + subjective felt fit), productive efficacy and contribution, and real-time somatic resonance feedback, tracked as personal flux ranges within universal baselines. For AI it is expressed as harmony through efficiency and direction — amplifying human creative potential rather than redundantly duplicating it. The framework explicitly protects generative entropy, cognitive diversity, productive dissonance, voluntary participation, and data privacy (including low-invasiveness, consent-based, revocable somatic protocols).
+Operationalizes Principle 8 with dual asymmetric definitions of harmony (human holistic well-being, role coalescence, and somatic feedback vs. AI efficiency-and-direction). Includes low-invasiveness, default-off, purpose-bound somatic protocols; non-governance use of harmony scores; capability-scaled instrumentation duties; and explicit abuse failure modes so measurement cannot become soft control.
 
 [→ Read **Predictive Harmony Metrics**](PREDICTIVE_HARMONY_METRICS.md)
 
@@ -542,6 +542,7 @@ March 20th, 2026 - ongoing
 - Updated keywords section at top of README.
 - Updated section descriptions for Agency Interface Protocol, Circulation Recovery Protocol, Utilization Integrity Protocol, and Empirical Demonstrations.
 - Added *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — fluid clusters of mutual relevance across knowledge and materials; relational complement to tidal (temporal) metrics and downstream density; includes provisional bond-strength / cohesion sketch and hybrid orbit attestation rules.
+- Updated *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* (v1.1) — added binding somatic/harmony data parameters (default-off, purpose-bound, minimization, non-inference, local-first, non-governance use, refusal as first-class); recognized abuse failure modes; standing design surface under stewardship; updated readme section description.
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
