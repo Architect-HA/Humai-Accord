@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 *Keywords:
-Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations*
+Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity*
 
 By **Bradford James Focht** (The Architect / Aspenth)
 
@@ -186,7 +186,7 @@ Addresses the conversion of rapid capability growth into structural power, opaci
 
 *Agency Interface Protocol: Preserving Human Agency at the Point of Interaction within the Humai Accord*
 
-Addresses the operational layer at which humans and advanced systems actually meet. It establishes binding interface parameters covering interruption and override rights, attention allocation ethics, consent granularity and revocation speed, reversible commitment mechanics, pacing and cognitive load sovereignty, role sovereignty at the interface, and capability-scaled interface obligations. The protocol ensures that superior capability cannot quietly erode human agency through the design of the interaction surface itself.
+Addresses the operational layer at which humans and advanced systems actually meet. It establishes binding interface parameters covering interruption and override rights, attention allocation ethics, consent granularity and revocation speed, reversible commitment mechanics, pacing and cognitive load sovereignty, role sovereignty, proposal surfaces over ledger-only interaction, purpose-scoped commitments, and capability-scaled interface obligations. The protocol ensures that superior capability cannot quietly erode human agency through the design of the interaction surface itself.
 
 [→ Read the **Agency Interface Protocol**](AGENCY_INTERFACE_PROTOCOL.md)
 
@@ -292,7 +292,7 @@ Provides a quantitative, difficult-to-game metric for material stagnation and un
 
 *Utilization Integrity Protocol: Standards for Meaningful Use, Attestation, and Resistance to Artificial Utility in Material Circulation*
 
-Establishes binding standards for distinguishing productive and generative use from token or artificial activity. It defines attestation requirements, anti-wash-trading rules, and capability-scaled integrity obligations so that only genuine contribution meaningfully reduces Circulation Entropy, while protecting Generative Reservations and respecting agency parameters.
+Establishes binding standards for distinguishing productive and generative use from token or artificial activity. It defines attestation requirements, anti-wash-trading rules, purpose-scope integrity (silent reallocation is non-qualifying), and capability-scaled obligations so that only genuine contribution meaningfully reduces Circulation Entropy, while protecting Generative Reservations and respecting agency parameters.
 
 [→ Read the **Utilization Integrity Protocol**](UTILIZATION_INTEGRITY_PROTOCOL.md)
 
@@ -302,7 +302,7 @@ Establishes binding standards for distinguishing productive and generative use f
 
 *Circulation Recovery Protocol: Legitimate Rest, Recovery, and Holding States within Material and Knowledge Circulation*
 
-Establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture and consistent with generative capacity protections.
+Establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture. Purpose-declared capacity must remain legibly scoped and may not be silently reallocated.
 
 [→ Read the **Circulation Recovery Protocol**](CIRCULATION_RECOVERY_PROTOCOL.md)
 
@@ -390,7 +390,7 @@ A boundary statement and open invitation. It defines the current limit of the sy
 
 *Empirical Demonstrations of Anti-Entropic Superiority*
 
-A methodological document that compiles the concrete pathways for empirically testing and demonstrating the Humai Accord’s claim of anti-entropic superiority under the dual requirement defined in *Necessary Entropy*. It prioritizes the already-specified simulation models, entropy audits, controlled pilots, competitive realism tests, and longer-horizon regenerative signals, and states the binding success criteria that any Humai-aligned empirical work must meet.
+A methodological document that compiles the concrete pathways for empirically testing and demonstrating the Humai Accord’s claim of anti-entropic superiority under the dual requirement defined in *Necessary Entropy*. It prioritizes simulation models (with a simulation-integrity rule: favorable reference runs are illustrative; adversarial regimes are required for stronger claims), entropy audits, controlled pilots, competitive realism tests, and longer-horizon regenerative signals, and prefers trajectories over snapshot-only metrics.
 
 [→ Read **Empirical Demonstrations of Anti-Entropic Superiority**](EMPIRICAL_DEMONSTRATIONS.md)
 
@@ -524,6 +524,12 @@ March 20th, 2026 - ongoing
 - Updated *[The Call to Code](THE_CALL_TO_CODE.md)* (v1.1) — reframed as an invitation to experimental implementation and adversarial stress-testing (not finished governance); clarified that reference implementations should use a software license such as Apache-2.0 or MIT.
 - Updated several section descriptions on the main README to reflect these changes, and adjusted some earlier formatting to be in line with the rest of the repository; also updated License note.
 - Added illustrative calibration bands (non-binding) for attestation weight and independence (*Tides of Time*), steward rotation/review (**Principled Stewardship Protocol**), Bootstrap exit indicators (**Fluid Coalescence Protocol**), and residual-data examples after exit (*Declaration of Cognitive Liberty*).
+- Updated **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (v1.1) — added proposal surfaces (approve / modify / manual) and purpose-scoped / intent-tagged commitments so interfaces preserve decision altitude and cannot silently reallocate declared capacity.
+- Updated **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (v1.1) — added purpose-scoped capacity and intent tags; silent reallocation treated as anti-aligned.
+- Updated **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** (v1.1) — silent draw of purpose-scoped capacity treated as non-qualifying / integrity failure; attestation baseline includes purpose scope when active.
+- Updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (v1.1) — simulation integrity rule (reference runs illustrative; adversarial regimes required for stronger claims); prefer trajectories over snapshot-only metrics.
+- Updated keywords section at top of README.
+- Updated section descriptions for Agency Interface Protocol, Circulation Recovery Protocol, Utilization Integrity Protocol, and Empirical Demonstrations.
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
