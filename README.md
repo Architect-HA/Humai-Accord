@@ -523,6 +523,7 @@ March 20th, 2026 - ongoing
 - Updated **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md) — required adversarial countermodel suites; favorable reference simulations are illustrative, not validation.
 - Updated *[The Call to Code](THE_CALL_TO_CODE.md)* (v1.1) — reframed as an invitation to experimental implementation and adversarial stress-testing (not finished governance); clarified that reference implementations should use a software license such as Apache-2.0 or MIT.
 - Updated several section descriptions on the main README to reflect these changes, and adjusted some earlier formatting to be in line with the rest of the repository; also updated License note.
+- Added illustrative calibration bands (non-binding) for attestation weight and independence (*Tides of Time*), steward rotation/review (**Principled Stewardship Protocol**), Bootstrap exit indicators (**Fluid Coalescence Protocol**), and residual-data examples after exit (*Declaration of Cognitive Liberty*).
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
