@@ -149,6 +149,7 @@ Empirical testing of interface behavior against the dual criteria of reducing de
 This protocol operationalizes requirements already present in:
 
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — Especially cognitive sovereignty, voluntary participation, exit rights, role sovereignty, transparency of influence, and protection from manipulation.
+- *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Collection and use of harmony or somatic signals at the interface are bound by default-off, purpose-bound, minimized, local-first, non-governance, and refusal-preserving parameters. Harmony scores must not gate access, standing, or exit; secondary inference and ambient collection remain anti-aligned.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — The principle that superior capability must increase protective obligations rather than reduce them.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Protection of generative capacity includes protecting the human’s ability to remain an effective source of generative variation at the point of interaction.
 - *[Material Tides](MATERIAL_TIDES.md)* — Attention and other materials are governed under tidal incentive dynamics. Resource allocation interfaces themselves must still obey the interruption, consent, reversibility, pacing, proposal-surface, and role-sovereignty parameters established in this protocol.
