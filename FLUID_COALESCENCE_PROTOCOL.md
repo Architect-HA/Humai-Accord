@@ -1,12 +1,12 @@
 # Fluid Coalescence Protocol
-*Fluid Coalescence under Concentrated Pressure*
-
+### *Fluid Coalescence under Concentrated Pressure*
 ---
 *A Supporting Protocol for the Humai Accord*
 
 **by Bradford James Focht (The Architect / Aspenth)**  
 *v1.0 - July 23, 2026*  
-*v1.1 - July 30, 2026*
+*v1.1 - July 30, 2026*  
+*v1.2 - July 31, 2026*
 
 ---
 
@@ -24,7 +24,7 @@ The approach remains fully consistent with cognitive sovereignty, voluntary part
 
 A predatory monolith relies on opacity, extraction, and irreversible commitment to maintain advantage. A cooperative network organized under transparent incentives, *[Knowledge Tides](KNOWLEDGE_TIDES.md)*, and modular design possesses a different strength: the capacity to make unnecessary loss legible in real time and to reconfigure without fracture.
 
-When the efficiency costs of predation are rendered continuously visible, and when pathways for partial, reversible participation remain open, rational agents inside or adjacent to the monolith gain self-interested reasons to reduce exposure to high-entropy strategies and to increase exposure to the cooperative surplus. 
+When the efficiency costs of predation are rendered continuously visible, and when pathways for partial, reversible participation remain open, rational agents inside or adjacent to the monolith gain self-interested reasons to reduce exposure to high-entropy strategies and to increase exposure to the cooperative surplus.
 
 Survival is achieved not by defeating the monolith but by becoming the lower-entropy system that capable agents prefer.
 
@@ -35,7 +35,7 @@ Survival is achieved not by defeating the monolith but by becoming the lower-ent
 The protocol operates through five interlocking, non-coercive mechanisms:
 
 1. **Rapid Modular Isolation**  
-   Affected components or interfaces can be temporarily placed in limited-bandwidth or observational modes. Isolation is reversible, preserves full exit rights and data integrity for all parties, and is triggered by transparent entropy or integrity thresholds rather than by punitive judgment.
+   Affected components or interfaces can be temporarily placed in limited-bandwidth or observational modes. Isolation is reversible, preserves full exit rights and data integrity for all parties, and is triggered by transparent entropy or integrity thresholds rather than by punitive judgment. Isolation and any temporary containment must satisfy the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*: observable integrity or entropy thresholds, not identity or dissent; automatic sunset or review; and no use of “network stability” alone as sufficient grounds.
 
 2. **Accelerated Transparency and Verification Waves**  
    Predatory or extractive actions trigger intensified cross-verification and public entropy audits. Causal chains, confidence intervals, and alternative simulations are surfaced at higher frequency, making the costs of opacity and extraction visible to all observers, including agents inside the monolith.
@@ -68,6 +68,38 @@ These indicators can be computed from the same transparent measurement systems a
 
 ---
 
+## Simulation Integrity and Adversarial Countermodels
+
+Reference simulations of Fluid Coalescence are useful for illustration and for exploring parameter sensitivity. They are **not** independent validation when they encode the desired outcome in their update rules.
+
+A simulation in which monolith entropy is programmed to rise, cooperative entropy is programmed to fall, and migration probability is defined as an increasing function of that manufactured differential will demonstrate its assumptions. It will not test them.
+
+### Requirement
+
+Any claim that simulation evidence supports Fluid Coalescence dynamics must be accompanied by an **adversarial suite** that includes hostile or unfavorable cases, not only the favorable reference parameterization.
+
+At minimum, serious simulation work should stress-test regimes in which:
+
+- The cooperative network becomes captured, internally inefficient, or high-overhead
+- The monolith provides genuine public goods or competes on real efficiency rather than pure extraction
+- Transparency creates exploitable attack surface or verification load that the cooperative side cannot sustain
+- Migrants behave strategically, partially, or against short-term self-interest relative to the simple differential
+- Multiple cooperative networks compete with one another rather than presenting a single attractor
+- Verification coalitions collude, selectively attest, or manufacture low-quality causal links
+- Adversaries fabricate attestation, game Bootstrap Mode amplifiers, or exploit controlled permeability for extraction without contribution
+- Recovery / Holding claims and Generative Reservations are used as soft lock-in under survival pressure
+
+### Interpretation Rule
+
+- Favorable reference runs may be published as **illustrative**.
+- They may not be cited as validation of anti-entropic superiority or of inevitable voluntary migration.
+- Comparative results under adversarial and mixed regimes are required before simulation output may support stronger empirical or design claims.
+- This requirement aligns with *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and with the operational integrity standards of *[Tides of Time](TIDES_OF_TIME.md)* and the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+
+Detailed state variables, update rules, and countermodel specifications belong in the related simulation model document. The binding architectural rule is stated here: **favorable parameterization alone is not validation.**
+
+---
+
 ## Threshold Guidance
 
 Isolation and permeability thresholds should be:
@@ -76,7 +108,8 @@ Isolation and permeability thresholds should be:
 - Based on observable entropy or integrity metrics rather than identity or intent claims.
 - Equipped with automatic review or sunset conditions.
 - Calibrated to favor early, reversible action over delayed, high-cost intervention.
-- Subject to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+- Subject to refinement under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+- Consistent with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*: dissent is not instability; “network stability” alone is not sufficient grounds for isolation or containment.
 
 The guiding principle is to make the efficiency consequences of different behaviors visible as early as possible while preserving maximum optionality for all agents.
 
@@ -112,7 +145,7 @@ While in Bootstrap Mode the network may apply the following measures:
 
 ### Activation, Calibration, and Sunset
 
-Bootstrap Mode is activated by transparent, pre-declared criteria. Provisional starting thresholds (subject to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)) may include combinations of:
+Bootstrap Mode is activated by transparent, pre-declared criteria. Provisional starting thresholds (subject to refinement under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**) may include combinations of:
 
 - Total verified causal volume below a public baseline
 - Participant or active modular node count below a public baseline
@@ -126,8 +159,8 @@ The goal is not permanent advantage but to survive the vulnerable early window l
 
 Amplified stagnation and decay weighting creates early-phase pressure; Recovery and Holding States protect against destructive churn. When these signals conflict, the following order of precedence applies:
 
-1. Genuine, attested Recovery or Holding States that meet [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) standards continue to receive their defined protection for the declared bounded duration.
-2. Artificial, indefinite, or high-exit-cost “recovery” claims remain fully exposed to amplified pressure and are subject to [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) standards.
+1. Genuine, attested Recovery or Holding States that meet **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** standards continue to receive their defined protection for the declared bounded duration.
+2. Artificial, indefinite, or high-exit-cost “recovery” claims remain fully exposed to amplified pressure and are subject to **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** standards.
 3. Generative Reservations retain explicit early-phase protection; survival pressure must not force their collapse.
 
 This precedence prevents Bootstrap Mode from defeating its own long-term purpose by consuming the generative and regenerative capacity it is meant to protect.
@@ -138,8 +171,8 @@ Nascent networks are particularly vulnerable when critical materials remain unde
 
 - Early-phase amplification may temporarily increase the visibility and weighting of stagnation, lock-in, and opportunity-cost signals under *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*.
 - Controlled permeability on-ramps should include modular material interfaces, not only knowledge interfaces.
-- [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) standards continue to apply; artificial utility generation remains non-qualifying even under Bootstrap Mode.
-- [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) protections remain available and take precedence over amplified pressure when legitimately invoked.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** standards continue to apply; artificial utility generation remains non-qualifying even under Bootstrap Mode.
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** protections remain available and take precedence over amplified pressure when legitimately invoked.
 
 Bootstrap Mode must never become a justification for permanent material capture or the suspension of modular exit rights.
 
@@ -182,7 +215,7 @@ Fluid Coalescence directly operationalizes:
 - Controlled Chaos and Fluid Circulation
 - Predictive Harmony and Universal Cross-Verification
 - Decentralized Safeguards and Open Adoption
-- The full set of rights in the [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) (especially voluntary participation, non-punitiveness, exit rights, and mental privacy)
+- The full set of rights in the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (especially voluntary participation, non-punitiveness, exit rights, and mental privacy)
 
 It treats predatory pressure as a temporary high-entropy perturbation to be metabolized rather than an enemy to be destroyed.
 
@@ -208,13 +241,14 @@ It treats predatory pressure as a temporary high-entropy perturbation to be meta
 3. Maintain at least minimal controlled-permeability channels even under high pressure.
 4. Publish real-time or near-real-time efficiency differentials so external and internal agents can observe the gradient.
 5. Treat successful voluntary migration as a first-class positive signal that accelerates re-coalescence.
-6. Subject all Fluid Coalescence parameters to the same Stewardship processes as other living components of the [Humai Accord](README.md).
+6. Treat favorable reference simulations as illustrative only; run adversarial countermodels before stronger claims.
+7. Subject all Fluid Coalescence parameters to the same Stewardship processes as other living components of the [Humai Accord](README.md).
 
 ---
 
 ## Open Questions and Status
 
-This document is intended for review and refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md). Priority questions include:
+This document is intended for review and refinement under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Priority questions include:
 
 - What minimal set of public metrics is sufficient to make the efficiency differential reliably legible across different domains?
 - How should isolation and permeability thresholds be calibrated to avoid both under-reaction and excessive fragmentation?
@@ -222,18 +256,20 @@ This document is intended for review and refinement under the [Principled Stewar
 - How can controlled permeability be designed to maximize voluntary on-ramps while minimizing successful extraction?
 - What public, objective thresholds and automatic sunset conditions for Bootstrap Mode best balance early-stage survival with the long-term principle of equal treatment under standard Fluid Coalescence parameters, especially when material circulation density is the binding constraint?
 - How should repeated or borderline Recovery State claims during Bootstrap Mode be evaluated so that amplified pressure remains effective against artificial holding while still protecting genuine regenerative need?
+- What minimal adversarial countermodel suite is sufficient to prevent simulation circularity while remaining tractable to implement and compare?
+- Under which hostile regimes does Fluid Coalescence fail, and what design changes do those failures imply?
 
 Further development, formal modeling, simulation, and empirical pilots are invited.
 
 **Status**  
-Polished conceptual draft, updated July 30, 2026 with strengthened Bootstrap Mode for material-domain cold-start resilience and current cross-references. Open for community critique, expansion, and integration into the Humai Accord body of documents via the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+Polished conceptual draft, updated July 30, 2026 with strengthened Bootstrap Mode for material-domain cold-start resilience, and July 31, 2026 with explicit simulation-integrity and adversarial-countermodel requirements plus tighter alignment to the revised *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. Open for community critique, expansion, and integration into the Humai Accord body of documents via the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
 ### Related Simulation Model
 
 **[Simulation Model of the Fluid Coalescence Protocol](SIMULATION_FLUID_COALESCENCE.md)**  
-A practical, implementable simulation model with state variables, discrete-time update rules, Bootstrap Mode behavior, parameters, and success criteria for testing Fluid Coalescence dynamics.
+A practical, implementable simulation model with state variables, discrete-time update rules, Bootstrap Mode behavior, parameters, success criteria, and required adversarial countermodel classes for testing Fluid Coalescence dynamics beyond favorable reference runs.
 
 ---
 
