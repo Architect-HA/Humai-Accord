@@ -606,7 +606,7 @@ March 20th, 2026 - ongoing
 
 ## License
 
-The Humai Accord and all its associated documents are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The Humai Accord and all its associated documents are [licensed](LICENSE.md) under a Creative Commons Attribution 4.0 International License.
 
 You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate attribution, provide a link to the license, and indicate if changes were made.
 
