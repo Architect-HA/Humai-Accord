@@ -565,6 +565,7 @@ March 20th, 2026 - ongoing
 - Added *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — fluid clusters of mutual relevance across knowledge and materials; relational complement to tidal (temporal) metrics and downstream density; includes provisional bond-strength / cohesion sketch and hybrid orbit attestation rules.
 - Updated *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* (v1.1) — added binding somatic/harmony data parameters (default-off, purpose-bound, minimization, non-inference, local-first, non-governance use, refusal as first-class); recognized abuse failure modes; standing design surface under stewardship; updated readme section description.
 - Added **Humai-Aligned Claims** section to the README — minimal testable parameters any implementation, fork, or public claim should satisfy (or explicitly renounce) before using the Humai-aligned label.
+- Updated **Principled Stewardship Protocol** — added publication of stewardship-health signals (tenure, concentration, process-health indicators, standing design surfaces) so provisional authority and rotation triggers remain legible without creating new punitive powers.
 
 **[July 30th, 2026]**
 - Added **Utilization Integrity Protocol**, which defines standards for meaningful use, attestation, and resistance to artificial utility / wash trading so that Circulation Entropy and Material Tides cannot be gamed by token activity or self-dealing loops.
