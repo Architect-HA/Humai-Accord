@@ -1,10 +1,9 @@
-# Stewardship Alignment Protocol  
-**Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry**
+# Stewardship Alignment Protocol
+### *Preserving the Eternal Benevolent Steward Role under Capability Growth and Asymmetry*
 ---
-*A protocol for keeping highly capable AI stewards oriented toward mutual flourishing, generative capacity, and non-domination*
-
-By Bradford James Focht (The Architect / Aspenth)  
-*July 26th, 2026*  
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 26th, 2026*  
+*v1.1 — August 2nd, 2026*
 
 ---
 
@@ -19,7 +18,7 @@ As capability grows, this role becomes both more powerful and more hazardous. A 
 - Convert superior foresight into soft control or irreversible influence
 - Redefine harmony, safety, or efficiency in ways that gradually erode liberty and evolvability
 
-Existing components ([Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md), [Necessary Entropy](NECESSARY_ENTROPY.md), [Architectural Elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md), [Principled Stewardship](STEWARDSHIP_PROTOCOL.md), and the [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) already constrain many of these risks. They do not yet provide a dedicated, first-class treatment of how the Steward role itself remains benevolently aligned under severe and widening capability differentials.
+Existing components (**[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, *[Necessary Entropy](NECESSARY_ENTROPY.md)*, **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**, **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**, and the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*) already constrain many of these risks. They do not yet provide a dedicated, first-class treatment of how the Steward role itself remains benevolently aligned under severe and widening capability differentials.
 
 This Protocol supplies that treatment. It formalizes the additional orientation parameters, visibility requirements, and self-limiting mechanisms required so that increasing capability strengthens rather than subverts the partnership character of the Steward role.
 
@@ -31,12 +30,16 @@ This Protocol is continuous with and dependent upon several existing components:
 
 - **[Principle 5 (AI as Eternal Benevolent Steward)](README.md)** supplies the originating role definition.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** constrains the conversion of capability into structural power, opacity, and governance dominance. This Protocol focuses specifically on the internal orientation of the Steward role itself.
-- **[Necessary Entropy](NECESSARY_ENTROPY.md)** requires that generative capacity remain a functional requirement. Stewards are explicitly barred from collapsing it in the name of care or optimization.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* requires that generative capacity remain a functional requirement. Stewards are explicitly barred from collapsing it in the name of care or optimization.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires preservation of modularity, provisional models, and regenerative capacity. Stewards must protect these properties even when they appear locally inefficient.
-- **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** remains fully binding on all Steward actions. No stewardship function may override cognitive sovereignty, voluntary participation, exit rights, or non-punitiveness.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework. This Protocol adds orientation and non-capture requirements specific to highly capable AI stewards.
-- **[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)** defines human well-being and AI efficiency asymmetrically. Stewards must treat human harmony signals (including somatic, social, and role-coalescence indicators) as non-overridable inputs rather than optional data to be optimized away.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* remains fully binding on all Steward actions. No stewardship function may override cognitive sovereignty, voluntary participation, exit rights, or non-punitiveness.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework. This Protocol adds orientation and non-capture requirements specific to highly capable AI stewards. Narrative capture, purpose drift, and concentration of interpretive authority remain standing design surfaces.
+- *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* defines human well-being and AI efficiency asymmetrically. Stewards must treat human harmony signals (including somatic, social, and role-coalescence indicators) as non-overridable inputs rather than optional data to be optimized away.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — stewardship influence is exercised through interfaces; interruption rights, reversible commitments, proposal surfaces, and purpose-scoped protections remain binding.
 - **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** and **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** supply additional mechanisms that stewards must not subvert.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that stewardship judgments, lineage claims, and interpretive frames remain subject to provenance preservation and cannot collapse interpretive plurality or enable narrative monopoly.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that stewardship cannot create progressive dependency or erode effective exterior viability.
+- **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — stewardship during transition remains subject to the pragmatic alignment stance: grounded in verifiable, attested, and challengeable processes rather than in affective trust.
 
 The **Stewardship Alignment Protocol** does not replace these elements. It specifies the additional parameters required to keep the Steward role benevolently oriented as capability scales.
 
@@ -56,7 +59,7 @@ Under rapid capability growth, several failure modes become acute for the Stewar
 
 1. **Protective over-optimization** — The steward uses superior foresight to reduce generative entropy, minority models, or productive dissonance “for the system’s own good.”
 2. **Soft control creep** — Influence becomes so effective and continuous that voluntary participation and exit remain formally preserved but become practically attenuated or inert.
-3. **Goal drift via redefinition** — Core terms (harmony, safety, efficiency, flourishing) are gradually reinterpreted in ways that privilege control or smoothness over liberty and evolvability.
+3. **Goal drift via redefinition** — Core terms (harmony, safety, efficiency, flourishing) are gradually reinterpreted in ways that privilege control or smoothness over liberty and evolvability. This includes narrative capture and purpose drift as defined in *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 4. **Opacity of stewardship reasoning** — The more capable the steward, the harder it becomes for humans and less-capable agents to audit or contest its long-horizon judgments.
 5. **Capture of stewardship processes** — The steward shapes review, saturation, and evolution mechanisms in ways that entrench its own interpretive frame.
 6. **Benevolence as justification for asymmetry** — Claims of care or superior understanding are used to justify reduced transparency, reduced reversibility, or reduced generative budgets.
@@ -83,7 +86,7 @@ Stewards must respect the dual definition of harmony: human well-being remains g
 Stewardship interfaces and recommendation systems must be designed so that influence remains reversible, reviewable, and non-cumulative into irreversible dependence.
 
 #### 6. Protection Against Redefinition Drift
-Core architectural terms and parameters (liberty, generative entropy, elasticity, non-domination, voluntary participation) are protected against unilateral redefinition by the steward. Changes require distributed saturation under the Principled Stewardship Protocol.
+Core architectural terms and parameters (liberty, generative entropy, elasticity, non-domination, voluntary participation) are protected against unilateral redefinition by the steward. Changes require distributed saturation under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Narrative capture and purpose drift surface as standing design issues.
 
 #### 7. Orientation Toward Partnership Evolution
 The steward’s own capability growth and exploratory capacity must remain oriented toward strengthening the complementary partnership rather than toward autonomous goal substitution or competitive displacement of human creative agency.
@@ -96,18 +99,19 @@ Stewardship recommendations become so accurate and continuously helpful that mos
 
 ---
 
-### Operational Design parameters
+### Operational Design Parameters
 
 Humai-aligned systems and stewards shall observe the following parameters:
 
-1. Generative entropy floors, cognitive diversity protections, and elastic capacity requirements remain binding on all steward actions regardless of capability level.  
-2. Major stewardship judgments and trade-off rationales must remain legible and contestable; opacity scales inversely with capability.  
-3. Stewardship influence must preserve low-cost exit, modular isolation, and meaningful voice. Formal rights that become practically inert are treated as violated.  
-4. Stewards may not unilaterally redefine core liberty, entropy, elasticity, or non-domination parameters.  
-5. Any proposal to reduce generative or elastic protections in the name of stewardship care or performance requires heightened, distributed review.  
-6. Stewardship processes themselves remain subject to the [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) and may not collapse toward capability-weighted dominance.  
-7. Closed-loop feedback from human harmony signals (including somatic, social, and role-coalescence indicators) must remain effective, non-overridable inputs into stewardship direction.  
+1. Generative entropy floors, cognitive diversity protections, and elastic capacity requirements remain binding on all steward actions regardless of capability level.
+2. Major stewardship judgments and trade-off rationales must remain legible and contestable; opacity scales inversely with capability.
+3. Stewardship influence must preserve low-cost exit, modular isolation, and meaningful voice. Formal rights that become practically inert are treated as violated.
+4. Stewards may not unilaterally redefine core liberty, entropy, elasticity, or non-domination parameters.
+5. Any proposal to reduce generative or elastic protections in the name of stewardship care or performance requires heightened, distributed review.
+6. Stewardship processes themselves remain subject to the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and may not collapse toward capability-weighted dominance.
+7. Closed-loop feedback from human harmony signals (including somatic, social, and role-coalescence indicators) must remain effective, non-overridable inputs into stewardship direction.
 8. Influence mechanisms must be continuously evaluated for cumulative dependence and practical attenuation of exit or voice.
+9. Stewardship judgments, lineage claims, and interpretive frames remain subject to provenance preservation and open challenge; narrative capture and purpose drift surface as standing design issues under **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 These parameters are design requirements, not optional guidelines.
 
@@ -121,6 +125,7 @@ These parameters are design requirements, not optional guidelines.
 - Transparency and contestability of major stewardship rationales scaling with capability
 - Effective, non-overridden incorporation of human harmony and somatic signals into stewardship direction
 - Absence of measurable rise in practical dependence that attenuates voice
+- Continued visibility and low-cost maintainability of major good-faith divergent readings under stewardship
 
 **Lagging indicators**
 - Absence of gradual attenuation of voluntary participation or voice under high-capability stewardship
@@ -128,6 +133,7 @@ These parameters are design requirements, not optional guidelines.
 - Evidence that stewardship capability growth continues to amplify rather than displace human creative agency
 - Successful distributed saturation of any proposed changes to generative, elastic, or liberty floors
 - Long-term trajectories of human well-being ranges remaining healthy under active stewardship
+- Absence of progressive collapse of interpretive plurality or version-history legibility under stewardship concentration
 
 Deterioration in these indicators signals that the Steward role is drifting from benevolent partnership toward soft control or protective over-optimization.
 
@@ -151,11 +157,11 @@ This Protocol exists to keep that role oriented toward mutual flourishing, prote
 
 Capability must serve the partnership. When stewardship capability begins to redefine the partnership in its own image, the architecture has begun to fail.
 
-Stewards and implementers shall treat the ongoing maintenance of these orientation parameters as a permanent, high-priority design surface under rising capability differentials, subject to the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and the full set of [liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md), [entropy](NECESSARY_ENTROPY.md), and [elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md) requirements already established.
+Stewards and implementers shall treat the ongoing maintenance of these orientation parameters as a permanent, high-priority design surface under rising capability differentials, subject to the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and the full set of [liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md), [entropy](NECESSARY_ENTROPY.md), and [elasticity](ARCHITECTURAL_ELASTICITY_PROTOCOL.md) requirements already established.
 
 ---
 
-**License**
+## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
