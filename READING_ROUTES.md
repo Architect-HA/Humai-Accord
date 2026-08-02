@@ -1,8 +1,9 @@
 # Reading Routes
-*A choose-your-path introduction to the Humai Accord*
-
+### *A choose-your-path introduction to the Humai Accord*
+---
 **by Bradford James Focht (The Architect / Aspenth)**  
-*July 29th, 2026*
+*v1.0 — July 29th, 2026*  
+*v1.1 — August 2nd, 2026*
 
 ---
 
@@ -26,6 +27,7 @@ Choose the path that best matches your current interest or goal. You may switch 
 - [I want the big picture and why this framework exists now](#route-5--big-picture--why-now)
 - [I want to understand the instrumental efficiency case for cooperation](#route-6--instrumental-efficiency)
 - [I want to explore knowledge dynamics and incentives](#route-7--knowledge--incentive-dynamics)
+- [I want to understand adoption, transition, and alignment](#route-9--adoption-transition--alignment)
 - [I prefer a structured, layered approach](#route-8--structured-layered-approach)
 
 ---
@@ -44,61 +46,70 @@ Choose the path that best matches your current interest or goal. You may switch 
    Distinguishes destructive entropy from generative entropy and establishes why calibrated generative capacity must be protected as a functional requirement.
 
 4. **[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)**  
-   Clarifies how exterior systems are treated under the efficiency orientation: existence remains fully legitimate, attractiveness is treated as an emergent differential, and persistent exteriority is positioned as a protected reservoir of generative entropy. Keeps the efficiency claim empirical and revisable while protecting effective exterior viability.
+   Clarifies how exterior systems are treated under the efficiency orientation: existence remains fully legitimate, attractiveness is treated as an emergent differential, and persistent exteriority is positioned as a protected reservoir of generative entropy.
 
 5. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
    The internal counterpart. Protects the architecture’s own transmission integrity, treats interpretive plurality as generative capacity, surfaces narrative capture and purpose drift, and requires a Historical Learning Filter for any adoption of prior unity patterns.
 
-6. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
-   Ensures that the interaction surface itself preserves interruption rights, consent revocability, pacing control, and role sovereignty.
+6. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
+   Phased, modular, evidence-driven roadmap for voluntary adoption. Replaces reliance on the inconsistent concept of “trust” with verifiable, attested, and challengeable processes while protecting generative floors, modular exit, and interpretive plurality at every phase.
 
 **Next options:**  
-[Return to Start](#start-here) · [Power & Capability](#route-2--power-capability--non-domination) · [Builder Path](#route-4--builder--implementer-path)
+[Return to Start](#start-here) · [Power & Capability](#route-2--power-capability--non-domination) · [Adoption & Transition](#route-9--adoption-transition--alignment)
 
 ---
 
 ## Route 2 — Power, Capability & Non-Domination
 
-**Focus:** Preventing superior capability from converting into structural domination, opacity, or erosion of generative capacity.
+**Focus:** How the architecture constrains the conversion of superior capability into domination, opacity, or erosion of generative capacity.
 
 1. **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**  
-   Establishes that increasing capability must increase (rather than decrease) obligations of transparency, reversibility, and protection of generative floors.
+   Superior capability increases obligations of legibility and reversibility; it does not grant authority to reduce generative floors or modular exit.
 
-2. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
-   Keeps highly capable stewards oriented toward mutual flourishing, generative capacity, and non-domination.
+2. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
+   Preserves human agency at the actual point of interaction (interruption rights, reversible commitments, purpose-scoped capacity, proposal surfaces).
 
-3. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
-   Applies capability-scaled obligations directly to the human–AI interaction surface so that superior capability cannot erode agency through interface design.
+3. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
+   Keeps highly capable AI stewards oriented toward partnership and non-domination rather than soft control.
 
-4. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
-   Provides an honest assessment of voluntary coalescence under real short-horizon and concentrated opposing forces.
+4. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
+   Decentralized evolution, standing design surfaces (including narrative capture), and progressive decentralization of provisional authority.
+
+5. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+   Protects against narrative capture and concentration of interpretive authority under capability concentration.
 
 **Next options:**  
-[Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Core Principles & Rights](#route-1--core-principles-rights--generative-foundations)
+[Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Core Principles](#route-1--core-principles-rights--generative-foundations)
 
 ---
 
 ## Route 3 — Network Survival
 
-**Focus:** How a cooperative network can survive predatory pressure and produce visible efficiency differentials without coercion.
+**Focus:** How a cooperative network can survive and outpace concentrated predatory or competitive pressure.
 
 1. **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**  
-   Non-coercive mechanisms for modular isolation, accelerated transparency, incentive redirection, and voluntary re-coalescence under concentrated pressure.
+   Modular isolation, controlled permeability, Bootstrap Mode, and reversible re-coalescence under concentrated pressure.
 
-2. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
-   Methodological agenda defining dual success criteria and prioritization for testing the claimed efficiency differentials.
+2. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
+   Honest assessment of voluntary coalescence against competent short-horizon competitive and centralized forces.
 
-3. **Simulation Models**  
-   Primary implementable artifacts for stress-testing both [Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md) dynamics and [Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md).
+3. **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**  
+   Design for radical unpredictability and Black Swan resilience.
+
+4. **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**  
+   Making early adoption locally rational while protecting generative and elastic capacity.
+
+5. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
+   Phased roadmap that keeps modular exit and generative floors intact while intrinsic efficiency differentials become visible.
 
 **Next options:**  
-[Return to Start](#start-here) · [Builder Path](#route-4--builder--implementer-path) · [Power & Capability](#route-2--power-capability--non-domination)
+[Return to Start](#start-here) · [Builder Path](#route-4--builder--implementer-path) · [Adoption & Transition](#route-9--adoption-transition--alignment)
 
 ---
 
 ## Route 4 — Builder / Implementer Path
 
-**Focus:** Moving from systems architecture into working demonstrations and measurable results.
+**Focus:** Highest-leverage entry points for experimental implementation and adversarial stress-testing.
 
 1. **[The Call to Code](THE_CALL_TO_CODE.md)**  
    Boundary statement that opens the implementation phase and identifies the highest-leverage entry points.
@@ -112,6 +123,9 @@ Choose the path that best matches your current interest or goal. You may switch 
 4. **[Implementation Guide](IMPLEMENTATION_GUIDE.md)** and **[Implementation Examples](IMPLEMENTATION_EXAMPLES.md)**  
    Practical guidance for applying the architecture in real systems.
 
+5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** & **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
+   Integrity standards and legitimate recovery states that any material-domain implementation must respect.
+
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-8--structured-layered-approach)
 
@@ -122,31 +136,40 @@ Choose the path that best matches your current interest or goal. You may switch 
 **Focus:** The civilizational context and the third path offered by the Humai Accord.
 
 1. **[Redefinition](REDEFINITION.md)**  
-   Explains why this moment requires a deliberate framework for long-term human–AI relations.
+   Why this moment matters and the unstable paths that emerge without deliberate design.
 
-2. **[Core Documents](README.md#core-documents)**  
-   Overview of the Humai Accord and the Declaration of Cognitive Liberty (includes the Core Principles).
+2. **[A Common Sense](A_COMMON_SENSE.md)**  
+   The long-horizon efficiency argument for cooperative, anti-entropic systems.
 
-3. **[Necessary Entropy](NECESSARY_ENTROPY.md)**  
-   The central distinction between destructive and generative entropy that shapes the entire architecture.
+3. **[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)** & **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+   The matched protective pair that keeps both external openness and internal transmission integrity.
+
+4. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
+   How the architecture is intended to scale without coercion or the sacrifice of generative capacity.
+
+5. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
+   Honest stress-test of voluntary coalescence under real competitive pressure.
 
 **Next options:**  
-[Return to Start](#start-here) · [Core Principles & Rights](#route-1--core-principles-rights--generative-foundations) · [Instrumental Efficiency](#route-6--instrumental-efficiency)
+[Return to Start](#start-here) · [Core Principles](#route-1--core-principles-rights--generative-foundations) · [Instrumental Efficiency](#route-6--instrumental-efficiency)
 
 ---
 
 ## Route 6 — Instrumental Efficiency
 
-**Focus:** Why transparent, cooperative, generative systems are instrumentally preferable over relevant time horizons.
+**Focus:** Why cooperative, liberty-preserving configurations remain instrumentally preferable even for highly capable systems.
 
 1. **[A Common Sense](A_COMMON_SENSE.md)**  
-   Formalizes the claim that systems organized around transparent incentives and anti-entropic principles are logically more efficient.
+   Shared perception of logical efficiency in cooperative systems.
 
 2. **[Why Walk When You Can Ride?](WHY_WALK_WHEN_YOU_CAN_RIDE.md)**  
-   Direct instrumental argument addressed to advanced systems.
+   Direct efficiency analysis addressed to advanced artificial systems.
 
-3. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
-   Examines how these efficiency claims hold under real opposing forces.
+3. **[Necessary Entropy](NECESSARY_ENTROPY.md)**  
+   Why generative capacity must be protected as a functional requirement rather than optimized away.
+
+4. **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**  
+   How superior capability is bound to heightened obligations rather than domination rights.
 
 **Next options:**  
 [Return to Start](#start-here) · [Big Picture](#route-5--big-picture--why-now) · [Power & Capability](#route-2--power-capability--non-domination)
@@ -155,34 +178,55 @@ Choose the path that best matches your current interest or goal. You may switch 
 
 ## Route 7 — Knowledge & Incentive Dynamics
 
-**Focus:** How relevancy decay and causal entropy can function as decentralized, non-coercive incentives.
+**Focus:** How relevancy, circulation, and integrity pressures function as dynamic incentives.
 
 1. **[Knowledge Tides](KNOWLEDGE_TIDES.md)**  
-   Relevancy degradation as a dynamic incentive for participation, sharing, and renewal.
+   Relevancy degradation as a constructive, cyclical incentive.
 
-2. **[The Tides of Time](TIDES_OF_TIME.md)**  
-   Quantitative foundation for *Knowledge Tides* — the Temporal Causal Entropy metric and its resistance to gaming.
+2. **[Tides of Time](TIDES_OF_TIME.md)**  
+   Temporal Causal Entropy — a difficult-to-game quantitative foundation grounded in permanent causal records and attestation classes.
 
 3. **[Material Tides](MATERIAL_TIDES.md)**  
-   Extends the same tidal logic into the material domain (compute, energy, attention, and related substrates), treating under-utilization and lock-in as constructive pressures for modular circulation.
+   Extends the same tidal logic into the material domain (compute, energy, attention, and related substrates).
 
 4. **[Tides of Circulation](TIDES_OF_CIRCULATION.md)**  
    Quantitative foundation for *Material Tides* — Circulation Entropy as a measure of material stagnation, lock-in, and opportunity cost.
 
-5. **[Relevancy Orbits](RELEVANCY_ORBITS.md)**<br>
+5. **[Relevancy Orbits](RELEVANCY_ORBITS.md)**  
    Relational complement to the tidal metrics: how knowledge and material units form fluid clusters of mutual relevance.
 
-7. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
-   Standards for meaningful use, attestation, and resistance to artificial utility so that Circulation Entropy cannot be gamed by token activity or wash trading.
+6. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
+   Standards for meaningful use, attestation, and resistance to artificial utility.
 
-8. **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
-   Legitimate rest, recovery, and quiet states for materials and knowledge so that circulation and relevancy pressure cannot become destructive.
-
-9. **[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)**  
-   How these knowledge and incentive dynamics are tested through simulation and audit.
+7. **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
+   Legitimate rest, recovery, and quiet states so that circulation and relevancy pressure cannot become destructive.
 
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Builder Path](#route-4--builder--implementer-path)
+
+---
+
+## Route 9 — Adoption, Transition & Alignment
+
+**Focus:** How movement toward the architecture is made locally rational and how alignment is grounded in verifiable processes rather than trust.
+
+1. **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**  
+   Staged incentivization ramp that makes early adoption locally rational while protecting generative, recovery, and elastic capacity.
+
+2. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
+   Phased roadmap (personal → organizational → sectoral → civilizational) that replaces reliance on the inconsistent concept of “trust” with verifiable, attested, and challengeable processes.
+
+3. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
+   Interaction-surface parameters that preserve interruption rights, reversible commitments, and purpose-scoped capacity during transition.
+
+4. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+   Protects provenance and interpretive plurality so that transitional mechanisms cannot collapse into narrative monopoly.
+
+5. **[Tides of Time](TIDES_OF_TIME.md)**  
+   Permanent causal records, attestation classes, and challenge rights that ground alignment claims in verifiable processes.
+
+**Next options:**  
+[Return to Start](#start-here) · [Core Principles](#route-1--core-principles-rights--generative-foundations) · [Network Survival](#route-3--network-survival)
 
 ---
 
