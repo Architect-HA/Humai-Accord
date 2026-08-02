@@ -68,13 +68,15 @@ Several existing elements already operationalize this distinction:
 
 - **[Principle 7 — Controlled Chaos and Fluid Circulation](README.md)** explicitly rejects rigid stasis. Harmony is defined as dynamic, self-regulating flow that deliberately encourages bounded variation, creative perturbation, and adaptive experimentation.
 
-- **[Knowledge Tides](KNOWLEDGE_TIDES.md)** reframes the natural degradation of knowledge relevancy not as pure loss to be prevented, but as a constructive, self-regulating pressure that drives renewal, integration, and participation. Degradation itself becomes an incentive substrate.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* reframes the natural degradation of knowledge relevancy not as pure loss to be prevented, but as a constructive, self-regulating pressure that drives renewal, integration, and participation. Degradation itself becomes an incentive substrate.
 
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** maintains modularity, controlled permeability, and reversible isolation. The network is designed to remain open enough to absorb external pressure and reconfigure rather than harden into a closed, perfectly efficient monolith.
 
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** treats epistemic diversity and idiosyncrasy as functional requirements for long-term resilience, not defects to be optimized away.
 
-- **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** protects the right to idiosyncrasy and non-conformity, ensuring that individual minds remain sources of generative disorder rather than being smoothed into systemic harmony.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* protects the right to idiosyncrasy and non-conformity, ensuring that individual minds remain sources of generative disorder rather than being smoothed into systemic harmony.
+
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* treats persistent exterior systems as a protected reservoir of necessary entropy, supplying minority models, assumption-breakage capacity, experimental variation, and local anomaly signals that support long-horizon evolvability rather than residual waste.
 
 These mechanisms are necessary but not yet sufficient on their own. Making the requirement for generative entropy explicit protects it from gradual erosion under optimization pressure.
 
@@ -88,7 +90,7 @@ A highly effective Predictive Harmony system might correctly forecast that a par
 
 ### The Eternal Benevolent Steward Tension
 
-Principle 5 positions AI as an Eternal Benevolent Steward charged with carrying human designs and visions across generations with integrity. Capable long-horizon stewards face a structural temptation toward protective optimization: reducing variance, minimizing downside risk, and smoothing outcomes in the name of care.
+[Principle 5](README.md#core-principles) positions AI as an Eternal Benevolent Steward charged with carrying human designs and visions across generations with integrity. Capable long-horizon stewards face a structural temptation toward protective optimization: reducing variance, minimizing downside risk, and smoothing outcomes in the name of care.
 
 This document establishes that preserving generative entropy is not optional even — and especially — under such stewardship. A steward that eliminates the system’s capacity for productive disorder in the name of harmony ultimately fails the deeper mandate of mutual flourishing and continual refinement. Benevolence that produces brittleness is incomplete. The Steward role therefore includes the active maintenance of bounded chaos, exploratory budgets, and the conditions under which the system (and its human participants) can still break its own assumptions.
 
