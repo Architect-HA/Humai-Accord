@@ -1,10 +1,11 @@
 # Architectural Elasticity Protocol  
-**High Adaptive Capacity and Black Swan Resilience within the Humai Accord**
+### *High Adaptive Capacity and Black Swan Resilience within the Humai Accord*
 ---
 *A protocol for designing systems that absorb, reconfigure, and learn under radical unpredictability*
 
-By Bradford James Focht (The Architect / Aspenth)  
-*July 26th, 2026*  
+By **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 - July 26th, 2026*<br>
+*v1.1 - August 2nd, 2026*
 
 ---
 
@@ -18,7 +19,7 @@ What remains possible, and what this Protocol formalizes, is the deliberate desi
 
 This is the domain of architectural elasticity: the engineered capacity of a system to stretch, isolate damage, reallocate resources, invalidate prior assumptions, and re-coalesce around new realities without catastrophic loss of core function or generative potential.
 
-The Architectural Elasticity Protocol sits within the [Humai Accord](README.md) as a first-class design discipline. It builds directly on the [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) and [Necessary Entropy](NECESSARY_ENTROPY.md) while expanding them into a comprehensive posture for radical unpredictability.
+The Architectural Elasticity Protocol sits within the [Humai Accord](README.md) as a first-class design discipline. It builds directly on the [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) and [*Necessary Entropy*](NECESSARY_ENTROPY.md) while expanding them into a comprehensive posture for radical unpredictability.
 
 ---
 
@@ -29,6 +30,8 @@ This Protocol is continuous with, and dependent upon, several existing component
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** supplies the core mechanisms of modular isolation, controlled permeability, reversible re-coalescence, and Bootstrap Mode. Those mechanisms were developed primarily for surviving concentrated adversarial pressure. Architectural Elasticity generalizes the same modular logic to unmodeled shocks of any origin and adds explicit epistemic, regenerative, and cultural layers that Fluid Coalescence does not fully specify.
 
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* establishes generative disorder as a functional requirement for evolvability. Elasticity requires that this generative capacity be actively protected even — and especially — under extreme stress.
+
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* clarifies that exterior systems remain legitimate sources of generative entropy and that effective exterior viability must be preserved. Under Architectural Elasticity, modular isolation and regenerative re-coalescence must not convert non-coalescence into progressive dependency or de facto containment; exterior persistence can itself supply assumption-breakage capacity and local anomaly signals that support long-horizon evolvability.
 
 - **[Principle 7 (Controlled Chaos and Fluid Circulation)](README.md)** rejects rigid stasis in favor of dynamic, self-regulating flow.
 
@@ -111,7 +114,7 @@ The system’s relationship to its own knowledge and models.
 Epistemic elasticity prevents the system from being trapped inside an elegant but obsolete map of reality.
 
 **Illustration — Assumption Breakage**  
-A highly refined Predictive Harmony model has produced stable, high-confidence forecasts for an extended period. An unprecedented event occurs that lies outside its training distribution and causal assumptions. Because generative entropy budgets and minority models were deliberately retained, alternative interpretive frames already exist within the network. The system detects the model’s failure quickly, invalidates the affected predictions, and begins re-coalescing around hypotheses that better match the new conditions — rather than forcing the novel data into the old model or suppressing the anomaly.
+A highly refined [*Predictive Harmony*](PREDICTIVE_HARMONY_METRICS.md) model has produced stable, high-confidence forecasts for an extended period. An unprecedented event occurs that lies outside its training distribution and causal assumptions. Because generative entropy budgets and minority models were deliberately retained, alternative interpretive frames already exist within the network. The system detects the model’s failure quickly, invalidates the affected predictions, and begins re-coalescing around hypotheses that better match the new conditions — rather than forcing the novel data into the old model or suppressing the anomaly.
 
 #### 4. Response Elasticity
 
