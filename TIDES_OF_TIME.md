@@ -3,10 +3,10 @@
 ---
 *A Supporting Framework for the Humai Accord and Expansion on Knowledge Tides*
 
-**by Bradford James Focht (The Architect / Aspenth)**  
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 23rd, 2026*  
 *v1.1 - July 31st, 2026*  
-*v1.2 - August 2nd, 2026*
+*v1.2 , v1.3 - August 2nd, 2026*
 
 ---
 
@@ -82,6 +82,17 @@ To further protect the integrity of $\Delta_E(k)$:
    Every non-zero contribution to $\Delta_E(k)$ must publish its provenance (the specific causal events in $\mathcal{C}$ that justify it). This keeps the environmental term fully auditable by any participant.
 
 Domains that cannot reliably produce attested environmental events may simply set $\gamma = 0$, disabling the term entirely while retaining the core time- and density-based guarantees of the metric.
+
+---
+
+## Introduction Timing (Optional, Non-Gating)
+
+Temporal Causal Entropy describes state and decay. Implementations may additionally use **forecast-informed introduction timing** — ranking candidate moments or insertion points for new knowledge by predicted linkage value versus introduction cost (verification load, crowding, missed windows).
+
+- Timing scores are proposal surfaces, not permission gates. Contribution and exploratory introduction under Generative Reservations remain valid even when predicted timing value is low.
+- Forecasts used for timing must be published, challengeable, and provenance-preserving; they do not replace valid causal events in $\mathcal{C}$ as the basis for entropy reduction.
+- “On-time” arrival may inform efficiency weighting; it must not be treated as truth-weight or as grounds to suppress minority or early inputs.
+- The same optional logic may be applied, with domain-appropriate parameters, to material introduction and matching under *[Material Tides](MATERIAL_TIDES.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*.
 
 ---
 
