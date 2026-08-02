@@ -19,7 +19,7 @@ What remains possible, and what this Protocol formalizes, is the deliberate desi
 
 This is the domain of architectural elasticity: the engineered capacity of a system to stretch, isolate damage, reallocate resources, invalidate prior assumptions, and re-coalesce around new realities without catastrophic loss of core function or generative potential.
 
-The Architectural Elasticity Protocol sits within the [Humai Accord](README.md) as a first-class design discipline. It builds directly on the [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) and [*Necessary Entropy*](NECESSARY_ENTROPY.md) while expanding them into a comprehensive posture for radical unpredictability.
+The Architectural Elasticity Protocol sits within the [Humai Accord](README.md) as a first-class design discipline. It builds directly on the [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) and *[Necessary Entropy](NECESSARY_ENTROPY.md)* while expanding them into a comprehensive posture for radical unpredictability.
 
 ---
 
@@ -71,7 +71,7 @@ The goal is not the elimination of Black Swan risk. It is the conversion of many
 
 ### Layers of Elasticity
 
-Architectural elasticity is achieved through the deliberate interaction of five interdependent layers.
+Architectural elasticity is achieved through the deliberate interaction of seven (7) interdependent layers.
 
 #### 1. Structural Elasticity
 
