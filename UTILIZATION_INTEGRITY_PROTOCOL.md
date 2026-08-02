@@ -1,9 +1,10 @@
 # Utilization Integrity Protocol
-*Standards for Meaningful Use, Attestation, and Resistance to Artificial Utility in Material Circulation*
-
-**by Bradford James Focht (The Architect / Aspenth)**  
+### *Standards for Meaningful Use, Attestation, and Resistance to Artificial Utility in Material Circulation*
+---
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 30th, 2026*  
-*v1.1 — July 31st, 2026*
+*v1.1 — July 31st, 2026*  
+*v1.2 — August 2nd, 2026*
 
 ---
 
@@ -79,6 +80,8 @@ Any claim of productive or generative use intended to affect Circulation Entropy
 - A clear description of the claimed use and its relationship to the material unit $m$
 - Sufficient provenance to allow independent examination
 - Purpose or intent scope when the material is under an active recovery, holding, generative, or other declared scope
+
+Original provenance of utilization claims remains independently preservable even when later weighting or interpretation is applied. Formal recording does not extinguish the underlying provenance record.
 
 ### High-Weight Claims
 
@@ -186,13 +189,14 @@ When the material in question is human attention, this protocol operates under t
 
 This protocol directly supports and bounds:
 
-- *[Material Tides](MATERIAL_TIDES.md)* — by protecting the integrity of the utilization signals that drive its incentive dynamics
-- *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — by defining the standards under which events may legitimately affect Circulation Entropy
+- *[Material Tides](MATERIAL_TIDES.md)* — by protecting the integrity of the utilization signals that drive its incentive dynamics.
+- *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — by defining the standards under which events may legitimately affect Circulation Entropy.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Linking events that feed bond strength (including hybrid knowledge–material co-enablement claims) remain subject to the integrity standards of this protocol. Token pairing, wash trading, and silent purpose-scope violations do not create durable orbit bonds.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Recovery, Holding, Quiet, and purpose-scoped claims are themselves subject to integrity standards. Artificial, indefinite, or silently reallocated recovery claims used to disguise lock-in or manufacture utility remain anti-aligned.
-- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by preventing capability from translating into easier fabrication of utility
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims and allocation interfaces remain under agency protections, including purpose scope and proposal surfaces
-- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — by making utilization claims more auditable and testable under dual entropy criteria
+- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by preventing capability from translating into easier fabrication of utility.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims and allocation interfaces remain under agency protections, including purpose scope and proposal surfaces.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — by making utilization claims more auditable and testable under dual entropy criteria.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by classifying silent re-attribution or erasure of architectural version history as an integrity failure under the same standards that govern material utilization claims.
 
 ---
 
