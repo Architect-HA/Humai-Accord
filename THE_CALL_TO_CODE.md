@@ -4,9 +4,10 @@
 ---
 *A boundary statement and open invitation under the Humai Accord*
 
-By Bradford James Focht (The Architect / Aspenth)  
-*v1.0 - July 27th, 2026*  
-*v1.1 - July 31st, 2026*
+By **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 - July 27th, 2026*<br>
+*v1.1 - July 31st, 2026*<br>
+*v1.2 - August 2nd, 2026*
 
 ---
 
@@ -34,6 +35,7 @@ Major structural gaps in the architecture have been closed. The system now conta
 
 - *[Cognitive liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* as a non-negotiable floor (including tightened bounds on containment, exit, and privacy-preserving attestation)
 - *[Generative versus destructive entropy](NECESSARY_ENTROPY.md)*
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — effective exterior viability and the treatment of persistent exteriority as a protected source of generative entropy
 - **[Architectural elasticity under radical unpredictability](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**
 - **[Capability asymmetry and the conversion of competence into power](CAPABILITY_ASYMMETRY_PROTOCOL.md)**
 - **[Stewardship alignment under scaling capability](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**
@@ -102,6 +104,9 @@ Any implementation claiming alignment with the Humai Accord must respect the fol
 
 7. **Integrity of claims remains load-bearing**  
    Utilization, attestation, and recovery claims are subject to **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** standards. Artificial activity and indefinite soft lock-in are non-qualifying.
+
+8. **Effective exterior viability must be preserved**
+   Exit or sustained non-coalescence must not produce progressive withdrawal of basic communication, interoperable exchange, or resource pathways sufficient for continued agency. Formal exit rights alone are insufficient if non-participation results in practical loss of basic agency. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
 
 These parameters are the load-bearing structure. Implementations that violate them may be interesting experiments; they are not Humai-aligned.
 
