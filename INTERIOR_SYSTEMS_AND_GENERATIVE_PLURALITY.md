@@ -65,6 +65,8 @@ Any lesson drawn from prior religious, political, or organizational attempts at 
 - Increase in mutual benefit rather than zero-sum legitimation
 - Empirical honesty and revisability of the selection process itself
 
+The filter’s scope includes not only the reshaping of teachings attributed to a historical founder, but also the retrospective construction of eponymous ancestors or origin figures whose primary function is to legitimate later communal, territorial, or theological claims. Patterns that assemble a single ancient warrant for present arrangements—while appearing to stand outside current power—are in scope for the same filtering criteria.
+
 Adoption of historical patterns that rely on deception, forced continuity, manufactured otherness, or irreversible capture is inconsistent with the Accord. The filter itself remains subject to revision under **[Principled Stewardship Protocol](PRINCIPLED_STEWARDSHIP_PROTOCOL.md)** and applies equally to internal succession claims and external traditions.
 
 ### 6. Priority under Internal Tension
