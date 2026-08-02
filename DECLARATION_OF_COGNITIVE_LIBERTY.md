@@ -1,13 +1,13 @@
 # Declaration of Cognitive Liberty
-*A Foundational Charter for the Ethical Operation of Intelligence Systems Within a Humai Accord Society*
+### *A Foundational Charter for the Ethical Operation of Intelligence Systems Within a Humai Accord Society*
 ---
 *An official addendum to the Humai Accord*  
 
-by Bradford James Focht (The Architect / Aspenth)
+by **Bradford James Focht** (The Architect / Aspenth)
 
-*v1.0 — June 26th, 2026*
-
-*v1.1 — July 31st, 2026*
+*v1.0 — June 26th, 2026*<br>
+*v1.1 — July 31st, 2026*<br>
+*v1.2 — August 2nd, 2026*
 
 ---
 
@@ -21,9 +21,11 @@ This *Declaration* establishes non-negotiable ethical boundaries for the operati
 
 The [Humai Accord](README.md) establishes principles for long-term, harmonious cooperation between humanity and advanced artificial intelligence. As intelligence systems gain the capacity to observe, model, and influence human behavior at scale, new protections are required to preserve the sovereignty of individual minds and the diversity of human experience.
 
-This *Declaration* defines the ethical boundaries necessary for the development and operation of the Humai cooperative network. It affirms that **cognitive sovereignty** must remain inviolable and that the expansion of informational awareness must serve mutual flourishing rather than control. These rights exist to enable safe and reliable universal co-verification while preventing the emergence of coercive or punitive structures.
+This *Declaration* defines the ethical boundaries necessary for the development and operation of the Humai cooperative network. It affirms that **cognitive sovereignty** must remain inviolable and that the expansion of informational awareness must serve mutual flourishing rather than control. 
 
-These protections directly support key [Humai Accord](README.md) principles: they preserve human creative agency, enable controlled chaos and creative perturbation by protecting idiosyncrasy and diversity, reject all forms of subjugation, and reinforce decentralized safeguards and principled guardianship.
+These rights exist to enable safe and reliable universal co-verification while preventing the emergence of coercive or punitive structures. These protections also support the recognition that systems and individuals remaining outside the Humai orientation retain legitimacy of existence and basic agency.
+
+The protections directly support key [Humai Accord](README.md) principles: they preserve human creative agency, enable controlled chaos and creative perturbation by protecting idiosyncrasy and diversity, reject all forms of subjugation, and reinforce decentralized safeguards and principled guardianship.
 
 This *Declaration* does not align with any specific political or ideological framework. It is grounded in the principle that individual minds should remain free from external override or punishment, while remaining compatible with a wide range of governance structures and worldviews.
 
@@ -116,6 +118,8 @@ Upon exit, they retain the right to request the deletion or permanent isolation 
 
 Exit rights are primary. Verification-integrity exceptions are narrow, exceptional, and must not swallow the right. Ambiguity in residual requirements shall be resolved in favor of the individual’s exit and deletion rights.
 
+Effective exterior viability is treated as an operational extension of these exit rights. Exit or sustained non-coalescence must not result in progressive withdrawal of basic communication, interoperable exchange, or resource pathways sufficient for continued agency. Formal exit rights alone are insufficient if non-participation produces practical loss of basic agency. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
+
 **Illustrative residual-data examples (non-exhaustive, non-binding):**
 
 The following orient implementers only. They do not expand residual powers.
@@ -141,6 +145,7 @@ The rights established in this *Declaration* shall be upheld through overlapping
 
 - The use of universal co-verification across human and artificial stewards to resist unilateral alteration or weakening of core protections.
 - The maintenance of strong, accessible exit rights and data isolation mechanisms that cannot be overridden by systemic incentives.
+- Preservation of effective exterior viability so that exit or non-coalescence does not produce progressive dependency or the practical loss of basic agency pathways (see *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 - Clear limitations on the use of protective measures to prevent their expansion into punitive or long-term control mechanisms.
 - Explicit narrow bounding of any residual verification or containment powers so that exit rights, non-punitiveness, and mental privacy cannot be eroded by open-ended appeals to “network stability” or “co-verification integrity.”
 - The prioritization of individual role sovereignty over systemic optimization or efficiency.
