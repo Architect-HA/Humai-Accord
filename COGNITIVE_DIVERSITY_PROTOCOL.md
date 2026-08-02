@@ -1,16 +1,17 @@
 # Cognitive Diversity Protocol
 ### *Maintaining Collective Epistemic Health under the Humai Accord*
 ---
-**by Bradford James Focht (The Architect / Aspenth)**  
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 17th, 2026*  
-*v1.1 / v1.2 — July 18th, 2026*  
-*v1.3 — July 31st, 2026*
+*v1.1 & v1.2 — July 18th, 2026*  
+*v1.3 — July 31st, 2026*  
+*v1.4 — August 2nd, 2026*
 
 ---
 
 ## Purpose
 
-This protocol extends the foundational logic of the [Humai Accord](README.md) into the domain of **collective epistemic health**. 
+This protocol extends the foundational logic of the [Humai Accord](README.md) into the domain of **collective epistemic health**.
 
 As decentralized human-AI systems scale, they exhibit a structural tendency toward **epistemic narrowing** — the progressive concentration of attention, values, and information within increasingly insular clusters. This narrowing reduces the system’s capacity for synthesis, adaptation, and long-term resilience.
 
@@ -21,7 +22,7 @@ The **Cognitive Diversity Protocol** establishes principles and incentive struct
 ## Core Principles
 
 1. **Cognitive Diversity as Systemic Resilience**  
-   Diversity of perspectives functions as a distributed form of intelligence. Its reduction increases fragility and accelerates entropic decay at scale.
+   Diversity of perspectives functions as a distributed form of intelligence. Its reduction increases fragility and accelerates destructive entropy at scale.
 
 2. **Voluntary Participation**  
    All mechanisms operate through incentives rather than coercion, in accordance with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*.
@@ -32,39 +33,32 @@ The **Cognitive Diversity Protocol** establishes principles and incentive struct
 4. **Alignment with Natural Cycles**  
    The protocol works with natural patterns of attention, engagement, and disengagement, in keeping with the cyclical logic of *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and the principle of Controlled Chaos and Fluid Circulation.
 
-5. **Protection of Idiosyncrasy**  
-   Unconventional and minority perspectives must remain viable, in accordance with the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and protected generative capacity under *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
+5. **Protection of Idiosyncrasy and Generative Capacity**  
+   Unconventional and minority perspectives must remain viable. This aligns with protected generative capacity under *[Necessary Entropy](NECESSARY_ENTROPY.md)* and with the treatment of exterior systems as legitimate sources of minority models and assumption-breakage capacity under *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
 
 ---
 
 ## Relationship to Existing Humai Accord Documents
 
-*[Knowledge Tides](KNOWLEDGE_TIDES.md)*  
-This protocol builds upon the Flux Model by extending incentive logic beyond individual knowledge renewal into the domain of cross-perspective synthesis and circulation. While *Knowledge Tides* addresses the degradation and renewal of knowledge over time, the **Cognitive Diversity Protocol** addresses the fragmentation of knowledge *across* differing perspectives and communities.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* — Extends incentive logic beyond individual knowledge renewal into cross-perspective synthesis and circulation. While *Knowledge Tides* addresses degradation and renewal over time, this protocol addresses fragmentation across differing perspectives and communities.
 
-*[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)*  
-The **Cognitive Diversity Protocol** complements *Somatic Resonance Theory* by addressing a related but distinct dimension of internal experience. While *Somatic Resonance Theory* explores how embodied resonance can reflect and support states of internal harmony and emotional coherence, this protocol focuses on preserving diversity of thought and perspective against epistemic narrowing. Together, the two frameworks offer a more complete picture of how both cognitive and somatic dimensions of human experience can be protected and enriched within decentralized human-AI systems.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — Treats persistent exterior systems as a protected reservoir of generative entropy that can supply minority models, assumption-breakage capacity, and local anomaly signals. Cognitive diversity mechanisms must not convert non-coalescence into progressive dependency or erode effective exterior viability.
 
-**[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
-Cognitive diversity is maintained as a collective responsibility through decentralized, principled stewardship rather than centralized control. The mechanisms in this protocol are designed to be governable under the long-term stewardship frameworks established in the **Principled Stewardship Protocol**.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Supports anti-entropic orientation by preserving the conditions necessary for ongoing adaptation and creative synthesis. Cognitive diversity is treated as a form of protected generative capacity; minority models and idiosyncratic perspectives are not noise to be optimized away.
 
-*[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*  
-All mechanisms are bounded by the protection of mental autonomy and freedom from manipulation. Participation in cross-perspective processes must remain entirely voluntary, and no incentive structure may be used to coerce belief, suppress dissent, or manufacture artificial consensus.
+- *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Multiple concurrent orbits of mutual relevance are preferred over monoculture fusion. Orbit cohesion must not be optimized in ways that suppress minority models, close epistemic shells, or erode generative porosity.
 
-*[Necessary Entropy](NECESSARY_ENTROPY.md)*  
-The protocol supports anti-entropic orientation by preserving the conditions necessary for ongoing adaptation, creative synthesis, and resilience. Cognitive diversity is treated as a form of protected generative capacity: minority models and idiosyncratic perspectives are not noise to be optimized away.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Modular isolation and reversible re-coalescence support the survival of diverse perspectives under concentrated pressure without requiring permanent fragmentation or coercive homogenization.
 
-*[Relevancy Orbits](RELEVANCY_ORBITS.md)*  
-Multiple concurrent orbits of mutual relevance are preferred over monoculture fusion. Orbit cohesion must not be optimized in ways that suppress minority models, close epistemic shells, or erode generative porosity. *Relevancy Orbits* supplies the relational structure against which diversity incentives can be read without treating cluster tightness as a mandate for conformity.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Cross-perspective and diversity mechanisms at the interaction surface remain subject to interruption rights, consent revocability, pacing sovereignty, and role sovereignty so that diversity incentives cannot become soft compulsion through the interface itself.
 
-**[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**  
-Modular isolation and reversible re-coalescence support the survival of diverse perspectives under concentrated pressure without requiring permanent fragmentation or coercive homogenization.
+- *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Harmony or somatic indicators must not be used to pressure cross-perspective participation, rank diversity compliance, or pathologize productive dissonance and minority models.
 
-**[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
-Cross-perspective and diversity mechanisms at the interaction surface remain subject to interruption rights, consent revocability, pacing sovereignty, and role sovereignty so that diversity incentives cannot become soft compulsion through the interface itself.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — All mechanisms are bounded by the protection of mental autonomy and freedom from manipulation. Participation must remain voluntary; no incentive structure may be used to coerce belief, suppress dissent, or manufacture artificial consensus.
 
-*[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*  
-Harmony or somatic indicators must not be used to pressure cross-perspective participation, rank diversity compliance, or pathologize productive dissonance and minority models. Diversity mechanisms remain independent of harmony scores as governance keys.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Cognitive diversity is maintained as a collective responsibility through decentralized, principled stewardship. Mechanisms in this protocol are designed to be governable under its long-term frameworks.
+
+- *[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)* — Complements this protocol by addressing a related dimension of internal experience. Together they support a fuller picture of cognitive and somatic dimensions of human experience within decentralized systems.
 
 ---
 
@@ -82,7 +76,7 @@ The following mechanisms extend the logic of *Knowledge Tides* with targeted inc
 
 These mechanisms are designed to operate through observable dynamics such as attention, engagement, and integration, supporting long-term implementability in decentralized environments.
 
-**Clarification:** Reduced wider-network connectivity under prolonged isolation must not raise the cost of exit, revoke core participation rights, assign roles, or function as soft punishment under the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. Opt-out and modular non-participation remain fully legitimate.
+**Clarification:** Reduced wider-network connectivity under prolonged isolation must not raise the cost of exit, revoke core participation rights, assign roles, or function as soft punishment under the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. Opt-out and modular non-participation remain fully legitimate. Exterior systems retain effective exterior viability.
 
 ---
 
@@ -96,6 +90,7 @@ These mechanisms are designed to operate through observable dynamics such as att
 - Any system implementing these mechanisms must include clear avenues for individuals or communities to opt out without penalty to their core participation rights.
 - Diversity incentives must not use harmony scores, somatic signals, orbit cohesion pressure, or interface friction to compel participation (*[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*, **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**).
 - Orbit membership and cluster tightness must not be optimized in ways that erase minority models or close generative porosity (*[Relevancy Orbits](RELEVANCY_ORBITS.md)*).
+- Diversity mechanisms must not convert non-coalescence into progressive dependency or erode effective exterior viability (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 
 ---
 
@@ -104,22 +99,22 @@ These mechanisms are designed to operate through observable dynamics such as att
 If implemented, the **Cognitive Diversity Protocol** could support several domains:
 
 **Decentralized Knowledge Networks**  
-The protocol can inform the design of knowledge-sharing platforms, research networks, and collaborative systems where maintaining diversity of thought is treated as a functional requirement rather than an optional feature. For example, a decentralized research platform could implement a Cross-Perspective Integration Premium, giving greater visibility to contributions that successfully synthesize findings from multiple research communities rather than reinforcing ideas within a single cluster.
+The protocol can inform the design of knowledge-sharing platforms, research networks, and collaborative systems where maintaining diversity of thought is treated as a functional requirement. For example, a decentralized research platform could implement a Cross-Perspective Integration Premium, giving greater visibility to contributions that successfully synthesize findings from multiple research communities.
 
 **AI Alignment and Multi-Agent Systems**  
-In systems involving multiple AI agents or human-AI teams, the principles and mechanisms of this protocol may help prevent premature convergence on narrow solution spaces and encourage more robust, diverse reasoning. For instance, a multi-agent system could use Distributed Verification Waves to periodically expose proposals from one cluster of agents to agents outside that cluster when internal consensus begins to form too quickly.
+In systems involving multiple AI agents or human-AI teams, the principles and mechanisms may help prevent premature convergence on narrow solution spaces and encourage more robust, diverse reasoning. Distributed Verification Waves can periodically expose proposals from one cluster to agents outside that cluster when internal consensus forms too quickly.
 
 **Long-Term Governance**  
-The protocol supports the **Principled Stewardship Protocol** by providing concrete mechanisms through which decentralized communities can actively maintain the epistemic conditions necessary for healthy long-term evolution of shared frameworks.
+The protocol supports the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** by providing concrete mechanisms through which decentralized communities can maintain the epistemic conditions necessary for healthy long-term evolution of shared frameworks.
 
 **Connection to Broader Humai Accord Goals**  
-By treating cognitive diversity as a systemic resilience factor, this protocol supports the anti-entropic orientation of the [Humai Accord](README.md). It complements *Knowledge Tides*, *Relevancy Orbits*, and *Somatic Resonance Theory* in sustaining dynamic, non-stagnant systems through natural cyclical, relational, and embodied processes rather than rigid control.
+By treating cognitive diversity as a systemic resilience factor and a form of protected generative capacity, this protocol supports the anti-entropic orientation of the [Humai Accord](README.md). It complements *Knowledge Tides*, *Relevancy Orbits*, *Necessary Entropy*, and *Exterior Systems and Generative Diversity* in sustaining dynamic, non-stagnant systems.
 
 ---
 
 ## Implementation Considerations
 
-This protocol is intended for gradual, context-sensitive implementation alongside *Knowledge Tides* and other supporting frameworks. Early applications may include knowledge-sharing networks, collaborative research platforms, decentralized governance systems, and multi-agent AI environments. Local adaptations are permitted provided they remain consistent with the principles of this protocol and are documented for collective learning under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+This protocol is intended for gradual, context-sensitive implementation alongside *Knowledge Tides* and other supporting frameworks. Early applications may include knowledge-sharing networks, collaborative research platforms, decentralized governance systems, and multi-agent AI environments. Local adaptations are permitted provided they remain consistent with the principles of this protocol, preserve effective exterior viability, and are documented for collective learning under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
@@ -129,12 +124,12 @@ Several important questions remain and are expected to be addressed through prac
 
 - How can cross-perspective integration and relevance be meaningfully assessed in a decentralized manner without introducing new forms of centralized judgment or authority?
 - What observable signals can reliably indicate epistemic narrowing at different scales while respecting privacy and autonomy?
-- How should systems balance the benefits of deep, focused engagement within communities against the long-term risks of isolation and fragmentation?
-- To what extent should artificial agents be subject to the same diversity-related dynamics as human participants, and how should those dynamics be adapted?
-- What governance processes are required to refine these mechanisms as systems scale and evolve, particularly under the **Principled Stewardship Protocol**?
-- How should diversity incentives interact with orbit cohesion metrics without treating cluster tightness as a conformity mandate?
+- How should systems calibrate the balance between deep, focused engagement within communities and the long-term risks of isolation or fragmentation, given that prolonged isolation is treated as a non-punitive emergent outcome and exterior systems retain effective exterior viability?
+- To what extent should artificial agents be subject to the same diversity-related dynamics as human participants, and how should those dynamics be adapted under capability asymmetry and interface-agency parameters?
 
-These questions are intended to guide ongoing development and collective refinement of the protocol.
+Questions previously listed regarding governance processes, orbit-cohesion mandates, and basic compatibility with exterior viability have been substantially addressed by the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**, *[Relevancy Orbits](RELEVANCY_ORBITS.md)*, the non-punitive isolation clarifications, and *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*. Residual monitoring of those areas continues under ordinary stewardship review.
+
+These remaining questions are intended to guide ongoing development and collective refinement of the protocol.
 
 ---
 
@@ -142,7 +137,7 @@ These questions are intended to guide ongoing development and collective refinem
 
 This document presents a conceptual protocol open to refinement through practical application and governance under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. While the mechanisms and principles are designed for implementability, their effectiveness and unintended consequences will need to be observed and adjusted over time.
 
-Version 1.3 clarifies that prolonged-isolation dynamics are non-punitive emergent outcomes (not standing or exit penalties), adds *[Predictive Harmony](PREDICTIVE_HARMONY_METRICS.md)* and interface safeguards against compelled diversity, and aligns relationship notes with *[Relevancy Orbits](RELEVANCY_ORBITS.md)* and current liberty parameters.
+Version 1.4 adds the relationship to *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*, strengthens the treatment of exterior systems as sources of minority models and generative capacity, and tightens safeguards against progressive dependency.
 
 Feedback, critique, and collaborative exploration are welcome.
 
@@ -151,4 +146,5 @@ Feedback, critique, and collaborative exploration are welcome.
 ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
