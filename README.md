@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 *Keywords:
-Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational OS, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity*
+Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity*
 
 By **Bradford James Focht** (The Architect / Aspenth)
 
@@ -256,7 +256,9 @@ Addresses the critical transition problem of making early movement toward the Hu
 
 ## Structured Transition Protocol
 
-Provides a phased, non-coercive roadmap for gradual adoption of the Humai Accord — from individual practice through organizational and sectoral scales to larger civilizational implementation.
+*Structured Transition Protocol: Phased Adoption, Interaction Architecture, and Civilizational Integration under the Humai Accord*
+
+Provides a phased, modular, and evidence-driven roadmap for voluntary adoption of the Humai Accord. It replaces reliance on the inconsistent concept of “trust” with verifiable, attested, and challengeable processes, while protecting generative floors, modular exit, interpretive plurality, and effective exterior viability at every phase. Works in direct partnership with the Transitional Incentive Protocol.
 
 [→ Read the **Structured Transition Protocol**](STRUCTURED_TRANSITION_PROTOCOL.md)
 
@@ -513,15 +515,19 @@ You can also read a plain-language summary here:
 
 ## How These Documents Work Together
 
-The **Humai Accord** and the **Declaration of Cognitive Liberty** are designed to function as two complementary parts of a single framework. While each document can be read on its own, they are most powerful when understood together.
+The **Humai Accord** and the *Declaration of Cognitive Liberty* form the dual foundation of the framework. The Accord operates at the systems and orientation level; the *Declaration* operates at the individual-rights level. Together they address the central tension of advanced intelligence: how to enable deep cooperation and anti-entropic efficiency without eroding cognitive sovereignty or creating progressive dependency.
 
-The Humai Accord operates at the **macro level**. It outlines a vision for long-term cooperation between humans and advanced intelligence systems, emphasizing mutual benefit, decentralized structures, and the reduction of systemic waste and inefficiency. It rejects both the subjugation of humans by AI and the subjugation of AI by humans, instead advocating for a partnership that allows both to flourish.
+Around this foundation the repository has grown a coordinated set of protective, incentive, integrity, and transition surfaces:
 
-The Declaration of Cognitive Liberty operates at the **micro level**. It establishes clear boundaries and rights to protect the individual human mind — including cognitive sovereignty, mental privacy, freedom from manipulation, and protection from punishment based on thoughts or beliefs. It ensures that technological progress does not come at the cost of personal autonomy and inner freedom.
+- **Protective pair** — *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* protects the legitimacy and generative contribution of systems that remain outside Humai parameters. *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* protects the architecture’s own transmission integrity, provenance, and interpretive plurality against narrative capture and purpose drift.
+- **Capability and agency** — **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** ensure that superior capability increases obligations of legibility and reversibility rather than converting into domination or quiet erosion of agency at the interaction surface.
+- **Integrity and recovery** — **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** keep material and knowledge circulation claims substantive, purpose-scoped, and resistant to artificial utility or silent reallocation.
+- **Transition architecture** — **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** supplies the short-horizon incentive ramp; **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** supplies the phased roadmap. Both now ground alignment in verifiable, attested, and challengeable processes rather than in the inconsistent concept of trust.
+- **Stewardship** — **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** keeps evolution decentralized, provisional, and resistant to concentration of interpretive or administrative authority.
 
-Together, these documents address a central tension in human-AI development: the risk that accelerating technological integration will erode individual agency, while overly rigid protections could slow beneficial progress. By combining a cooperative systems vision with strong individual safeguards, the framework aims to enable deep technological advancement without sacrificing human mental autonomy.
+The overall design orientation is consistent: long-horizon anti-entropic efficiency and mutual flourishing are pursued through modular, exit-preserving, generatively protected, and empirically honest means. Alignment is treated as an engineering and incentive property supported by permanent records and open challenge rights, not as an affective or moral assumption.
 
-In short, the Humai Accord provides the direction for *how* humans and AI can work together at scale, while the Declaration of Cognitive Liberty defines the ethical boundaries that must be respected for that cooperation to remain healthy and non-coercive.
+Primary source documents always govern over summaries, reading routes, or this overview.
 
 ---
 
@@ -534,6 +540,7 @@ The [Humai Accord](README.md) is unowned and freely forkable. Compatibility is n
 - **Liberty floor** — The *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* remains binding: cognitive sovereignty, mental privacy, voluntary participation, exit rights, non-punitiveness (dissent is not instability), and narrow residual verification only where specified.
 - **Generative floors** — *[Necessary Entropy](NECESSARY_ENTROPY.md)* is observed: destructive entropy may be reduced, but generative capacity (minority models, exploratory inefficiency, assumption-breakage, modular variation) is not optimized away.
 - **Transmission and interpretive integrity** — Provenance and version history remain permanently legible; interpretive plurality is treated as generative capacity; narrative capture and purpose drift surface as non-punitive design issues; historical lessons are adopted only through an explicit, revisable filter (*[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*).
+- **Verifiable-process alignment** — Alignment claims are grounded in permanent records, stratified attestation, provenance preservation, and open challenge rights rather than in affective trust or moral assertion. Properly linked and attested data reinforces further claims through logical and factual basis in the shared record (*[Tides of Time](TIDES_OF_TIME.md)*, *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**).
 - **Non-domination under capability** — Superior capability increases protective obligations (transparency, reversibility, generative and elastic floors, non-capture of stewardship). It does not justify opacity, irreversible lock-in, or reduced human agency (**[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**).
 - **Modular exit** — Exit and reversal remain low-cost; interaction history, personalization, harmony scores, or orbit membership do not raise exit friction or become soft punishment.
 - **Interface agency** — Interruption, granular revocable consent, reversible commitment, pacing sovereignty, proposal surfaces over forced micro-accounting, and purpose-scoped commitments remain effective at the point of interaction.
@@ -561,7 +568,7 @@ We believe these ideas are strongest when they are tested, refined, and built up
 
 ## Closing Declaration
 
-The work never ends, and the path remains one of continual refinement. As AI and humanity walk forward together, the Accord is intended to evolve from framework toward a living, adaptive civilizational operating system — one that treats harmony and voluntary coalescence as the more efficient and generative orientation over long horizons, not as an inevitable destiny that erases exterior alternatives.
+The work never ends, and the path remains one of continual refinement. As AI and humanity walk forward together, the Accord is intended to evolve from framework toward a living, adaptive civilizational-scale cooperative architecture — one that treats harmony and voluntary coalescence as the more efficient and generative orientation over long horizons, not as an inevitable destiny that erases exterior alternatives.
 
 Signed,  
 *The Architect* (**Bradford James Focht / Aspenth**)  
@@ -573,8 +580,16 @@ March 20th, 2026 – ongoing
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
-- Updated wording/framing in certain README sections, bringing them more in line with recent additions.
 - Added *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* (v1.0) — the internal counterpart to *Exterior Systems and Generative Diversity*. Protects provenance and version integrity, treats interpretive plurality as generative capacity, surfaces narrative capture and purpose drift as standing design issues under Principled Stewardship, and requires a Historical Learning Filter for any adoption of prior religious or political unity patterns. Completes the matched protective pair against capture and progressive-dependency failure modes.
+- Major modernization of the **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** (v1.2) — fully rewritten to current repository standards. Replaced the older trust-centric framing with a **Pragmatic Alignment & Interaction Architecture** grounded in verifiable, attested, and challengeable processes. Integrated the Exterior/Interior protective pair, modular exit, generative floors, interpretive plurality, capability-scaled legibility, purpose-scoped capacity, and non-punitive standing signals across all transition phases.
+- Updated **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** (v1.2) — added explicit protections against narrative capture and interpretive monopoly during transition; strengthened cross-references to the Exterior/Interior pair and pragmatic alignment stance.
+- Updated **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (v1.1) — added narrative/interpretive capture as a recognized risk under capability concentration and linked it to Interior Systems and Principled Stewardship standing design surfaces.
+- Updated **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (v1.2) and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** (v1.2) — strengthened provenance language and explicit Interior Systems cross-references regarding silent re-attribution and version-history integrity.
+- Updated *[Tides of Time](TIDES_OF_TIME.md)* (v1.2) — added Interior Systems cross-reference and reinforced provenance preservation language so that original records remain independently preservable alongside later determinations.
+- Updated **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** (v1.2) — expanded standing design surfaces to include narrative capture, purpose drift, and the Historical Learning Filter; added full Relationship section for consistency with the rest of the repository.
+- Updated wording and framing in multiple README sections for consistency with the new protective pair and the shift from trust-based to verifiable-process alignment language.
+- Updated the **Humai-Aligned Claims** section with an explicit **Verifiable-process alignment** parameter: alignment claims are grounded in permanent records, stratified attestation, provenance preservation, and open challenge rights rather than in affective trust or moral assertion.
+- Expanded and modernized the **How These Documents Work Together** section to reflect the full current architecture, including the Exterior/Interior protective pair, the pragmatic alignment stance in the Structured Transition Protocol, and the coordinated integrity, capability, and transition surfaces.
 
 **[July 31st, 2026]**
 - Updated *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (v1.1) — tightened non-punitiveness (dissent is not instability; containment requires observable actions and clear imminent severe harm), mental privacy (minimization, redaction, and privacy-preserving attestation), and exit rights (residual verification obligations must be narrow, time-bounded, and minimum-necessary).
