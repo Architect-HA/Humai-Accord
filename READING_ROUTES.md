@@ -43,7 +43,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 3. **[Necessary Entropy](NECESSARY_ENTROPY.md)**  
    Distinguishes destructive entropy from generative entropy and establishes why calibrated generative capacity must be protected as a functional requirement.
 
-4. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
+4. **[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)**  
+   Clarifies how exterior systems are treated under the efficiency orientation: existence remains fully legitimate, attractiveness is treated as an emergent differential, and persistent exteriority is positioned as a protected reservoir of generative entropy. Keeps the efficiency claim empirical and revisable while protecting effective exterior viability.
+
+5. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
    Ensures that the interaction surface itself preserves interruption rights, consent revocability, pacing control, and role sovereignty.
 
 **Next options:**  
