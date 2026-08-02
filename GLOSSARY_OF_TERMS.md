@@ -5,7 +5,7 @@
 
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*<br>
-*v1.1 — August 2nd, 2026*
+*v1.1 — August 2nd, 2026*<br>
 
 ---
 
@@ -53,6 +53,9 @@ Core principle that human–AI configurations should produce sustained benefit f
 **Narrative Capture**  
 Concentration of interpretive authority or quiet reorientation of the architecture toward ends not disclosed in the version history. Surfaces as a standing design issue under **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**; remedies remain modular exit and voluntary re-coalescence. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
+**Pragmatic Alignment**  
+Alignment treated as an engineering and incentive property supported by permanent records, stratified attestation, provenance preservation, and open challenge rights, rather than by affective trust or moral assumption. Properly linked and attested data reinforces further claims through logical and factual grounding in the shared record. See **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** and *[Tides of Time](TIDES_OF_TIME.md)*.
+
 **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** - Governance layer that determines how the Humai Accord itself is evolved, reviewed, and protected over time through decentralized, non-captured processes.
 
 **Purpose Drift**  
@@ -60,6 +63,9 @@ Quiet reorientation of the architecture toward ends not disclosed in the preserv
 
 **Open Stewardship / Decentralized Stewardship**  
 Stewardship practiced through distributed review, saturation, and non-hierarchical influence rather than centralized or capability-weighted control.
+
+**Verifiable-Process Alignment**  
+The architectural stance that alignment claims must be grounded in verifiable, attested, and challengeable processes attached to data and events, rather than in the inconsistent concept of trust. See **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**.
 
 ---
 
