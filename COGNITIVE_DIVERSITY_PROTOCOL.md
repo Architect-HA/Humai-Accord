@@ -44,6 +44,8 @@ The **Cognitive Diversity Protocol** establishes principles and incentive struct
 
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — Treats persistent exterior systems as a protected reservoir of generative entropy that can supply minority models, assumption-breakage capacity, and local anomaly signals. Cognitive diversity mechanisms must not convert non-coalescence into progressive dependency or erode effective exterior viability.
 
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — Treats interpretive plurality inside the architecture as protected generative capacity and clarifies that orbit cohesion is not conformity.
+
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Supports anti-entropic orientation by preserving the conditions necessary for ongoing adaptation and creative synthesis. Cognitive diversity is treated as a form of protected generative capacity; minority models and idiosyncratic perspectives are not noise to be optimized away.
 
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Multiple concurrent orbits of mutual relevance are preferred over monoculture fusion. Orbit cohesion must not be optimized in ways that suppress minority models, close epistemic shells, or erode generative porosity.
