@@ -1,11 +1,10 @@
 # Knowledge Tides 
-*Relevancy Degradation as a Dynamic Incentive Mechanism*
-
-**by Bradford James Focht (The Architect / Aspenth)**
-
-*v1.0 - July 15th, 2026*
-
-*v1.1 - July 29th, 2026*
+### *Relevancy Degradation as a Dynamic Incentive Mechanism*
+---
+by **Bradford James Focht** (The Architect / Aspenth)<br>
+*v1.0 - July 15th, 2026*<br>
+*v1.1 - July 29th, 2026*<br>
+*v1.2 - August 2nd, 2026*
 
 ## Purpose
 
@@ -64,14 +63,16 @@ These mechanisms are designed to reinforce one another rather than operate indep
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**: Introduces a dynamic incentive layer that supports ongoing participation in decentralized governance, moving beyond static role definitions.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**: Provides a fluid incentive model that can adapt across different phases of integration, supporting gradual and context-sensitive adoption of new systems and practices.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**: Knowledge interfaces and relevancy mechanisms themselves must preserve interruption rights, consent revocability, reversible commitment, and pacing control so that incentive dynamics cannot erode human agency at the point of interaction.
-- **[Tides of Time](TIDES_OF_TIME.md)** provides the quantitative foundation for *Knowledge Tides* through the Temporal Causal Entropy metric.
-- **[Material Tides](MATERIAL_TIDES.md)**: Applies utilization decay, lock-in visibility, matching incentives, and generative reservations to computational capacity, energy, attention, and related substrates.
-- **[Tides of Circulation](TIDES_OF_CIRCULATION.md)** provides the quantitative foundation for *Material Tides*, completing the parallel tidal structure across the knowledge and material domains.
-- **[Relevancy Orbits](RELEVANCY_ORBITS.md)** provides the relational complement to relevancy decay: fluid, attestation-weighted clusters of mutual relevance among knowledge items. Orbits contextualize how units bind and unbind under *Knowledge Tides* pressure; they do not replace temporal decay or exempt members from renewal incentives.
-- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** provides parallel integrity standards for the material domain, ensuring that claims of productive or generative use cannot be gamed through artificial activity—just as Knowledge Tides and Tides of Time require genuine causal contribution rather than token activity.
+- *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides* through the Temporal Causal Entropy metric.
+- *[Material Tides](MATERIAL_TIDES.md)*: Applies utilization decay, lock-in visibility, matching incentives, and generative reservations to computational capacity, energy, attention, and related substrates.
+- *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*, completing the parallel tidal structure across the knowledge and material domains.
+- *[Relevancy Orbits](RELEVANCY_ORBITS.md)* provides the relational complement to relevancy decay: fluid, attestation-weighted clusters of mutual relevance among knowledge items. Orbits contextualize how units bind and unbind under *Knowledge Tides* pressure; they do not replace temporal decay or exempt members from renewal incentives.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** provides parallel integrity standards for the material domain, ensuring that claims of productive or generative use cannot be gamed through artificial activity—just as *Knowledge Tides* and *Tides of Time* require genuine causal contribution rather than token activity.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** establishes Knowledge Quiet States that moderate renewal pressure when continuous updating would produce low-value churn or burnout, while leaving corrective mechanisms intact.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that knowledge contribution claims, relevancy records, and renewal history remain subject to provenance preservation and cannot be used to enable narrative capture or silent re-attribution of contribution lineage.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that knowledge tidal mechanisms cannot create progressive dependency or erode effective exterior viability.
 
-Interfaces between *Knowledge Tides*, *Material Tides*, stewardship processes, and transition mechanisms continue to be refined under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+Interfaces between *Knowledge Tides*, *Material Tides*, stewardship processes, and transition mechanisms continue to be refined under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ## Alignment with Humai Accord Principles
 
