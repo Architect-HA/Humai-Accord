@@ -1,11 +1,10 @@
 # Principled Stewardship Protocol
 ### *Decentralized Governance and Principled Evolution of the Humai Accord*
-
-by Bradford James Focht (The Architect / Aspenth)
-
-*v1.0 – July 2nd, 2026*
-
-*v1.1 – July 31st, 2026*
+---
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 – July 2nd, 2026*  
+*v1.1 – July 31st, 2026*  
+*v1.2 – August 2nd, 2026*
 
 ---
 
@@ -121,6 +120,8 @@ Certain tensions are permanent design surfaces rather than temporary drafting ga
 - **Non-punitiveness vs. network stability** — Appeals to “network stability” alone are insufficient grounds for containment or restriction. Protective measures require clear, imminent, severe harm from observable actions, and must remain time-limited, reversible, and non-punitive. Dissent is not instability.
 - **Calibration of illustrative bands** — Attestation-weight examples, steward-rotation bands, Bootstrap exit indicators, and residual-data examples published in primary documents are orientation aids. Implementations should publish local thresholds and revise them under stewardship review rather than treating any single numerical example as frozen.
 - **Stewardship-health legibility** — Rotation and anti-concentration safeguards depend on published signals of tenure, influence concentration, and governance-process health. Opacity of those signals undermines progressive decentralization.
+- **Narrative capture and purpose drift** — Concentrations of interpretive authority or quiet reorientation of the architecture toward ends not disclosed in the version history surface as standing design issues. Remedies remain modular exit, voluntary re-coalescence, and transparent publication of stewardship-health signals. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+- **Historical Learning Filter** — Any proposal that imports patterns from prior religious, political, or organizational attempts at unity must itself satisfy the Historical Learning Filter (option-space expansion, modular-exit preservation, mutual benefit, and empirical honesty). The filter applies equally to internal succession claims and external traditions. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 Proposals that would widen residual powers in these areas, or convert provisional administrative control into permanent authority, require heightened scrutiny and should not advance without strong, diverse review saturation.
 
@@ -145,35 +146,32 @@ To prevent the accumulation of undue influence, the following safeguards apply:
   - observable concentration of review or proposal influence, and
   - stewardship-health signals (including rising coordination overhead, declining diversity of engagement, or other entropy and efficiency indicators relevant to governance-process health).
   Fixed-term rotation may be used; entropy- and concentration-based review ensures that rotation cannot be indefinitely deferred while influence accumulates.
-
   Illustrative triggers (non-binding examples, to be published and refined by local implementations under stewardship review) include:
   - time-in-role exceeding a published band (e.g., on the order of months to a small number of years, scaled to activity level);
   - a high share of advanced proposals or review weight concentrated under the same steward cluster;
   - sustained decline in diversity of reviewing participants or rise in governance coordination overhead relative to useful throughput.
-  
+
 ### Additional Illustrative Rotation and Review Bands
 
 The rotation *triggers* (time-in-role, concentration of influence, stewardship-health signals) are binding as a design posture. The following bands are **orientation aids only**. Implementations should publish their own thresholds and revise them under stewardship review.
 
 **Time-in-role (examples):**
-
 - Low-activity or early-stage networks: review on the order of many months to a small number of years
 - High-throughput governance periods: shorter published bands so influence cannot accumulate silently across dense proposal cycles
 
 **Concentration of influence (examples):**
-
 - A large share of advanced proposals, review weight, or merge/canonical decisions concentrated under the same steward cluster over a published window triggers review even if time-in-role has not elapsed
 - Persistent single-cluster dominance of “review saturation” assessments is itself a concentration signal
 
 **Stewardship-health signals (examples):**
-
 - Rising coordination overhead relative to useful throughput
 - Sustained decline in diversity of reviewing participants
 - Repeated failure to propagate Substantive or Foundational proposals beyond a narrow cluster
 
 Fixed-term rotation may still be used. Entropy- and concentration-based review exists so that rotation cannot be deferred indefinitely while influence accumulates. Exact percentages and durations remain local and revisable.
 
-  These examples are orientation aids, not fixed constitutional numbers. Implementations should publish their own thresholds and subject them to review.
+These examples are orientation aids, not fixed constitutional numbers. Implementations should publish their own thresholds and subject them to review.
+
 - Any Participant may raise concerns about power concentration through open channels.
 - Participation in governance shall not require formal credentials or institutional affiliation.
 
@@ -227,9 +225,23 @@ Quiet accumulation of influence without visible tenure, concentration, or health
 
 ---
 
+## Relationship to Existing Humai Documents
+
+This Protocol elaborates and orients language already present in:
+
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by expanding standing design surfaces to include narrative capture, purpose drift, concentration of interpretive authority, and the Historical Learning Filter, while remaining strictly non-punitive.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that stewardship processes cannot convert formal openness into progressive dependency or narrative erasure of exterior systems.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — by anchoring all governance activity to non-punitiveness, exit rights, mental privacy, and the protection of idiosyncrasy.
+- *[Tides of Time](TIDES_OF_TIME.md)* — by applying attestation classes, independence requirements, and review/challenge standards to stewardship claims, version history, and claims of original intent or authoritative reading.
+- **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — by treating sustained interpretive divergence as legitimate and non-punitive.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — by classifying silent re-attribution or erasure of architectural version history as integrity failures.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — by locating both generative plurality and the avoidance of governance stagnation within the broader anti-entropic orientation.
+
+---
+
 ## Closing
 
-This **Stewardship Protocol** exists to support the coherent and principled development of the [Humai Accord](README.md) and *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. It is itself subject to the same principles of transparency, decentralization, non-punitiveness, and evolution that it establishes.
+This **Principled Stewardship Protocol** exists to support the coherent and principled development of the [Humai Accord](README.md) and *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. It is itself subject to the same principles of transparency, decentralization, non-punitiveness, and evolution that it establishes.
 
 ---
 
