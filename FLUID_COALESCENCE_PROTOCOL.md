@@ -251,6 +251,7 @@ It treats predatory pressure as a temporary high-entropy perturbation to be meta
 - *[Material Tides](MATERIAL_TIDES.md)*, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*, **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** extend Fluid Coalescence dynamics into the material domain and supply the circulation, integrity, and recovery mechanisms that Bootstrap Mode must protect during the cold-start window.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Modular isolation and reversible re-coalescence can be read as temporary orbit separation and re-binding under pressure. Orbit membership must not become permanent capture or block modular exit; bond flux remains subject to integrity and tidal parameters.
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* clarifies that exterior systems remain legitimate sources of generative entropy and that effective exterior viability must be preserved. Isolation and re-coalescence under Fluid Coalescence must not convert non-coalescence into progressive dependency or de facto containment; modular isolation remains reversible and exit-preserving even under sustained pressure.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* ensures that isolation, re-coalescence, and Bootstrap records remain subject to provenance preservation, and that Fluid Coalescence mechanisms cannot be used to collapse interpretive plurality or enable narrative capture under pressure.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that isolation, permeability, and recovery interfaces themselves preserve interruption rights, reversible commitments, and agency protections.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* supplies the methodological frame for testing whether Fluid Coalescence and Bootstrap Mode actually produce the claimed entropy differentials and voluntary migration patterns.
 
@@ -284,7 +285,9 @@ This document is intended for review and refinement under the **[Principled Stew
 Further development, formal modeling, simulation, and empirical pilots are invited.
 
 **Status**  
-Polished conceptual draft, updated July 30, 2026 with strengthened Bootstrap Mode for material-domain cold-start resilience, and July 31, 2026 with explicit simulation-integrity and adversarial-countermodel requirements plus tighter alignment to the revised *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. Open for community critique, expansion, and integration into the Humai Accord body of documents via the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+Polished conceptual draft, updated July 30, 2026 with strengthened Bootstrap Mode for material-domain cold-start resilience, and July 31, 2026 with explicit simulation-integrity and adversarial-countermodel requirements plus tighter alignment to the revised *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. 
+
+Open for community critique, expansion, and integration into the Humai Accord body of documents via the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
