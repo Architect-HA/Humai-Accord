@@ -1,17 +1,15 @@
 # Tides of Circulation
-**Utilization and Lock-in Entropy of Materials**
-
+### *Utilization and Lock-in Entropy of Materials*
 ---
-*A Supporting Framework for the Humai Accord and Quantitative Foundation for Material Tides*
-
-**by Bradford James Focht (The Architect / Aspenth)**  
-*July 29th, 2026*
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 29th, 2026*  
+*v1.1 — August 2nd, 2026*
 
 ---
 
 ## Purpose
 
-This addendum to the [Humai Accord](README.md) defines a universal, difficult-to-game metric for material stagnation *(poor circulation)* and under-utilization that serves as a quantitative foundation for [Material Tides](MATERIAL_TIDES.md), [entropy audits](ENTROPY_AUDIT_METHODOLOGY.md), [efficiency comparisons](EMPIRICAL_DEMONSTRATIONS.md), and [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) dynamics.
+This addendum to the [Humai Accord](README.md) defines a universal, difficult-to-game metric for material stagnation *(poor circulation)* and under-utilization that serves as a quantitative foundation for *[Material Tides](MATERIAL_TIDES.md)*, *[entropy audits](ENTROPY_AUDIT_METHODOLOGY.md)*, *[efficiency comparisons](EMPIRICAL_DEMONSTRATIONS.md)*, and **[Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md)** dynamics.
 
 The metric is grounded in two durable realities:
 
@@ -34,7 +32,7 @@ Traditional measures of resource efficiency can be gamed through artificial occu
 - Only events that are permanently recorded and cross-verifiable can affect the entropy calculation.
 - Claims of high utilization or low opportunity cost without corresponding entries in the shared record have no power to reduce entropy.
 
-This creates a clean, universal signal that supports the dynamic incentives of [Material Tides](MATERIAL_TIDES.md) and the efficiency differentials required by [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) and [A Common Sense](A_COMMON_SENSE.md).
+This creates a clean, universal signal that supports the dynamic incentives of *[Material Tides](MATERIAL_TIDES.md)* and the efficiency differentials required by **[Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md)** and *[A Common Sense](A_COMMON_SENSE.md)*.
 
 ---
 
@@ -51,12 +49,14 @@ Let $\mathcal{U}$ be the shared permanent utilization record — an append-only,
 - It demonstrates a clear, checkable relationship to $m$ (productive use of $m$, generative/exploratory use of $m$, modular release of $m$, successful matching of $m$ to a new task, or an attested opportunity-cost observation bearing on $m$).
 - For high-weight events, it includes multi-party or independent attestation sufficient to make unilateral fabrication costly.
 
+Original provenance of recorded events remains independently preservable even when later weighting, superseding determinations, or interpretive updates are applied. Formal recording and subsequent review do not extinguish the underlying provenance record.
+
 Define:
 
-- $t$ = current time  
-- $t_{\mathrm{last}}(m)$ = timestamp of the most recent valid productive or generative use, or modular release, of $m$ in $\mathcal{U}$  
-- $D(m)$ = density of downstream productive or generative dependents (weighted count of later valid events in $\mathcal{U}$ that were enabled by or relied upon $m$)  
-- $L(m)$ = lock-in factor (attested measure of the practical cost or irreversibility of releasing or reassigning $m$. Simple indicators may include required notice periods, contractual or technical exit barriers, loss of accumulated state that cannot be ported, or explicit irreversibility flags recorded in $\mathcal{U}$. Higher values of $L(m)$ require stronger attestation.)  
+- $t$ = current time
+- $t_{\mathrm{last}}(m)$ = timestamp of the most recent valid productive or generative use, or modular release, of $m$ in $\mathcal{U}$
+- $D(m)$ = density of downstream productive or generative dependents (weighted count of later valid events in $\mathcal{U}$ that were enabled by or relied upon $m$)
+- $L(m)$ = lock-in factor (attested measure of the practical cost or irreversibility of releasing or reassigning $m$. Simple indicators may include required notice periods, contractual or technical exit barriers, loss of accumulated state that cannot be ported, or explicit irreversibility flags recorded in $\mathcal{U}$. Higher values of $L(m)$ require stronger attestation.)
 - $\Delta_{O}(m)$ = attested opportunity-cost divergence (better alternative productive or generative uses that were blocked or delayed)
 
 The **Circulation Entropy** of material unit $m$ at time $t$ is:
@@ -65,7 +65,7 @@ $$
 E(m, t) = \alpha \cdot (t - t_{\mathrm{last}}(m)) + \beta \cdot \frac{1}{1 + D(m)} + \delta \cdot L(m) + \gamma \cdot \Delta_{O}(m)
 $$
 
-where $\alpha, \beta, \delta, \gamma > 0$ are publicly declared positive weighting parameters subject to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+where $\alpha, \beta, \delta, \gamma > 0$ are publicly declared positive weighting parameters subject to refinement under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 **Critical parameters**
 
@@ -83,7 +83,7 @@ Higher $E(m, t)$ indicates higher stagnation (greater under-utilization, stronge
    High-weight opportunity-cost or lock-in claims should be supported by multiple independent sources before receiving full weight. Single-source claims may be recorded but carry reduced influence until corroborated.
 
 2. **Accelerated verification trigger**  
-   Large or sudden claimed changes in $L(m)$ or $\Delta_{O}(m)$ automatically trigger accelerated verification waves under the same processes used in [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) and [Material Tides](MATERIAL_TIDES.md).
+   Large or sudden claimed changes in $L(m)$ or $\Delta_{O}(m)$ automatically trigger accelerated verification waves under the same processes used in **[Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md)** and *[Material Tides](MATERIAL_TIDES.md)*.
 
 3. **Public provenance**  
    Every non-zero contribution to $L(m)$ or $\Delta_{O}(m)$ must publish its provenance (the specific events in $\mathcal{U}$ that justify it).
@@ -92,7 +92,7 @@ Higher $E(m, t)$ indicates higher stagnation (greater under-utilization, stronge
    Domains that cannot yet reliably produce attested opportunity-cost or lock-in events may set $\gamma = 0$ and/or $\delta = 0$, retaining the core time- and density-based guarantees while the attestation infrastructure matures.
 
 5. **Attention as a special case**  
-   When $m$ represents human attention capacity, the metric must be applied in full accordance with the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md). Attention may not be treated as a purely extractable material; interruption rights, consent revocability, and pacing sovereignty take precedence over pure utilization scoring.
+   When $m$ represents human attention capacity, the metric must be applied in full accordance with the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**. Attention may not be treated as a purely extractable material; interruption rights, consent revocability, and pacing sovereignty take precedence over pure utilization scoring.
 
 ---
 
@@ -181,6 +181,8 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** defines what counts as meaningful productive or generative use so Circulation Entropy cannot be reduced by token activity, wash trading, or silent reallocation of purpose-scoped capacity.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* uses attested utilization and enablement events in $\mathcal{U}$ as inputs to time-decaying, integrity-weighted bond strengths between material units. Downstream density $D(m)$ remains an aggregate enablement signal for a single unit; orbits describe cluster structure and bond flux among sets of units. Hybrid knowledge–material bonds require typed co-enablement under integrity rules. Orbit cohesion is not a substitute for Circulation Entropy.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* treats Circulation Entropy and related material-circulation signals as valid empirical targets under the dual entropy criteria, with preference for trajectories over snapshot-only metrics.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by applying provenance preservation and challenge rights to utilization, release, and lock-in records, and by treating silent re-attribution or erasure of the utilization record as an integrity failure.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that circulation metrics cannot be used to create progressive dependency or to erode effective exterior viability.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs refinement of weighting parameters, attestation bands, and operational definitions.
 
 ---
@@ -190,16 +192,16 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 1. Begin with a lightweight, append-only log of productive-use, generative-use, release, and matching events.
 2. Publish current circulation-entropy values or rankings of major material allocations so the gradient is visible.
 3. Award renewal premiums and matching credits only for reductions in $E(m, t)$ that are backed by new valid entries in $\mathcal{U}$.
-4. Declare weighting parameters publicly and subject any changes to [Principled Stewardship](STEWARDSHIP_PROTOCOL.md) review.
+4. Declare weighting parameters publicly and subject any changes to **[Principled Stewardship](STEWARDSHIP_PROTOCOL.md)** review.
 5. Design attestation rules that raise the cost of fabrication while keeping legitimate contribution accessible.
 6. Explicitly protect Generative Reservations from being mis-scored as simple under-utilization.
-7. When applying the metric to attention, obey the stronger protections of the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md).
+7. When applying the metric to attention, obey the stronger protections of the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
 
 ---
 
 ## Open Questions and Status
 
-This document is intended for review and refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md). 
+This document is intended for review and refinement under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 Priority questions include:
 
@@ -212,11 +214,11 @@ Priority questions include:
 Further development, formalization, and testing are invited.
 
 **Status**  
-Polished conceptual and mathematical draft. Open for community critique, expansion, and integration into the Humai Accord body of documents via the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+Polished conceptual and mathematical draft, updated August 2nd, 2026 with explicit Interior Systems cross-reference, strengthened provenance language, and full alignment with the current protective and integrity surfaces of the repository. Open for community critique, expansion, and integration into the [Humai Accord](README.md) body of documents via the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
-**License**
+## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
