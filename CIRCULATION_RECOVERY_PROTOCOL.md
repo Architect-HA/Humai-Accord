@@ -1,9 +1,10 @@
 # Circulation Recovery Protocol
-*Legitimate Rest, Recovery, and Holding States within Material and Knowledge Circulation*
-
-**by Bradford James Focht (The Architect / Aspenth)**  
+### *Legitimate Rest, Recovery, and Holding States within Material and Knowledge Circulation*
+---
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 30th, 2026*  
-*v1.1 — July 31st, 2026*
+*v1.1 — July 31st, 2026*  
+*v1.2 — August 2nd, 2026*
 
 ---
 
@@ -11,8 +12,7 @@
 
 This protocol addresses a structural risk in the tidal architecture of the [Humai Accord](README.md): the possibility that circulation pressure itself becomes destructive.
 
-*[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* correctly treat prolonged idleness and lock-in as sources of stagnation.
-
+*[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* correctly treat prolonged idleness and lock-in as sources of stagnation.  
 *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)* correctly treat prolonged irrelevancy without renewal as a form of entropy.
 
 In both domains, however, continuous forced activity can itself generate destructive entropy—through physical wear, thermal stress, low-value churn, maintainer burnout, noise generation, and the erosion of genuine generative capacity.
@@ -57,8 +57,7 @@ A parallel condition for knowledge items or knowledge-maintenance processes in w
 
 A protected variant, applicable to both materials and knowledge, in which capacity is held in a low-activity state specifically to preserve optionality for future generative or exploratory use.
 
-**Distinction from ordinary Recovery/Holding States:**
-
+**Distinction from ordinary Recovery/Holding States:**  
 Ordinary Material Recovery and Holding States primarily protect against destructive physical wear or forced churn. Generative Holding is specifically oriented toward preserving future generative optionality and must remain consistent with Generative Reservations and *Necessary Entropy*. It carries a stronger expectation of modular accessibility and clearer linkage to exploratory purpose.
 
 ---
@@ -67,7 +66,7 @@ Ordinary Material Recovery and Holding States primarily protect against destruct
 
 All legitimate recovery and holding states must satisfy the following parameters:
 
-- **Declaration & Attestation** — Entry must be recorded in the relevant permanent record (the utilization record $\mathcal{U}$ for materials; the causal record for knowledge) with a clear justification category and, where applicable, a declared purpose or intent scope.
+- **Declaration & Attestation** — Entry must be recorded in the relevant permanent record (the utilization record $\mathcal{U}$ for materials; the causal record for knowledge) with a clear justification category and, where applicable, a declared purpose or intent scope. Original provenance of the declaration remains independently preservable even when later weighting, review, or superseding determinations are applied.
 - **Boundedness** — States must carry explicit or default maximum durations. After that period they require renewal with fresh attestation, conversion to another recognized state, or return to active status. Indefinite holding without review is treated as emerging lock-in.
 - **Reversibility** — Exit back into active circulation or relevant use must remain low-cost and non-punitive.
 - **Visibility** — Recovery, Holding, and Quiet States must remain legible to the wider system. They may not become opaque. Declared purpose or intent tags must remain visible while the state is active.
@@ -143,10 +142,13 @@ This protocol is shaped by and must remain consistent with:
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Protects generative capacity from both stagnation *and* forced destructive churn.
 - *[Material Tides](MATERIAL_TIDES.md)* & *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Prevents circulation pressure from becoming physically or systemically destructive.
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* & *[Tides of Time](TIDES_OF_TIME.md)* — Prevents relevancy pressure from forcing low-value noise and burnout.
-- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Ensures recovery and holding claims themselves remain attestable and non-abusive.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Ensures recovery and holding claims themselves remain attestable and non-abusive; silent reallocation of purpose-scoped capacity is treated as an integrity failure.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Prevents recovery privileges from becoming a new form of structural advantage.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Especially relevant when recovery or holding involves human attention, human-maintained knowledge processes, proposal surfaces, or purpose-scoped commitments.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Supports regenerative capacity by allowing legitimate rest rather than brittle continuous operation.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by applying provenance preservation, challenge rights, and integrity standards to declarations of recovery, holding, and quiet states, and by treating silent re-attribution or erasure of such declarations as an integrity failure.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that recovery and holding mechanisms cannot be used to create progressive dependency or to erode effective exterior viability.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — governs refinement of durations, attestation standards, and standing design surfaces related to recovery, holding, and purpose-scoped capacity.
 
 ---
 
