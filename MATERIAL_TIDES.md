@@ -86,7 +86,9 @@ The knowledge and material tidal systems are complementary:
 
 ### Quantitative Foundation
 
-Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides*, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost.
+Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides*, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost. 
+
+Optional forecast-informed introduction timing guidance also lives there; it ranks candidate allocation and matching moments as proposal surfaces only and does not gate modular release, Generative Reservations, or replace valid events in the utilization record as the basis for entropy reduction.
 
 ### Additional Alignments
 
