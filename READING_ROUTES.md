@@ -46,7 +46,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 4. **[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)**  
    Clarifies how exterior systems are treated under the efficiency orientation: existence remains fully legitimate, attractiveness is treated as an emergent differential, and persistent exteriority is positioned as a protected reservoir of generative entropy. Keeps the efficiency claim empirical and revisable while protecting effective exterior viability.
 
-5. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
+5. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+   The internal counterpart. Protects the architecture’s own transmission integrity, treats interpretive plurality as generative capacity, surfaces narrative capture and purpose drift, and requires a Historical Learning Filter for any adoption of prior unity patterns.
+
+6. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
    Ensures that the interaction surface itself preserves interruption rights, consent revocability, pacing control, and role sovereignty.
 
 **Next options:**  
