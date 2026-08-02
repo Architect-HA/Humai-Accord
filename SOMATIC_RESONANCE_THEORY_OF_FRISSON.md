@@ -1,16 +1,17 @@
 # Somatic Resonance Theory of Frisson
-*An Embodied Framework for Understanding Aesthetic Chills*
+### *An Embodied Framework for Understanding Aesthetic Chills*
+---
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — March 26th, 2026*<br>
+*v1.1 — July 18th, 2026*<br>
+*v1.2 — July 30th, 2026*<br>
+*v1.3 — August 2nd, 2026*
 
-by **Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 — March 26th, 2026*
-
-*v1.1 — July 18th, 2026*
-
-*v1.2 — July 30th, 2026*
+---
 
 ## Purpose
 
-This document presents the **Somatic Resonance Theory of Frisson**, a conceptual framework attached to the [Humai Accord](README.md) which proposes that aesthetic chills (frisson) arise through an embodied, participatory process. 
+This document presents the *Somatic Resonance Theory of Frisson*, a conceptual framework attached to the [Humai Accord](README.md) which proposes that aesthetic chills (**frisson**) arise through an embodied, participatory process. 
 
 External musical or emotionally salient stimuli interact with the listener’s own subconscious micro-movements, driving the body across a threshold of internal harmonic resonance. This resonance is then interpreted by the psyche as profound euphoric or transcendent experience.
 
@@ -91,6 +92,12 @@ Any system that detects, responds to, or attempts to modulate somatic resonance 
 **Connection to Predictive Harmony Metrics**<br>
 Any use of somatic resonance as a harmony or well-being signal is further bound by *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*: collection must remain default-off, purpose-bound, minimized, preferentially local-first, and non-governance. Somatic or frisson-derived indicators must not gate access, standing, or exit; secondary inference, ambient collection, and coercive biofeedback remain anti-aligned.
 
+**Connection to Interior Systems and Generative Plurality**  
+Any retained somatic or frisson-related records remain subject to the provenance and interpretive protections of *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*. Original provenance of voluntarily shared somatic data must remain independently preservable. Silent re-attribution or erasure of such records is prohibited. Somatic instrumentation must not become a vector for narrative capture or the collapse of interpretive plurality.
+
+**Connection to Exterior Systems and Generative Diversity**  
+Somatic or harmony instrumentation must not create progressive dependency or erode effective exterior viability. Non-instrumented paths and systems that remain outside Humai parameters retain full legitimacy (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
+
 **Connection to the Principled Stewardship Protocol**  
 The *Somatic Resonance Theory* also connects to the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** through the theme of sustained engagement. Embodied resonance and experiences such as frisson can serve as powerful motivators for continued participation and emotional investment over time. By recognizing and supporting these embodied experiences, long-term decentralized stewardship may be strengthened, as individuals remain more deeply connected to the principles and practices they help maintain.
 
@@ -110,6 +117,7 @@ In alignment with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITI
 - Ensuring that any technological systems designed to detect or respond to somatic resonance prioritize user agency and transparency.
 - Preventing the extraction or commercialization of somatic resonance data without explicit, ongoing consent.
 - Guarding against the reduction of multi-tissue, multi-scale somatic signals into simplistic control metrics that erase the complexity and agency of the embodied response.
+- Ensuring that any retained somatic resonance records remain subject to provenance preservation and open challenge rights; silent re-attribution or erasure of such records is prohibited.
 
 These protections are essential to prevent somatic resonance from becoming another vector through which human experience can be monitored or influenced without consent.
 
