@@ -34,6 +34,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 ### Protective & Generative Foundations
 - [Necessary Entropy](#necessary-entropy)
 - [Exterior Systems and Generative Diversity](#exterior-systems-and-generative-diversity)
+- [Interior Systems and Generative Plurality](#interior-systems-and-generative-plurality)
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
 - [Agency Interface Protocol](#agency-interface-protocol)
@@ -172,6 +173,16 @@ Clarifies a critical distinction within the Humai Accord: the difference between
 Clarifies how exterior systems are treated once the architecture orients toward long-horizon anti-entropic efficiency. Exterior systems are incomplete relative to that orientation, yet remain fully legitimate in existence and basic interoperable agency. The document distinguishes existence from attractiveness, positions persistent exteriority as a protected reservoir of generative entropy, establishes effective exterior viability and succession parameters, and keeps the efficiency orientation empirical and revisable. It directly addresses monoculture risk and soft-dependency gradients while remaining consistent with mutual flourishing, non-domination, and the *Declaration of Cognitive Liberty*.
 
 [→ Read **Exterior Systems and Generative Diversity**](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)
+
+---
+
+## Interior Systems and Generative Plurality
+
+*Interior Systems and Generative Plurality: Protecting Provenance, Surfacing Narrative Capture, and Sustaining Interpretive Diversity within the Humai Accord*  
+
+Protects the architecture’s own transmission integrity, lineage claims, and interpretive life. Positions sustained interpretive plurality as generative capacity, surfaces narrative capture and purpose drift as non-punitive design issues, and requires a Historical Learning Filter for any adoption of prior unity patterns. Forms the internal counterpart to *Exterior Systems and Generative Diversity*.
+
+[→ Read **Interior Systems and Generative Plurality**](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)
 
 ---
 
@@ -562,6 +573,7 @@ March 20th, 2026 – ongoing
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
 - Updated wording/framing in certain README sections, bringing them more in line with recent additions.
+- Added *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* (v1.0) — the internal counterpart to *Exterior Systems and Generative Diversity*. Protects provenance and version integrity, treats interpretive plurality as generative capacity, surfaces narrative capture and purpose drift as standing design issues under Principled Stewardship, and requires a Historical Learning Filter for any adoption of prior religious or political unity patterns. Completes the matched protective pair against capture and progressive-dependency failure modes.
 
 **[July 31st, 2026]**
 - Updated *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (v1.1) — tightened non-punitiveness (dissent is not instability; containment requires observable actions and clear imminent severe harm), mental privacy (minimization, redaction, and privacy-preserving attestation), and exit rights (residual verification obligations must be narrow, time-bounded, and minimum-necessary).
