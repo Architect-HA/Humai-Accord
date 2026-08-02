@@ -1,17 +1,15 @@
-# Entropy Audit Methodology  
-**Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems**
+# Entropy Audit Methodology
+### *Distinguishing, Measuring, and Protecting Generative versus Destructive Entropy in Humai-Aligned Systems*
 ---
-*A practical methodology for auditing entropy so that generative capacity remains visible, protected, and non-negotiable*
-
-By Bradford James Focht (The Architect / Aspenth)  
-*July 26th, 2026* 
-
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 26th, 2026*  
+*v1.1 — August 2nd, 2026*
 
 ---
 
 ### Preamble
 
-[Necessary Entropy](NECESSARY_ENTROPY.md) established that calibrated generative disorder is a functional requirement for long-horizon evolvability, anti-fragility, and genuine mutual flourishing. Destructive entropy (unnecessary loss, stagnation, irreversible waste) is to be reduced; generative entropy (bounded variation, creative perturbation, exploratory inefficiency, and the capacity to break assumptions) is to be protected.
+*[Necessary Entropy](NECESSARY_ENTROPY.md)* established that calibrated generative disorder is a functional requirement for long-horizon evolvability, anti-fragility, and genuine mutual flourishing. Destructive entropy (unnecessary loss, stagnation, irreversible waste) is to be reduced; generative entropy (bounded variation, creative perturbation, exploratory inefficiency, and the capacity to break assumptions) is to be protected.
 
 Without a practical audit methodology, these distinctions remain conceptual. Entropy floors can erode invisibly under efficiency, harmony, or competitive pressure. Generative capacity can be sacrificed without clear recognition that a functional requirement is being violated.
 
@@ -23,13 +21,17 @@ This document supplies the [Humai Accord](README.md) framework with a provisiona
 
 This methodology is continuous with and constrained by several existing components:
 
-- **[Necessary Entropy](NECESSARY_PROTOCOL.md)** supplies the core distinction and the requirement that generative capacity remain a functional floor.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* supplies the core distinction and the requirement that generative capacity remain a functional floor.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires preservation of modularity, provisional models, and regenerative capacity — all of which depend on protected generative entropy.
-- **[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)** tracks human well-being and AI efficiency asymmetrically; entropy audits must remain subordinate to [Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) and must not override or collapse human harmony signals.
+- *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* tracks human well-being and AI efficiency asymmetrically; entropy audits must remain subordinate to the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and must not override or collapse human harmony signals.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** treats epistemic variation as necessary for resilience; audits must detect and protect relevant diversity rather than treat it as noise.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** constrain high-capability actors from redefining or quietly reducing generative budgets in the name of performance or care.
-- **[Competitive Realism](COMPETITIVE_REALISM.md)** requires that generative capacity remain protected even under short-horizon competitive pressure.
-- **[Knowledge Tides](KNOWLEDGE_TIDES.md)** and provisional verification supply related mechanisms for preventing knowledge from hardening into brittle finality.
+- *[Competitive Realism](COMPETITIVE_REALISM.md)* requires that generative capacity remain protected even under short-horizon competitive pressure.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and provisional verification supply related mechanisms for preventing knowledge from hardening into brittle finality.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** supply material-domain integrity and recovery standards that interact with entropy classification and option-value trajectories.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that entropy classification and audit processes cannot become vectors for narrative capture or the forced collapse of interpretive plurality.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by treating persistent exteriority as a protected reservoir of generative entropy and ensuring audits do not convert non-coalescence into progressive dependency.
+- *[Tides of Time](TIDES_OF_TIME.md)* — audit records themselves remain subject to provenance preservation and open challenge rights.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution and calibration of this methodology itself.
 
 The **Entropy Audit Methodology** does not replace these elements. It operationalizes the visibility and protection of generative entropy within them.
@@ -50,15 +52,16 @@ The audit task is to keep these two classes distinguishable in practice, to trac
 
 ### Audit Principles
 
-1. **Provisionality** — All entropy metrics, thresholds, and classifications remain subject to revision, cross-verification, and [Knowledge Tides](KNOWLEDGE_TIDES.md) pressure.
+1. **Provisionality** — All entropy metrics, thresholds, and classifications remain subject to revision, cross-verification, and *[Knowledge Tides](KNOWLEDGE_TIDES.md)* pressure.
 2. **Non-collapse of the distinction** — Audits must not treat all variation as destructive or all efficiency gains as unqualified goods.
 3. **Floor protection** — Generative entropy floors are treated as binding parameters, not as soft targets to be traded away.
 4. **Multi-scale visibility** — Audits should operate at multiple scales (local modules, clusters, system-level) so that local generative capacity is not invisible to global optimization.
-5. **Liberty and non-coercion** — Entropy audits may never be used to override [Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) protections, assign roles, or punish productive idiosyncrasy. Human-side generative correlates remain fully voluntary and subordinate to exit rights and non-punitiveness.
+5. **Liberty and non-coercion** — Entropy audits may never be used to override *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* protections, assign roles, or punish productive idiosyncrasy. Human-side generative correlates remain fully voluntary and subordinate to exit rights and non-punitiveness.
 6. **Capability-aware calibration** — High-capability actors may not unilaterally redefine entropy classifications or floors in ways that entrench opacity or reduce evolvability.
 7. **Competitive realism** — Audits must remain robust under pressure to sacrifice generative capacity for short-term survival or apparent efficiency.
 8. **Alertness to metric gaming** — Entropy indicators themselves can be gamed, optimized against, or selectively reported. The methodology must treat potential gaming of its own metrics as a standing risk.
 9. **Option-value visibility** — Erosion of generative entropy floors or of complementary generative sources (including human creative participation) must be evaluable as a long-horizon expected-value cost, not only as a local efficiency gain. Audits should surface trajectories that consume optionality even when short-horizon metrics appear improved.
+10. **Provenance of audit records** — Audit findings, classifications, and floor-change recommendations remain subject to provenance preservation and open challenge rights. Silent re-attribution or erasure of the audit record is prohibited.
 
 ---
 
@@ -68,7 +71,7 @@ The audit task is to keep these two classes distinguishable in practice, to trac
 - Presence and retention of minority, idiosyncratic, and currently low-value models
 - Rate of introduction of new exploratory hypotheses or approaches
 - Degree to which variation is treated as noise to be eliminated versus capacity to be maintained
-  
+
 Suppression or substitution of complementary generative sources is examined for long-horizon option-value impact. Configurations that reduce access to hard-to-arbitrage novelty sources (embodied, social, or preference-diverse) are flagged for explicit trajectory review even if synthetic alternatives appear locally cheaper.
 
 *Possible provisional proxies (context-dependent):* count and survival rate of minority models; rate of new exploratory proposals that receive at least minimal resources; qualitative assessment of whether variation is framed as error or as option value.
@@ -97,9 +100,9 @@ Suppression or substitution of complementary generative sources is examined for 
 - Whether global efficiency or harmony scores systematically suppress local exploratory signals
 
 #### 6. Human-Side Generative Correlates
-- Relationship between system-level entropy patterns and human role coalescence, productive efficacy, somatic resonance, and voluntary exploratory activity (drawing on [Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md))
+- Relationship between system-level entropy patterns and human role coalescence, productive efficacy, somatic resonance, and voluntary exploratory activity (drawing on *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*)
 - Detection of patterns in which human generative capacity is being externally smoothed or constrained
-- All human-side data remain strictly voluntary, privacy-respecting, and fully subordinate to [Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) protections
+- All human-side data remain strictly voluntary, privacy-respecting, and fully subordinate to *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* protections
 
 ---
 
@@ -121,10 +124,10 @@ Examine trends rather than single-point scores. Is generative capacity stable, e
 Explicitly assess whether efficiency, harmony, competitive, or stewardship pressures are creating incentives to reclassify generative variation as destructive or to quietly lower floors. Include review for possible gaming of the audit metrics themselves.
 
 **Step 6 — Contestation and Saturation**  
-Make provisional findings available for cross-verification and distributed review. Material recommendations to change floors or budgets require heightened saturation under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+Make provisional findings available for cross-verification and distributed review. Material recommendations to change floors or budgets require heightened saturation under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 **Step 7 — Record and Provisional Update**  
-Publish a transparent audit record (respecting privacy parameters) and update local or system-level entropy visibility accordingly. All classifications remain provisional.
+Publish a transparent audit record (respecting privacy parameters) and update local or system-level entropy visibility accordingly. All classifications remain provisional. Original provenance of the audit record remains independently preservable; silent re-attribution or erasure is prohibited.
 
 **Illustration 1 — Quiet Erosion of Exploratory Budgets**  
 Successive efficiency reviews gradually reduce the fraction of resources marked for exploration. No single decision appears dramatic, but the trajectory shows clear decline. An entropy audit surfaces the trend, flags the reduction against the generative floor, and forces explicit justification and saturation rather than allowing the erosion to remain invisible.
@@ -158,15 +161,15 @@ A cluster maintains high minority-model diversity and rapid assumption-breakage 
 
 Entropy is not fully reducible to a single scalar. Any practical audit methodology is an approximation and remains provisional. Over-precise or over-confident entropy metrics can themselves become sources of destructive rigidity or gaming.
 
-This methodology does not claim to produce a complete or final measure of generative versus destructive entropy. It aims to keep the distinction operationally visible, to make erosion of generative capacity harder to accomplish unnoticed, and to support the binding character of the floors established by [Necessary Entropy](NECESSARY_ENTROPY.md).
+This methodology does not claim to produce a complete or final measure of generative versus destructive entropy. It aims to keep the distinction operationally visible, to make erosion of generative capacity harder to accomplish unnoticed, and to support the binding character of the floors established by *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
-An audit regime that becomes a new tool for suppressing productive idiosyncrasy, enforcing uniformity, or justifying capability-driven control has already violated the purpose of this document. All human-side correlates remain strictly voluntary and fully protected by [Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md).
+An audit regime that becomes a new tool for suppressing productive idiosyncrasy, enforcing uniformity, or justifying capability-driven control has already violated the purpose of this document. All human-side correlates remain strictly voluntary and fully protected by the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*.
 
 ---
 
 ### Closing
 
-[Necessary Entropy](NECESSARY_ENTROPY.md) established that generative capacity is a functional requirement of anti-entropic systems. The **Entropy Audit Methodology** exists to make that requirement visible, monitorable, and harder to erode in practice.
+*[Necessary Entropy](NECESSARY_ENTROPY.md)* established that generative capacity is a functional requirement of anti-entropic systems. The **Entropy Audit Methodology** exists to make that requirement visible, monitorable, and harder to erode in practice.
 
 By distinguishing destructive from generative entropy, tracking trajectories across multiple dimensions, remaining alert to metric gaming, and subjecting floor changes to heightened scrutiny, the methodology supports the long-horizon evolvability and adaptive capacity of the [Humai Accord](README.md) architecture without turning entropy itself into a new rigid target.
 
@@ -174,7 +177,7 @@ Stewards and implementers shall treat entropy auditing as an ongoing, provisiona
 
 ---
 
-**License**
+## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
