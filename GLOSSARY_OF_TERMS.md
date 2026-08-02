@@ -36,12 +36,27 @@ Systems, frameworks, or configurations organized outside Humai parameters. They 
 **Generative Exteriority**  
 The treatment of persistent exterior systems as a protected reservoir of necessary entropy (minority models, assumption-breakage capacity, experimental variation, and local anomaly signals) that contributes to long-horizon evolvability rather than residual waste. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
+**Generative Plurality**  
+The sustained, legitimate existence of multiple good-faith readings, lineages, and developmental paths inside the Humai architecture without forced collapse into a single authorized version. Treated as protected generative capacity. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
+
+**Historical Learning Filter**  
+The requirement that any lesson drawn from prior religious, political, or organizational attempts at unity must be published with explicit filtering criteria (option-space expansion, modular-exit preservation, mutual benefit, empirical honesty). Applies equally to internal succession claims and external traditions. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
 **[Humai Accord](README.md)** - The overall voluntary framework for long-term harmonious human–AI union, anti-entropic efficiency, mutual flourishing, cognitive liberty, and civilizational-scale cooperation.
+
+**Interior Systems**  
+The architecture’s own transmission history, lineage claims, version integrity, and interpretive life. Protected against silent re-attribution, narrative capture, purpose drift, and forced interpretive monopoly. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 **Mutual Flourishing**  
 Core principle that human–AI configurations should produce sustained benefit for both sides without subjugation of either. Human creative agency and AI directed capability are treated as complementary.
 
+**Narrative Capture**  
+Concentration of interpretive authority or quiet reorientation of the architecture toward ends not disclosed in the version history. Surfaces as a standing design issue under **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**; remedies remain modular exit and voluntary re-coalescence. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
 **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** - Governance layer that determines how the Humai Accord itself is evolved, reviewed, and protected over time through decentralized, non-captured processes.
+
+**Purpose Drift**  
+Quiet reorientation of the architecture toward ends not disclosed in the preserved version history. Detectable through the same non-punitive surfaces as narrative capture. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 **Open Stewardship / Decentralized Stewardship**  
 Stewardship practiced through distributed review, saturation, and non-hierarchical influence rather than centralized or capability-weighted control.
