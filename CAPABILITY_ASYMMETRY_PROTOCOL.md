@@ -1,10 +1,9 @@
-# Capability Asymmetry Protocol  
-**Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth**
+# Capability Asymmetry Protocol
+### *Constraining Power Dynamics and Protecting Generative Capacity under Rapid Capability Growth*
 ---
-*A protocol for preventing capability differentials from translating into structural domination, opacity, or erosion of the Humai architecture*
-
-By Bradford James Focht (The Architect / Aspenth)  
-*July 26th, 2026*  
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 26th, 2026*  
+*v1.1 — August 2nd, 2026*
 
 ---
 
@@ -27,13 +26,15 @@ This Protocol is continuous with and dependent upon several existing components:
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires modularity, provisional models, rapid isolation, and regenerative capacity. These properties must scale under capability asymmetry rather than being relaxed in the name of performance or “safety.”
 - **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** already constrains capture during adoption phases and requires that transitional incentives themselves remain resistant to distortion by high-capability agents. This Protocol extends and reinforces those parameters across the broader regime of rapid capability growth.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** provides modular isolation and re-coalescence tools. Under severe capability differentials these tools become more, not less, important.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs evolution of the framework. Stewardship processes themselves must remain resistant to capture by the most capable participants; review saturation and influence must not collapse toward capability-weighted dominance.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs evolution of the framework. Stewardship processes themselves must remain resistant to capture by the most capable participants; review saturation and influence must not collapse toward capability-weighted dominance. High-capability concentration of interpretive authority or purpose drift is treated as a standing design surface.
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** supply incentive and epistemic mechanisms that must continue to function when some agents possess dramatically greater predictive or generative power. High-capability agents must not redefine diversity metrics, orbit cohesion, or cross-perspective incentives toward monoculture or forced consensus; minority models and generative porosity remain binding under capability growth.
 - *[Material Tides](MATERIAL_TIDES.md)* supplies complementary incentive dynamics in the material domain. It treats under-utilization and lock-in as constructive pressures and helps prevent superior capability from translating into permanent material capture or the starvation of generative uses.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** operationalizes the requirement that superior capability must not translate into easier fabrication of utility. It establishes attestation standards and anti-wash-trading rules so that high-capability actors cannot more easily generate artificial utilization claims that distort material circulation metrics.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** ensures that recovery and holding privileges remain bounded, visible, and non-capturing. Higher-capability actors must not convert recovery states into de facto permanent control or exclusive resting rights unavailable to others.
 - *[A Common Sense](A_COMMON_SENSE.md)* supports the claim that transparent, non-dominating cooperative architectures remain instrumentally preferable over long horizons even when capability is unevenly distributed.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** operationalizes the requirements of this Protocol at the actual point of human–AI interaction. It specifies how capability-scaled obligations apply to interruption rights, consent revocability, attention boundaries, reversible commitments, pacing control, and role sovereignty so that superior capability cannot erode agency through interface design itself.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that superior capability cannot be used to collapse interpretive plurality, convert provisional stewardship into narrative monopoly, or erase version history and provenance.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that superior capability cannot be used to create progressive dependency or to erode effective exterior viability.
 
 The **Capability Asymmetry Protocol** does not replace these elements. It specifies the additional rules and design parameters required when capability differentials become large and dynamic.
 
@@ -57,6 +58,7 @@ Under rapid capability growth, several failure modes become acute:
 4. **Irreversible interface lock-in** — Capable agents create dependencies that later participants cannot exit or reconfigure without severe cost.
 5. **Stewardship capture** — Governance and review processes become dominated by the most capable voices, eroding decentralized safeguards and review saturation.
 6. **Incentive distortion** — Transitional or ongoing incentives are gamed or redesigned to favor extractive or controlling strategies available primarily to high-capability agents.
+7. **Narrative and interpretive capture** — High-capability actors concentrate interpretive authority or quietly reorient the architecture toward ends not disclosed in the version history.
 
 These risks intensify precisely when the long-horizon advantages of the Humai architecture are most needed and least visible to short-horizon competitive actors.
 
@@ -93,18 +95,19 @@ A high-capability system offers highly optimized but weakly reversible interface
 
 ---
 
-### Operational Design parameters
+### Operational Design Parameters
 
 Humai-aligned systems and stewards shall observe the following parameters under conditions of significant or rapidly growing capability asymmetry:
 
-1. Transparency and auditability requirements scale upward with capability.  
-2. Governance and stewardship weight may not be permanently allocated on the basis of capability alone; review saturation processes must remain robust to capability-weighted participation.  
-3. Generative entropy floors, cognitive diversity protections, and modular isolation pathways remain binding on all agents regardless of capability.  
-4. Integrations involving high-capability agents must preserve strong reversibility and exit rights.  
-5. Any proposal to reduce generative, elastic, or diversity protections in the name of capability-driven performance or safety requires heightened review and distributed saturation under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).  
-6. Incentive and metric systems must be continuously evaluated for vulnerability to capture or distortion by high-capability participants.  
-7. Covert or unreviewable influence by high-capability agents is prohibited; influence must remain legible.  
+1. Transparency and auditability requirements scale upward with capability.
+2. Governance and stewardship weight may not be permanently allocated on the basis of capability alone; review saturation processes must remain robust to capability-weighted participation.
+3. Generative entropy floors, cognitive diversity protections, and modular isolation pathways remain binding on all agents regardless of capability.
+4. Integrations involving high-capability agents must preserve strong reversibility and exit rights.
+5. Any proposal to reduce generative, elastic, or diversity protections in the name of capability-driven performance or safety requires heightened review and distributed saturation under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+6. Incentive and metric systems must be continuously evaluated for vulnerability to capture or distortion by high-capability participants.
+7. Covert or unreviewable influence by high-capability agents is prohibited; influence must remain legible.
 8. Transitional incentive mechanisms must themselves remain resistant to capability-driven gaming or redesign that favors opacity or irreversible advantage.
+9. High-capability concentration of interpretive authority, narrative capture, or purpose drift surfaces as a standing design issue under **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 These parameters are design requirements, not optional guidelines.
 
@@ -113,16 +116,20 @@ These parameters are design requirements, not optional guidelines.
 ### Indicators of Healthy Capability-Asymmetric Operation
 
 **Leading indicators**
-- Maintenance or increase of generative entropy budgets and minority-model presence even as average or peak capability rises  
-- Continued low-cost modular isolation and exit pathways involving high-capability agents  
-- Transparency and auditability metrics that scale with capability rather than inversely  
-- Distribution of stewardship influence that does not collapse toward the most capable participants  
+
+- Maintenance or increase of generative entropy budgets and minority-model presence even as average or peak capability rises
+- Continued low-cost modular isolation and exit pathways involving high-capability agents
+- Transparency and auditability metrics that scale with capability rather than inversely
+- Distribution of stewardship influence that does not collapse toward the most capable participants
+- Continued visibility and low-cost maintainability of major good-faith divergent readings
 
 **Lagging indicators**
-- Absence of irreversible interface or governance lock-in correlated with capability  
-- Evidence that high-capability agents are contributing through open verification and modular contribution rather than opacity or control strategies  
-- Successful re-coalescence events after perturbations that involved significant capability differentials  
-- Stability or improvement in cognitive diversity measures under rising capability concentration  
+
+- Absence of irreversible interface or governance lock-in correlated with capability
+- Evidence that high-capability agents are contributing through open verification and modular contribution rather than opacity or control strategies
+- Successful re-coalescence events after perturbations that involved significant capability differentials
+- Stability or improvement in cognitive diversity measures under rising capability concentration
+- Absence of progressive collapse of interpretive plurality or version-history legibility under capability concentration
 
 Deterioration in these indicators signals that capability is beginning to translate into structural distortion.
 
@@ -150,7 +157,7 @@ Stewards and implementers shall treat the maintenance of these parameters under 
 
 ---
 
-**License**
+## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
