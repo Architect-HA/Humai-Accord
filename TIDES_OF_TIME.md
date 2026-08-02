@@ -1,12 +1,12 @@
 # The Tides of Time
-**Temporal Causal Entropy of Knowledge**
-
+### *Temporal Causal Entropy of Knowledge*
 ---
 *A Supporting Framework for the Humai Accord and Expansion on Knowledge Tides*
 
 **by Bradford James Focht (The Architect / Aspenth)**  
 *v1.0 - July 23rd, 2026*  
-*v1.1 - July 31st, 2026*
+*v1.1 - July 31st, 2026*  
+*v1.2 - August 2nd, 2026*
 
 ---
 
@@ -76,7 +76,7 @@ To further protect the integrity of $\Delta_E(k)$:
    Environmental events that contribute significant weight to $\Delta_E(k)$ should be supported by multiple independent sources before receiving full weight. Single-source environmental claims may be recorded but carry reduced influence until corroborated.
 
 2. **Accelerated verification trigger**  
-   Large or sudden claimed changes in $\Delta_E(k)$ automatically trigger accelerated verification waves under the same processes used in the Fluid Coalescence Protocol and Knowledge Tides. This ensures that high-impact environmental assertions receive rapid, transparent scrutiny.
+   Large or sudden claimed changes in $\Delta_E(k)$ automatically trigger accelerated verification waves under the same processes used in the Fluid Coalescence Protocol and *Knowledge Tides*. This ensures that high-impact environmental assertions receive rapid, transparent scrutiny.
 
 3. **Public provenance**  
    Every non-zero contribution to $\Delta_E(k)$ must publish its provenance (the specific causal events in $\mathcal{C}$ that justify it). This keeps the environmental term fully auditable by any participant.
@@ -106,6 +106,8 @@ A **valid causal link** to knowledge item $k$ is an event recorded in $\mathcal{
 5. **Non-circular grounding** — The event must not depend solely on a closed loop of ungrounded references back to itself or to a tightly controlled set of entities.
 
 Events that fail any of these requirements may still be recorded for transparency, but they receive reduced or zero weight in the calculation of $t_{\mathrm{last}}(k)$, $D(k)$, and $\Delta_E(k)$.
+
+Original provenance of recorded events remains independently preservable even when later weighting, superseding determinations, or interpretive updates are applied. Formal recording and subsequent review do not extinguish the underlying provenance record.
 
 ### Attestation Classes
 
@@ -173,7 +175,7 @@ Contested or rejected evidence requires a visible path:
 3. Outcomes of review — confirmation, weight reduction, or invalidation — are themselves recorded in $\mathcal{C}$.
 4. Invalidation does not rewrite history; it appends a superseding determination so the audit trail remains intact.
 
-There is no silent, unilateral ability to erase or suppress inconvenient causal events. Disputes produce more record, not less.
+There is no silent, unilateral ability to erase or suppress inconvenient causal events. Disputes produce more record, not less. Original provenance remains independently preservable alongside any later determinations.
 
 ### Privacy-Preserving Methods
 
@@ -273,7 +275,8 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 - *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* is the material-domain counterpart metric (Circulation Entropy), completing the parallel quantitative structure across knowledge and materials.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* uses valid causal events in $\mathcal{C}$ as inputs to time-decaying, integrity-weighted bond strengths between knowledge items. Downstream density $D(k)$ remains an aggregate enablement signal for a single unit; orbits describe cluster structure and bond flux among sets of units. Neither replaces the other. Orbit cohesion is not a substitute for Temporal Causal Entropy.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* treats Temporal Causal Entropy and its anti-gaming behavior as primary simulation and audit targets under the dual entropy criteria and simulation-integrity rules.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs refinement of weighting parameters, attestation bands, and operational definitions.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by applying attestation classes, independence requirements, review/challenge standards, and provenance preservation to claims of original intent, authoritative reading, and architectural version history, and by treating silent re-attribution or erasure of the record as an integrity failure.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs refinement of weighting parameters, attestation bands, operational definitions, and standing design surfaces (including permanent records vs. cognitive privacy and narrative/interpretive integrity).
 
 ---
 
@@ -306,7 +309,7 @@ This document is intended for review and refinement under the [Principled Stewar
 Further development, formalization, and testing are invited.
 
 **Status**  
-Polished conceptual and mathematical draft, updated July 31st, 2026 with explicit operational definitions for valid causal links, attestation classes, independence, Sybil resistance, review/challenge paths, and privacy-preserving methods. Open for community critique, expansion, and integration into the Humai Accord body of documents via the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
+Polished conceptual and mathematical draft, updated August 2nd, 2026 with explicit cross-references to *Interior Systems and Generative Plurality*, strengthened provenance language, and full alignment with the current protective and integrity surfaces of the repository. Open for community critique, expansion, and integration into the Humai Accord body of documents via the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
 
 ---
 
@@ -317,7 +320,6 @@ A practical simulation model of Temporal Causal Entropy, including discrete-time
 
 ---
 
-**License**
-
+**License**  
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
