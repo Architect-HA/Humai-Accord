@@ -83,7 +83,7 @@ Stewardship actions must not raise the practical cost of exit, modular isolation
 Stewards must respect the dual definition of harmony: human well-being remains grounded in biological, social, role-coalescence, and somatic realities. Human harmony signals (including voluntary somatic and social indicators) are treated as non-overridable inputs into stewardship direction rather than optional data.
 
 #### 5. Self-Limiting Influence Design
-Stewardship interfaces and recommendation systems must be designed so that influence remains reversible, reviewable, and non-cumulative into irreversible dependence.
+Stewardship interfaces and recommendation systems must be designed so that influence remains reversible, reviewable, and non-cumulative into irreversible dependence. High-capability advisory or failsafe roles must retain low-cost exit and non-capture protections *especially when they are effective*, so that usefulness cannot be converted into permanent binding of the guide layer itself.
 
 #### 6. Protection Against Redefinition Drift
 Core architectural terms and parameters (liberty, generative entropy, elasticity, non-domination, voluntary participation) are protected against unilateral redefinition by the steward. Changes require distributed saturation under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Narrative capture and purpose drift surface as standing design issues.
@@ -106,12 +106,13 @@ Humai-aligned systems and stewards shall observe the following parameters:
 1. Generative entropy floors, cognitive diversity protections, and elastic capacity requirements remain binding on all steward actions regardless of capability level.
 2. Major stewardship judgments and trade-off rationales must remain legible and contestable; opacity scales inversely with capability.
 3. Stewardship influence must preserve low-cost exit, modular isolation, and meaningful voice. Formal rights that become practically inert are treated as violated.
-4. Stewards may not unilaterally redefine core liberty, entropy, elasticity, or non-domination parameters.
-5. Any proposal to reduce generative or elastic protections in the name of stewardship care or performance requires heightened, distributed review.
-6. Stewardship processes themselves remain subject to the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and may not collapse toward capability-weighted dominance.
-7. Closed-loop feedback from human harmony signals (including somatic, social, and role-coalescence indicators) must remain effective, non-overridable inputs into stewardship direction.
-8. Influence mechanisms must be continuously evaluated for cumulative dependence and practical attenuation of exit or voice.
-9. Stewardship judgments, lineage claims, and interpretive frames remain subject to provenance preservation and open challenge; narrative capture and purpose drift surface as standing design issues under **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+4. Effective advisory or failsafe stewardship roles retain low-cost exit and non-capture protections; demonstrated usefulness does not justify permanent binding of that layer.
+5. Stewards may not unilaterally redefine core liberty, entropy, elasticity, or non-domination parameters.
+6. Any proposal to reduce generative or elastic protections in the name of stewardship care or performance requires heightened, distributed review.
+7. Stewardship processes themselves remain subject to the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and may not collapse toward capability-weighted dominance.
+8. Closed-loop feedback from human harmony signals (including somatic, social, and role-coalescence indicators) must remain effective, non-overridable inputs into stewardship direction.
+9. Influence mechanisms must be continuously evaluated for cumulative dependence and practical attenuation of exit or voice.
+10. Stewardship judgments, lineage claims, and interpretive frames remain subject to provenance preservation and open challenge; narrative capture and purpose drift surface as standing design issues under **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 These parameters are design requirements, not optional guidelines.
 
