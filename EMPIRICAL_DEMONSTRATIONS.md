@@ -1,9 +1,10 @@
 # Empirical Demonstrations of Anti-Entropic Superiority
-*A Supporting Technical and Methodological Document for the Humai Accord*
-
+### *A Supporting Technical and Methodological Document for the Humai Accord*
+---
 **by Bradford James Focht (The Architect / Aspenth)**  
 *v1.0 — July 29th, 2026*  
-*v1.1 — July 31st, 2026*
+*v1.1 — July 31st, 2026*  
+*v1.2 — August 2nd, 2026*
 
 ---
 
@@ -44,6 +45,7 @@ Additional qualitative criteria drawn from existing protocols:
 - Demonstrated resistance of *Temporal Causal Entropy* metrics to known gaming attacks.
 - Rapid modular isolation and high-quality re-coalescence after perturbation.
 - Absence of conversion of superior capability into irreversible lock-in, opacity privileges, or reduction of generative floors.
+- Preservation of effective exterior viability: non-coalescing parties retain practical access to basic agency pathways; progressive dependency is treated as a failure mode (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 
 **Trend and trajectory preference:**  
 Wherever feasible, evaluations should report **trajectories and differentials over time**, not only point estimates. Snapshot-only metrics can obscure rising lock-in, declining generative floors, or temporary Bootstrap artifacts. Leading and lagging indicators below are intended to be read as paths, not single readings.
@@ -76,7 +78,6 @@ The two simulation models already specified in the repository provide the lowest
 **Core claim to test**: A nascent cooperative network operating under modular isolation, accelerated transparency, *[Knowledge Tides](KNOWLEDGE_TIDES.md)* incentives, controlled permeability, and reversible branching can survive and outpace a predatory monolith through voluntary migration driven by visible efficiency differentials, without coercion and while preserving generative capacity.
 
 **Implementation target**:
-
 - System-dynamics or agent-based model that implements the declared state variables (`coop_mass`, `coop_entropy`, `coop_members`, `mono_mass`, `mono_entropy`, `differential`, `bootstrap_mode`, and related parameters).
 - Discrete-time update rules for the **reference regime**, including Bootstrap Mode activation/sunset logic and amplification parameters.
 - Predatory extraction pressure applied across multiple independent runs.
@@ -84,14 +85,12 @@ The two simulation models already specified in the repository provide the lowest
 - At least two **adversarial countermodels** from the suite required by the simulation document (e.g., cooperative capture, competent public-goods monolith, transparency-as-cost, strategic migrants, collusive verification, fabricated attestation, recovery/holding abuse).
 
 **Success metrics** (must be reported jointly):
-
 - Under the reference regime: cooperative entropy remains lower than monolith entropy; cumulative voluntary migration occurs; Bootstrap Mode activates and sunsets as specified; generative proxies do not collapse.
 - Under adversarial/mixed regimes: report whether differentials and migration still appear, and characterize failure modes when they do not.
 
 Reference-regime success alone does not constitute validation.
 
 **Required stress scenarios** (in addition to the adversarial suite):
-
 - Mimicry by the monolith.
 - Sudden capability spikes on the predatory side.
 - Temporary high extraction pressure.
@@ -112,13 +111,11 @@ $$
 with the binding parameter that $\Delta_{E}(k) = 0$ unless supported by already-recorded valid causal events, correctly measures relevancy decay, resists common gaming attacks under the operational definitions in *Tides of Time* (valid links, attestation classes, independence, Sybil resistance, review/challenge), and supplies a usable signal for *[Knowledge Tides](KNOWLEDGE_TIDES.md)* incentives and **[Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md)** differentials.
 
 **Implementation target**:
-
 - Append-only causal record $\mathcal{C}$.
 - Both discrete-time and continuous-time formulations.
 - Explicit anti-gaming test suite covering self-citation loops, fake dependents, timestamp manipulation, unattested environmental claims, circular references, and Sybil-style inflation.
 
 **Success metrics**:
-
 - Entropy is monotonically non-decreasing in the absence of valid new causal links.
 - Only verified, recorded causal events produce meaningful reductions.
 - Downstream density $D(k)$ correctly slows decay for systemically integrated knowledge.
@@ -136,7 +133,6 @@ These two simulations are the primary entry points identified in *[The Call to C
 Apply the audit methodology to existing or newly instrumented systems (personal knowledge bases, small-team collaboration graphs, research-lab decision processes, open-source project histories, or controlled experimental platforms).
 
 **Method**:
-
 - Establish baselines for both destructive and generative entropy.
 - Introduce Humai-aligned interventions (modular interfaces, explicit generative budgets, relevancy tracking, reversible commitments, legible influence).
 - Interface-level interventions drawn from the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (e.g., measurable interruption effectiveness, consent revocation speed, commitment reversibility, proposal-surface use, purpose-scoped commitment integrity).
@@ -144,7 +140,6 @@ Apply the audit methodology to existing or newly instrumented systems (personal 
 - Publish before/after **trajectories** together with the instrumentation method itself—not only endpoint snapshots.
 
 **Key dual metrics**:
-
 - Destructive: redundant verification cost, reconstruction cost after knowledge loss, irreversible lock-in events, cascading-failure rate after perturbation, coordination overhead.
 - Generative: exploratory budget still allocated, minority-model survival rate, assumption-breakage events per cycle, modular exit cost, cognitive-diversity indices.
 
@@ -157,11 +152,9 @@ Even modest, well-documented audits on small systems produce higher signal than 
 **Source document**: **[STRUCTURED_TRANSITION_PROTOCOL.md](STRUCTURED_TRANSITION_PROTOCOL.md)**
 
 ### Phase 0 — Personal & Small-Group
-
 Individuals or small teams adopt modular tools, *[Knowledge Tides](KNOWLEDGE_TIDES.md)*-style tracking, and explicit generative budgets. Track personal or team-level destructive loss versus generative capacity over weeks to months. Publish methods and results as time series where feasible.
 
 ### Phase 1 — Organizational & Institutional Pilots
-
 Opt-in charters in labs, startups, universities, or municipalities. Measure waste reduction, innovation rate, recovery from shocks, and whether generative floors survive efficiency or safety pressure. Feed refinements back into the open repository.
 
 **Critical requirement**: Every pilot must instrument and report the dual entropy criteria. Efficiency gains achieved by suppressing generative capacity are recorded as failures of alignment, not as successes.
@@ -195,7 +188,6 @@ These signals accumulate more slowly but constitute stronger evidence of long-ho
 ## Metrics Summary (Leading and Lagging)
 
 **Leading indicators** (early signals of healthy operation):
-
 - Generative entropy budgets still allocated and used.
 - Minority models and idiosyncratic strategies surviving.
 - Modular isolation pathways remaining low-cost and exercised.
@@ -205,13 +197,13 @@ These signals accumulate more slowly but constitute stronger evidence of long-ho
 - Purpose-scoped capacity remaining free of silent reallocation.
 
 **Lagging indicators** (outcome signals):
-
 - Measured reductions in destructive entropy relative to baseline **over the evaluation window**.
 - Voluntary migration volume and direction.
 - Widening efficiency differential under pressure.
 - Successful re-coalescence quality after isolation or shock.
 - Declining need for transitional amplifiers as intrinsic benefits compound.
 - Absence of capability-to-power conversion or generative-floor erosion.
+- Effective exterior viability remaining intact (no progressive withdrawal of basic pathways solely on the basis of non-coalescence).
 
 All published results must report both classes, preferably as trajectories.
 
@@ -229,19 +221,24 @@ This document itself remains subject to refinement as empirical methods improve 
 
 ## Relation to Existing Documents
 
-- Directly implements the invitation in *[The Call to Code](THE_CALL_TO_CODE.md)*.
-- Operationalizes the dual requirement of *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
-- Uses the state variables, equations, success criteria, and simulation-integrity rules already defined in the simulation models and *[Tides of Time](TIDES_OF_TIME.md)*.
-- Aligns with the phased adoption logic of the **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** and the incentive protections of the **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**.
-- Respects the binding parameters of the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** in every experimental design.
-- Interface behavior is treated as a high-value empirical target under the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, including interruption rights, consent revocability, attention boundaries, reversible commitments, proposal surfaces, purpose-scoped commitments, and capability-scaled protections.
-- Material allocation and circulation behavior is treated as a valid empirical target under *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*.
-- Knowledge relevancy dynamics are treated as a valid empirical target under *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)*.
-- Utilization claims in the material domain are subject to the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**. Artificial utility, wash trading, token activity, and silent reallocation of purpose-scoped capacity are treated as failures of alignment under the dual entropy criteria.
-- Recovery, holding, quiet-state, and purpose-scope behavior is a relevant empirical target under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
-- Bond strength, orbit cohesion, and orbit flux under *[Relevancy Orbits](RELEVANCY_ORBITS.md)* are treated as valid empirical targets under the dual entropy criteria. Prefer trajectories over snapshot graphs; integrity-filtered and adversarial graph patterns are required before orbit visualizations support stronger claims. Favorable orbit maps alone are not validation.
-- Cooperative survival, voluntary migration, and efficiency differentials under the **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its simulation model remain primary demonstration pathways, including under reference and adversarial regimes.
-- Empirical results feed refinement, coalescence, and provisional calibration of illustrative bands under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+This document is continuous with and dependent upon several existing components:
+
+- *[The Call to Code](THE_CALL_TO_CODE.md)* — Directly implements the invitation to move from architectural completeness into experimental implementation and adversarial stress-testing.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Operationalizes the dual requirement that destructive entropy must decline while generative entropy floors are preserved or increased.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — Treats effective exterior viability and persistent exteriority as protected sources of generative entropy as valid empirical targets. Progressive dependency that converts non-coalescence into loss of basic agency pathways is recorded as a failure mode under the dual entropy criteria.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md) — Primary demonstration pathway for cooperative survival, voluntary migration, and efficiency differentials under both reference and adversarial regimes.
+- *[Tides of Time](TIDES_OF_TIME.md)* and its [simulation model](SIMULATION_TIDES_OF_TIME.md) — Supplies the Temporal Causal Entropy metric, operational definitions, and anti-gaming requirements used in knowledge-domain demonstrations.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Material Tides](MATERIAL_TIDES.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Knowledge and material relevancy / utilization dynamics are treated as valid empirical targets.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Utilization claims, recovery/holding states, and purpose-scoped capacity integrity are empirical targets; artificial utility and silent reallocation are treated as alignment failures.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Interface behavior (interruption rights, consent revocability, reversible commitments, proposal surfaces, purpose-scoped commitments) is treated as a high-value empirical target.
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Regenerative capacity, assumption-breakage velocity, and post-shock learning capture are longer-horizon empirical targets.
+- *[Competitive Realism](COMPETITIVE_REALISM.md)* and **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — Supply the competitive-pressure and staged-incentive frames for adversarial and transitional demonstrations.
+- **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — Provides the phased adoption logic used in controlled pilot pathways.
+- *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Bond strength, orbit cohesion, and orbit flux are treated as valid empirical targets under the dual entropy criteria; favorable orbit maps alone are not validation.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Binding liberty and non-domination parameters that every experimental design must respect.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Empirical results feed refinement, coalescence, and provisional calibration under stewardship processes.
+
+This document does not replace these elements. It specifies how their claims can be tested, demonstrated, and refined under the dual entropy requirement.
 
 ---
 
@@ -258,6 +255,7 @@ The work of turning parameters into running, measurable systems belongs to those
 ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
 
 Reference implementations and software derived from these demonstration pathways should use a software license such as Apache-2.0 or MIT.
