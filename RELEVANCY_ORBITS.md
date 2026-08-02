@@ -1,8 +1,9 @@
 # Relevancy Orbits
-*Fluid Clusters of Mutual Relevance across Knowledge and Materials*
-
-**by Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 — July 31st, 2026*
+### *Fluid Clusters of Mutual Relevance across Knowledge and Materials*
+---
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 31st, 2026*<br>
+*v1.1 — August 2nd, 2026*
 
 ---
 
@@ -220,13 +221,15 @@ Treated as anti-aligned:
 
 ## Alignment with Existing Documents
 
-- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* / *[Material Tides](MATERIAL_TIDES.md)* — Orbits sit under tidal pressure; they do not exempt members from decay or under-utilization signals  
-- *[Tides of Time](TIDES_OF_TIME.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Supply the event records, attestation classes, density signals, and integrity-sensitive weights that feed $B(i,j,t)$  
-- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Isolation and re-coalescence as forced or voluntary orbit reconfiguration under pressure  
-- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Integrity and purpose-scope rules bind what may count as a linking event  
-- **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — Multiple orbits preferred over monoculture fusion  
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Proposal surfaces and purpose-scoped commitments protect decision altitude when orbit structure is exposed  
-- *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* — Orbit cohesion and bond flux are empirical targets; report trajectories; reference-only graphs are not validation  
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* / *[Material Tides](MATERIAL_TIDES.md)* — Orbits sit under tidal pressure; they do not exempt members from decay or under-utilization signals
+- *[Tides of Time](TIDES_OF_TIME.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Supply the event records, attestation classes, density signals, and integrity-sensitive weights that feed $B(i,j,t)$
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Isolation and re-coalescence as forced or voluntary orbit reconfiguration under pressure
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Integrity and purpose-scope rules bind what may count as a linking event
+- **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — Multiple orbits preferred over monoculture fusion
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Proposal surfaces and purpose-scoped commitments protect decision altitude when orbit structure is exposed
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that linking events and orbit membership records remain subject to provenance preservation, and that orbits cannot be used to collapse interpretive plurality or enable narrative capture
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that orbit mechanisms cannot create progressive dependency or erode effective exterior viability
+- *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* — Orbit cohesion and bond flux are empirical targets; report trajectories; reference-only graphs are not validation
 
 ---
 
