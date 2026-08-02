@@ -37,9 +37,10 @@ For readers who want a solid working understanding of the architecture:
 2. *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*
 3. *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Why generative capacity must be protected
 4. *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — How exterior systems are treated under the efficiency orientation (existence remains legitimate; exteriority as generative entropy)
-5. *[A Common Sense](A_COMMON_SENSE.md)* — The long-horizon efficiency argument
-6. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — How adoption is intended to scale
-7. *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* — Keep open as a reference while reading
+5. *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — How the architecture protects its own transmission integrity and interpretive plurality as generative capacity
+6. *[A Common Sense](A_COMMON_SENSE.md)* — The long-horizon efficiency argument
+7. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — How adoption is intended to scale
+8. *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* — Keep open as a reference while reading
 
 After this layer you should understand the basic commitments, the rights floor, the evolvability requirement, and the intended transition path.
 
