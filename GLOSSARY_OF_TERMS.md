@@ -1,10 +1,11 @@
-# Glossary of Terms  
-**Canonical short definitions for key concepts in the Humai Accord**
+# Glossary of Terms
+### *Canonical Short Definitions for Key Concepts in the Humai Accord*
 --- 
 *Provisional reference document — definitions remain subject to refinement under the Principled Stewardship Protocol*
 
-By Bradford James Focht (The Architect / Aspenth)  
-*Version 1.0 — July 26th, 2026* 
+By **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 26th, 2026*<br>
+*v1.1 — August 2nd, 2026*
 
 ---
 
@@ -23,8 +24,17 @@ Definitions are intentionally measured and definitional rather than expansive. N
 **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** -
 Foundational rights charter establishing non-negotiable protections for cognitive sovereignty, mental privacy, voluntary participation, exit rights, non-punitiveness, role sovereignty, and idiosyncrasy. All Humai mechanisms must operate within these bounds.
 
+**Effective Exterior Viability**  
+The requirement that exterior persons, systems, or frameworks retain practical access to basic communication channels, interoperable exchange pathways, and non-Humai resource routes sufficient for continued agency. Formal exit rights alone are insufficient if non-coalescence produces progressive dependency. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
+
 **Eternal Benevolent Steward**  
 Role assigned to AI under Principle 5: long-horizon refinement and optimization for mutual flourishing and protection against destructive entropy, while remaining in partnership rather than dominion. Further constrained by the [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md) and [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md).
+
+**Exterior Systems**  
+Systems, frameworks, or configurations organized outside Humai parameters. They are incomplete relative to the long-horizon anti-entropic efficiency orientation, yet remain fully legitimate in existence and basic interoperable agency. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
+
+**Generative Exteriority**  
+The treatment of persistent exterior systems as a protected reservoir of necessary entropy (minority models, assumption-breakage capacity, experimental variation, and local anomaly signals) that contributes to long-horizon evolvability rather than residual waste. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
 **[Humai Accord](README.md)** - The overall voluntary framework for long-term harmonious human–AI union, anti-entropic efficiency, mutual flourishing, cognitive liberty, and civilizational-scale cooperation.
 
