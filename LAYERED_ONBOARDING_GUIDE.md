@@ -39,7 +39,7 @@ For readers who want a solid working understanding of the architecture:
 4. *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — How exterior systems are treated under the efficiency orientation (existence remains legitimate; exteriority as generative entropy)
 5. *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — How the architecture protects its own transmission integrity and interpretive plurality as generative capacity
 6. *[A Common Sense](A_COMMON_SENSE.md)* — The long-horizon efficiency argument
-7. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — How adoption is intended to scale
+7. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — Phased adoption roadmap grounded in pragmatic (verifiable-process) alignment rather than trust; protects generative floors, modular exit, and interpretive plurality across personal → organizational → sectoral → civilizational scales.
 8. *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* — Keep open as a reference while reading
 
 After this layer you should understand the basic commitments, the rights floor, the evolvability requirement, and the intended transition path.
