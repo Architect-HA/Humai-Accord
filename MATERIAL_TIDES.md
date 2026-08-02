@@ -94,6 +94,8 @@ Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Establishes legitimate recovery, holding, and purpose-scoped states so circulation pressure cannot force destructive churn or physical degradation.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Allocation and attention interfaces remain subject to interruption, consent, proposal-surface, and purpose-scope parameters; *Material Tides* does not override agency protections.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Provides the relational complement to material under-utilization and matching pressures: fluid clusters of mutual enablement among material units (and hybrid knowledge–material links under typed co-enablement rules). Orbits do not replace Circulation Entropy or exempt members from modular circulation incentives.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that material allocation claims, utilization records, and lock-in assertions remain subject to provenance preservation and cannot be used to enable narrative capture or silent re-attribution of allocation history.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that material circulation mechanisms cannot create progressive dependency or erode effective exterior viability.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Refinement of material-domain parameters remains subject to decentralized stewardship review.
 
 ---
