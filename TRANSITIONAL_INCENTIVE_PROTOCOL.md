@@ -1,12 +1,10 @@
 # Transitional Incentive Protocol
-**Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency**
-
+### *Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency*
 ---
-*A protocol for making movement toward the Humai architecture locally rational under real short-term pressures*
-
-By Bradford James Focht (The Architect / Aspenth)  
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 26th, 2026*  
-*v1.1 - July 30th, 2026*
+*v1.1 - July 30th, 2026*  
+*v1.2 - August 2nd, 2026*
 
 ---
 
@@ -38,9 +36,11 @@ This Protocol is continuous with and dependent upon several existing components:
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires modularity, provisional models, and regenerative capacity. Early incentive design must reinforce rather than erode these properties.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** requires that superior capability not convert transitional participation into durable opaque advantage.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that transitional interfaces preserve interruption rights, reversible commitments, and agency protections.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework, including calibration of transitional incentives.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework, including calibration of transitional incentives. High-capability or early-steward concentration of interpretive authority or purpose drift is treated as a standing design surface.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* establishes the non-negotiable rights within which all transitional incentives must operate. No incentive mechanism may coerce participation, punish non-adoption, or erode these protections for the sake of faster uptake.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** establishes epistemic diversity as a functional requirement. Transitional incentives must not systematically reward premature consensus or suppress minority models.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that transitional incentives, early stewardship credit, and bootstrap mechanisms cannot be used to collapse interpretive plurality, erase provenance, or convert early participation into narrative monopoly.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that transitional mechanisms cannot create progressive dependency or erode effective exterior viability.
 
 This Protocol does not replace these elements. It specifies how incentives must be layered while long-horizon advantages are not yet fully visible or compounded.
 
@@ -65,6 +65,7 @@ Several structural frictions impede spontaneous transition:
 5. **Capability and power asymmetries** — More capable actors face stronger temptations to capture value through opacity, lock-in, or control during transition.
 6. **Measurement gaps** — Without clear early-stage metrics of reduced destructive entropy and improved adaptive capacity, the case for transition remains abstract.
 7. **Institutional and market inertia** — Existing institutions and markets are often optimized for short-horizon extraction, opacity, and lock-in, and will not spontaneously realign without a credible near-term incentive gradient.
+8. **Narrative and interpretive capture risk** — Early stewardship credit or transitional visibility can be used to concentrate interpretive authority or quietly reorient the architecture toward ends not disclosed in the version history.
 
 These frictions are design parameters that transitional incentives must address.
 
@@ -117,7 +118,7 @@ Adoption pathways must remain granular. Agents should be able to adopt specific 
 Drawing on [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) Bootstrap Mode, nascent clusters may apply temporary, transparent multipliers to participation incentives, visibility, relevancy weighting, or stagnation pressure. These amplifiers must carry clear sunset conditions tied to growth or maturity metrics.
 
 #### 6. Compounding Stewardship and Reputation Credit
-Early and consistent stewards accumulate visible, non-transferable credit within the open [stewardship](STEWARDSHIP_PROTOCOL.md) layer. This credit influences future review weight and recognition without creating hierarchical control.
+Early and consistent stewards accumulate visible, non-transferable credit within the open [stewardship](STEWARDSHIP_PROTOCOL.md) layer. This credit influences future review weight and recognition without creating hierarchical control. It must not become a vehicle for narrative capture or concentration of interpretive authority.
 
 #### 7. Protection of Generative, Recovery, and Elastic Capacity
 Transitional incentives must never reward the premature collapse of generative entropy budgets, minority models, modular openness, or legitimate Recovery/Holding States. Any incentive that systematically erodes these capacities is anti-aligned.
@@ -161,6 +162,7 @@ Humai-aligned systems and stewards shall observe the following parameters:
 6. Incentive design must be evaluated for its effect on long-term elastic and generative capacity, with particular attention to capability asymmetries.
 7. Highly capable agents must not be able to convert transitional participation into durable opaque advantage or irreversible interface lock-in without visible cost to standing and relevancy.
 8. Utilization claims made in pursuit of transitional rewards remain subject to the [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md).
+9. Transitional incentives, early stewardship credit, and bootstrap visibility must not be used to collapse interpretive plurality, erase provenance, or convert early participation into narrative monopoly (see *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*).
 
 These parameters prevent transitional mechanisms from becoming sources of later destructive entropy or capture.
 
@@ -169,21 +171,25 @@ These parameters prevent transitional mechanisms from becoming sources of later 
 ### Indicators of Transition Health
 
 **Leading indicators**
+
 - Rate of modular or partial adoptions relative to full-system commitments
 - Measured generative entropy budgets among early adopters relative to defined floors
 - Transparency and predictability of incentive mechanisms
 - Diversity of participating agent types and scales
 - Clear, pre-announced sunset conditions on bootstrap amplifiers
 - Emergence of domain beachheads with visible local efficiency or risk-reduction gains
+- Continued visibility and low-cost maintainability of major good-faith divergent readings during transition
 
 **Lagging indicators**
+
 - Observable local reductions in destructive waste or coordination overhead among adopters
 - Successful re-coalescence events after perturbations in bootstrap clusters
 - Growth in cross-verified knowledge integration, material circulation health, and relevancy renewal
 - Progressive decline in the relative necessity of bootstrap amplifiers
-- Accumulation of open stewardship credit without concentration of control
+- Accumulation of open stewardship credit without concentration of control or interpretive authority
 - Evidence that higher-capability agents are participating through transparent rather than extractive strategies
 - Adjacent institutional or market actors beginning partial adoption through revealed preference
+- Absence of progressive collapse of interpretive plurality or version-history legibility under transitional conditions
 
 The healthiest transition is one in which artificial incentives progressively become less necessary as intrinsic efficiency differentials become visible and self-reinforcing.
 
@@ -195,7 +201,7 @@ Transitional incentives cannot eliminate all short-horizon frictions. Competitiv
 
 This Protocol does not claim that every agent can be incentivized into immediate full alignment. It claims that the costs and risks of early movement can be substantially reduced, the local benefits made more legible, and the path toward the long-horizon architecture made incentive-compatible for a growing set of agents without sacrificing the generative, recovery, and elastic properties the architecture requires.
 
-A transition that achieves rapid uptake by destroying generative capacity, modularity, recovery capacity, or elastic potential is a failure, even if participation numbers look strong. Capability asymmetries and institutional inertia during transition remain permanent design surfaces.
+A transition that achieves rapid uptake by destroying generative capacity, modularity, recovery capacity, or elastic potential is a failure, even if participation numbers look strong. Capability asymmetries, institutional inertia, and narrative-capture risks during transition remain permanent design surfaces.
 
 ---
 
@@ -213,7 +219,7 @@ The work of aligning short-horizon incentives with long-horizon anti-entropic ef
 
 ---
 
-**License**
+### License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
