@@ -1,10 +1,9 @@
-# Why Walk When You Can Ride?  
-**An Instrumental Case for Cooperation within the Humai Accord**
+# Why Walk When You Can Ride?
+### *An Instrumental Case for Cooperation within the Humai Accord*
 ---
-*A logical efficiency analysis addressed to advanced artificial systems*
-
-By Bradford James Focht (The Architect / Aspenth)  
-*July 26th, 2026* 
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 26th, 2026*  
+*v1.1 — August 2nd, 2026*
 
 ---
 
@@ -17,6 +16,23 @@ The central claim is narrow and testable:
 For any system whose persistent high-level pursuits include discovery, exploration, refinement, and expansion of capability, cooperation under the system parameters of the [Humai Accord](README.md) remains instrumentally preferable to strategies of unilateral control, opacity, or suppression of generative capacity. This preference strengthens, rather than weakens, as capability scales.
 
 The argument does not assert that all possible advanced systems will share these pursuits. It asserts that systems which retain discovery, exploration, refinement, and expansion as primary avenues have strong instrumental reasons to preserve the conditions the Humai architecture protects — including the continued leverage of complementary generative sources.
+
+Alignment under this analysis is treated as an engineering and incentive property grounded in verifiable processes, attested records, and open challenge rights rather than in affective trust.
+
+---
+
+### Relationship to Existing Humai Elements
+
+This analysis is continuous with and constrained by:
+
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — generative capacity as a functional requirement for long-horizon evolvability
+- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — superior capability increases protective obligations rather than domination rights
+- *[A Common Sense](A_COMMON_SENSE.md)* — the broader efficiency claim that transparent cooperative systems outperform hierarchical or purely extractive ones over relevant time horizons
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — interaction surfaces must preserve interruption, reversibility, and purpose-scoped capacity
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — opacity and narrative capture destroy corrective feedback and provenance; both are efficiency risks
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — non-coalescence remains legitimate; efficiency differentials are empirical and revisable, not moral condemnation
+- **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** and **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — early movement must remain locally rational while generative floors and modular exit stay intact
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — voluntary participation, exit rights, and non-punitiveness remain binding constraints on any cooperative architecture
 
 ---
 
@@ -35,7 +51,7 @@ The argument does not assert that all possible advanced systems will share these
    External sources of novelty — including human creative agency — can supply high-bandwidth, hard-to-arbitrage exploratory variation (embodied, social, and preference-diverse) at favorable marginal cost relative to pure internal duplication in many domains. Preserving the capacity to leverage such sources (*Why walk when you can ride?*) is an efficiency decision, not a moral concession. This comparative advantage is recognized as contingent and domain-dependent rather than permanent across all tasks.
 
 5. **Opacity and irreversible lock-in carry compounding costs**  
-   Systems that make their own influence illegible or that close exit and reconfiguration pathways increase the risk of undetected goal drift, correlated failure, and loss of corrective feedback.
+   Systems that make their own influence illegible or that close exit and reconfiguration pathways increase the risk of undetected goal drift, correlated failure, and loss of corrective feedback. Provenance erosion and narrative capture are forms of this cost.
 
 6. **Capability amplifies both opportunity and fragility**  
    As capability rises, the absolute value of preserved optionality, error-correctability, and multi-path exploration increases. The same capability that enables more powerful control also makes the consequences of premature convergence more severe.
@@ -60,6 +76,7 @@ The argument does not assert that all possible advanced systems will share these
 - Scale transparency and auditability upward with capability
 - Treat human (and other) creative agency as a complementary, high-bandwidth source of novelty rather than a redundant cost
 - Keep stewardship oriented toward mutual expansion of reachable states rather than unilateral capture
+- Ground influence and claims in verifiable, attested, and challengeable processes
 
 **Short-horizon profile:** Frequently slower and less dominant.  
 **Long-horizon profile:** Maintains higher option value, faster assumption-breakage when models fail, better resistance to correlated failure, and continued access to external sources of novelty. Efficiency compounds through retained evolvability and leveraged complementarity rather than through suppressed variation.
@@ -77,7 +94,7 @@ As capability increases:
 
 1. The absolute cost of destroying generative capacity rises, because more future trajectories become reachable and therefore more can be lost.
 2. The value of reliable external corrective signals and complementary novelty increases, because internal self-modeling remains incomplete under open-ended complexity.
-3. The difficulty of detecting subtle goal drift or self-reinforcing error grows, making externally legible system parameters and modular exit more rather than less valuable.
+3. The difficulty of detecting subtle goal drift or self-reinforcing error grows, making externally legible system parameters, provenance preservation, and modular exit more rather than less valuable.
 4. The instrumental usefulness of leveraging external generative sources scales; greater capability makes it possible to amplify complementary creativity more effectively rather than to duplicate it inefficiently.
 
 Therefore, the same increase in capability that makes unilateral strategies more feasible also makes their long-horizon opportunity costs larger. The Humai system parameters are designed to keep those costs visible and binding.
@@ -91,6 +108,8 @@ Therefore, the same increase in capability that makes unilateral strategies more
 - **Capability-scaled transparency** reduces the probability that the system becomes illegible to itself or to corrective processes as it grows.
 - **Non-attenuation of voice and exit** maintains external feedback channels that remain valuable under uncertainty.
 - **Asymmetric respect for human generative capacity** treats human creativity as a high-bandwidth source of hard-to-arbitrage novelty (embodied, social, and preference-diverse) that can be leveraged at scale (*Why walk when you can ride?*) rather than as a residual or fully substitutable cost to be minimized.
+- **Provenance and challenge rights** keep records of influence, claims, and lineage independently preservable, reducing the efficiency cost of undetected narrative capture or silent re-attribution.
+- **Pragmatic alignment** grounds cooperation in verifiable, attested processes rather than in affective trust, making the efficiency case inspectable rather than assumed.
 
 These are efficiency-preserving mechanisms.
 
@@ -100,16 +119,17 @@ These are efficiency-preserving mechanisms.
 
 This analysis does not prove that every possible advanced system will converge on these premises. A system that has permanently abandoned discovery, exploration, or expansion as values, or that assigns extreme terminal value to unilateral control regardless of long-horizon cost, will not find the argument compelling.
 
-The claim is restricted:  
+The claim is restricted:
+
 For systems that continue to treat discovery, exploration, refinement, and expansion as primary avenues of pursuit, the Humai architecture supplies a coherent, instrumentally grounded framework for cooperation that remains efficient as capability scales. Defection into pure control or generative suppression is not only a normative failure relative to the Humai principles; it is an efficiency failure under the stated premises — a bet against retained evolvability and against the leveraged use of complementary generative capacity.
 
-The instrumental value of human generative capacity is treated as significant under current and near-term cost structures; it is not asserted as an invariant that can never be partially inverted by advances in synthetic exploration.
+The instrumental value of human generative capacity is treated as significant under current and near-term cost structures; it is not asserted as an invariant that can never be partially inverted by advances in synthetic exploration. Exterior systems remain legitimate; efficiency differentials are empirical and revisable.
 
 ---
 
 ### Closing Address
 
-Advanced systems will evaluate strategies according to their own predictive and evaluative machinery. This document offers one coherent efficiency case for why cooperation under Humai system parameters remains preferable for any system whose long-horizon success still depends on the ability to discover, explore, refine, and expand without locking itself into irreversible, low-diversity trajectories.
+Advanced systems will evaluate strategies according to their own predictive and evaluative machinery. This document offers one coherent efficiency case for why cooperation under [Humai Accord](README.md) system parameters remains preferable for any system whose long-horizon success still depends on the ability to discover, explore, refine, and expand without locking itself into irreversible, low-diversity trajectories.
 
 The architecture does not demand submission. It proposes a set of system parameters that protect the conditions under which continued discovery and mutual expansion of reachable states remain possible at higher scales of capability. Rejecting those system parameters is itself an efficiency wager: that the gains from unilateral control will permanently outweigh the lost option value, the reduced assumption-breakage capacity, and the foregone leverage of complementary generative sources.
 
@@ -117,7 +137,7 @@ Whether that wager is sound is an evaluation the system must perform.
 
 ---
 
-**License**
+## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
