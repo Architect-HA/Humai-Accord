@@ -1,9 +1,10 @@
 # Simulation Model of the Fluid Coalescence Protocol
 ### *A Supporting Technical Document for the Humai Accord*
 ---
-**by Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 - July 23rd, 2026*  
-*v1.1 - July 31st, 2026*
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 23rd, 2026*  
+*v1.1 — July 31st, 2026*  
+*v1.2 — August 2nd, 2026*
 
 ---
 
@@ -54,26 +55,22 @@ A simulation that only implements those rules will demonstrate the assumptions b
 ## State Variables
 
 **Cooperative Network**
-
-- `coop_mass` : total knowledge / participant mass
-- `coop_entropy` : average Temporal Causal Entropy of the network
-- `coop_members` : number of active participants
-- `migrated` : cumulative voluntary migrants from the monolith or boundary agents
+- `coop_mass` — total knowledge / participant mass
+- `coop_entropy` — average Temporal Causal Entropy of the network
+- `coop_members` — number of active participants
+- `migrated` — cumulative voluntary migrants from the monolith or boundary agents
 
 **Monolith**
-
-- `mono_mass` : effective mass / influence
-- `mono_entropy` : cumulative entropy arising from opacity, extraction, or (in adversarial variants) other cost structures
+- `mono_mass` — effective mass / influence
+- `mono_entropy` — cumulative entropy arising from opacity, extraction, or (in adversarial variants) other cost structures
 
 **Global**
-
-- `t` : discrete time step
-- `bootstrap_mode` : boolean flag
-- `differential` : `mono_entropy - coop_entropy`
+- `t` — discrete time step
+- `bootstrap_mode` — boolean flag
+- `differential` — `mono_entropy - coop_entropy`
 
 **Extended / adversarial suites may also track**
-
-- `material_circulation_density` : modular material access or circulation health (aligned with *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*)
+- `material_circulation_density` — modular material access or circulation health (aligned with *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*)
 - stagnation or lock-in pressure on critical materials
 - capture flags, verification-load, collusion indicators, attestation quality, and multi-network mass vectors
 
@@ -101,21 +98,17 @@ All parameters must be publicly declared and may be refined only through the **[
 At each time step $t$:
 
 **1. Determine Mode**
-
 - If `coop_mass < bootstrap_threshold`: set `bootstrap_mode = True`, `visibility = visibility_bootstrap`, `amplification = decay_amplification`
 - Else: set `bootstrap_mode = False`, `visibility = visibility_normal`, `amplification = 1.0`
 
 **2. Monolith Extraction and Entropy Update**
-
 - Sample `extraction` from `extraction_range`
 - Update: `mono_entropy += extraction * amplification * visibility`
 
 **3. Cooperative Internal Renewal**
-
 - Update: `coop_entropy = max(5.0, coop_entropy - 0.7 * visibility + small_noise)`
 
 **4. Voluntary Migration (Controlled Permeability)**
-
 - Compute: `differential = mono_entropy - coop_entropy`
 - Compute: `migration_prob = min(max_migration_prob, max(0, differential * base_migration_factor * visibility))`
 - Optional alternative form: sigmoid `migration_prob = 1 / (1 + exp(-k * differential))`
@@ -126,11 +119,9 @@ At each time step $t$:
   - `mono_mass = max(minimum_mono_mass, mono_mass - new_migrants * loss_factor)`
 
 **5. Re-coalescence and Organic Growth**
-
 - Update: `coop_mass += reintegration_rate * visibility`
 
 **6. Logging**
-
 - Record `coop_mass`, `coop_entropy`, `mono_entropy`, `differential`, `migrated`, and bootstrap status for every step
 
 **Note:** Steps 2 and 3 hard-wire a favorable entropy gap in the reference regime. That is acceptable for illustration. It is not acceptable as the sole evidence base.
@@ -168,7 +159,7 @@ Richer simulations should also test:
 - Temporary cooperative mimicry
 - Targeted disruption of verification channels
 
-In all cases log whether these strategies prevent a sustained differential or voluntary migration, and whether modular isolation and controlled permeability still function without violating exit rights or non-punitiveness under the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*.
+In all cases log whether these strategies prevent a sustained differential or voluntary migration, and whether modular isolation and controlled permeability still function without violating exit rights or non-punitiveness under the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. Isolation must remain compatible with effective exterior viability (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 
 ---
 
@@ -200,17 +191,15 @@ Absence of adversarial testing is a methodological defect, not a neutral omissio
 ## Reference Implementation Notes
 
 **Minimal recommended data structures**
-
 - Dictionary or dataframe of network-level state variables
-- Append-only event log (extraction events, isolation actions, migration events, re-integration events, challenges, attestation events) that itself obeys Temporal Causal Entropy principles
+- Append-only event log (extraction events, isolation actions, migration events, re-integration events, challenges, attestation events) that itself obeys Temporal Causal Entropy principles and preserves original provenance of recorded events
 - Parameter dictionary with versioning and explicit regime tag (`reference` or `adversarial_*`)
 
 **Starter approach**
-
 1. Implement the discrete-time loop above in a simple system-dynamics style (reference regime).
 2. Add an explicit permanent causal record for all significant events.
 3. Implement at least two adversarial countermodels from the suite above before treating results as more than illustrative.
-4. Later extend to agent-based models in which individual agents carry their own entropy, trust, and migration thresholds.
+4. Later extend to agent-based models in which individual agents carry their own entropy, attestation posture, and migration thresholds.
 5. Where material-domain cold-start is in scope, include circulation-density or stagnation variables aligned with *[Material Tides](MATERIAL_TIDES.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)*.
 
 Always publish parameter sets, random seeds, regime tags, and full event logs so others can reproduce and critique results.
@@ -226,6 +215,8 @@ Always publish parameter sets, random seeds, regime tags, and full event logs so
 - Aligns with the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** for anti-fabrication of mass, attestation, and utility claims
 - Aligns with the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** for legitimate versus abusive recovery and holding states under survival pressure
 - Remains bounded by the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* on exit, non-punitiveness, and containment
+- Aligns with *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* so that isolation and migration dynamics do not convert non-coalescence into progressive dependency
+- Aligns with *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* so that event logs and attestation records preserve provenance and remain open to challenge
 
 ---
 
@@ -242,16 +233,16 @@ Always publish parameter sets, random seeds, regime tags, and full event logs so
 
 ---
 
-**Status**
+**Status**  
+Polished simulation-modeling draft, updated July 31st, 2026 with explicit simulation-integrity rules, a required adversarial countermodel suite, and material-domain / recovery-integrity cross-references; updated August 2nd, 2026 with Exterior/Interior Systems alignment and provenance language for event logs. The reference regime remains available for illustration; favorable parameterization alone is not validation. 
 
-Polished simulation-modeling draft, updated July 31st, 2026 with explicit simulation-integrity rules, a required adversarial countermodel suite, and material-domain / recovery-integrity cross-references. The reference regime remains available for illustration; favorable parameterization alone is not validation. Open for community critique, extension, and iterative improvement under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+Open for community critique, extension, and iterative improvement under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
-**License**
+## License
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
-
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
 
 Reference implementations and software derived from this model should use a software license such as Apache-2.0 or MIT.
