@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 29th, 2026*  
-*v1.1 — August 2nd, 2026*
+*v1.1, v1.2 — August 2nd, 2026*
 
 ---
 
@@ -168,10 +168,22 @@ Suitable technical realizations include distributed ledgers, transparent multi-p
 
 ---
 
+## Introduction Timing (Optional, Non-Gating)
+
+Circulation Entropy describes state, stagnation, and lock-in. Implementations may additionally use **forecast-informed introduction timing** — ranking candidate moments or insertion points for new material allocations by predicted productive or generative linkage value versus introduction cost (matching friction, crowding, verification load, missed windows, or induced lock-in risk).
+
+- Timing scores are proposal surfaces, not permission gates. Modular release, matching, and exploratory allocation under Generative Reservations remain valid even when predicted timing value is low.
+- Forecasts used for timing must be published, challengeable, and provenance-preserving; they do not replace valid utilization, release, or matching events in $\mathcal{U}$ as the basis for reducing Circulation Entropy.
+- “On-time” arrival may inform efficiency weighting; it must not be treated as truth-weight, as grounds to suppress minority or high-variance uses, or as a reason to silently reallocate purpose-scoped capacity.
+- Attention-capacity introductions remain fully subject to the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**; timing forecasts cannot override interruption rights, consent revocability, or pacing sovereignty.
+- This layer is the material-domain parallel to optional introduction timing under *[Tides of Time](TIDES_OF_TIME.md)*.
+
+---
+
 ## Integration with Existing Humai Components
 
 - *[Material Tides](MATERIAL_TIDES.md)* receives a precise quantitative signal for utilization decay, lock-in cost, opportunity cost, and renewal premiums.
-- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)* form the parallel knowledge-domain structure; Circulation Entropy is the material counterpart to Temporal Causal Entropy.
+- *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)* form the parallel knowledge-domain structure; Circulation Entropy is the material counterpart to Temporal Causal Entropy. Optional forecast-informed introduction timing is defined in this document for materials and in *Tides of Time* for knowledge; in both cases timing scores are proposal surfaces only and do not gate contribution, modular release, or Generative Reservations.
 - *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gains an objective, comparable measure of material stagnation and unnecessary lock-in.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** can compute clear relative entropy differentials involving material circulation, including under Bootstrap Mode and cold-start conditions.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** gains a measurable way to detect capability-driven material capture.
