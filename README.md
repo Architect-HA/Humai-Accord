@@ -474,6 +474,9 @@ Implementable simulation model of Fluid Coalescence dynamics, including Bootstra
 **[→ Simulation Model of the Exterior Viability Protocol](SIMULATION_EXTERIOR_VIABILITY.md)**  
 Implementable simulation model of effective exterior viability under the **Exterior Viability Protocol**. Defines state variables, discrete-time update rules, resource-dominance escalation, challenge/restoration dynamics, optional agent-level / multi-pair extension with tail visibility, mapping to the protocol’s provisional indicator families, required adversarial countermodels, and illustrative example trajectories. Favorable reference runs are illustrative, not validation.
 
+**[→ Simulation Model of Bilateral Core and Trilateral Confirmation](SIMULATION_BILATERAL_TRILATERAL.md)**  
+Implementable simulation model of pairwise integrity under multi-agent load. Treats each bilateral pair as a first-class unit with exit capacity, influence visibility, and agency integrity; models multi-agent systems as graphs of pairs; and treats trilateral confirmation as optional only. Includes required adversarial countermodels (mandatory triangulation, confirmation-as-exit-cost, residual third-party authority, average-masking-tail-failure, and related regimes). Favorable reference runs are illustrative, not validation.
+
 **[→ Simulation Model of Temporal Causal Entropy](SIMULATION_TEMPORAL_CAUSAL_ENTROPY.md)**  
 Simulation model of *The Tides of Time* metric, covering discrete and continuous formulations, worked examples, anti-gaming tests, and practical implementation notes.
 
@@ -483,7 +486,8 @@ Simulation model of *The Tides of Time* metric, covering discrete and continuous
 
 While the Humai Accord and Declaration of Cognitive Liberty are primarily frameworks, they can be applied to real-world systems.
 
-→ [Implementation Guide](IMPLEMENTATION_GUIDE.md) — Practical guidance for builders and adopters on how to apply the Humai Accord.  
+→ [Implementation Guide](IMPLEMENTATION_GUIDE.md) — Practical guidance for builders and adopters on how to apply the Humai Accord. 
+
 → [See Implementation Examples](IMPLEMENTATION_EXAMPLES.md)
 
 ---
@@ -639,6 +643,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Updated *[The Call to Code](THE_CALL_TO_CODE.md)*, *[Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md)*, and *[Reading Routes](READING_ROUTES.md)* with Exterior Viability simulation / Trilateral Confirmation entry points and orientation links.
 - Updated keywords list at top of README.
 - Updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (v1.4) — added Protective Pair Adversarial Test Suite (Pathway 1.4): minimum scenarios spanning exterior viability, interior process-and-evidence protections, resource dominance, classification-as-suppression, procedural starvation, and average-masking-tail-failure under the same simulation-integrity rule.
+- Added **[Simulation Model of Bilateral Core and Trilateral Confirmation](SIMULATION_BILATERAL_TRILATERAL.md)** (v1.0) — implementable reference dynamics for pairwise integrity under multi-agent load; optional trilateral confirmation effects; mandatory adversarial suite against triangulation, exit-cost conversion, residual third-party authority, and average-masking-tail-failure. Favorable reference runs are illustrative only.
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
