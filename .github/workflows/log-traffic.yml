@@ -1,0 +1,75 @@
+name: Log Repository Traffic
+
+on:
+  schedule:
+    # Runs every day at 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # Allows manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  log-traffic:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and merge traffic data
+        env:
+          GH_TOKEN: ${{ secrets.TRAFFIC_PAT }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+
+          mkdir -p data
+
+          # Fetch the latest 14-day data
+          VIEWS=$(gh api "repos/$REPO/traffic/views")
+          CLONES=$(gh api "repos/$REPO/traffic/clones")
+
+          # Load existing data or start fresh
+          if [ -f data/traffic.json ]; then
+            EXISTING=$(cat data/traffic.json)
+          else
+            EXISTING='{"views":[],"clones":[],"last_updated":null}'
+          fi
+
+          # Merge the data (keeps the higher numbers for any overlapping days)
+          python3 - <<EOF
+          import json, os
+          from datetime import datetime, timezone
+
+          views = json.loads('''$VIEWS''')
+          clones = json.loads('''$CLONES''')
+          existing = json.loads('''$EXISTING''')
+
+          def merge(existing_list, new_list):
+              by_ts = {item["timestamp"]: item for item in existing_list}
+              for item in new_list:
+                  ts = item["timestamp"]
+                  if ts not in by_ts or item.get("count", 0) > by_ts[ts].get("count", 0):
+                      by_ts[ts] = item
+              return sorted(by_ts.values(), key=lambda x: x["timestamp"])
+
+          existing["views"] = merge(existing.get("views", []), views.get("views", []))
+          existing["clones"] = merge(existing.get("clones", []), clones.get("clones", []))
+          existing["last_updated"] = datetime.now(timezone.utc).isoformat()
+
+          existing["latest_14d"] = {
+              "views_count": views.get("count"),
+              "views_uniques": views.get("uniques"),
+              "clones_count": clones.get("count"),
+              "clones_uniques": clones.get("uniques")
+          }
+
+          with open("data/traffic.json", "w") as f:
+              json.dump(existing, f, indent=2)
+          EOF
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update traffic history"
+          file_pattern: data/traffic.json
