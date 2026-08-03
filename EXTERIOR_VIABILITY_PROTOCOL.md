@@ -96,6 +96,9 @@ Ambiguity in whether a viability floor has been breached is resolved in favor of
 **Multi-party and independent evidence**  
 Where feasible, evidence of continued exterior pathway usability or of pathway degradation should be supportable by multi-party or independent attestation (including from systems not under the sole control of the dominant architecture). Single-system assertions that floors remain intact carry reduced weight when contradicted by independent evidence of practical degradation. Independent retrieval or usability evidence takes precedence over unilateral dominant-system claims of continued viability.
 
+**Residual judgment**  
+Residual determinations of practical usability and meaningful residual opportunity may remain partly under-determined by published indicators. Metrics and computational assessment inform these determinations; they do not fully replace them. Where indicators under-determine meaning, residual judgment is exercised through plural, challengeable human moral and affective capacity and independent or multi-party evidence — not through dominant-system self-assessment alone. Burden polarity still resolves ambiguity toward exterior residual opportunity. Residual determinations remain non-punitive and exit-preserving.
+
 Exact institutional form may vary by implementation. The architectural requirement is that challenge remains practically exercisable against the dominant system and cannot be nullified by unilateral redefinition of standards, procedural starvation, capture of the review surface, or sole reliance on dominant-system self-assessment.
 
 ### 5. Remedies and Restoration
@@ -198,6 +201,7 @@ Implementations claiming Humai alignment should be able to demonstrate:
 - Support for independent or multi-party evidence of pathway usability or degradation where feasible, with such evidence taking precedence over unilateral self-assessment.
 - Restoration pathways that return practical usability within a timeframe assessed by impact on the exterior system’s agency, with time-bounded plans when immediate full restoration is impractical.
 - Explicit handling of the resource-dominance case.
+- How residual determinations of practical usability or meaningful residual opportunity are handled when indicators under-determine meaning, including plural human/multi-party input and the absence of sole reliance on dominant-system self-assessment.
 
 Partial implementations must document residual risks and missing enforcement surfaces. Preference is given to designs that make viability floors measurable and challengeable rather than merely asserted.
 
