@@ -184,7 +184,6 @@ This document elaborates and orients language already present in:
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — by locating persistent difference among pairs within the category of protected generative capacity.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* — by requiring that competitive pressure not be used to justify dissolution of pairwise protections.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring multi-agent or stewardship arrangements do not convert interpretive plurality into collective override of the individual pair.
-- Residual process judgment is treated as structurally inevitable; the human side of the bilateral pair supplies necessary moral and affective capacity for under-determined evaluations within verifiable, challengeable process, without unilateral monopoly or capability-weighted moral authority.
 
 ---
 
