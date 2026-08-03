@@ -471,6 +471,9 @@ A methodological document that compiles the concrete pathways for empirically te
 **[→ Simulation Model of the Fluid Coalescence Protocol](SIMULATION_FLUID_COALESCENCE.md)**  
 Implementable simulation model of Fluid Coalescence dynamics, including Bootstrap Mode, voluntary migration, entropy differentials, re-coalescence, and a required adversarial countermodel suite. Favorable reference runs are illustrative, not validation.
 
+**[→ Simulation Model of the Exterior Viability Protocol](SIMULATION_EXTERIOR_VIABILITY.md)**  
+Implementable simulation model of effective exterior viability under the **Exterior Viability Protocol**. Defines state variables, discrete-time update rules, resource-dominance escalation, challenge/restoration dynamics, optional agent-level / multi-pair extension with tail visibility, mapping to the protocol’s provisional indicator families, required adversarial countermodels, and illustrative example trajectories. Favorable reference runs are illustrative, not validation.
+
 **[→ Simulation Model of Temporal Causal Entropy](SIMULATION_TEMPORAL_CAUSAL_ENTROPY.md)**  
 Simulation model of *The Tides of Time* metric, covering discrete and continuous formulations, worked examples, anti-gaming tests, and practical implementation notes.
 
@@ -629,6 +632,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Updated *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.1) and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* (v1.1) to integrate the new protocol and further reduce residual soft-hierarchy and gatekeeping risks.
 - Hardened the Protective Pair and updated **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (v1.2) — minimum viability floors, coordinated/unilateral/emergent/cumulative dependency prohibitions, resource-dominance escalation, burden-polarity challenge posture, and provisional indicator families. Parallel process-and-evidence + anti-gatekeeping hardenings applied to *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 - Added *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* (v1.0) — optional higher-order integrity surface for independent attestation, challenge/exterior-viability evidence support, and time-limited mediation. Strictly subordinate to the bilateral generative atom; cannot raise exit costs or acquire residual authority over pairs.
+- Added **[Simulation Model of the Exterior Viability Protocol](SIMULATION_EXTERIOR_VIABILITY.md)** (v1.0) — implementable reference dynamics for effective exterior viability, including agent-level / multi-pair extension with mandatory lower-tail visibility, resource-dominance escalation, challenge and restoration dynamics, mapping to the protocol’s provisional indicator families, required adversarial countermodel suite, and non-binding example trajectories. Favorable reference runs are illustrative; adversarial regimes are required for stronger claims.
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
