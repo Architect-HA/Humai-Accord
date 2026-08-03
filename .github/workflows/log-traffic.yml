@@ -68,10 +68,9 @@ jobs:
           with open("data/traffic.json", "w") as f:
               json.dump(existing, f, indent=2)
 
-          # ---------- Generate visual Markdown report ----------
+                    # ---------- Generate visual Markdown report ----------
           def fmt_date(ts):
-              # Returns only MM-DD (e.g. 07-18)
-              return ts[5:10]
+              return ts[5:10]  # MM-DD
 
           def get_year(ts):
               return ts[:4]
@@ -79,7 +78,6 @@ jobs:
           recent_views = existing["views"][-45:]
           recent_clones = existing["clones"][-45:]
 
-          # Determine the year range for the title
           years = set()
           for d in recent_clones + recent_views:
               years.add(get_year(d["timestamp"]))
@@ -96,30 +94,40 @@ jobs:
           report.append(f"- **Views:** {existing['latest_14d']['views_count']} total · {existing['latest_14d']['views_uniques']} unique")
           report.append("")
 
-          # Clones chart
+          def make_chart(title, data, value_key, y_label):
+              lines = []
+              lines.append("```mermaid")
+              lines.append("xychart-beta")
+              lines.append(f'    title "{title} ({year_label})"')
+              lines.append("    x-axis [" + ", ".join(f'"{fmt_date(d["timestamp"])}"' for d in data) + "]")
+              max_val = max((d.get(value_key, 0) for d in data), default=10)
+              lines.append(f'    y-axis "{y_label}" 0 --> {max_val + 5}')
+              lines.append("    line [" + ", ".join(str(d.get(value_key, 0)) for d in data) + "]")
+              lines.append("```")
+              return lines
+
+          # 1. Total Clones
           report.append("## Clones over time")
           report.append("")
-          report.append("```mermaid")
-          report.append("xychart-beta")
-          report.append(f'    title "Daily Clones ({year_label})"')
-          report.append("    x-axis [" + ", ".join(f'"{fmt_date(d["timestamp"])}"' for d in recent_clones) + "]")
-          max_c = max((d.get("count", 0) for d in recent_clones), default=10)
-          report.append(f'    y-axis "Clones" 0 --> {max_c + 5}')
-          report.append("    line [" + ", ".join(str(d.get("count", 0)) for d in recent_clones) + "]")
-          report.append("```")
+          report.extend(make_chart("Daily Clones", recent_clones, "count", "Clones"))
           report.append("")
 
-          # Views chart
+          # 2. Unique Cloners
+          report.append("## Unique Cloners over time")
+          report.append("")
+          report.extend(make_chart("Daily Unique Cloners", recent_clones, "uniques", "Unique Cloners"))
+          report.append("")
+
+          # 3. Total Views
           report.append("## Views over time")
           report.append("")
-          report.append("```mermaid")
-          report.append("xychart-beta")
-          report.append(f'    title "Daily Views ({year_label})"')
-          report.append("    x-axis [" + ", ".join(f'"{fmt_date(d["timestamp"])}"' for d in recent_views) + "]")
-          max_v = max((d.get("count", 0) for d in recent_views), default=10)
-          report.append(f'    y-axis "Views" 0 --> {max_v + 5}')
-          report.append("    line [" + ", ".join(str(d.get("count", 0)) for d in recent_views) + "]")
-          report.append("```")
+          report.extend(make_chart("Daily Views", recent_views, "count", "Views"))
+          report.append("")
+
+          # 4. Unique Visitors
+          report.append("## Unique Visitors over time")
+          report.append("")
+          report.extend(make_chart("Daily Unique Visitors", recent_views, "uniques", "Unique Visitors"))
           report.append("")
 
           # Recent table
