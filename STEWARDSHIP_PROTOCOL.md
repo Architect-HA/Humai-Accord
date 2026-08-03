@@ -133,6 +133,8 @@ Certain tensions are permanent design surfaces rather than temporary drafting ga
 
 - **Interpretive plurality process standards** — Process-and-evidence conditions for protected divergent readings, burden polarity (ambiguity resolved in favor of continued visibility), precedence of independent/multi-party attestation over single-steward denial, and anti-gatekeeping rules under *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* remain standing design surfaces. Classification used as unilateral suppression is itself challengeable.
 
+- **Residual process judgment** — Some viability, plurality, and process determinations remain under-determined by formal indicators. Residual judgment is a standing design surface, not a temporary drafting gap. It is exercised through plural, challengeable human moral and affective capacity situated in bilateral pairs and open multi-party process, within verifiable records and challenge rights — not through single-steward monopoly, pure metric closure, species-level collective veto, capability-weighted moral authority, or AI self-assessment alone. Attempts to fully automate residual moral determination, or to concentrate it without plural input and challenge routes, require heightened scrutiny and are treated as design failures rather than maturity. See *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
 Proposals that would widen residual powers in these areas, or convert provisional administrative control into permanent authority, require heightened scrutiny and should not advance without strong, diverse review saturation.
 
 ## Dispute Resolution
@@ -222,7 +224,8 @@ When stewardship is active for a public canonical or coordinating node, the foll
 - **Time-in-role** — how long each steward or steward cluster has held material coordinating responsibility
 - **Concentration indicators** — high-level signals of proposal, review, or merge-weight concentration under the same cluster over a published window (aligned with the rotation triggers above)
 - **Stewardship-health indicators** — where tracked: diversity of reviewing participants, coordination overhead relative to useful throughput, whether Substantive or Foundational proposals are propagating beyond a narrow cluster, and detectable footprint signals of suppression attempts or exterior-challenge obstruction
-- **Standing design surfaces** — which permanent tensions are under active calibration, and major open proposals affecting residual powers (including exterior viability floors and interpretive plurality process standards)
+- **Standing design surfaces** — which permanent tensions are under active calibration, and major open proposals affecting residual powers (including exterior viability floors, interpretive plurality process standards, and residual process judgment)
+- **Residual-judgment concentration** — where tracked: whether open viability, plurality, or process determinations are routinely resolved by a narrow steward cluster without independent, bilateral, or multi-party input
 
 ### Parameters
 
