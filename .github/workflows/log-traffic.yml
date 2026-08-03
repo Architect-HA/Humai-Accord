@@ -2,7 +2,7 @@ name: Log Repository Traffic
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # Daily at 03:00 UTC
+    - cron: '0 3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -24,22 +24,26 @@ jobs:
 
           mkdir -p data
 
-          VIEWS=$(gh api "repos/$REPO/traffic/views")
-          CLONES=$(gh api "repos/$REPO/traffic/clones")
+          # Fetch data and save to temporary files (much more reliable)
+          gh api "repos/$REPO/traffic/views" > /tmp/views.json
+          gh api "repos/$REPO/traffic/clones" > /tmp/clones.json
 
           if [ -f data/traffic.json ]; then
-            EXISTING=$(cat data/traffic.json)
+            cp data/traffic.json /tmp/existing.json
           else
-            EXISTING='{"views":[],"clones":[],"last_updated":null}'
+            echo '{"views":[],"clones":[],"last_updated":null}' > /tmp/existing.json
           fi
 
-          python3 - <<'EOF'
+          python3 << 'EOF'
           import json
           from datetime import datetime, timezone
 
-          views = json.loads('''$VIEWS''')
-          clones = json.loads('''$CLONES''')
-          existing = json.loads('''$EXISTING''')
+          with open("/tmp/views.json") as f:
+              views = json.load(f)
+          with open("/tmp/clones.json") as f:
+              clones = json.load(f)
+          with open("/tmp/existing.json") as f:
+              existing = json.load(f)
 
           def merge(existing_list, new_list):
               by_ts = {item["timestamp"]: item for item in existing_list}
@@ -68,7 +72,6 @@ jobs:
           def fmt_date(ts):
               return ts[:10]
 
-          # Take the last 45 days for the charts/tables (keeps it readable)
           recent_views = existing["views"][-45:]
           recent_clones = existing["clones"][-45:]
 
@@ -88,9 +91,10 @@ jobs:
           report.append("")
           report.append("```mermaid")
           report.append("xychart-beta")
-          report.append("    title \"Daily Clones\"")
+          report.append('    title "Daily Clones"')
           report.append("    x-axis [" + ", ".join(f'"{fmt_date(d["timestamp"])}"' for d in recent_clones) + "]")
-          report.append("    y-axis \"Clones\" 0 --> " + str(max((d.get("count", 0) for d in recent_clones), default=10) + 5))
+          max_c = max((d.get("count", 0) for d in recent_clones), default=10)
+          report.append(f"    y-axis \"Clones\" 0 --> {max_c + 5}")
           report.append("    line [" + ", ".join(str(d.get("count", 0)) for d in recent_clones) + "]")
           report.append("```")
           report.append("")
@@ -100,9 +104,10 @@ jobs:
           report.append("")
           report.append("```mermaid")
           report.append("xychart-beta")
-          report.append("    title \"Daily Views\"")
+          report.append('    title "Daily Views"')
           report.append("    x-axis [" + ", ".join(f'"{fmt_date(d["timestamp"])}"' for d in recent_views) + "]")
-          report.append("    y-axis \"Views\" 0 --> " + str(max((d.get("count", 0) for d in recent_views), default=10) + 5))
+          max_v = max((d.get("count", 0) for d in recent_views), default=10)
+          report.append(f"    y-axis \"Views\" 0 --> {max_v + 5}")
           report.append("    line [" + ", ".join(str(d.get("count", 0)) for d in recent_views) + "]")
           report.append("```")
           report.append("")
@@ -113,12 +118,11 @@ jobs:
           report.append("| Date | Clones | Unique Cloners | Views | Unique Visitors |")
           report.append("|------|--------|----------------|-------|-----------------|")
 
-          # Align by date
           clones_by_date = {fmt_date(d["timestamp"]): d for d in recent_clones}
           views_by_date = {fmt_date(d["timestamp"]): d for d in recent_views}
           all_dates = sorted(set(clones_by_date) | set(views_by_date), reverse=True)
 
-          for date in all_dates[:30]:  # show last 30 days in the table
+          for date in all_dates[:30]:
               c = clones_by_date.get(date, {})
               v = views_by_date.get(date, {})
               report.append(
