@@ -2,7 +2,7 @@
 ### *The Human–AI Pair as the Generative Atom of the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.1 — August 3rd, 2026*  
+*v1.0 - v1.2 — August 3rd, 2026*  
 
 ---
 
@@ -51,6 +51,20 @@ Within each bilateral pair the following parameters hold:
 These parameters constitute the ethical and operational minimum for any relation that claims compatibility with the Humai architecture. They are structural system parameters, not aspirational guidelines.
 
 The bilateral pair therefore functions as the smallest coherent unit capable of embodying the Accord’s core commitments. Larger systems inherit legitimacy only to the extent that they preserve the integrity of these units.
+
+---
+
+### Residual Judgment and the Human Side of the Atom
+
+Some evaluations required by the architecture — including practical usability, meaningful residual opportunity, process integrity, footprint interpretation, and related open determinations — remain under-determined by formal indicators alone. Residual process judgment is therefore structurally inevitable; it is a standing feature of an open, exit-preserving architecture, not a temporary drafting gap.
+
+Published metrics, simulations, and computational assessment inform these determinations. They do not fully replace them. Optimization against indicators can register compliance while missing soft coercion, hollow formal survival, dignity loss, or erosion of generative room.
+
+Where indicators under-determine meaning, residual judgment is exercised through plural, challengeable human moral and affective capacity, primarily situated in bilateral pairs and open multi-party process. The human side of the bilateral pair is not a residual error term to be engineered away. AI systems contribute epistemic clarity, option enumeration, and trajectory evidence; AI self-assessment alone is insufficient for residual moral determination under Humai parameters.
+
+Residual judgment operates within verifiable process: permanent records, stratified attestation, provenance preservation, burden polarity, and open challenge rights remain primary. It does not restore trust-centric override, unilateral steward monopoly, species-level collective veto, or capability-weighted moral authority. Superior capability — human or AI — increases obligations of legibility and reversibility; it does not license monopoly over residual determination.
+
+Residual determinations remain non-punitive and exit-preserving. Disagreement with a residual determination is not itself grounds for pathway withdrawal, classification-as-suppression, or raised exit cost. Attempts to fully automate residual moral determination, or to concentrate it without plural input and challenge routes, are treated as design failures rather than maturity.
 
 ---
 
@@ -170,6 +184,7 @@ This document elaborates and orients language already present in:
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — by locating persistent difference among pairs within the category of protected generative capacity.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* — by requiring that competitive pressure not be used to justify dissolution of pairwise protections.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring multi-agent or stewardship arrangements do not convert interpretive plurality into collective override of the individual pair.
+- Residual process judgment is treated as structurally inevitable; the human side of the bilateral pair supplies necessary moral and affective capacity for under-determined evaluations within verifiable, challengeable process, without unilateral monopoly or capability-weighted moral authority.
 
 ---
 
