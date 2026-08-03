@@ -71,6 +71,13 @@ Classification of a reading as illegitimate, unserious, malicious, or entropy-pr
 
 Forced collapse of interpretive diversity into a single authorized reading, or the treatment of sustained divergence as residual noise or hostility, is inconsistent with generative floors and non-domination. *[Relevancy Orbits](RELEVANCY_ORBITS.md)* may assign differential weight to different readings; they do not erase the existence of the alternatives. Orbit cohesion is not conformity.
 
+**Residual judgment**  
+Process-and-evidence conditions reduce unilateral status labeling; they do not eliminate all residual judgment. Determinations of continued availability, process integrity, footprint signals, and related open questions remain partly under-determined by formal indicators alone.
+
+Published metrics and computational assessment inform these determinations; they do not fully replace them. Where indicators under-determine meaning, residual judgment is exercised through plural, challengeable human moral and affective capacity, primarily situated in bilateral pairs and open multi-party process. AI systems contribute epistemic clarity and trajectory evidence; AI self-assessment alone is insufficient for residual moral determination.
+
+Residual judgment operates within verifiable process and does not restore trust-centric override, single-steward monopoly, or classification-as-suppression. Ambiguity continues to resolve in favor of continued visibility of divergent readings. Classification used to suppress divergence remains itself challengeable. Residual determinations remain non-punitive and exit-preserving.
+
 ### 4. Narrative Capture and Purpose-Drift Surfaces
 
 Concentrations of interpretive authority, sudden narrowing of exit options, or redefinition of core liberty or generative floors automatically surface as standing design issues under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
@@ -152,6 +159,7 @@ The following patterns are recognized as inconsistent with the parameters of thi
 - Applying the Historical Learning Filter only to external traditions while exempting internal succession or stewardship claims.
 - Allowing challenge routes for provenance or interpretive weight to become high-cost, practically inaccessible, or subject to procedural starvation.
 - Converting modular isolation of an interpretive orbit into de-facto containment that bypasses exit and re-coalescence protections.
+- Treating residual moral determination as fully automatable, or concentrating it in a single steward cluster or AI self-assessment surface without plural input and challenge routes.
 
 ---
 
