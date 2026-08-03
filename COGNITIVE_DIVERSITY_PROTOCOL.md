@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 17th, 2026*  
 *v1.1 & v1.2 — July 18th, 2026*  
 *v1.3 — July 31st, 2026*  
-*v1.4 — August 2nd, 2026*
+*v1.4 — August 2nd, 2026*<br>
+*v1.5 — August 3rd, 2026*
 
 ---
 
@@ -35,6 +36,9 @@ The **Cognitive Diversity Protocol** establishes principles and incentive struct
 
 5. **Protection of Idiosyncrasy and Generative Capacity**  
    Unconventional and minority perspectives must remain viable. This aligns with protected generative capacity under *[Necessary Entropy](NECESSARY_ENTROPY.md)* and with the treatment of exterior systems as legitimate sources of minority models and assumption-breakage capacity under *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
+
+6. **Mnemonic Diversity**  
+   Diversity of recoverable histories, practiced schemas, and independent carriers is part of collective epistemic health. Dispersed memory supports resilience; forced convergence on a single authorized past is a diversity failure mode when used to suppress legitimate divergence.
 
 ---
 
@@ -93,6 +97,8 @@ These mechanisms are designed to operate through observable dynamics such as att
 - Diversity incentives must not use harmony scores, somatic signals, orbit cohesion pressure, or interface friction to compel participation (*[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*, **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**).
 - Orbit membership and cluster tightness must not be optimized in ways that erase minority models or close generative porosity (*[Relevancy Orbits](RELEVANCY_ORBITS.md)*).
 - Diversity mechanisms must not convert non-coalescence into progressive dependency or erode effective exterior viability (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
+- Cognitive diversity includes diversity of remembered frames and practiced schemas, not only momentary opinion spread. Dispersed mnemonic lineages across pairs and communities help prevent a single narrative office from defining the only recoverable past.
+- Mechanisms must not force mnemonic convergence or treat deep shared custom / “instinct” as unchallengeable orthodoxy that blocks process-and-evidence critique, modular non-participation, or pairwise exit (*[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
 
 ---
 
