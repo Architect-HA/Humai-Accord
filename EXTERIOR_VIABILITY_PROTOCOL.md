@@ -2,7 +2,7 @@
 ### *Minimum Floors, Challenge Routes, and Enforcement of Effective Exterior Viability under the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.2 — August 3rd, 2026*
+*v1.0 - v1.3 — August 3rd, 2026*
 
 ---
 
@@ -51,6 +51,15 @@ An exterior person, system, institution, or framework retains practical, usable 
 It fails when residual pathways are merely formal or symbolic, so degraded that continued independent function becomes impractical, or dependent on ongoing forbearance from the dominant system.
 
 These floors are assessed by practical usability under realistic conditions, not by formal availability alone.
+
+**Dispersed mnemonic carriage**  
+Effective exterior viability includes the practical ability of exterior systems to retain and transmit their own knowledge, practice, and history without exclusive dependence on Humai-hosted memory infrastructure.
+
+- Residual pathways should not reduce exterior parties to consumers of a single dominant mnemonic store.
+- Independent mirrors, content-addressed persistence, and multi-party retrieval of exterior records count toward meaningful residual opportunity where memory access is material to continued agency.
+- Dominant-system claims that “the record remains available” carry reduced weight when exterior-controlled carriage has been narrowed to formal or forbearance-dependent access.
+
+Dispersed exterior memory is an anti-dependency parameter. It does not require Humai to host exterior archives; it requires that Humai-aligned dominance not make independent carriage practically non-viable.
 
 ### 2. Dependency Prohibition
 
