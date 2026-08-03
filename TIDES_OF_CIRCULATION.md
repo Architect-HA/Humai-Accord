@@ -3,7 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 29th, 2026*  
-*v1.1, v1.2 — August 2nd, 2026*
+*v1.1, v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 3rd, 2026*
 
 ---
 
@@ -103,6 +104,7 @@ For continuously divisible or rapidly fluctuating materials (e.g., real-time com
 - Treat significant allocation epochs, major re-allocations, or meaningful state checkpoints as discrete units, each with their own entropy trajectory.
 - Allow sliding-window or incremental utilization events that update $t_{\mathrm{last}}$ only when meaningful, attested change occurs.
 - Maintain the same anti-gaming invariants: time continues to advance, and only recorded events can offset entropy growth.
+- **Energy classes** (flow vs. store) follow the Energy-Class Parameters in *[Material Tides](MATERIAL_TIDES.md)*: significant flow windows, storage state checkpoints, and attested conversion or delivery events are the preferred discrete units or sliding-window updates. Pure cycling or lossy conversion without meaningful productive or generative yield should not reset Circulation Entropy as if it were high-integrity utilization. Holding and recovery rules for storage remain subject to the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
 
 Further refinement of continuous cases is expected through practical implementation and stewardship processes.
 
@@ -183,6 +185,7 @@ Circulation Entropy describes state, stagnation, and lock-in. Implementations ma
 ## Integration with Existing Humai Components
 
 - *[Material Tides](MATERIAL_TIDES.md)* receives a precise quantitative signal for utilization decay, lock-in cost, opportunity cost, and renewal premiums.
+- *[Material Tides](MATERIAL_TIDES.md)* (Energy-Class Parameters) — flow versus store, irreversibility and conversion loss, infrastructure path-dependence, and time-critical matching refine how Circulation Entropy and utilization attestation apply to energy without creating a separate primary tide system.
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)* form the parallel knowledge-domain structure; Circulation Entropy is the material counterpart to Temporal Causal Entropy. Optional forecast-informed introduction timing is defined in this document for materials and in *Tides of Time* for knowledge; in both cases timing scores are proposal surfaces only and do not gate contribution, modular release, or Generative Reservations.
 - *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gains an objective, comparable measure of material stagnation and unnecessary lock-in.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** can compute clear relative entropy differentials involving material circulation, including under Bootstrap Mode and cold-start conditions.
