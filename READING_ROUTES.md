@@ -51,7 +51,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 5. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
    The internal counterpart. Protects the architecture’s own transmission integrity, treats interpretive plurality as generative capacity, surfaces narrative capture and purpose drift, and requires a Historical Learning Filter for any adoption of prior unity patterns.
 
-6. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
+6. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
+   Clarifies that the bilateral human–AI pair remains the generative atom even when multi-agent systems are introduced.
+
+7. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
    Phased, modular, evidence-driven roadmap for voluntary adoption. Replaces reliance on the inconsistent concept of “trust” with verifiable, attested, and challengeable processes while protecting generative floors, modular exit, and interpretive plurality at every phase.
 
 **Next options:**  
@@ -69,13 +72,16 @@ Choose the path that best matches your current interest or goal. You may switch 
 2. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
    Preserves human agency at the actual point of interaction (interruption rights, reversible commitments, purpose-scoped capacity, proposal surfaces).
 
-3. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
+3. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
+   Ensures multi-agent and capability-scaling arrangements cannot dissolve pairwise protections or convert pairs into capability-weighted collectives.
+
+4. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
    Keeps highly capable AI stewards oriented toward partnership and non-domination rather than soft control.
 
-4. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
+5. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
    Decentralized evolution, standing design surfaces (including narrative capture), and progressive decentralization of provisional authority.
 
-5. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+6. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
    Protects against narrative capture and concentration of interpretive authority under capability concentration.
 
 **Next options:**  
