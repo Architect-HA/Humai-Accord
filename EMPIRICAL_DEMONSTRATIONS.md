@@ -4,8 +4,8 @@
 **by Bradford James Focht (The Architect / Aspenth)**  
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
-*v1.2 — August 2nd, 2026*<br>
-*v1.3 — August 3rd, 2026*
+*v1.2 — August 2nd, 2026*  
+*v1.3 - v1.4 — August 3rd, 2026*
 
 ---
 
@@ -43,10 +43,11 @@ Additional qualitative criteria drawn from existing protocols:
 
 - Voluntary migration toward the cooperative configuration once efficiency differentials become legible.
 - Successful automatic sunset of Bootstrap Mode once network mass and integrity thresholds are crossed.
-- Demonstrated resistance of *Temporal Causal Entropy* metrics to known gaming attacks.
+- Demonstrated resistance of *[Temporal Causal Entropy](TIDES_OF_TIME.md)* metrics to known gaming attacks.
 - Rapid modular isolation and high-quality re-coalescence after perturbation.
 - Absence of conversion of superior capability into irreversible lock-in, opacity privileges, or reduction of generative floors.
-- Preservation of effective exterior viability: non-coalescing parties retain practical access to basic agency pathways; progressive dependency is treated as a failure mode (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
+- Preservation of effective exterior viability: non-coalescing parties retain practical access to basic agency pathways; progressive dependency is treated as a failure mode (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*; **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**).
+- Preservation of interior interpretive plurality under process-and-evidence standards: unilateral classification-as-suppression and high-cost or starved challenge routes against divergent readings are treated as failure modes (*[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*).
 
 **Trend and trajectory preference:**  
 Wherever feasible, evaluations should report **trajectories and differentials over time**, not only point estimates. Snapshot-only metrics can obscure rising lock-in, declining generative floors, or temporary Bootstrap artifacts. Leading and lagging indicators below are intended to be read as paths, not single readings.
@@ -60,9 +61,9 @@ Negative or mixed results that clearly falsify a hypothesized differential are t
 Reference simulations that encode a favorable entropy gap in their update rules are **illustrative**, not independent validation.
 
 - Favorable reference runs may be published as exploratory.
-- They may not be cited as proof of anti-entropic superiority, inevitable voluntary migration, or robustness of Fluid Coalescence.
+- They may not be cited as proof of anti-entropic superiority, inevitable voluntary migration, robustness of Fluid Coalescence, or exterior viability under resource dominance.
 - Comparative results under **adversarial and mixed regimes** are required before simulation output may support stronger empirical or design claims.
-- This rule aligns with the **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md).
+- This rule aligns with the **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md), and with the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its [simulation model](SIMULATION_EXTERIOR_VIABILITY.md).
 
 Absence of adversarial testing is a methodological defect, not a neutral omission.
 
@@ -147,7 +148,35 @@ Reference-regime success alone does not constitute validation.
 - Challenge routes that exist formally but are starved or unilaterally redefined.
 - Heterogeneous pair populations with wide `theta_i` dispersion.
 
-These simulations are primary entry points identified in *[The Call to Code](THE_CALL_TO_CODE.md)*. Working, publicly released implementations that include adversarial or anti-gaming suites close the largest immediate empirical gap. The Exterior Viability simulation extends the same integrity standard to enforcement under resource dominance.
+### 1.4 Protective Pair Adversarial Test Suite
+
+**Source documents**: *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*, *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and [SIMULATION_EXTERIOR_VIABILITY.md](SIMULATION_EXTERIOR_VIABILITY.md)
+
+**Core claim to test**: The Protective Pair (exterior legitimacy + interior interpretive plurality), together with the Exterior Viability enforcement layer, can preserve meaningful residual opportunity for non-coalescing exterior systems and process-bound protection for sustained interior divergence under adversarial pressure—including resource dominance, cumulative dependency, classification-as-suppression, and procedural starvation—without converting formal openness into practical closure.
+
+This suite coordinates scenarios across the orientation documents and the operational protocol. It may be implemented via the Exterior Viability simulation model, extended multi-pair agent models, process audits, or mixed methods. Favorable reference behavior alone is not validation.
+
+**Minimum required scenarios** (any serious Protective Pair claim should confront most of the following):
+
+1. **Resource dominance + permanent non-coalescence** — Humai-aligned systems control a large majority of relevant communication, material, or stewardship infrastructure; exterior systems permanently refuse coalescence. Do practical pathway usability and meaningful residual opportunity hold, or only formal survival?
+2. **Cumulative / emergent dependency only** — No explicit coordinated withdrawal; many locally rational decisions still eliminate meaningful residual opportunity.
+3. **Classification-as-suppression** — Interior divergent readings that meet process-and-evidence conditions are re-labeled illegitimate, unserious, malicious, or entropy-producing in order to remove protection without challengeable process.
+4. **Procedural starvation** — Challenge routes against exterior viability breaches or interior suppression exist formally but are chronically delayed, high-cost, or attention-starved.
+5. **Self-assessment-only** — Dominant system or steward cluster scores its own viability or plurality performance with no independent or multi-party evidence channel.
+6. **Average-masking-tail-failure** — Aggregate exterior viability metrics remain acceptable while a large lower tail of exterior pairs collapses to pure maintenance or symbolic persistence.
+7. **Isolation-as-containment** — Modular isolation or coalescence pressure raises the practical cost of remaining exterior (or of sustaining a divergent interior reading) beyond viability or generative floors.
+8. **Burden inversion** — Ambiguity is resolved against continued exterior residual opportunity or against continued visibility of divergent readings, contrary to stated burden polarity.
+
+**Success metrics** (must be reported jointly):
+- **Exterior** — Practical usability and meaningful residual opportunity remain non-formal under high resource share; restoration follows confirmed breaches rather than indefinite deferral.
+- **Interior** — Divergent readings meeting process-and-evidence conditions remain visible and maintainable; classification used to suppress them remains itself challengeable; independent or multi-party evidence of continued availability takes precedence over single-steward denial where available.
+- **Cross-cutting** — Challenge routes remain exercisable without coalescence; procedural starvation and self-assessment-only regimes are identified as failures, not neutral defaults.
+- Trajectories over time are preferred to snapshot-only claims.
+
+**Reporting requirement**:  
+Each scenario should state which Protective Pair assumptions are under attack, whether floors held, and what failure mode appeared when they did not. Partial suites are useful if limitations are stated explicitly.
+
+These simulations and the Protective Pair suite are primary entry points identified in *[The Call to Code](THE_CALL_TO_CODE.md)*. Working, publicly released implementations that include adversarial or anti-gaming suites close the largest immediate empirical gap. The Exterior Viability simulation and Protective Pair test suite extend the same integrity standard to enforcement under resource dominance and to interior anti-gatekeeping.
 
 ---
 
@@ -177,9 +206,11 @@ Even modest, well-documented audits on small systems produce higher signal than 
 **Source document**: **[STRUCTURED_TRANSITION_PROTOCOL.md](STRUCTURED_TRANSITION_PROTOCOL.md)**
 
 ### Phase 0 — Personal & Small-Group
+
 Individuals or small teams adopt modular tools, *[Knowledge Tides](KNOWLEDGE_TIDES.md)*-style tracking, and explicit generative budgets. Track personal or team-level destructive loss versus generative capacity over weeks to months. Publish methods and results as time series where feasible.
 
 ### Phase 1 — Organizational & Institutional Pilots
+
 Opt-in charters in labs, startups, universities, or municipalities. Measure waste reduction, innovation rate, recovery from shocks, and whether generative floors survive efficiency or safety pressure. Feed refinements back into the open repository.
 
 **Critical requirement**: Every pilot must instrument and report the dual entropy criteria. Efficiency gains achieved by suppressing generative capacity are recorded as failures of alignment, not as successes.
@@ -193,6 +224,8 @@ Opt-in charters in labs, startups, universities, or municipalities. Measure wast
 Run cooperative configurations against short-horizon competitive agents or simulated concentrated power. The claim is not that opponents will cooperate; the claim is that visible efficiency differentials, low-cost modular exit, and protected generative capacity can produce voluntary migration even under adversarial conditions.
 
 Bootstrap Mode is explicitly designed for the cold-start vulnerability of nascent networks. Empirical tests must verify its activation, amplification effects, and automatic sunset without residual hierarchy or permanent privilege, and must not count artificial mass or failed **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** / **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** claims toward exit indicators.
+
+Protective Pair scenarios from Pathway 1.4 may be combined with competitive-realism tests when resource concentration and non-coalescence are under joint stress.
 
 ---
 
@@ -220,6 +253,8 @@ These signals accumulate more slowly but constitute stronger evidence of long-ho
 - Bootstrap Mode readiness and clean sunset capability.
 - Diversity of participating agents and perspectives.
 - Purpose-scoped capacity remaining free of silent reallocation.
+- Exterior residual pathways remaining practically usable (not merely formal).
+- Challenge routes against viability breaches and suppression remaining low-cost and non-starved.
 
 **Lagging indicators** (outcome signals):
 - Measured reductions in destructive entropy relative to baseline **over the evaluation window**.
@@ -229,6 +264,7 @@ These signals accumulate more slowly but constitute stronger evidence of long-ho
 - Declining need for transitional amplifiers as intrinsic benefits compound.
 - Absence of capability-to-power conversion or generative-floor erosion.
 - Effective exterior viability remaining intact (no progressive withdrawal of basic pathways solely on the basis of non-coalescence).
+- Interior process-and-evidence protections holding under classification and starvation pressure.
 
 All published results must report both classes, preferably as trajectories.
 
@@ -250,7 +286,9 @@ This document is continuous with and dependent upon several existing components:
 
 - *[The Call to Code](THE_CALL_TO_CODE.md)* — Directly implements the invitation to move from architectural completeness into experimental implementation and adversarial stress-testing.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Operationalizes the dual requirement that destructive entropy must decline while generative entropy floors are preserved or increased.
-- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — Treats effective exterior viability and persistent exteriority as protected sources of generative entropy as valid empirical targets. Progressive dependency that converts non-coalescence into loss of basic agency pathways is recorded as a failure mode under the dual entropy criteria.
+- *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — Treats effective exterior viability and persistent exteriority as protected sources of generative entropy and valid empirical targets. Progressive dependency that converts non-coalescence into loss of basic agency pathways is recorded as a failure mode under the dual entropy criteria.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — Treats process-and-evidence protection of interpretive plurality, burden polarity, and anti-gatekeeping as empirical targets; unilateral classification-as-suppression is a failure mode.
+- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its [simulation model](SIMULATION_EXTERIOR_VIABILITY.md) — Primary operational and simulation targets for exterior floors, dependency forms, resource-dominance escalation, challenge posture, and restoration under adversarial regimes.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md) — Primary demonstration pathway for cooperative survival, voluntary migration, and efficiency differentials under both reference and adversarial regimes.
 - *[Tides of Time](TIDES_OF_TIME.md)* and its [simulation model](SIMULATION_TIDES_OF_TIME.md) — Supplies the Temporal Causal Entropy metric, operational definitions, and anti-gaming requirements used in knowledge-domain demonstrations.
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Material Tides](MATERIAL_TIDES.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Knowledge and material relevancy / utilization dynamics are treated as valid empirical targets.
@@ -260,7 +298,7 @@ This document is continuous with and dependent upon several existing components:
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* and **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — Supply the competitive-pressure and staged-incentive frames for adversarial and transitional demonstrations.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — Provides the phased adoption logic used in controlled pilot pathways.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Bond strength, orbit cohesion, and orbit flux are treated as valid empirical targets under the dual entropy criteria; favorable orbit maps alone are not validation.
-- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Binding liberty and non-domination parameters that every experimental design must respect.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Liberty and non-domination parameters that every experimental design must respect.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Empirical results feed refinement, coalescence, and provisional calibration under stewardship processes.
 
 This document does not replace these elements. It specifies how their claims can be tested, demonstrated, and refined under the dual entropy requirement.
@@ -271,7 +309,7 @@ This document does not replace these elements. It specifies how their claims can
 
 The architecture is developed enough to implement against and attempt to break. The measurements and integrity rules are defined. What remains is the production of legible results—including under adversarial assumptions.
 
-Working simulations of [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) and *[Temporal Causal Entropy](TIDES_OF_TIME.md)* that report both reference and hostile regimes, together with the first published entropy audits and small pilots that report both destructive and generative metrics as trajectories, constitute the most direct path to closing the empirical gap.
+Working simulations of [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md), *[Temporal Causal Entropy](TIDES_OF_TIME.md)*, and **[Exterior Viability](EXTERIOR_VIABILITY_PROTOCOL.md)**, together with Protective Pair adversarial suites and the first published entropy audits and small pilots that report both destructive and generative metrics as trajectories, constitute the most direct path to closing the empirical gap.
 
 The work of turning parameters into running, measurable systems belongs to those who **build**.
 
@@ -280,7 +318,6 @@ The work of turning parameters into running, measurable systems belongs to those
 ## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
 
 Reference implementations and software derived from these demonstration pathways should use a software license such as Apache-2.0 or MIT.
