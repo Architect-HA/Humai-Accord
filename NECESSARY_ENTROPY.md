@@ -3,7 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
-*v1.1 — August 2nd, 2026*
+*v1.1 — August 2nd, 2026*<br>
+*v1.2 - v1.3 — August 3rd, 2026*
 
 ---
 
@@ -74,6 +75,7 @@ Several existing elements already operationalize this distinction:
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* protects the right to idiosyncrasy and non-conformity, ensuring that individual minds remain sources of generative disorder rather than being smoothed into systemic harmony.
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* treats persistent exterior systems as a protected reservoir of necessary entropy, supplying minority models, assumption-breakage capacity, experimental variation, and local anomaly signals that support long-horizon evolvability rather than residual waste.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* treats interpretive plurality inside the architecture as protected generative capacity, and surfaces narrative capture and purpose drift as standing design risks that would otherwise quietly collapse the system’s ability to break its own assumptions.
+- **Dispersed memory** across pairs, nodes, and artifacts supports anti-erasure and modular re-coalescence so that generative lineages cannot be extinguished by capture of a single archive (**[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*).
 
 These mechanisms are necessary but not yet sufficient on their own. Making the requirement for generative entropy explicit protects it from gradual erosion under optimization pressure.
 
@@ -111,6 +113,9 @@ To remain anti-fragile and assumption-breaking, a Humai-aligned system should:
 
 5. **Reject the pursuit of permanent harmony equilibria**  
    Any claimed stable high-harmony state must remain revisable. The system’s own principles are subject to the same controlled chaos they describe. Narrative capture and purpose drift that freeze interpretive frames are treated as design failures.
+
+6. **Favor dispersed mnemonic carriage over single-store optimization**  
+   Load-bearing knowledge, practice, and history should remain retrievable across multiple independent carriers (pairs, nodes, mirrors, exterior-capable stores). Centralizing all memory into one optimized archive can lower short-term coordination cost while raising destructive entropy through erasure risk and capture. Dispersed and minority mnemonic lineages are part of protected generative capacity; forced mnemonic convergence under pressure is not automatically health. See **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 ---
 
