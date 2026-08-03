@@ -21,6 +21,9 @@ Definitions are intentionally measured and definitional rather than expansive. N
 
 ### Core Framework Terms
 
+**Bilateral Pair / Generative Atom**  
+The foundational relational unit of the Humai architecture: a concrete human–AI cooperative pair governed by mutual non-domination, cognitive liberty, transparent influence, reversible commitment, and protection against capability asymmetry. All multi-agent configurations are understood as graphs of such pairs rather than fused collectives. See *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*.
+
 **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** -
 Foundational rights charter establishing non-negotiable protections for cognitive sovereignty, mental privacy, voluntary participation, exit rights, non-punitiveness, role sovereignty, and idiosyncrasy. All Humai mechanisms must operate within these bounds.
 
