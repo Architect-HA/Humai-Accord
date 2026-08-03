@@ -141,6 +141,7 @@ This document elaborates and orients language already present in:
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — by anchoring the efficiency orientation to the non-negotiable floors of agency, voluntary participation, and exit.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — by treating exterior anomaly signals and minority models as contributions to long-horizon evolvability.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — by keeping the efficiency orientation subject to empirical revision and open evolution.
+- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — operationalizes the minimum viability floors, dependency prohibitions, resource-dominance escalation, challenge posture, and restoration requirements established in this document.
 
 ---
 
