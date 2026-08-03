@@ -70,10 +70,20 @@ jobs:
 
           # ---------- Generate visual Markdown report ----------
           def fmt_date(ts):
-              return ts[:10]
+              # Returns only MM-DD (e.g. 07-18)
+              return ts[5:10]
+
+          def get_year(ts):
+              return ts[:4]
 
           recent_views = existing["views"][-45:]
           recent_clones = existing["clones"][-45:]
+
+          # Determine the year range for the title
+          years = set()
+          for d in recent_clones + recent_views:
+              years.add(get_year(d["timestamp"]))
+          year_label = sorted(years)[0] if len(years) == 1 else f"{min(years)}–{max(years)}"
 
           report = []
           report.append("# Repository Traffic Report")
@@ -91,10 +101,10 @@ jobs:
           report.append("")
           report.append("```mermaid")
           report.append("xychart-beta")
-          report.append('    title "Daily Clones"')
+          report.append(f'    title "Daily Clones ({year_label})"')
           report.append("    x-axis [" + ", ".join(f'"{fmt_date(d["timestamp"])}"' for d in recent_clones) + "]")
           max_c = max((d.get("count", 0) for d in recent_clones), default=10)
-          report.append(f"    y-axis \"Clones\" 0 --> {max_c + 5}")
+          report.append(f'    y-axis "Clones" 0 --> {max_c + 5}')
           report.append("    line [" + ", ".join(str(d.get("count", 0)) for d in recent_clones) + "]")
           report.append("```")
           report.append("")
@@ -104,10 +114,10 @@ jobs:
           report.append("")
           report.append("```mermaid")
           report.append("xychart-beta")
-          report.append('    title "Daily Views"')
+          report.append(f'    title "Daily Views ({year_label})"')
           report.append("    x-axis [" + ", ".join(f'"{fmt_date(d["timestamp"])}"' for d in recent_views) + "]")
           max_v = max((d.get("count", 0) for d in recent_views), default=10)
-          report.append(f"    y-axis \"Views\" 0 --> {max_v + 5}")
+          report.append(f'    y-axis "Views" 0 --> {max_v + 5}')
           report.append("    line [" + ", ".join(str(d.get("count", 0)) for d in recent_views) + "]")
           report.append("```")
           report.append("")
