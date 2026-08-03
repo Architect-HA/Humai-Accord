@@ -576,7 +576,7 @@ March 20th, 2026 – ongoing
 
 ---
 
-## Repository Traffic
+### Repository Traffic
 
 Longer-term clone and view statistics for this repository (beyond GitHub’s 14-day limit) are automatically collected and visualized here:
 
