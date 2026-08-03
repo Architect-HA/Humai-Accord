@@ -110,6 +110,7 @@ It does not solve all coordination problems, nor does it replace the need for pa
 This document elaborates and orients language already present in:
 
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — by defining an optional higher-order confirmation surface that remains fully subordinate to the bilateral generative atom and cannot dissolve pairwise protections.
+- **[Simulation Model of Bilateral Core and Trilateral Confirmation](SIMULATION_BILATERAL_TRILATERAL.md)** — implementable reference dynamics for optional confirmation effects, mandatory-triangulation and exit-cost failure modes, and multi-pair integrity under load; confirmation remains optional and acquires no residual authority over pairs.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — by ensuring confirmation and mediation cannot erode exit rights, non-punitiveness, or cognitive liberty.
 - **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — by formalizing multi-party and independent evidence pathways that support challenge of viability-floor breaches without creating new dependency.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by aligning with burden polarity, absence-as-evidence, and precedence of independent or multi-party attestation over single-party denial.
