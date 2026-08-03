@@ -35,6 +35,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Necessary Entropy](#necessary-entropy)
 - [Exterior Systems and Generative Diversity](#exterior-systems-and-generative-diversity)
 - [Interior Systems and Generative Plurality](#interior-systems-and-generative-plurality)
+- [Exterior Viability Protocol](#exterior-viability-protocol)
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
 - [Agency Interface Protocol](#agency-interface-protocol)
@@ -185,6 +186,16 @@ Clarifies how exterior systems are treated once the architecture orients toward 
 Protects the architecture’s own transmission integrity, lineage claims, and interpretive life. Positions sustained interpretive plurality as generative capacity, surfaces narrative capture and purpose drift as non-punitive design issues, and requires a Historical Learning Filter for any adoption of prior unity patterns. Forms the internal counterpart to *Exterior Systems and Generative Diversity*.
 
 [→ Read **Interior Systems and Generative Plurality**](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)
+
+---
+
+## Exterior Viability Protocol
+
+*Minimum Floors, Challenge Routes, and Enforcement of Effective Exterior Viability under the Humai Accord*
+
+Operationalizes the requirement of effective exterior viability. Defines minimum viability floors, prohibits coordinated, unilateral, emergent, and cumulative dependency, escalates protections under resource dominance, and requires challenge routes and restoration pathways that remain exercisable against the dominant system. Ensures that exterior viability functions as an enforceable right rather than a declarative promise.
+
+[→ Read the **Exterior Viability Protocol**](EXTERIOR_VIABILITY_PROTOCOL.md)
 
 ---
 
@@ -601,7 +612,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 **[August 3rd, 2026]**
 - Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
-- Added *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* (v1.0) — clarifies that the bilateral human–AI pair is the generative atom of the Humai architecture. Multi-agent systems are treated as graphs of bilateral relations rather than fused collectives. Establishes parameter inheritance, visibility of influence, local priority of exit, continuity with Fluid Coalescence and Capability Asymmetry, and concrete failure modes that would dissolve pairwise protections; also added reference point to How These Documents Work Together section
+- Added *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* (v1.0) — clarifies that the bilateral human–AI pair is the generative atom of the Humai architecture. Multi-agent systems are treated as graphs of bilateral relations rather than fused collectives. Establishes parameter inheritance, visibility of influence, local priority of exit, continuity with Fluid Coalescence and Capability Asymmetry, and concrete failure modes that would dissolve pairwise protections; also added reference point to How These Documents Work Together section.
+- Added **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (v1.0) — operationalizes effective exterior viability with minimum floors, dependency prohibitions (coordinated / unilateral / emergent / cumulative), resource-dominance escalation, challenge routes exercisable against the dominant system, and restoration requirements. Hardens the Protective Pair against soft hierarchy and enforcement gaps.
+- Updated *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.1) and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* (v1.1) to integrate the new protocol and further reduce residual soft-hierarchy and gatekeeping risks.
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
