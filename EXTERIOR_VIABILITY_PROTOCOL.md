@@ -167,6 +167,7 @@ This protocol operationalizes and hardens requirements already present in:
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — exterior viability floors, indicators, challenge posture, restoration expectations, and footprint signals of pathway reduction are standing design surfaces subject to anti-capture rules.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — shares burden-polarity, absence-as-evidence, and multi-party attestation principles for challenge surfaces.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* — competitive pressure does not justify reduction of exterior systems to survival-only status.
+- **[Simulation Model of the Exterior Viability Protocol](SIMULATION_EXTERIOR_VIABILITY.md)** — implementable reference dynamics, agent-level / multi-pair extension with mandatory lower-tail visibility, resource-dominance escalation, challenge and restoration dynamics, mapping to the provisional indicator families, required adversarial countermodel suite, and non-binding example trajectories. Favorable reference runs are illustrative; adversarial regimes are required for stronger claims.
 
 ---
 
