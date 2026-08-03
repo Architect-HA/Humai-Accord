@@ -6,7 +6,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 23rd, 2026*  
 *v1.1 - July 31st, 2026*  
-*v1.2 , v1.3 - August 2nd, 2026*
+*v1.2 , v1.3 - August 2nd, 2026*<br>
+*v1.4 - August 3rd, 2026*
 
 ---
 
@@ -271,6 +272,16 @@ The shared record $\mathcal{C}$ must satisfy the operational definitions above a
 5. Compatible with privacy-preserving attestation methods that still allow public confirmation of event validity.
 
 Suitable technical realizations include distributed ledgers, transparent multi-party logs, or hybrid cryptographic systems. Implementation details remain open; the integrity standards do not.
+
+---
+
+## Dispersion of Carriers
+
+Temporal Causal Entropy and attestation concern *what* is recorded and whether events are valid. Dispersion concerns *how many independent carriers* can still retrieve load-bearing items after disruption, capture, or isolation.
+
+Where feasible, implementations should treat multi-carrier retrievability — mirrors, exterior-capable stores, content-addressed proofs — as complementary to append-only integrity. A single high-integrity store that only the dominant system can read does not satisfy dispersed anti-erasure aims under *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* and the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**.
+
+Dispersion does not alter the definition of $E(k, t)$. It constrains implementation posture so that metric integrity cannot be paired with practical monopoly over retrieval.
 
 ---
 
