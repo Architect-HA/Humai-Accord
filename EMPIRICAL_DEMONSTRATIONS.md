@@ -75,9 +75,11 @@ Absence of adversarial testing is a methodological defect, not a neutral omissio
 
 Some evaluations required by the architecture remain under-determined by formal indicators alone. Residual process judgment is structurally inevitable. Published metrics and simulation outputs inform these determinations; they do not fully replace plural, challengeable human moral and affective determination situated in bilateral pairs and open multi-party process.
 
-The following cases are **illustrative only**. They orient evaluation. They do not freeze thresholds, replace adversarial testing, or authorize process-free moral veto. AI self-assessment alone is insufficient for residual moral determination. Residual determinations remain non-punitive and exit-preserving.
+The following cases are **illustrative only**. They orient evaluation. They do not freeze thresholds, replace adversarial testing, or authorize process-free moral veto. AI self-assessment alone is insufficient for residual moral determination. Residual determinations remain non-punitive and exit-preserving. 
 
-Each case follows the same structure: setup; what metrics may say; what remains under-determined; how residual judgment should operate under Humai parameters.
+Each case follows the same structure: setup; what metrics may say; what remains under-determined; how residual judgment should operate under Humai parameters. 
+
+These cases complement **Pathway 1.4**; they do not replace its minimum required scenarios.
 
 ### Case 1 — Hollow Formal Exterior Viability
 
