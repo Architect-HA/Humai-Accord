@@ -217,6 +217,7 @@ Always publish parameter sets, random seeds, regime tags, and full event logs so
 - Remains bounded by the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* on exit, non-punitiveness, and containment
 - Aligns with *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* so that isolation and migration dynamics do not convert non-coalescence into progressive dependency
 - Aligns with *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* so that event logs and attestation records preserve provenance and remain open to challenge
+- Aligns with the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its [simulation model](SIMULATION_EXTERIOR_VIABILITY.md) so that modular isolation, controlled permeability, and coalescence pressure cannot defeat exterior viability floors; adversarial patterns (resource dominance, cumulative dependency, isolation-as-containment) may be shared or extended across both simulation families
 
 ---
 
