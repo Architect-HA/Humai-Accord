@@ -160,6 +160,7 @@ This protocol operationalizes and hardens requirements already present in:
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — supplies the normative orientation and raised legitimacy ceiling that this protocol enforces.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — exit rights and agency floors remain primary; this protocol prevents their reduction to formalities under resource dominance.
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — multi-agent and infrastructure arrangements remain graphs of bilateral pairs; exterior pairs retain the same viability protections.
+- *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — optional multi-party and independent attestation pathways that can support challenge of viability-floor breaches without creating new dependency or residual third-party authority.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — isolation, permeability, and re-coalescence may not defeat exterior viability floors.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — transitional mechanisms may not create progressive dependency or raise exit costs beyond the floors.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — superior capability increases protective obligations toward exterior viability rather than licensing its erosion.
