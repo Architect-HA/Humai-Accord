@@ -2,9 +2,8 @@ name: Log Repository Traffic
 
 on:
   schedule:
-    # Runs every day at 03:00 UTC
-    - cron: '0 3 * * *'
-  workflow_dispatch:  # Allows manual runs
+    - cron: '0 3 * * *'   # Daily at 03:00 UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -25,18 +24,15 @@ jobs:
 
           mkdir -p data
 
-          # Fetch the latest 14-day data
           VIEWS=$(gh api "repos/$REPO/traffic/views")
           CLONES=$(gh api "repos/$REPO/traffic/clones")
 
-          # Load existing data or start fresh
           if [ -f data/traffic.json ]; then
             EXISTING=$(cat data/traffic.json)
           else
             EXISTING='{"views":[],"clones":[],"last_updated":null}'
           fi
 
-          # Merge the data (keeps the higher numbers for any overlapping days)
           python3 - <<EOF
           import json, os
           from datetime import datetime, timezone
@@ -68,8 +64,16 @@ jobs:
               json.dump(existing, f, indent=2)
           EOF
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update traffic history"
-          file_pattern: data/traffic.json
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/traffic.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update traffic history"
+            git push
+          fi
