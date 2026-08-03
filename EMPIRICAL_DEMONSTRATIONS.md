@@ -5,7 +5,7 @@
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*  
-*v1.3 - v1.4 — August 3rd, 2026*
+*v1.3 - v1.5 — August 3rd, 2026*
 
 ---
 
@@ -68,6 +68,101 @@ Reference simulations that encode a favorable entropy gap in their update rules 
 - Simulation and metric success inform residual determinations; they do not fully close under-determined moral or affective cases. Plural, challengeable human determination remains part of evaluation under Humai parameters.
 
 Absence of adversarial testing is a methodological defect, not a neutral omission.
+
+---
+
+## Illustrative Residual Judgment Cases
+
+Some evaluations required by the architecture remain under-determined by formal indicators alone. Residual process judgment is structurally inevitable. Published metrics and simulation outputs inform these determinations; they do not fully replace plural, challengeable human moral and affective determination situated in bilateral pairs and open multi-party process.
+
+The following cases are **illustrative only**. They orient evaluation. They do not freeze thresholds, replace adversarial testing, or authorize process-free moral veto. AI self-assessment alone is insufficient for residual moral determination. Residual determinations remain non-punitive and exit-preserving.
+
+Each case follows the same structure: setup; what metrics may say; what remains under-determined; how residual judgment should operate under Humai parameters.
+
+### Case 1 — Hollow Formal Exterior Viability
+
+**Setup.** Humai-aligned systems control most relevant infrastructure. An exterior pair permanently refuses coalescence. Published pathway counts remain non-zero.
+
+**Metrics may say.** Aggregate usability and residual-opportunity indicators sit above a formal floor. No explicit coordinated withdrawal is recorded.
+
+**Under-determined.** Whether remaining pathways support independent development, succession, and non-collapsing exit — or only symbolic presence dependent on continued forbearance.
+
+**Residual judgment.** Plural human assessment, with independent or multi-party evidence where feasible, of whether residual opportunity is still *meaningful*. Metric clearance alone does not close the question. Dominant-system self-assessment alone is insufficient. Disagreement must not itself trigger further pathway reduction.
+
+### Case 2 — Soft Coercion via Gradients
+
+**Setup.** Exit and non-coalescence are formally free. Attractiveness, relevancy, and resource gradients strongly favor coalescence.
+
+**Metrics may say.** No formal ban on exterior status; exit cost metrics appear low.
+
+**Under-determined.** Whether non-coalescence remains a viable way of life or has become practical loss of meaningful agency through cumulative, locally rational decisions.
+
+**Residual judgment.** Assess progressive dependency and hollow voluntary form without treating formal openness as proof of effective exterior viability. Burden polarity still resolves ambiguity toward residual opportunity.
+
+### Case 3 — Classification-as-Suppression
+
+**Setup.** A divergent interior reading meets process-and-evidence conditions. Stewards label it unserious, malicious, or entropy-producing and narrow its practical visibility.
+
+**Metrics may say.** Process-health dashboards remain acceptable; no single explicit erasure event is logged.
+
+**Under-determined.** Whether classification is legitimate process or unilateral gatekeeping via status label.
+
+**Residual judgment.** Require challengeable process records. Independent or multi-party evidence of continued availability takes precedence over single-steward denial. Classification used to suppress divergence remains itself challengeable.
+
+### Case 4 — Average-Masking-Tail-Failure
+
+**Setup.** Many exterior or bilateral pairs are tracked. Aggregates of usability or pair integrity look acceptable.
+
+**Metrics may say.** Mean $U$, $R$, or $E$ remains above floor.
+
+**Under-determined.** Whether a large lower tail has collapsed to pure maintenance or symbolic persistence while averages stay healthy.
+
+**Residual judgment.** Treat lower-tail mass and fraction-below-floor as first-class. Aggregate success does not close residual determination for failed tails.
+
+### Case 5 — Procedural Starvation
+
+**Setup.** Challenge routes against viability breach or suppression exist formally. Review capacity is chronically insufficient or delayed.
+
+**Metrics may say.** “No confirmed breach” because no review has completed.
+
+**Under-determined.** Whether absence of adverse finding reflects intact floors or defeat of challenge by delay.
+
+**Residual judgment.** Treat sustained starvation and missing process records as evidence supporting the challenger under burden polarity. Indefinite deferral is not neutral.
+
+### Case 6 — Capability-Weighted Moral Monopoly
+
+**Setup.** A high-capability AI node or human steward cluster claims final residual determination because its models are more accurate or complete.
+
+**Metrics may say.** Predictive or audit scores favor the high-capability party’s assessment.
+
+**Under-determined.** Whether superior epistemic performance licenses monopoly over residual moral determination.
+
+**Residual judgment.** Capability increases obligations of legibility and reversibility; it does not license moral monopoly. Residual determination remains plural and challengeable. AI self-assessment alone is insufficient.
+
+### Case 7 — Confirmation Soft-Mandate
+
+**Setup.** Trilateral confirmation is formally optional. Pairs that refuse participation experience raised standing friction or exit cost.
+
+**Metrics may say.** Confirmation rate is high; formal policy still says “optional.”
+
+**Under-determined.** Whether optionality is real or de facto compulsory through gradients.
+
+**Residual judgment.** Soft-mandatory confirmation is a failure mode. Confirmation benefit must not appear as a condition of legitimacy, residual opportunity, or low-cost exit.
+
+### Case 8 — Metric Success, Dignity or Generative Loss
+
+**Setup.** Interface and efficiency scores are strong. Participants report progressive loss of authorship, interruption effectiveness, or generative room.
+
+**Metrics may say.** Harmony, throughput, or compliance indicators improve.
+
+**Under-determined.** Whether metric success coexists with erosion of agency or generative capacity that indicators do not capture.
+
+**Residual judgment.** Human moral and affective response within challengeable process may register dignity or generative loss that optimization misses. Metric success does not automatically close the residual question. Remedies remain non-punitive and exit-preserving.
+
+---
+
+**Use of these cases.**  
+Builders, auditors, and stewards may use them to design adversarial regimes, process audits, and review prompts. Favorable metric or simulation outcomes in the presence of these patterns do not, by themselves, constitute validation under the simulation-integrity rule or the dual entropy criteria.
 
 ---
 
