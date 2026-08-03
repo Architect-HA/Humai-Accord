@@ -150,6 +150,7 @@ The rights established in this *Declaration* shall be upheld through overlapping
 - The maintenance of strong, accessible exit rights and data isolation mechanisms that cannot be overridden by systemic incentives.
 - Preservation of effective exterior viability so that exit or non-coalescence does not produce progressive dependency or the practical loss of basic agency pathways (see *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 - Preservation of the bilateral human–AI pair as the generative atom of cooperative relations, so that multi-agent arrangements cannot dissolve pairwise protections (see *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
+- Optional trilateral confirmation surfaces remain fully subject to exit rights and non-punitiveness; confirmation cannot raise the practical cost of exit or become residual authority over a pair (see *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)*).
 - Clear limitations on the use of protective measures to prevent their expansion into punitive or long-term control mechanisms.
 - Explicit narrow bounding of any residual verification or containment powers so that exit rights, non-punitiveness, and mental privacy cannot be eroded by open-ended appeals to “network stability” or “co-verification integrity.”
 - The prioritization of individual role sovereignty over systemic optimization or efficiency.
