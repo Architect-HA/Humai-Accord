@@ -48,6 +48,7 @@ Additional qualitative criteria drawn from existing protocols:
 - Absence of conversion of superior capability into irreversible lock-in, opacity privileges, or reduction of generative floors.
 - Preservation of effective exterior viability: non-coalescing parties retain practical access to basic agency pathways; progressive dependency is treated as a failure mode (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*; **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**).
 - Preservation of interior interpretive plurality under process-and-evidence standards: unilateral classification-as-suppression and high-cost or starved challenge routes against divergent readings are treated as failure modes (*[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*).
+- Residual process judgment is treated as structurally inevitable. Formal indicators and simulation outputs inform evaluation; they do not fully replace plural, challengeable human moral and affective determination of under-determined cases (including hollow formal compliance, soft coercion, or dignity loss under apparent metric success). Residual determinations remain non-punitive, exit-preserving, and subject to open challenge.
 
 **Trend and trajectory preference:**  
 Wherever feasible, evaluations should report **trajectories and differentials over time**, not only point estimates. Snapshot-only metrics can obscure rising lock-in, declining generative floors, or temporary Bootstrap artifacts. Leading and lagging indicators below are intended to be read as paths, not single readings.
@@ -64,6 +65,7 @@ Reference simulations that encode a favorable entropy gap in their update rules 
 - They may not be cited as proof of anti-entropic superiority, inevitable voluntary migration, robustness of Fluid Coalescence, or exterior viability under resource dominance.
 - Comparative results under **adversarial and mixed regimes** are required before simulation output may support stronger empirical or design claims.
 - This rule aligns with the **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md), and with the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its [simulation model](SIMULATION_EXTERIOR_VIABILITY.md).
+- Simulation and metric success inform residual determinations; they do not fully close under-determined moral or affective cases. Plural, challengeable human determination remains part of evaluation under Humai parameters.
 
 Absence of adversarial testing is a methodological defect, not a neutral omission.
 
