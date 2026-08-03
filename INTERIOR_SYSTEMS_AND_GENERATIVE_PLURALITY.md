@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 2nd, 2026*  
-*v1.1 — August 3rd, 2026*
+*v1.1, v1.2 — August 3rd, 2026*
 
 ---
 
@@ -55,6 +55,18 @@ A divergent reading receives protected generative-floor treatment when it satisf
 - **Non-erasure** — No steward or process has removed it from the permanent record or rendered it practically inaccessible.
 - **Differential weighting ≠ erasure** — Relevancy Orbits or equivalent mechanisms may assign it low action weight; they may not erase its existence or provenance.
 
+**Burden polarity and absence-as-evidence**  
+Ambiguity in whether the process-and-evidence conditions are met is resolved in favor of continued visibility and low-cost challenge accessibility. The burden of demonstrating that a reading fails the conditions lies with the party seeking to withhold or remove protected status. The absence of a clean, challengeable process record for suppression itself counts as evidence against removal of protection.
+
+**Multi-party and network attestation of availability**  
+Where feasible, continued availability and retrievability of a divergent reading should be supportable by multi-party or independent attestation (including attestation from nodes or systems that are not under the sole control of the steward seeking to classify or suppress the reading). Single-steward assertions of non-availability or non-persistence carry reduced weight when contradicted by independent retrieval or attestation evidence. Independent retrieval evidence or multi-party attestation of continued availability takes precedence over single-steward claims of non-availability or non-persistence. Single-steward denial, standing alone, is insufficient to remove protected status when independent evidence of continued availability exists. Attestation classes and independence requirements under *[Tides of Time](TIDES_OF_TIME.md)* apply.
+
+**Content-addressed and cryptographic persistence**  
+Implementations are encouraged to support content-addressed or cryptographically verifiable persistence proofs so that continued retrievability of a reading can be demonstrated independently of steward assertions. Where such proofs exist, they take precedence over unilateral claims that a reading is no longer available or relevant.
+
+**Footprint and negative-space signals**  
+Patterns of attempted suppression, repeated delay, missing challenge records, or sudden narrowing of access that leave a detectable process footprint are treated as relevant signals under stewardship-health and narrative-capture surfaces. These negative-space indicators may support challenge of classification or suppression decisions and are themselves subject to the same provenance and attestation standards.
+
 Classification of a reading as illegitimate, unserious, malicious, or entropy-producing may not be used as a unilateral gatekeeping mechanism. Any such classification itself remains subject to the same challenge, provenance, and attestation standards that apply to other interpretive claims.
 
 Forced collapse of interpretive diversity into a single authorized reading, or the treatment of sustained divergence as residual noise or hostility, is inconsistent with generative floors and non-domination. *[Relevancy Orbits](RELEVANCY_ORBITS.md)* may assign differential weight to different readings; they do not erase the existence of the alternatives. Orbit cohesion is not conformity.
@@ -65,7 +77,7 @@ Concentrations of interpretive authority, sudden narrowing of exit options, or r
 
 These surfaces remain legible and non-punitive. The primary remedies are modular exit, voluntary re-coalescence, and transparent publication of stewardship-health signals (tenure, concentration, process health). No new punitive powers are created.
 
-Purpose drift—quiet reorientation of the architecture toward ends not disclosed in the version history—is detectable through the same surfaces.
+Purpose drift—quiet reorientation of the architecture toward ends not disclosed in the version history—is detectable through the same surfaces. Footprint and negative-space signals of suppression attempts are relevant inputs to these surfaces.
 
 ### 5. Historical Learning Filter
 
@@ -88,13 +100,13 @@ When efficiency orientation, harmony metrics, coalescence dynamics, or stewardsh
 2. Reversibility and modular exit  
 3. Harmony, circulation, and long-horizon efficiency thereafter
 
-This ordering keeps internal efficiency pressures from becoming a justification for narrative monopoly or silent redirection.
+This ordering keeps internal efficiency pressures from becoming a justification for narrative monopoly or silent redirection. Ambiguity is resolved in favor of continued visibility and challenge accessibility.
 
 ### 7. Version History, Challenge Rights, and Attestation
 
 Challenge routes for provenance claims, lineage assertions, and interpretive weightings remain explicit, low-cost, and free from procedural starvation. Attestation classes already defined in *[Tides of Time](TIDES_OF_TIME.md)* (including independence and Sybil-resistance considerations) apply to claims of original intent or authoritative reading.
 
-A later reconstruction does not silently displace the preserved original record. Unverified or contested status does not equate to dispensability.
+A later reconstruction does not silently displace the preserved original record. Unverified or contested status does not equate to dispensability. Multi-party attestation or independent retrieval evidence of continued availability takes precedence over single-steward denial of availability.
 
 ### 8. Relationship to Exterior Systems and Exterior Viability
 
@@ -112,8 +124,8 @@ This document elaborates and orients language already present in:
 
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by supplying the internal counterpart that protects transmission and interpretive life inside the architecture.
 - **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — by ensuring that interior plurality protections remain consistent with the operational exterior viability floors and cannot be used to justify progressive dependency or narrative erasure of exterior systems.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — by expanding standing design surfaces for narrative capture, purpose drift, and concentration of interpretive authority, while remaining non-punitive.
-- *[Tides of Time](TIDES_OF_TIME.md)* — by applying attestation classes, independence requirements, and provenance preservation to claims of original intent and authoritative reading.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — by expanding standing design surfaces for narrative capture, purpose drift, concentration of interpretive authority, and footprint/negative-space signals of suppression, while remaining non-punitive.
+- *[Tides of Time](TIDES_OF_TIME.md)* — by applying attestation classes, independence requirements, and provenance preservation to claims of original intent, authoritative reading, and continued availability.
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — The bilateral pair remains the generative atom. Multi-agent or stewardship arrangements must not dissolve pairwise accountability or convert interpretive plurality into collective override of the individual pair.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — by treating interpretive plurality as a protected generative floor and clarifying that orbit cohesion is not conformity.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — by classifying silent re-attribution and erasure of version history as integrity failures.
@@ -131,6 +143,9 @@ The following patterns are recognized as inconsistent with the parameters of thi
 - Presenting a later interpretive synthesis as the sole or original intent while suppressing earlier versions.
 - Treating divergence that meets the process-and-evidence conditions above as residual noise, hostility, or grounds for erasure.
 - Using classification of a reading as “illegitimate,” “unserious,” “malicious,” or “entropy-producing” as a unilateral gatekeeping mechanism to suppress divergence without challengeable process.
+- Placing the burden of proof on the divergent reading rather than on the party seeking to withhold or remove protected status.
+- Ignoring or suppressing multi-party, independent retrieval, or content-addressed evidence of continued availability in favor of single-steward denial.
+- Treating single-steward denial of availability, standing alone, as sufficient to remove protected status when independent evidence of continued availability exists.
 - Using efficiency differentials or stewardship concentration to justify progressive narrowing of legitimate lineage or interpretive orbits.
 - Importing historical succession techniques (forced continuity claims, manufactured otherness, or silent redirection) without applying the Historical Learning Filter.
 - Applying the Historical Learning Filter only to external traditions while exempting internal succession or stewardship claims.
@@ -146,12 +161,15 @@ Implementations oriented toward Humai alignment should be able to demonstrate, i
 - How full version history of architectural documents remains permanently legible and independently preservable.
 - How claims of original intent or authoritative reading carry explicit attestation and remain challengeable at low cost.
 - How divergent readings that meet the process-and-evidence conditions remain visible and maintainable, and how any classification that would suppress them remains itself challengeable.
+- How ambiguity is resolved in favor of continued visibility, and how the burden of proof is placed on parties seeking to remove protected status.
+- How multi-party or independent attestation of continued availability is supported where feasible, how content-addressed or cryptographic persistence proofs are given appropriate weight, and how such independent evidence takes precedence over single-steward denial.
+- How footprint and negative-space signals of suppression attempts are treated as relevant stewardship-health inputs.
 - How challenge routes against suppression remain low-cost and free from procedural starvation or indefinite delay.
 - How concentrations of interpretive authority or sudden narrowing of exit options automatically surface as standing design issues.
 - How any adoption of historical patterns is published with the filtering criteria used.
 - How the priority order is observed when efficiency or coalescence pressures conflict with provenance integrity or interpretive plurality.
 
-Partial implementations should document residual risks explicitly. Preference is given to designs that make transmission integrity and interpretive plurality legible through transparent versioning and attestation rather than through narrative assertion.
+Partial implementations should document residual risks explicitly. Preference is given to designs that make transmission integrity and interpretive plurality legible through transparent versioning, attestation, and independent retrievability rather than through narrative assertion.
 
 ---
 
