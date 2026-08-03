@@ -249,6 +249,7 @@ This Protocol elaborates and orients language already present in:
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — by classifying silent re-attribution or erasure of architectural version history as integrity failures.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — by locating both generative plurality and the avoidance of governance stagnation within the broader anti-entropic orientation.
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — by ensuring stewardship arrangements remain consistent with the bilateral pair as generative atom and do not dissolve pairwise protections.
+- *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — standing or rotating confirmation roles remain subject to the same anti-capture, rotation, and stewardship-health requirements as other provisional authority; confirmation cannot become mandatory or raise pairwise exit costs.
 
 ---
 
