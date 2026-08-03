@@ -1,12 +1,11 @@
 # Fluid Coalescence Protocol
 ### *Fluid Coalescence under Concentrated Pressure*
 ---
-*A Supporting Protocol for the Humai Accord*
-
-**by Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 - July 23, 2026*  
-*v1.1 - July 30, 2026*  
-*v1.2 - July 31, 2026*
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 — July 23rd, 2026*  
+*v1.1 — July 30th, 2026*  
+*v1.2 — July 31st, 2026*  
+*v1.3 — August 3rd, 2026*
 
 ---
 
@@ -96,7 +95,7 @@ At minimum, serious simulation work should stress-test regimes in which:
 - Comparative results under adversarial and mixed regimes are required before simulation output may support stronger empirical or design claims.
 - This requirement aligns with *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and with the operational integrity standards of *[Tides of Time](TIDES_OF_TIME.md)* and the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
 
-Detailed state variables, update rules, and countermodel specifications belong in the related simulation model document. The binding architectural rule is stated here: **favorable parameterization alone is not validation.**
+Detailed state variables, update rules, and countermodel specifications belong in the related simulation model document. The architectural rule is stated here: **favorable parameterization alone is not validation.**
 
 ---
 
@@ -127,19 +126,14 @@ While in Bootstrap Mode the network may apply the following measures:
 
 - **Amplified visibility**  
   Entropy audits, causal records of extractive or high-stagnation patterns, and efficiency differentials are published at higher frequency and greater prominence.
-
 - **Elevated decay and stagnation weighting**  
   Temporary, publicly declared increases to the effective relevancy-decay rate (*Knowledge Tides* / *Tides of Time*) and to Circulation Entropy pressure on persistently idle, locked, or extractive material patterns (*Material Tides* / *Tides of Circulation*). All such amplifications remain driven by the same underlying metrics and must be transparent.
-
 - **Aggressive third-party verification and matching invitations**  
   Open calls for neutral or aligned external agents to participate in verification waves and material matching, rapidly increasing effective causal and circulation mass without transferring control.
-
 - **Lower isolation thresholds**  
   Faster modular isolation of high-risk or high-extraction interfaces, always with automatic sunset conditions and full preservation of exit rights.
-
 - **Maximised controlled permeability**  
   Even lower-friction on-ramps for partial adoption of both knowledge and material interfaces so the network can grow its mass through voluntary inflows as quickly as possible.
-
 - **Temporary generative and recovery protections**  
   Explicit early-phase protection of Generative Reservations and legitimate Recovery / Holding States so that the nascent network is not forced into destructive continuous activity or the premature sacrifice of exploratory capacity in order to survive.
 
@@ -253,6 +247,7 @@ It treats predatory pressure as a temporary high-entropy perturbation to be meta
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* clarifies that exterior systems remain legitimate sources of generative entropy and that effective exterior viability must be preserved. Isolation and re-coalescence under Fluid Coalescence must not convert non-coalescence into progressive dependency or de facto containment; modular isolation remains reversible and exit-preserving even under sustained pressure.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* ensures that isolation, re-coalescence, and Bootstrap records remain subject to provenance preservation, and that Fluid Coalescence mechanisms cannot be used to collapse interpretive plurality or enable narrative capture under pressure.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that isolation, permeability, and recovery interfaces themselves preserve interruption rights, reversible commitments, and agency protections.
+- *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — Modular isolation, controlled permeability, and reversible branching remain fully subject to pairwise exit rights and local override. Temporary isolation may never function as progressive withdrawal of basic agency pathways from a bilateral pair.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* supplies the methodological frame for testing whether Fluid Coalescence and Bootstrap Mode actually produce the claimed entropy differentials and voluntary migration patterns.
 
 ---
@@ -277,7 +272,7 @@ This document is intended for review and refinement under the **[Principled Stew
 - How should isolation and permeability thresholds be calibrated to avoid both under-reaction and excessive fragmentation?
 - What formal or simulated models best demonstrate the attractor dynamics of fluid coalescence under varying degrees of predatory concentration and sophistication?
 - How can controlled permeability be designed to maximize voluntary on-ramps while minimizing successful extraction?
-- What public, objective thresholds and automatic sunset conditions for Bootstrap Mode best balance early-stage survival with the long-term principle of equal treatment under standard Fluid Coalescence parameters, especially when material circulation density is the binding parameter?
+- What public, objective thresholds and automatic sunset conditions for Bootstrap Mode best balance early-stage survival with the long-term principle of equal treatment under standard Fluid Coalescence parameters, especially when material circulation density is a primary system parameter?
 - How should repeated or borderline Recovery State claims during Bootstrap Mode be evaluated so that amplified pressure remains effective against artificial holding while still protecting genuine regenerative need?
 - What minimal adversarial countermodel suite is sufficient to prevent simulation circularity while remaining tractable to implement and compare?
 - Under which hostile regimes does Fluid Coalescence fail, and what design changes do those failures imply?
@@ -285,7 +280,7 @@ This document is intended for review and refinement under the **[Principled Stew
 Further development, formal modeling, simulation, and empirical pilots are invited.
 
 **Status**  
-Polished conceptual draft, updated July 30, 2026 with strengthened Bootstrap Mode for material-domain cold-start resilience, and July 31, 2026 with explicit simulation-integrity and adversarial-countermodel requirements plus tighter alignment to the revised *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. 
+Polished conceptual draft, updated July 30, 2026 with strengthened Bootstrap Mode for material-domain cold-start resilience, July 31, 2026 with explicit simulation-integrity and adversarial-countermodel requirements plus tighter alignment to the revised *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*, and August 3, 2026 with integration of *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* and house-style consistency pass.
 
 Open for community critique, expansion, and integration into the Humai Accord body of documents via the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
@@ -298,7 +293,7 @@ A practical, implementable simulation model with state variables, discrete-time 
 
 ---
 
-**License**
+## License
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
