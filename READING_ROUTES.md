@@ -136,7 +136,7 @@ Choose the path that best matches your current interest or goal. You may switch 
    Concrete pathways, dual success criteria, and clear prioritization for empirical work.
 
 3. **Simulation Models**  
-   The two primary simulation models ready for implementation and stress-testing: [Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md) and [Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)
+   The models ready for implementation and stress-testing: [Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*, [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md)
 
 4. **[Implementation Guide](IMPLEMENTATION_GUIDE.md)** and **[Implementation Examples](IMPLEMENTATION_EXAMPLES.md)**  
    Practical guidance for applying the architecture in real systems.
