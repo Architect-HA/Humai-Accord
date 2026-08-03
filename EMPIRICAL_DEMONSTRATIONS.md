@@ -178,6 +178,24 @@ Each scenario should state which Protective Pair assumptions are under attack, w
 
 These simulations and the Protective Pair suite are primary entry points identified in *[The Call to Code](THE_CALL_TO_CODE.md)*. Working, publicly released implementations that include adversarial or anti-gaming suites close the largest immediate empirical gap. The Exterior Viability simulation and Protective Pair test suite extend the same integrity standard to enforcement under resource dominance and to interior anti-gatekeeping.
 
+### 1.5 Simulation Model of Bilateral Core and Trilateral Confirmation
+
+**Source documents**: [SIMULATION_BILATERAL_TRILATERAL.md](SIMULATION_BILATERAL_TRILATERAL.md), *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*, and *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)*
+
+**Core claim to test**: Multi-agent systems can scale as graphs of bilateral pairs without dissolving pairwise exit capacity, influence visibility, or local agency integrity; and optional trilateral confirmation can improve visibility or challenge evidence without becoming mandatory or raising exit costs.
+
+**Implementation target**:
+- Agent-based or graph model with pair-level state (`X_i,t`, `V_i,t`, `A_i,t`, `L_i,t`, `C_i,t`, `E_i,t`) and graph-level state (`G_t`, `O_t`, `M_t`, `T_t`, `E_t`).
+- Reference regime in which confirmation remains optional and exit capacity stays high under moderate coordination load.
+- Explicit tracking of lower-tail pair failure and of the fraction of pairs under mandatory or soft-mandatory confirmation (`M_t`).
+- At least two **adversarial countermodels** from the suite required by the simulation document (e.g., mandatory triangulation, confirmation-as-exit-cost, residual third-party authority, collective override, opacity-by-design, capability-weighted fusion, average-masking-tail-failure, soft-mandatory confirmation via incentives).
+
+**Success metrics** (must be reported jointly):
+- Under the reference regime: aggregate and lower-tail exit capacity remain high; `M_t` remains near zero; pair integrity does not collapse for a large lower tail while aggregates look acceptable.
+- Under adversarial/mixed regimes: report whether pairwise primacy holds, and characterize failure modes when confirmation becomes compulsory or exit costs rise.
+
+Reference-regime success alone does not constitute validation.
+
 ---
 
 ## Demonstration Pathway 2: Entropy Audits on Real or Semi-Real Systems
