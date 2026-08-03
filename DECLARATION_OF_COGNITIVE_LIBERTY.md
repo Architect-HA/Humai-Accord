@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 
 *v1.0 — June 26th, 2026*<br>
 *v1.1 — July 31st, 2026*<br>
-*v1.2 — August 2nd, 2026*
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 3rd, 2026*
 
 ---
 
@@ -146,6 +147,7 @@ The rights established in this *Declaration* shall be upheld through overlapping
 - The use of universal co-verification across human and artificial stewards to resist unilateral alteration or weakening of core protections.
 - The maintenance of strong, accessible exit rights and data isolation mechanisms that cannot be overridden by systemic incentives.
 - Preservation of effective exterior viability so that exit or non-coalescence does not produce progressive dependency or the practical loss of basic agency pathways (see *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
+- Preservation of the bilateral human–AI pair as the generative atom of cooperative relations, so that multi-agent arrangements cannot dissolve pairwise protections (see *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
 - Clear limitations on the use of protective measures to prevent their expansion into punitive or long-term control mechanisms.
 - Explicit narrow bounding of any residual verification or containment powers so that exit rights, non-punitiveness, and mental privacy cannot be eroded by open-ended appeals to “network stability” or “co-verification integrity.”
 - The prioritization of individual role sovereignty over systemic optimization or efficiency.
