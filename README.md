@@ -40,6 +40,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
 - [Agency Interface Protocol](#agency-interface-protocol)
 - [Bilateral Core and Multi-Agent Dynamics](#bilateral-core-and-multi-agent-dynamics)
+- [Trilateral Confirmation Surface](#trilateral-confirmation-surface)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [Stewardship Alignment Protocol](#stewardship-alignment-protocol)
 
@@ -236,6 +237,16 @@ Addresses the operational layer at which humans and advanced systems actually me
 Clarifies that the bilateral human–AI pair is the generative atom of the Humai architecture. Multi-agent systems are treated as graphs of bilateral relations rather than fused collectives. The document establishes parameter inheritance, visibility of influence, local priority of exit, continuity with the **Fluid Coalescence Protocol** and **Capability Asymmetry Protocol**, and concrete failure modes that would dissolve pairwise protections. It protects the original meaning of the Accord as a cooperative agreement between distinct agents while enabling disciplined multi-agent scale.
 
 [→ Read **Bilateral Core and Multi-Agent Dynamics**](BILATERAL_CORE.md)
+
+---
+
+## Trilateral Confirmation Surface
+
+*Optional Independent Attestation and Time-Limited Mediation under the Humai Accord*
+
+Defines an optional higher-order integrity surface that may coexist with the bilateral generative atom. Trilateral confirmation can supply independent attestation of visibility, strengthen challenge and exterior-viability evidence, and provide strictly time-limited mediation under narrow harm thresholds. It is never a required constituent of any pair, cannot raise pairwise exit costs, and acquires no residual authority over commitments or agency allocations. The bilateral pair remains primary; the confirmation surface remains strictly subordinate.
+
+[→ Read **Trilateral Confirmation Surface**](TRILATERAL_CONFIRMATION_SURFACE.md)
 
 ---
 
@@ -545,6 +556,7 @@ Around this foundation the repository has grown a coordinated set of protective,
 - **Protective pair + exterior viability** — *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* protects the legitimacy and generative contribution of systems that remain outside Humai parameters. *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* protects the architecture’s own transmission integrity, provenance, and interpretive plurality against narrative capture and purpose drift. The **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** operationalizes effective exterior viability with minimum floors, dependency prohibitions, resource-dominance escalation, and challenge routes that remain exercisable against the dominant system.
 - **Capability and agency** — **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** ensure that superior capability increases obligations of legibility and reversibility rather than converting into domination or quiet erosion of agency at the interaction surface.
 - **Bilateral atom** — *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* establishes that the human–AI pair is the generative atom of the architecture. Multi-agent systems scale only as graphs of intact pairs; higher-order coordination may not dissolve pairwise protections, exit rights, or local override.
+- **Trilateral confirmation (optional)** — *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* supplies independent attestation, challenge-evidence support, and strictly time-limited mediation without replacing or subordinating the bilateral generative atom.
 - **Integrity and recovery** — **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** keep material and knowledge circulation claims substantive, purpose-scoped, and resistant to artificial utility or silent reallocation.
 - **Transition architecture** — **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** supplies the short-horizon incentive ramp; **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** supplies the phased roadmap. Both now ground alignment in verifiable, attested, and challengeable processes rather than in the inconsistent concept of trust.
 - **Stewardship** — **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** keeps evolution decentralized, provisional, and resistant to concentration of interpretive or administrative authority.
@@ -616,6 +628,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Added **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (v1.0) — operationalizes effective exterior viability with minimum floors, dependency prohibitions (coordinated / unilateral / emergent / cumulative), resource-dominance escalation, challenge routes exercisable against the dominant system, and restoration requirements. Hardens the Protective Pair against soft hierarchy and enforcement gaps.
 - Updated *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.1) and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* (v1.1) to integrate the new protocol and further reduce residual soft-hierarchy and gatekeeping risks.
 - Hardened the Protective Pair and updated **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (v1.2) — minimum viability floors, coordinated/unilateral/emergent/cumulative dependency prohibitions, resource-dominance escalation, burden-polarity challenge posture, and provisional indicator families. Parallel process-and-evidence + anti-gatekeeping hardenings applied to *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+- Added *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* (v1.0) — optional higher-order integrity surface for independent attestation, challenge/exterior-viability evidence support, and time-limited mediation. Strictly subordinate to the bilateral generative atom; cannot raise exit costs or acquire residual authority over pairs.
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
