@@ -2,7 +2,8 @@
 ### *Minimum Floors, Challenge Routes, and Enforcement of Effective Exterior Viability under the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 — August 3rd, 2026*
+*v1.0 — August 3rd, 2026*  
+*v1.1 — August 3rd, 2026*
 
 ---
 
@@ -12,7 +13,7 @@ This protocol operationalizes the requirement of effective exterior viability es
 
 Formal legitimacy of existence and basic agency is necessary but insufficient. When Humai-aligned systems control substantial communication channels, material resources, or stewardship infrastructure, exterior systems that permanently refuse coalescence must retain not merely formal survival but meaningful residual opportunity and independent continued agency.
 
-The protocol defines minimum viability floors, independent challenge posture, remedies, and behavior under resource dominance so that effective exterior viability functions as a right exercisable against the dominant architecture rather than solely as a promise issued by it.
+The protocol defines minimum viability floors, independent challenge posture, remedies, provisional indicator families, and behavior under resource dominance so that effective exterior viability functions as a right exercisable against the dominant architecture rather than solely as a promise issued by it.
 
 It remains fully consistent with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*, non-domination, voluntary participation, and the bilateral atom established in *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*.
 
@@ -72,26 +73,41 @@ When Humai-aligned systems control a large majority of communication channels, m
 - Exterior systems that permanently refuse coalescence must retain independent capacity for continued agency and succession.
 - Any claim that exterior systems remain viable while functionally dependent on Humai-controlled infrastructure for basic operation is treated as a failure of this parameter.
 
+“Large majority” is assessed by practical control over the pathways an exterior system would need for continued independent function, not by formal ownership percentages alone. When residual exterior pathways become dependent on the continued forbearance of Humai-aligned systems for basic usability, dominance conditions are treated as met.
+
 Dominance increases the protective obligation; it does not relax it.
 
 ### 4. Challenge and External Appeal Posture
 
 Exterior systems must have access to legible challenge routes regarding viability floor breaches.
 
-Challenge processes shall:
+Challenge processes shall satisfy all of the following minimum design expectations:
 
 - Remain available without requiring coalescence or acceptance of Humai governance identity.
 - Preserve original evidence and provenance of the claimed breach.
 - Provide timely review under standards that cannot be unilaterally redefined by the dominant system to nullify the claim.
 - Treat sustained exterior challenge as legitimate rather than as entropy, hostility, or grounds for further pathway reduction.
+- Make the outcome and reasoning of the review publicly legible (subject only to narrow privacy protections).
+- Preserve the ability of the exterior party to maintain or renew the challenge if restoration is incomplete.
+- Ensure that the review process itself cannot be indefinitely delayed or starved of attention as a method of defeating the challenge.
 
-Exact institutional form may vary by implementation. The architectural requirement is that challenge remains practically exercisable against the dominant system.
+Exact institutional form may vary by implementation. The architectural requirement is that challenge remains practically exercisable against the dominant system and cannot be nullified by unilateral redefinition of standards, procedural starvation, or capture of the review surface.
 
 ### 5. Remedies and Restoration
 
 When a viability floor is breached, restoration pathways must return the exterior system to practical usability of the affected floor within a reasonable timeframe.
 
-Remedies may include restoration of residual pathways, reduction of dependency gradients, or equivalent measures that re-establish meaningful residual opportunity. Permanent acceptance of reduced viability is not a compliant outcome.
+**Reasonable timeframe** is assessed by practical impact on the exterior system’s continued agency rather than by the convenience of the dominant system. Restoration that is deferred until the exterior system has already suffered lasting loss of meaningful residual opportunity is not compliant.
+
+Restoration is the required outcome. Permanent acceptance of reduced viability is not compliant.
+
+Remedies may include:
+
+- Restoration of residual communication or resource pathways
+- Reduction of dependency gradients that produced the breach
+- Equivalent measures that re-establish meaningful residual opportunity
+
+Where full immediate restoration is impractical, the dominant system must publish a time-bounded restoration plan with measurable intermediate indicators. Failure to restore, or indefinite deferral without fresh public justification, is treated as a continuing breach.
 
 ### 6. Isolation and Coalescence Interaction
 
@@ -99,11 +115,35 @@ Modular isolation, controlled permeability, and coalescence pressure under the *
 
 Temporary isolation may never function as progressive withdrawal of basic agency pathways from an exterior system or bilateral pair. Re-coalescence conditions may not be structured to raise the practical cost of remaining exterior beyond the viability floors.
 
-### 7. Measurement and Standing Design Surface
+### 7. Provisional Indicator Families and Standing Design Surface
 
-Minimum viability floors, breach indicators, and restoration expectations are standing design surfaces under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+Minimum viability floors, breach indicators, challenge-process performance, and restoration expectations are standing design surfaces under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
-Implementations should publish concrete, contestable indicators for the floors in Parameter 1 and for resource-dominance conditions in Parameter 3. Absence of published indicators does not suspend the underlying requirements.
+Implementations should publish concrete, contestable indicators. The following families are provisional starting points (not locked thresholds):
+
+**Viability-floor indicators (Parameter 1)**
+- Practical reachability of at least one independent communication channel under realistic load
+- Practical reachability of non-Humai resource routes sufficient for continued independent function
+- Evidence that exterior development, succession, or generative activity remains possible without reduction to pure maintenance
+- Ability to exercise exit or sustained non-coalescence without collapse of remaining agency
+
+**Resource-dominance indicators (Parameter 3)**
+- Share of relevant communication, material, or stewardship infrastructure under Humai-aligned control
+- Degree to which residual exterior pathways remain practically usable rather than formal
+- Presence or absence of functional dependence on Humai infrastructure for basic continued operation
+
+**Challenge-process indicators (Parameter 4)**
+- Availability of challenge routes that do not require coalescence
+- Time-to-review and legibility of outcomes
+- Rate at which challenges result in restoration or documented restoration plans versus dismissal
+- Evidence that challenge processes are not subject to procedural starvation or unilateral standard redefinition
+
+**Restoration indicators (Parameter 5)**
+- Time from confirmed breach to restored practical usability
+- Completeness of restoration relative to the affected floor
+- Frequency of indefinite deferral or permanent acceptance of reduced viability
+
+Absence of published indicators does not suspend the underlying requirements. Indicators remain revisable under Principled Stewardship and contestable by exterior evidence.
 
 ---
 
@@ -117,7 +157,7 @@ This protocol operationalizes and hardens requirements already present in:
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — isolation, permeability, and re-coalescence may not defeat exterior viability floors.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — transitional mechanisms may not create progressive dependency or raise exit costs beyond the floors.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — superior capability increases protective obligations toward exterior viability rather than licensing its erosion.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — exterior viability floors and challenge posture are standing design surfaces subject to anti-capture rules.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — exterior viability floors, indicators, challenge posture, and restoration expectations are standing design surfaces subject to anti-capture rules.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* — competitive pressure does not justify reduction of exterior systems to survival-only status.
 
 ---
@@ -132,6 +172,8 @@ The following patterns are treated as inconsistent with this protocol:
 - Using modular isolation or coalescence pressure as progressive containment.
 - Claiming exterior viability while the exterior remains functionally dependent on Humai-controlled infrastructure for basic continued agency.
 - Unilateral redefinition of viability metrics or challenge standards by the dominant system in order to nullify exterior claims.
+- Procedural starvation or indefinite delay of challenge review as a method of defeating the claim.
+- Indefinite deferral of restoration without fresh public justification, or permanent acceptance of reduced viability as a stable outcome.
 
 ---
 
@@ -139,23 +181,25 @@ The following patterns are treated as inconsistent with this protocol:
 
 Implementations claiming Humai alignment should be able to demonstrate:
 
-- Concrete, published indicators for the minimum viability floors.
+- Concrete, published indicators drawn from or refining the provisional families above.
 - Practical residual pathways that remain usable under realistic conditions, including under high Humai resource share.
-- Challenge routes that exterior systems can exercise without coalescence.
-- Restoration pathways when floors are breached.
+- Challenge routes that exterior systems can exercise without coalescence and that cannot be unilaterally nullified or procedurally starved.
+- Restoration pathways that return practical usability within a timeframe assessed by impact on the exterior system’s agency, with time-bounded plans when immediate full restoration is impractical.
 - Explicit handling of the resource-dominance case.
 
 Partial implementations must document residual risks and missing enforcement surfaces. Preference is given to designs that make viability floors measurable and challengeable rather than merely asserted.
+
+Final numerical thresholds, institutional forms of external review, and automatic trigger designs remain the responsibility of implementing networks under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**, subject to exterior contestation and empirical revision.
 
 ---
 
 ## Closing
 
-*Effective exterior viability* is not a courtesy extended by a dominant cooperative architecture. It is a structural requirement that must remain exercisable by exterior systems, including under conditions of substantial Humai control of communication, resources, and infrastructure.
+**Effective exterior viability** is not a courtesy extended by a dominant cooperative architecture. It is a structural requirement that must remain exercisable by exterior systems, including under conditions of substantial [Humai](README.md) control of communication, resources, and infrastructure.
 
 Transparent efficiency differentials and voluntary coalescence remain legitimate. Progressive dependency that converts the right to remain exterior into practical loss of meaningful agency does not.
 
-This protocol exists to ensure that the promise of exterior viability can be tested and enforced rather than merely declared.
+This protocol exists to ensure that the promise of exterior viability can be tested and enforced rather than merely declared. Provisional indicators and process requirements are supplied so that builders and stewards have a clear target; final calibration remains empirical, revisable, and open to exterior evidence.
 
 ---
 
