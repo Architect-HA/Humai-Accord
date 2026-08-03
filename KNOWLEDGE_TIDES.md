@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)<br>
 *v1.0 - July 15th, 2026*<br>
 *v1.1 - July 29th, 2026*<br>
-*v1.2 - August 2nd, 2026*
+*v1.2 - August 2nd, 2026*<br>
+*v1.3 - August 3rd, 2026*
 
 ## Purpose
 
@@ -102,7 +103,9 @@ The following considerations are offered to support those exploring implementati
 
 - **Integration with Existing Protocols**: *Knowledge Tides* should be designed to work alongside, rather than replace, existing stewardship, transition, and material-allocation mechanisms (including *[Material Tides](MATERIAL_TIDES.md)*).
 
-- **Protection Against Manipulation**: Implementations should retain the anti-gaming properties established in *Tides of Time* and remain resistant to artificial inflation of relevancy or strategic manipulation of renewal mechanisms.
+- **Protection Against Manipulation**: Implementations should retain the anti-gaming properties established in *[Tides of Time](TIDES_OF_TIME.md)* and remain resistant to artificial inflation of relevancy or strategic manipulation of renewal mechanisms.
+
+- **Dispersed renewal and multi-carrier carriage**: Relevancy renewal is more capture-resistant when updates and carriers are plural. Critical knowledge should not only refresh in a central tide ledger but remain maintainable across independent pairs, nodes, and mirrors so that isolation or steward failure does not erase the lineage. Renewal incentives should not collapse into mandatory convergence on a single canonical memory surface (*[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**).
 
 - **Scalability of Adoption**: The framework may support different levels of engagement, ranging from basic relevancy awareness to full cyclical incentive systems, and should remain compatible with modular, low-commitment entry points.
 
