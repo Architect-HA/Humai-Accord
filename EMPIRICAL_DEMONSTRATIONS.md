@@ -273,7 +273,7 @@ The architecture is developed enough to implement against and attempt to break. 
 
 Working simulations of [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md) and *[Temporal Causal Entropy](TIDES_OF_TIME.md)* that report both reference and hostile regimes, together with the first published entropy audits and small pilots that report both destructive and generative metrics as trajectories, constitute the most direct path to closing the empirical gap.
 
-The work of turning parameters into running, measurable systems belongs to those who build.
+The work of turning parameters into running, measurable systems belongs to those who **build**.
 
 ---
 
