@@ -638,6 +638,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — added Demonstration Pathway 1.3 for the Exterior Viability simulation model under the same simulation-integrity rule.
 - Updated *[The Call to Code](THE_CALL_TO_CODE.md)*, *[Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md)*, and *[Reading Routes](READING_ROUTES.md)* with Exterior Viability simulation / Trilateral Confirmation entry points and orientation links.
 - Updated keywords list at top of README.
+- Updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (v1.4) — added Protective Pair Adversarial Test Suite (Pathway 1.4): minimum scenarios spanning exterior viability, interior process-and-evidence protections, resource dominance, classification-as-suppression, procedural starvation, and average-masking-tail-failure under the same simulation-integrity rule.
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
