@@ -249,6 +249,7 @@ It treats predatory pressure as a temporary high-entropy perturbation to be meta
 - **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — Modular isolation, controlled permeability, and reversible branching remain fully subject to exterior viability floors. Temporary isolation may never function as progressive withdrawal of basic agency pathways from an exterior system.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that isolation, permeability, and recovery interfaces themselves preserve interruption rights, reversible commitments, and agency protections.
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — Modular isolation, controlled permeability, and reversible branching remain fully subject to pairwise exit rights and local override. Temporary isolation may never function as progressive withdrawal of basic agency pathways from a bilateral pair.
+- *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — temporary mediation and confirmation cannot function as progressive containment or raise re-coalescence costs beyond pairwise viability floors.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* supplies the methodological frame for testing whether Fluid Coalescence and Bootstrap Mode actually produce the claimed entropy differentials and voluntary migration patterns.
 
 ---
