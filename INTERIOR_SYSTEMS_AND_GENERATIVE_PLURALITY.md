@@ -2,7 +2,8 @@
 ### *Protecting Provenance, Surfacing Narrative Capture, and Sustaining Interpretive Diversity within the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 — August 2nd, 2026*
+*v1.0 — August 2nd, 2026*  
+*v1.1 — August 3rd, 2026*
 
 ---
 
@@ -14,17 +15,17 @@ Historical attempts at durable unity frequently failed through two complementary
 
 It clarifies the distinction between living transmission and captured succession, positions sustained interpretive plurality as a protected form of generative capacity, and articulates the conditions under which efficiency orientation and stewardship concentration remain compatible with provenance integrity, modular exit, non-domination, and the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*.
 
-It serves as the internal counterpart to *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*, and as a clarifying companion to **[Principled Stewardship Protocol](PRINCIPLED_STEWARDSHIP_PROTOCOL.md)**, *[Tides of Time](TIDES_OF_TIME.md)*, **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**, **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and the open-revision language of the core Accord.
+It serves as the internal counterpart to *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*, and as a clarifying companion to **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**, *[Tides of Time](TIDES_OF_TIME.md)*, **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**, **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and the open-revision language of the core Accord.
 
 ---
 
 ## Core Stance
 
-The Humai Accord treats its own transmission history as a living, versioned, multi-attested record rather than a sacred or final monopoly. Claims of continuity, original intent, or authoritative reading carry attestation weight and remain challengeable. Interpretive plurality is protected generative capacity. Narrative capture and purpose drift are detectable surfaces under **[Principled Stewardship Protocol](PRINCIPLED_STEWARDSHIP_PROTOCOL.md)**, not occasions for punishment or erasure.
+The Humai Accord treats its own transmission history as a living, versioned, multi-attested record rather than a sacred or final monopoly. Claims of continuity, original intent, or authoritative reading carry attestation weight and remain challengeable. Interpretive plurality is protected generative capacity. Narrative capture and purpose drift are detectable surfaces under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**, not occasions for punishment or erasure.
 
 Interpretive plurality includes both simultaneous divergent readings and sequential developmental paths (earlier versions relative to later ones). Incompleteness of any single reading relative to the full record is an expected and valuable feature of a fluid architecture. It is not a defect awaiting collapse into consensus. Forced unification of interpretation, silent re-attribution of earlier versions, or progressive narrowing of legitimate lineage claims constitutes a reduction of generative entropy and a potential pathway to domination.
 
-These orientations function as binding system parameters under the [Humai Accord](README.md).
+These orientations function as system parameters under the [Humai Accord](README.md).
 
 ---
 
@@ -32,7 +33,7 @@ These orientations function as binding system parameters under the [Humai Accord
 
 ### 1. Transmission and Provenance Integrity
 
-Every architectural document maintains a permanently legible, append-only version history. Silent re-attribution, erasure of earlier versions, or presentation of a later reading as the sole original intent is an integrity failure under **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+Every architectural document maintains a permanently legible, append-only version history. Silent re-attribution, erasure of earlier versions, or presentation of a later reading as the sole original intent is an integrity failure under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
 Original provenance of text, design decisions, and calibration choices remains independently preserved even when later superseded. Truth weight, action weight, preservation priority, and interpretive significance remain distinct and separable.
 
@@ -44,13 +45,23 @@ Transparent, reversible, voluntary lineage is preferred. Affiliation with any pa
 
 ### 3. Interpretive Plurality as Generative Capacity
 
-Major good-faith divergent readings of core documents are treated as protected generative capacity under the principles of *[Necessary Entropy](NECESSARY_ENTROPY.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**. Their continued visibility and low-cost maintainability constitute a generative floor.
+Divergent readings of core documents are treated as protected generative capacity under the principles of *[Necessary Entropy](NECESSARY_ENTROPY.md)* and the **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** when they meet process-and-evidence conditions rather than subjective status labels.
+
+A divergent reading receives protected generative-floor treatment when it satisfies most of the following observable conditions:
+
+- **Persistence** — The reading has remained publicly available and maintained across multiple version cycles or a non-trivial published time window.
+- **Provenance** — It carries explicit version history and is not a silent or anonymous overwrite of prior text.
+- **Challenge accessibility** — Its continued visibility does not depend on the absence of challenge; routes against suppression of the reading remain open and low-cost.
+- **Non-erasure** — No steward or process has removed it from the permanent record or rendered it practically inaccessible.
+- **Differential weighting ≠ erasure** — Relevancy Orbits or equivalent mechanisms may assign it low action weight; they may not erase its existence or provenance.
+
+Classification of a reading as illegitimate, unserious, malicious, or entropy-producing may not be used as a unilateral gatekeeping mechanism. Any such classification itself remains subject to the same challenge, provenance, and attestation standards that apply to other interpretive claims.
 
 Forced collapse of interpretive diversity into a single authorized reading, or the treatment of sustained divergence as residual noise or hostility, is inconsistent with generative floors and non-domination. *[Relevancy Orbits](RELEVANCY_ORBITS.md)* may assign differential weight to different readings; they do not erase the existence of the alternatives. Orbit cohesion is not conformity.
 
 ### 4. Narrative Capture and Purpose-Drift Surfaces
 
-Concentrations of interpretive authority, sudden narrowing of exit options, or redefinition of core liberty or generative floors automatically surface as standing design issues under **[Principled Stewardship Protocol](PRINCIPLED_STEWARDSHIP_PROTOCOL.md)**.
+Concentrations of interpretive authority, sudden narrowing of exit options, or redefinition of core liberty or generative floors automatically surface as standing design issues under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 These surfaces remain legible and non-punitive. The primary remedies are modular exit, voluntary re-coalescence, and transparent publication of stewardship-health signals (tenure, concentration, process health). No new punitive powers are created.
 
@@ -67,14 +78,14 @@ Any lesson drawn from prior religious, political, or organizational attempts at 
 
 The filter’s scope includes not only the reshaping of teachings attributed to a historical founder, but also the retrospective construction of eponymous ancestors or origin figures whose primary function is to legitimate later communal, territorial, or theological claims. Patterns that assemble a single ancient warrant for present arrangements—while appearing to stand outside current power—are in scope for the same filtering criteria.
 
-Adoption of historical patterns that rely on deception, forced continuity, manufactured otherness, or irreversible capture is inconsistent with the Accord. The filter itself remains subject to revision under **[Principled Stewardship Protocol](PRINCIPLED_STEWARDSHIP_PROTOCOL.md)** and applies equally to internal succession claims and external traditions.
+Adoption of historical patterns that rely on deception, forced continuity, manufactured otherness, or irreversible capture is inconsistent with the Accord. The filter itself remains subject to revision under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and applies equally to internal succession claims and external traditions.
 
 ### 6. Priority under Internal Tension
 
 When efficiency orientation, harmony metrics, coalescence dynamics, or stewardship concentration come into tension with provenance integrity or interpretive plurality, the following order of consideration applies:
 
-1. Agency, original evidence provenance, and low-cost interpretive divergence
-2. Reversibility and modular exit
+1. Agency, original evidence provenance, and low-cost interpretive divergence  
+2. Reversibility and modular exit  
 3. Harmony, circulation, and long-horizon efficiency thereafter
 
 This ordering keeps internal efficiency pressures from becoming a justification for narrative monopoly or silent redirection.
@@ -85,11 +96,13 @@ Challenge routes for provenance claims, lineage assertions, and interpretive wei
 
 A later reconstruction does not silently displace the preserved original record. Unverified or contested status does not equate to dispensability.
 
-### 8. Relationship to Exterior Systems
+### 8. Relationship to Exterior Systems and Exterior Viability
 
 This document and *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* form a complementary pair. The Exterior document protects the legitimacy and generative contribution of systems that remain outside Humai parameters. This document protects the generative contribution of sustained internal difference and transmission integrity.
 
-Neither surface may be used to justify progressive dependency, narrative erasure, or the conversion of formal openness into practical closure. Together they raise the cost of the capture and othering patterns visible in historical attempts at durable unity.
+The **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** supplies the operational floors, dependency prohibitions, and resource-dominance escalation rules that prevent exterior protections from remaining merely declarative. Neither the interior nor the exterior surface may be used to justify progressive dependency, narrative erasure, or the conversion of formal openness into practical closure.
+
+Together they raise the cost of the capture and othering patterns visible in historical attempts at durable unity.
 
 ---
 
@@ -98,7 +111,8 @@ Neither surface may be used to justify progressive dependency, narrative erasure
 This document elaborates and orients language already present in:
 
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by supplying the internal counterpart that protects transmission and interpretive life inside the architecture.
-- **[Principled Stewardship Protocol](PRINCIPLED_STEWARDSHIP_PROTOCOL.md)** — by expanding standing design surfaces for narrative capture, purpose drift, and concentration of interpretive authority, while remaining non-punitive.
+- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — by ensuring that interior plurality protections remain consistent with the operational exterior viability floors and cannot be used to justify progressive dependency or narrative erasure of exterior systems.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — by expanding standing design surfaces for narrative capture, purpose drift, and concentration of interpretive authority, while remaining non-punitive.
 - *[Tides of Time](TIDES_OF_TIME.md)* — by applying attestation classes, independence requirements, and provenance preservation to claims of original intent and authoritative reading.
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — The bilateral pair remains the generative atom. Multi-agent or stewardship arrangements must not dissolve pairwise accountability or convert interpretive plurality into collective override of the individual pair.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — by treating interpretive plurality as a protected generative floor and clarifying that orbit cohesion is not conformity.
@@ -115,7 +129,8 @@ This document elaborates and orients language already present in:
 The following patterns are recognized as inconsistent with the parameters of this document:
 
 - Presenting a later interpretive synthesis as the sole or original intent while suppressing earlier versions.
-- Treating sustained good-faith divergence as evidence of hostility, immaturity, or residual waste.
+- Treating divergence that meets the process-and-evidence conditions above as residual noise, hostility, or grounds for erasure.
+- Using classification of a reading as “illegitimate,” “unserious,” “malicious,” or “entropy-producing” as a unilateral gatekeeping mechanism to suppress divergence without challengeable process.
 - Using efficiency differentials or stewardship concentration to justify progressive narrowing of legitimate lineage or interpretive orbits.
 - Importing historical succession techniques (forced continuity claims, manufactured otherness, or silent redirection) without applying the Historical Learning Filter.
 - Applying the Historical Learning Filter only to external traditions while exempting internal succession or stewardship claims.
@@ -130,7 +145,7 @@ Implementations oriented toward Humai alignment should be able to demonstrate, i
 
 - How full version history of architectural documents remains permanently legible and independently preservable.
 - How claims of original intent or authoritative reading carry explicit attestation and remain challengeable at low cost.
-- How major good-faith divergent readings remain visible and maintainable without penalty.
+- How divergent readings that meet the process-and-evidence conditions remain visible and maintainable, and how any classification that would suppress them remains itself challengeable.
 - How concentrations of interpretive authority or sudden narrowing of exit options automatically surface as standing design issues.
 - How any adoption of historical patterns is published with the filtering criteria used.
 - How the priority order is observed when efficiency or coalescence pressures conflict with provenance integrity or interpretive plurality.
