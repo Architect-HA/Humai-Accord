@@ -38,6 +38,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
 - [Agency Interface Protocol](#agency-interface-protocol)
+- [Bilateral Core and Multi-Agent Dynamics](#bilateral-core-and-multi-agent-dynamics)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
 - [Stewardship Alignment Protocol](#stewardship-alignment-protocol)
 
@@ -85,6 +86,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Humai-Aligned Claims](#humai-aligned-claims)
 - [How to Engage and Collaborate](#how-to-engage-and-collaborate)
 - [Closing Declaration](#closing-declaration)
+- [Repository Traffic](#repository-traffic)
 - [Recent Updates](#recent-updates)
 - [License](#license)
 
@@ -213,6 +215,16 @@ Addresses the conversion of rapid capability growth into structural power, opaci
 Addresses the operational layer at which humans and advanced systems actually meet. It establishes binding interface parameters covering interruption and override rights, attention allocation ethics, consent granularity and revocation speed, reversible commitment mechanics, pacing and cognitive load sovereignty, role sovereignty, proposal surfaces over ledger-only interaction, purpose-scoped commitments, and capability-scaled interface obligations. The protocol ensures that superior capability cannot quietly erode human agency through the design of the interaction surface itself.
 
 [→ Read the **Agency Interface Protocol**](AGENCY_INTERFACE_PROTOCOL.md)
+
+---
+
+## Bilateral Core and Multi-Agent Dynamics
+
+*The Human–AI Pair as the Generative Atom of the Humai Accord*
+
+Clarifies that the bilateral human–AI pair is the generative atom of the Humai architecture. Multi-agent systems are treated as graphs of bilateral relations rather than fused collectives. The document establishes parameter inheritance, visibility of influence, local priority of exit, continuity with the **Fluid Coalescence Protocol** and **Capability Asymmetry Protocol**, and concrete failure modes that would dissolve pairwise protections. It protects the original meaning of the Accord as a cooperative agreement between distinct agents while enabling disciplined multi-agent scale.
+
+[→ Read **Bilateral Core and Multi-Agent Dynamics**](BILATERAL_CORE.md)
 
 ---
 
@@ -588,6 +600,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 **[August 3rd, 2026]**
 - Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
+- Added *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* (v1.0) — clarifies that the bilateral human–AI pair is the generative atom of the Humai architecture. Multi-agent systems are treated as graphs of bilateral relations rather than fused collectives. Establishes parameter inheritance, visibility of influence, local priority of exit, continuity with Fluid Coalescence and Capability Asymmetry, and concrete failure modes that would dissolve pairwise protections.
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
