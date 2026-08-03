@@ -38,9 +38,10 @@ For readers who want a solid working understanding of the architecture:
 3. *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Why generative capacity must be protected
 4. *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — How exterior systems are treated under the efficiency orientation (existence remains legitimate; exteriority as generative entropy)
 5. *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — How the architecture protects its own transmission integrity and interpretive plurality as generative capacity
-6. *[A Common Sense](A_COMMON_SENSE.md)* — The long-horizon efficiency argument
-7. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — Phased adoption roadmap grounded in pragmatic (verifiable-process) alignment rather than trust; protects generative floors, modular exit, and interpretive plurality across personal → organizational → sectoral → civilizational scales.
-8. *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* — Keep open as a reference while reading
+6. *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — Establishes the bilateral human–AI pair as the generative atom; multi-agent systems scale only as graphs of intact pairs
+7. *[A Common Sense](A_COMMON_SENSE.md)* — The long-horizon efficiency argument
+8. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — Phased adoption roadmap grounded in pragmatic (verifiable-process) alignment rather than trust; protects generative floors, modular exit, and interpretive plurality across personal → organizational → sectoral → civilizational scales.
+9. *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* — Keep open as a reference while reading
 
 After this layer you should understand the basic commitments, the rights floor, the evolvability requirement, and the intended transition path.
 
@@ -98,7 +99,7 @@ They become more useful once the main architectural commitments are already clea
 README (The Humai Accord) → Declaration of Cognitive Liberty → Glossary → Necessary Entropy → Agency Interface Protocol → A Common Sense
 
 **“I want to understand how the system is supposed to survive and adapt”**  
-Fluid Coalescence → Architectural Elasticity → Capability Asymmetry → Agency Interface Protocol → Stewardship Alignment → Competitive Realism → Exterior Systems and Generative Diversity
+Fluid Coalescence → Architectural Elasticity → Capability Asymmetry → Agency Interface Protocol → Bilateral Core and Multi-Agent Dynamics → Stewardship Alignment → Competitive Realism → Exterior Systems and Generative Diversity
 
 **“I care about adoption and incentives”**  
 Structured Transition → Transitional Incentive Protocol → Knowledge Tides → Material Tides → Competitive Realism
