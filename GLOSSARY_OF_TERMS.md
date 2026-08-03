@@ -70,6 +70,9 @@ Quiet reorientation of the architecture toward ends not disclosed in the preserv
 **Open Stewardship / Decentralized Stewardship**  
 Stewardship practiced through distributed review, saturation, and non-hierarchical influence rather than centralized or capability-weighted control.
 
+**Trilateral Confirmation Surface**  
+An optional higher-order integrity surface that may coexist with the bilateral generative atom. It can supply independent attestation of visibility, strengthen challenge and exterior-viability evidence, and provide strictly time-limited mediation under narrow harm thresholds. It is never mandatory, cannot raise pairwise exit costs, and acquires no residual authority over a pair’s commitments or agency allocations. See *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* and *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*.
+
 **Verifiable-Process Alignment**  
 The architectural stance that alignment claims must be grounded in verifiable, attested, and challengeable processes attached to data and events, rather than in the inconsistent concept of trust. See **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**.
 
