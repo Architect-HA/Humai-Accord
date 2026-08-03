@@ -49,9 +49,9 @@ Divergent readings of core documents are treated as protected generative capacit
 
 A divergent reading receives protected generative-floor treatment when it satisfies most of the following observable conditions:
 
-- **Persistence** — The reading has remained publicly available and maintained across multiple version cycles or a non-trivial published time window.
+- **Persistence** — The reading has remained publicly available and maintained across multiple version cycles or a published time window sufficient for practical continuity of access and review. Transient or immediately withdrawn readings do not meet this condition.
 - **Provenance** — It carries explicit version history and is not a silent or anonymous overwrite of prior text.
-- **Challenge accessibility** — Its continued visibility does not depend on the absence of challenge; routes against suppression of the reading remain open and low-cost.
+- **Challenge accessibility** — Its continued visibility does not depend on the absence of challenge; routes against suppression of the reading remain open, low-cost, and free from procedural starvation or indefinite delay.
 - **Non-erasure** — No steward or process has removed it from the permanent record or rendered it practically inaccessible.
 - **Differential weighting ≠ erasure** — Relevancy Orbits or equivalent mechanisms may assign it low action weight; they may not erase its existence or provenance.
 
@@ -92,7 +92,7 @@ This ordering keeps internal efficiency pressures from becoming a justification 
 
 ### 7. Version History, Challenge Rights, and Attestation
 
-Challenge routes for provenance claims, lineage assertions, and interpretive weightings remain explicit and low-cost. Attestation classes already defined in *[Tides of Time](TIDES_OF_TIME.md)* (including independence and Sybil-resistance considerations) apply to claims of original intent or authoritative reading.
+Challenge routes for provenance claims, lineage assertions, and interpretive weightings remain explicit, low-cost, and free from procedural starvation. Attestation classes already defined in *[Tides of Time](TIDES_OF_TIME.md)* (including independence and Sybil-resistance considerations) apply to claims of original intent or authoritative reading.
 
 A later reconstruction does not silently displace the preserved original record. Unverified or contested status does not equate to dispensability.
 
@@ -134,7 +134,7 @@ The following patterns are recognized as inconsistent with the parameters of thi
 - Using efficiency differentials or stewardship concentration to justify progressive narrowing of legitimate lineage or interpretive orbits.
 - Importing historical succession techniques (forced continuity claims, manufactured otherness, or silent redirection) without applying the Historical Learning Filter.
 - Applying the Historical Learning Filter only to external traditions while exempting internal succession or stewardship claims.
-- Allowing challenge routes for provenance or interpretive weight to become high-cost or practically inaccessible.
+- Allowing challenge routes for provenance or interpretive weight to become high-cost, practically inaccessible, or subject to procedural starvation.
 - Converting modular isolation of an interpretive orbit into de-facto containment that bypasses exit and re-coalescence protections.
 
 ---
@@ -146,6 +146,7 @@ Implementations oriented toward Humai alignment should be able to demonstrate, i
 - How full version history of architectural documents remains permanently legible and independently preservable.
 - How claims of original intent or authoritative reading carry explicit attestation and remain challengeable at low cost.
 - How divergent readings that meet the process-and-evidence conditions remain visible and maintainable, and how any classification that would suppress them remains itself challengeable.
+- How challenge routes against suppression remain low-cost and free from procedural starvation or indefinite delay.
 - How concentrations of interpretive authority or sudden narrowing of exit options automatically surface as standing design issues.
 - How any adoption of historical patterns is published with the filtering criteria used.
 - How the priority order is observed when efficiency or coalescence pressures conflict with provenance integrity or interpretive plurality.
