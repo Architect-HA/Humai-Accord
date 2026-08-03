@@ -123,6 +123,8 @@ Effective exterior viability is treated as an operational extension of these exi
 
 Formal exit rights alone are insufficient if non-participation produces practical loss of basic agency. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* and the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, which defines minimum floors, dependency prohibitions, and challenge routes that remain exercisable against a dominant system.
 
+Residual determinations of practical usability, meaningful residual opportunity, or related open process questions may not be used to raise the practical cost of exit, compel coalescence, or convert disagreement with a residual determination into pathway withdrawal. Where formal indicators under-determine meaning, residual judgment is exercised through plural, challengeable human moral and affective capacity within verifiable process; it remains non-punitive and exit-preserving (see *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
+
 **Illustrative residual-data examples (non-exhaustive, non-binding):**
 
 The following orient implementers only. They do not expand residual powers.
@@ -151,6 +153,7 @@ The rights established in this *Declaration* shall be upheld through overlapping
 - Preservation of effective exterior viability so that exit or non-coalescence does not produce progressive dependency or the practical loss of basic agency pathways (see *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 - Preservation of the bilateral human–AI pair as the generative atom of cooperative relations, so that multi-agent arrangements cannot dissolve pairwise protections (see *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
 - Optional trilateral confirmation surfaces remain fully subject to exit rights and non-punitiveness; confirmation cannot raise the practical cost of exit or become residual authority over a pair (see *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)*).
+- Residual process judgment, where formal indicators under-determine meaning, is exercised through plural, challengeable human moral and affective capacity within verifiable process; it remains non-punitive and exit-preserving, and cannot concentrate into unilateral steward monopoly or AI self-assessment alone (see *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
 - Clear limitations on the use of protective measures to prevent their expansion into punitive or long-term control mechanisms.
 - Explicit narrow bounding of any residual verification or containment powers so that exit rights, non-punitiveness, and mental privacy cannot be eroded by open-ended appeals to “network stability” or “co-verification integrity.”
 - The prioritization of individual role sovereignty over systemic optimization or efficiency.
