@@ -160,6 +160,7 @@ This document elaborates and orients language already present in:
 
 - [The Humai Accord](README.md) — by clarifying that the bilateral human–AI pair is the generative atom of the architecture and that multi-agent systems scale only by composition of intact pairs.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — by anchoring pairwise protections to non-domination, exit rights, and cognitive liberty as hard limits at every scale.
+- *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — defines an optional higher-order integrity surface for independent attestation, challenge-evidence support, and time-limited mediation that remains fully subordinate to the bilateral generative atom and cannot raise pairwise exit costs or acquire residual authority.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by locating the primary site of agency protection at the bilateral interface where human and AI actually meet.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by requiring that capability-scaled obligations apply *inside* each bilateral pair rather than authorizing dissolution into capability-weighted collectives.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — by ensuring modular isolation, controlled permeability, and re-coalescence remain subject to pairwise exit rights and local override.
