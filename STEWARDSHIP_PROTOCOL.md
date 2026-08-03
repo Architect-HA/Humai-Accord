@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 – July 2nd, 2026*  
 *v1.1 – July 31st, 2026*  
-*v1.2 – August 2nd, 2026*
+*v1.2 – August 2nd, 2026*  
+*v1.3 – August 3rd, 2026*
 
 ---
 
@@ -20,7 +21,7 @@ The purpose of this model is to enable the [Humai Accord](README.md) and *[Decla
 - Distribute authority so that no individual or group can exercise unilateral control.
 - Support open participation while maintaining coherence and direction.
 - Uphold the principles of non-punitiveness, voluntary engagement, and mutual accountability in governance processes.
-- Cover the expanding corpus of protocols and supporting documents (including knowledge and material tidal systems, integrity and recovery mechanisms, interface protections, and empirical methodology) under the same stewardship standards.
+- Cover the expanding corpus of protocols and supporting documents (including knowledge and material tidal systems, integrity and recovery mechanisms, interface protections, exterior viability enforcement, and empirical methodology) under the same stewardship standards.
 
 ## Governing Principles
 
@@ -43,7 +44,6 @@ These principles form the standard against which all governance decisions and st
 Stewards are individuals or small groups who voluntarily take responsibility for the ongoing coherence and accessibility of the framework. Their role is facilitative and protective, not authoritative.
 
 **Responsibilities include:**
-
 - Maintaining documentation and version control.
 - Facilitating transparent discussion and propagation of proposals across networks.
 - Helping organize and surface feedback.
@@ -116,12 +116,22 @@ Proposals that would fundamentally undermine these foundations should be rejecte
 Certain tensions are permanent design surfaces rather than temporary drafting gaps. Stewards and Reviewers shall treat the following as ongoing calibration responsibilities:
 
 - **Permanent records vs. cognitive privacy** — Append-only integrity of attested events must remain compatible with minimization, redaction, and privacy-preserving attestation. Full permanent exposure of personal cognitive or somatic content shall not become a de facto condition of participation or verification.
+
 - **Exit rights vs. verification integrity** — Residual data-retention or co-verification obligations after exit must remain narrow, time-bounded, and minimum-necessary. Ambiguity shall be resolved in favor of the individual’s exit and deletion rights, consistent with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*.
+
 - **Non-punitiveness vs. network stability** — Appeals to “network stability” alone are insufficient grounds for containment or restriction. Protective measures require clear, imminent, severe harm from observable actions, and must remain time-limited, reversible, and non-punitive. Dissent is not instability.
+
 - **Calibration of illustrative bands** — Attestation-weight examples, steward-rotation bands, Bootstrap exit indicators, and residual-data examples published in primary documents are orientation aids. Implementations should publish local thresholds and revise them under stewardship review rather than treating any single numerical example as frozen.
+
 - **Stewardship-health legibility** — Rotation and anti-concentration safeguards depend on published signals of tenure, influence concentration, and governance-process health. Opacity of those signals undermines progressive decentralization.
-- **Narrative capture and purpose drift** — Concentrations of interpretive authority or quiet reorientation of the architecture toward ends not disclosed in the version history surface as standing design issues. Remedies remain modular exit, voluntary re-coalescence, and transparent publication of stewardship-health signals. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
+- **Narrative capture and purpose drift** — Concentrations of interpretive authority or quiet reorientation of the architecture toward ends not disclosed in the version history surface as standing design issues. Remedies remain modular exit, voluntary re-coalescence, and transparent publication of stewardship-health signals. Footprint and negative-space signals of suppression attempts (procedural starvation, missing challenge records, sudden narrowing of access) are relevant inputs. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
 - **Historical Learning Filter** — Any proposal that imports patterns from prior religious, political, or organizational attempts at unity must itself satisfy the Historical Learning Filter (option-space expansion, modular-exit preservation, mutual benefit, and empirical honesty). The filter applies equally to internal succession claims and external traditions. Its scope includes both the revision of teachings attributed to historical founders and the retrospective construction of eponymous ancestors or origin figures used to legitimate later arrangements. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
+- **Exterior viability floors and challenge performance** — Minimum viability floors, dependency prohibitions, resource-dominance escalation, challenge routes exercisable against the dominant system, and restoration expectations under the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** are standing design surfaces. Footprint signals of pathway reduction, procedural starvation of exterior challenges, or indefinite deferral of restoration are relevant stewardship-health inputs. Unilateral redefinition or nullification of these floors is anti-aligned.
+
+- **Interpretive plurality process standards** — Process-and-evidence conditions for protected divergent readings, burden polarity (ambiguity resolved in favor of continued visibility), precedence of independent/multi-party attestation over single-steward denial, and anti-gatekeeping rules under *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* remain standing design surfaces. Classification used as unilateral suppression is itself challengeable.
 
 Proposals that would widen residual powers in these areas, or convert provisional administrative control into permanent authority, require heightened scrutiny and should not advance without strong, diverse review saturation.
 
@@ -167,6 +177,7 @@ The rotation *triggers* (time-in-role, concentration of influence, stewardship-h
 - Rising coordination overhead relative to useful throughput
 - Sustained decline in diversity of reviewing participants
 - Repeated failure to propagate Substantive or Foundational proposals beyond a narrow cluster
+- Detectable footprint signals of suppression attempts or exterior-challenge obstruction
 
 Fixed-term rotation may still be used. Entropy- and concentration-based review exists so that rotation cannot be deferred indefinitely while influence accumulates. Exact percentages and durations remain local and revisable.
 
@@ -210,8 +221,8 @@ When stewardship is active for a public canonical or coordinating node, the foll
 - **Active stewards** — current list, already required under Transparency
 - **Time-in-role** — how long each steward or steward cluster has held material coordinating responsibility
 - **Concentration indicators** — high-level signals of proposal, review, or merge-weight concentration under the same cluster over a published window (aligned with the rotation triggers above)
-- **Stewardship-health indicators** — where tracked: diversity of reviewing participants, coordination overhead relative to useful throughput, and whether Substantive or Foundational proposals are propagating beyond a narrow cluster
-- **Standing design surfaces** — which permanent tensions are under active calibration, and major open proposals affecting residual powers
+- **Stewardship-health indicators** — where tracked: diversity of reviewing participants, coordination overhead relative to useful throughput, whether Substantive or Foundational proposals are propagating beyond a narrow cluster, and detectable footprint signals of suppression attempts or exterior-challenge obstruction
+- **Standing design surfaces** — which permanent tensions are under active calibration, and major open proposals affecting residual powers (including exterior viability floors and interpretive plurality process standards)
 
 ### Parameters
 
@@ -229,13 +240,15 @@ Quiet accumulation of influence without visible tenure, concentration, or health
 
 This Protocol elaborates and orients language already present in:
 
-- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by expanding standing design surfaces to include narrative capture, purpose drift, concentration of interpretive authority, and the Historical Learning Filter, while remaining strictly non-punitive.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by expanding standing design surfaces to include narrative capture, purpose drift, concentration of interpretive authority, footprint/negative-space signals of suppression, process-and-evidence standards for protected divergence, and the Historical Learning Filter, while remaining strictly non-punitive.
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that stewardship processes cannot convert formal openness into progressive dependency or narrative erasure of exterior systems.
+- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — by treating exterior viability floors, dependency prohibitions, resource-dominance escalation, challenge performance, restoration expectations, and footprint signals of pathway reduction as standing design surfaces subject to anti-capture rules.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — by anchoring all governance activity to non-punitiveness, exit rights, mental privacy, and the protection of idiosyncrasy.
 - *[Tides of Time](TIDES_OF_TIME.md)* — by applying attestation classes, independence requirements, and review/challenge standards to stewardship claims, version history, and claims of original intent or authoritative reading.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — by treating sustained interpretive divergence as legitimate and non-punitive.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — by classifying silent re-attribution or erasure of architectural version history as integrity failures.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — by locating both generative plurality and the avoidance of governance stagnation within the broader anti-entropic orientation.
+- *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — by ensuring stewardship arrangements remain consistent with the bilateral pair as generative atom and do not dissolve pairwise protections.
 
 ---
 
