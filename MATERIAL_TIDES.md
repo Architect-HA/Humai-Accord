@@ -1,9 +1,9 @@
 # Material Tides
-
-*Material Degradation and Under-Utilization as a Dynamic Incentive Mechanism*
-
-**by Bradford James Focht (The Architect / Aspenth)**  
-*July 29th, 2026*
+### *Material Degradation and Under-Utilization as a Dynamic Incentive Mechanism*
+---
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 - July 29th, 2026*<br>
+*v1.1 - August 3rd, 2026*
 
 ---
 
@@ -19,7 +19,7 @@ The goal is not centralized rationing or permanent hierarchy. It is to make unde
 
 ## Core Premise
 
-Materials, like knowledge, exist in a state of flux.
+Materials, like knowledge, exist in a state of **flux**.
 
 - Idle or poorly matched materials degrade in effective contribution.
 - Hoarded or irreversibly locked materials increase destructive entropy.
@@ -57,6 +57,50 @@ The cycle is intended to remain continuous, legible, and decentralized.
 | **Co-Stewardship Waves** | Widespread under-utilization or emerging scarcity triggers collective visibility and voluntary reallocation pressure rather than top-down seizure. | Strengthens decentralized response capacity without creating permanent hierarchy. | Cyclical |
 
 These mechanisms are designed to reinforce one another while remaining compatible with voluntary participation, low-cost exit, and non-domination.
+
+---
+
+## Energy-Class Parameters
+
+Energy is treated as a material class under *Material Tides*, not as a separate tidal system. It inherits utilization decay, renewal premiums, lock-in visibility, Generative Reservations, and co-stewardship pressure. It also exhibits dynamics that require explicit parameter attention so that generic material rules are not misapplied.
+
+### Distinctive Dynamics
+
+**1. Flow versus store**  
+Instantaneous power and continuous flows differ from stored energy (batteries, fuel, thermal stores, and analogous buffers). Stored energy can remain available while self-discharge, conversion loss, or opportunity cost accumulate. Flow capacity allocated to a time window often expires if unused and cannot be recovered later. Utilization, holding, and renewal logic must distinguish **expired flow** from **hoarded or idle store**.
+
+**2. Irreversibility and conversion loss**  
+Many energy transformations are thermodynamically lossy. High measured throughput can still raise destructive entropy through waste heat, repeated low-value conversion, or avoidable degradation of storage media. Circulation pressure must not reward pure cycling when net productive or generative yield is poor. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** standards apply with particular force: attested use should reflect meaningful work or protected generative use, not mere turnover.
+
+**3. Path-dependence and infrastructure lock-in**  
+Generation, transmission, and storage topologies create high exit-cost configurations. Lock-in cost visibility remains first-class so that path-dependent infrastructure does not silently become permanent capture or progressive dependency. Modular interconnection, reversible commitment of capacity blocks, and non-collapsing residual access remain subject to **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** floors where Humai-aligned systems control substantial energy infrastructure.
+
+**4. Time-critical matching**  
+Energy often requires tighter temporal matching than knowledge or bulk compute. Renewal pressure may operate on shorter cycles; delayed reallocation can mean permanent loss of a flow window rather than gradual decay of standing. Implementations should publish distinct time-window parameters for flow classes and store classes where the distinction is material.
+
+**5. Coupling to compute, attention, and knowledge**  
+Energy underwrites other material and knowledge tides. Artificial cheapness or opacity in energy allocation can distort upstream signals (compute kept busy on low-value work; attention interfaces kept hot without generative yield). Cross-domain attestation should remain possible without collapsing energy, compute, attention, and knowledge into a single undifferentiated score.
+
+### Parameter Posture
+
+- Default *Material Tides* mechanisms apply unless a published energy-class parameter modifies them.
+- Flow capacity and stored capacity should carry distinct utilization and holding logic where implementation data requires it.
+- Generative Reservations may include protected exploratory or minority energy budgets that efficiency pressure cannot silently reallocate. Purpose-scoped capacity rules under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** apply.
+- Recovery and holding states for storage media and standby capacity must remain legible and resistant to treatment as free-scoring inventory.
+- Energy allocation interfaces remain subject to the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** where human pacing, interruption, or local override is implicated.
+- Exact thresholds remain local, revisable, and contestable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+### Recognized Energy-Class Failure Modes
+
+The following patterns are treated as anti-aligned:
+
+- Counting pure conversion churn or wasteful cycling as high utilization.
+- Treating expired flow windows as if they remained available store.
+- Using energy infrastructure dominance to hollow exterior residual opportunity while formal “access” remains.
+- Silent reallocation of purpose-scoped or Generative Reservation energy budgets.
+- Collapsing energy, compute, and attention into one utilization score that masks class-specific lock-in or loss.
+
+Energy-class specification refines *Material Tides*. It does not replace it, and it does not create a parallel primary tide document.
 
 ---
 
@@ -98,6 +142,7 @@ Optional forecast-informed introduction timing guidance also lives there; it ran
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Provides the relational complement to material under-utilization and matching pressures: fluid clusters of mutual enablement among material units (and hybrid knowledge–material links under typed co-enablement rules). Orbits do not replace Circulation Entropy or exempt members from modular circulation incentives.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that material allocation claims, utilization records, and lock-in assertions remain subject to provenance preservation and cannot be used to enable narrative capture or silent re-attribution of allocation history.
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that material circulation mechanisms cannot create progressive dependency or erode effective exterior viability.
+- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — Where Humai-aligned systems control substantial material or energy infrastructure, circulation and allocation mechanisms remain subject to exterior viability floors, dependency prohibitions, and challenge routes; formal access alone does not satisfy effective residual opportunity.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Refinement of material-domain parameters remains subject to decentralized stewardship review.
 
 ---
