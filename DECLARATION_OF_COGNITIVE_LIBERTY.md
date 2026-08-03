@@ -62,6 +62,8 @@ However, the network may implement minimal, time-limited protective or containme
 
 “Stability of the network” alone is not a sufficient basis for containment. Dissent, criticism, unconventional participation, or refusal to adopt particular practices shall not be treated as instability or as grounds for protective measures. These measures shall never be used as punishment or long-term restriction.
 
+Residual process judgment — including determinations that remain under-determined by formal indicators — may not be exercised punitively. Disagreement with a residual determination is not itself grounds for penalty, pathway withdrawal, or raised exit cost. Residual judgment remains subject to non-punitiveness, open challenge, and the same bounds that limit other protective measures under this Declaration.
+
 ---
 
 ## Article III — Right to Idiosyncrasy
