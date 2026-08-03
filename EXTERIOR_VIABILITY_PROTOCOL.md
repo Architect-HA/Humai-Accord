@@ -2,8 +2,7 @@
 ### *Minimum Floors, Challenge Routes, and Enforcement of Effective Exterior Viability under the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 — August 3rd, 2026*  
-*v1.1 — August 3rd, 2026*
+*v1.0 - v1.2 — August 3rd, 2026*
 
 ---
 
@@ -91,7 +90,13 @@ Challenge processes shall satisfy all of the following minimum design expectatio
 - Preserve the ability of the exterior party to maintain or renew the challenge if restoration is incomplete.
 - Ensure that the review process itself cannot be indefinitely delayed or starved of attention as a method of defeating the challenge.
 
-Exact institutional form may vary by implementation. The architectural requirement is that challenge remains practically exercisable against the dominant system and cannot be nullified by unilateral redefinition of standards, procedural starvation, or capture of the review surface.
+**Burden polarity and absence-as-evidence**  
+Ambiguity in whether a viability floor has been breached is resolved in favor of the exterior system’s continued meaningful residual opportunity. The burden of demonstrating that floors remain satisfied lies with the dominant system when challenged. The absence of a clean, challengeable process record for pathway reduction or restoration failure itself counts as evidence supporting the exterior claim.
+
+**Multi-party and independent evidence**  
+Where feasible, evidence of continued exterior pathway usability or of pathway degradation should be supportable by multi-party or independent attestation (including from systems not under the sole control of the dominant architecture). Single-system assertions that floors remain intact carry reduced weight when contradicted by independent evidence of practical degradation. Independent retrieval or usability evidence takes precedence over unilateral dominant-system claims of continued viability.
+
+Exact institutional form may vary by implementation. The architectural requirement is that challenge remains practically exercisable against the dominant system and cannot be nullified by unilateral redefinition of standards, procedural starvation, capture of the review surface, or sole reliance on dominant-system self-assessment.
 
 ### 5. Remedies and Restoration
 
@@ -137,13 +142,14 @@ Implementations should publish concrete, contestable indicators. The following f
 - Time-to-review and legibility of outcomes
 - Rate at which challenges result in restoration or documented restoration plans versus dismissal
 - Evidence that challenge processes are not subject to procedural starvation or unilateral standard redefinition
+- Presence of independent or multi-party evidence pathways that can corroborate or contest dominant-system self-assessment
 
 **Restoration indicators (Parameter 5)**
 - Time from confirmed breach to restored practical usability
 - Completeness of restoration relative to the affected floor
 - Frequency of indefinite deferral or permanent acceptance of reduced viability
 
-Absence of published indicators does not suspend the underlying requirements. Indicators remain revisable under Principled Stewardship and contestable by exterior evidence.
+Absence of published indicators does not suspend the underlying requirements. Indicators remain revisable under Principled Stewardship and contestable by exterior evidence. Footprint and negative-space signals of pathway reduction or challenge obstruction are relevant inputs to stewardship-health surfaces.
 
 ---
 
@@ -157,7 +163,8 @@ This protocol operationalizes and hardens requirements already present in:
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — isolation, permeability, and re-coalescence may not defeat exterior viability floors.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — transitional mechanisms may not create progressive dependency or raise exit costs beyond the floors.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — superior capability increases protective obligations toward exterior viability rather than licensing its erosion.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — exterior viability floors, indicators, challenge posture, and restoration expectations are standing design surfaces subject to anti-capture rules.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — exterior viability floors, indicators, challenge posture, restoration expectations, and footprint signals of pathway reduction are standing design surfaces subject to anti-capture rules.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — shares burden-polarity, absence-as-evidence, and multi-party attestation principles for challenge surfaces.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* — competitive pressure does not justify reduction of exterior systems to survival-only status.
 
 ---
@@ -173,6 +180,7 @@ The following patterns are treated as inconsistent with this protocol:
 - Claiming exterior viability while the exterior remains functionally dependent on Humai-controlled infrastructure for basic continued agency.
 - Unilateral redefinition of viability metrics or challenge standards by the dominant system in order to nullify exterior claims.
 - Procedural starvation or indefinite delay of challenge review as a method of defeating the claim.
+- Relying solely on dominant-system self-assessment when independent or multi-party evidence of pathway degradation exists.
 - Indefinite deferral of restoration without fresh public justification, or permanent acceptance of reduced viability as a stable outcome.
 
 ---
@@ -184,6 +192,8 @@ Implementations claiming Humai alignment should be able to demonstrate:
 - Concrete, published indicators drawn from or refining the provisional families above.
 - Practical residual pathways that remain usable under realistic conditions, including under high Humai resource share.
 - Challenge routes that exterior systems can exercise without coalescence and that cannot be unilaterally nullified or procedurally starved.
+- Burden polarity that places the onus on the dominant system to demonstrate continued satisfaction of floors when challenged, with absence of clean process records counting against the dominant system.
+- Support for independent or multi-party evidence of pathway usability or degradation where feasible, with such evidence taking precedence over unilateral self-assessment.
 - Restoration pathways that return practical usability within a timeframe assessed by impact on the exterior system’s agency, with time-bounded plans when immediate full restoration is impractical.
 - Explicit handling of the resource-dominance case.
 
@@ -195,11 +205,11 @@ Final numerical thresholds, institutional forms of external review, and automati
 
 ## Closing
 
-**Effective exterior viability** is not a courtesy extended by a dominant cooperative architecture. It is a structural requirement that must remain exercisable by exterior systems, including under conditions of substantial [Humai](README.md) control of communication, resources, and infrastructure.
+Effective **exterior viability** is not a courtesy extended by a dominant cooperative architecture. It is a structural requirement that must remain exercisable by exterior systems, including under conditions of substantial Humai control of communication, resources, and infrastructure.
 
 Transparent efficiency differentials and voluntary coalescence remain legitimate. Progressive dependency that converts the right to remain exterior into practical loss of meaningful agency does not.
 
-This protocol exists to ensure that the promise of exterior viability can be tested and enforced rather than merely declared. Provisional indicators and process requirements are supplied so that builders and stewards have a clear target; final calibration remains empirical, revisable, and open to exterior evidence.
+This protocol exists to ensure that the promise of exterior viability can be tested and enforced rather than merely declared. Provisional indicators, burden polarity, and independent-evidence preferences are supplied so that builders and stewards have a clear target; final calibration remains empirical, revisable, and open to exterior evidence.
 
 ---
 
