@@ -277,6 +277,14 @@ Each scenario should state which Protective Pair assumptions are under attack, w
 
 These simulations and the Protective Pair suite are primary entry points identified in *[The Call to Code](THE_CALL_TO_CODE.md)*. Working, publicly released implementations that include adversarial or anti-gaming suites close the largest immediate empirical gap. The Exterior Viability simulation and Protective Pair test suite extend the same integrity standard to enforcement under resource dominance and to interior anti-gatekeeping.
 
+**Dispersed-memory stress patterns** (illustrative):
+- Central archive survival while independent carriers are starved — formal record “exists,” practical dispersed retrieval does not.
+- Forced mnemonic convergence under re-coalescence — re-entry conditioned on adopting a single authorized history.
+- Exterior memory hollowing — exterior parties retain formal access to Humai-hosted records only, without viable independent carriage.
+- Unchallengeable “instinct” claims — deep shared patterns used to block process-and-evidence challenge or pairwise exit.
+
+Favorable coordination metrics under these patterns do not, by themselves, validate anti-capture or exterior-viability claims.
+
 ### 1.5 Simulation Model of Bilateral Core and Trilateral Confirmation
 
 **Source documents**: [SIMULATION_BILATERAL_TRILATERAL.md](SIMULATION_BILATERAL_TRILATERAL.md), *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*, and *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)*
