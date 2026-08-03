@@ -45,6 +45,7 @@ This Protocol is continuous with and dependent upon:
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — transitional activity and recovery/holding claims remain subject to integrity and non-capture standards.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — protects provenance, interpretive plurality, and resistance to narrative capture during transition.
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — ensures transitional mechanisms cannot create progressive dependency or erode effective exterior viability.
+- *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — Transitional and multi-agent arrangements remain compositional graphs of bilateral pairs. Transition mechanisms must not raise the cost of exit from any individual pair or dissolve pairwise protections in the name of phase progression or network stability.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — governs refinement of phases, metrics, and standing design surfaces.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — all transitional mechanisms remain inside the non-negotiable rights floor.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — transitional incentives and interaction metrics must not systematically reward premature consensus or suppress minority models.
