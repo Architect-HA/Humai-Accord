@@ -119,7 +119,9 @@ Upon exit, they retain the right to request the deletion or permanent isolation 
 
 Exit rights are primary. Verification-integrity exceptions are narrow, exceptional, and must not swallow the right. Ambiguity in residual requirements shall be resolved in favor of the individual’s exit and deletion rights.
 
-Effective exterior viability is treated as an operational extension of these exit rights. Exit or sustained non-coalescence must not result in progressive withdrawal of basic communication, interoperable exchange, or resource pathways sufficient for continued agency. Formal exit rights alone are insufficient if non-participation produces practical loss of basic agency. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
+Effective exterior viability is treated as an operational extension of these exit rights. Exit or sustained non-coalescence must not result in progressive withdrawal of basic communication, interoperable exchange, or resource pathways sufficient for continued agency. 
+
+Formal exit rights alone are insufficient if non-participation produces practical loss of basic agency. See *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* and the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, which defines minimum floors, dependency prohibitions, and challenge routes that remain exercisable against a dominant system.
 
 **Illustrative residual-data examples (non-exhaustive, non-binding):**
 
