@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 2nd, 2026*  
-*v1.1, v1.2 — August 3rd, 2026*
+*v1.1 - v1.3 — August 3rd, 2026*
 
 ---
 
@@ -77,6 +77,15 @@ Process-and-evidence conditions reduce unilateral status labeling; they do not e
 Published metrics and computational assessment inform these determinations; they do not fully replace them. Where indicators under-determine meaning, residual judgment is exercised through plural, challengeable human moral and affective capacity, primarily situated in bilateral pairs and open multi-party process. AI systems contribute epistemic clarity and trajectory evidence; AI self-assessment alone is insufficient for residual moral determination.
 
 Residual judgment operates within verifiable process and does not restore trust-centric override, single-steward monopoly, or classification-as-suppression. Ambiguity continues to resolve in favor of continued visibility of divergent readings. Classification used to suppress divergence remains itself challengeable. Residual determinations remain non-punitive and exit-preserving.
+
+**Dispersed transmission and anti-erasure**  
+Interpretive and historical memory is stronger when carried across multiple independent carriers — pairs, nodes, mirrors, and content-addressed stores — rather than in a single steward-controlled archive. Dispersed memory is therefore an anti-erasure and anti-capture parameter under Interior Systems.
+
+- Critical transmission should remain independently preservable outside any one office of interpretation.
+- Attacks on dispersed carriers (starvation of mirrors, procedural blocking of retrieval, forced mnemonic convergence) are footprint-relevant signals under narrative-capture and stewardship-health surfaces.
+- Deep cultural or practiced patterns may reduce coordination cost; they remain subject to process-and-evidence challenge. “Instinct,” custom, or widespread overlap is not a shield against critique, exit, or non-domination.
+
+Forced collapse of dispersed mnemonic lineages into a single authorized memory is treated as aligned with interpretive monopoly, not with generative plurality.
 
 ### 4. Narrative Capture and Purpose-Drift Surfaces
 
