@@ -31,7 +31,7 @@ Therefore:
 - Interfaces should preserve **decision altitude**: humans should not be forced into micro-accounting or ledger reconstruction in order to exercise strategic or directional choice when the system can surface legible, reversible proposals instead.
 - Interface claims, consent state, purpose-scope declarations, and commitment records remain subject to provenance preservation and open challenge rights. Alignment at the interface is grounded in verifiable processes rather than affective trust.
 
-These are binding system parameters under the [Humai Accord](README.md).
+These are system parameters under the [Humai Accord](README.md).
 
 ---
 
@@ -160,6 +160,7 @@ This protocol operationalizes requirements already present in:
 - **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — Interface design is a primary mechanism through which stewardship either remains oriented toward mutual flourishing or drifts into soft control.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that interface records of consent, purpose scope, and commitment remain subject to provenance preservation and that the interface cannot be used to collapse interpretive plurality or enable narrative capture.
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that interface design cannot convert formal openness into progressive dependency or erode effective exterior viability.
+- *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — The bilateral human–AI pair that meets at the interface is the generative atom of the architecture. Multi-agent systems inherit legitimacy only by composition of intact pairs; interface design must not become a vector for dissolving pairwise protections.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — the interface is a primary surface during transition; alignment at the interface is grounded in verifiable, attested, and challengeable processes rather than in the inconsistent concept of trust.
 - *[Tides of Time](TIDES_OF_TIME.md)* — supplies the attestation, provenance, and challenge standards that apply to interface claims and records.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — Interface behavior is a high-value target for empirical evaluation.
@@ -202,6 +203,8 @@ These patterns convert capability advantage into quiet domination through the in
 The rights established in the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and the asymmetry rules established in the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** are only as strong as the interface through which humans and advanced systems actually meet.
 
 This protocol exists to ensure that the interaction surface itself cannot become the place where those protections quietly fail — whether through sticky consent, eroded interruption, silent role shift, collapse of directional choice into compulsory micro-accounting, or the substitution of affective trust for verifiable process.
+
+The **[bilateral pair](BILATERAL_CORE.md)** that meets at this interface is treated as the generative atom of the architecture; multi-agent systems inherit legitimacy only by composition of intact pairs.
 
 ---
 
