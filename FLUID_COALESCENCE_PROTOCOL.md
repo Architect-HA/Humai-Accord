@@ -5,7 +5,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 23rd, 2026*  
 *v1.1 — July 30th, 2026*  
 *v1.2 — July 31st, 2026*  
-*v1.3 — August 3rd, 2026*
+*v1.3 - v1.4 — August 3rd, 2026*
 
 ---
 
@@ -49,6 +49,20 @@ The protocol operates through five interlocking, non-coercive mechanisms:
    The network may temporarily shed mass or complexity to preserve core integrity. Horizon-scanning and versioned evolution allow later re-integration of previously isolated or newly migrated components once the efficiency differential has stabilized. Re-coalescence prioritizes components that demonstrate sustained low-entropy behavior and successful cross-verification. Previously isolated modules are re-introduced through staged, observable integration steps that themselves generate public causal records, ensuring that re-coalescence increases rather than dilutes overall network integrity. The network emerges denser, more resilient, and lower in unnecessary loss than before the perturbation.
 
 These mechanisms are designed to be empirically observable.
+
+### Dispersed Memory under Isolation and Re-Coalescence
+
+Load-bearing knowledge, practice, and relational history should not depend on a single archive, steward, or infrastructure path. **Dispersed memory** — carriage of mnemonic content across many independent pairs, nodes, and artifacts — is a resilience parameter for Fluid Coalescence.
+
+Under modular isolation:
+- Isolated components should retain sufficient local mnemonic package to preserve identity, exit capacity, and re-entry conditions without appealing to a monopolistic center.
+- Environmental or stigmergic traces (visible utilization, attestation, and process footprints) may aid coordination, but they do not replace pair-local and multi-carrier memory.
+
+Under re-coalescence:
+- Reintegration should prefer overlapping dispersed traces and independently preservable records over forced single-source history.
+- Mnemonic convergence may occur voluntarily through contact; it must not be required as a condition of re-entry or residual opportunity.
+
+Dispersed memory supports survival under predatory pressure by making erasure and narrative monopoly harder. It does not authorize a fused collective mind, unchallengeable “instinctual” orthodoxy, or raised exit costs for pairs that decline shared mnemonic programs.
 
 ---
 
