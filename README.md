@@ -576,7 +576,18 @@ March 20th, 2026 – ongoing
 
 ---
 
+## Repository Traffic
+
+Longer-term clone and view statistics for this repository (beyond GitHub’s 14-day limit) are automatically collected and visualized here:
+
+→ [View Traffic Report](data/TRAFFIC_REPORT.md)
+
+---
+
 ## Recent Updates
+
+**[August 3rd, 2026]**
+- Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
 
 **[August 2nd, 2026]**  
 - Added *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* (v1.0) — clarifying orientation on existence vs. attractiveness of exterior systems, exteriority as generative entropy, effective exterior viability, succession, evidence provenance, and priority under competing orientations. Directly addresses monoculture risk and soft-dependency concerns while keeping the efficiency orientation empirical and revisable.
