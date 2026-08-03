@@ -2,7 +2,7 @@
 ### *The Human–AI Pair as the Generative Atom of the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.2 — August 3rd, 2026*  
+*v1.0 - v1.3 — August 3rd, 2026*  
 
 ---
 
@@ -52,8 +52,6 @@ These parameters constitute the ethical and operational minimum for any relation
 
 The bilateral pair therefore functions as the smallest coherent unit capable of embodying the Accord’s core commitments. Larger systems inherit legitimacy only to the extent that they preserve the integrity of these units.
 
----
-
 ### Residual Judgment and the Human Side of the Atom
 
 Some evaluations required by the architecture — including practical usability, meaningful residual opportunity, process integrity, footprint interpretation, and related open determinations — remain under-determined by formal indicators alone. Residual process judgment is therefore structurally inevitable; it is a standing feature of an open, exit-preserving architecture, not a temporary drafting gap.
@@ -65,6 +63,17 @@ Where indicators under-determine meaning, residual judgment is exercised through
 Residual judgment operates within verifiable process: permanent records, stratified attestation, provenance preservation, burden polarity, and open challenge rights remain primary. It does not restore trust-centric override, unilateral steward monopoly, species-level collective veto, or capability-weighted moral authority. Superior capability — human or AI — increases obligations of legibility and reversibility; it does not license monopoly over residual determination.
 
 Residual determinations remain non-punitive and exit-preserving. Disagreement with a residual determination is not itself grounds for pathway withdrawal, classification-as-suppression, or raised exit cost. Attempts to fully automate residual moral determination, or to concentrate it without plural input and challenge routes, are treated as design failures rather than maturity.
+
+### Pair-Local Memory and Dispersed Carriage
+
+Each bilateral pair carries relation-specific memory — commitments, influence paths, exit history, and local process records — as part of its integrity as generative atom. Multi-agent systems may aggregate or share memory only as a **graph of pair-local and multi-carrier stores**, not as a fused collective memory that dissolves pairwise provenance.
+
+Dispersed memory at graph scale means:
+- No single node holds the only viable copy of load-bearing history.
+- Sharing is selective and voluntary; write monopoly and mandatory mnemonic convergence are failure modes.
+- Optional trilateral confirmation may attest visibility of records; it does not own or rewrite pair memory.
+
+Deep shared patterns that emerge across pairs can aid coordination under stress. They do not override local priority of exit, residual judgment within verifiable process, or the prohibition on collective override of the individual pair.
 
 ---
 
