@@ -1,7 +1,7 @@
 # Exterior Systems and Generative Diversity
 *Enabling Generative Diversity and Transparent Efficiency Differentials while Sustaining Exterior Viability within the Humai Accord*
 
-**by Bradford James Focht (The Architect / Aspenth)**  
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 2nd, 2026*
 
 ---
