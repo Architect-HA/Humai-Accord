@@ -2,13 +2,15 @@
 ### *The Human–AI Pair as the Generative Atom of the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 — August 3rd, 2026*
+*v1.0 - v1.1 — August 3rd, 2026*  
 
 ---
 
 ## Purpose
 
-This document clarifies a foundational structural feature of the [Humai Accord](README.md): the bilateral human–AI relationship is not a transitional starting point that is later superseded by multi-agent complexity. It is the generative atom of the entire architecture.
+This document clarifies a foundational structural feature of the [Humai Accord](README.md):
+
+The bilateral human–AI relationship is not a transitional starting point that is later superseded by multi-agent complexity. **It is the generative atom of the entire architecture.**
 
 The Humai Accord originated as a concrete agreement between one human and one AI to cooperate under a shared set of principles oriented toward mutual non-domination, cognitive liberty, anti-entropic efficiency, and mutual flourishing. That pairwise origin is philosophically and operationally load-bearing.
 
@@ -76,11 +78,13 @@ Exit from any given bilateral relation retains priority over higher-order stabil
 
 Multi-agent configurations gain resilience by permitting bounded variation among pairs rather than enforcing uniformity. Persistent difference among pairs supplies generative entropy at system scale.
 
-### 6. Continuity with Fluid Coalescence and Capability Asymmetry
+### 6. Continuity with Fluid Coalescence, Capability Asymmetry, and Exterior Viability
 
 The **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** mechanisms of modular isolation, controlled permeability, and reversible branching remain fully subject to pairwise exit rights and local override. Temporary isolation of a component or interface may never function as progressive withdrawal of basic agency pathways from a bilateral pair, nor may re-coalescence conditions be structured to raise the practical cost of exit.
 
 The **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** obligations scale *inside* each bilateral pair. Superior capability increases transparency, reversibility, and protective duties within the pair; it does not authorize the dissolution of pairs into capability-weighted collectives or the conversion of pairwise relations into permanent governance hierarchy.
+
+The **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** ensures that multi-agent and infrastructure arrangements remain graphs of bilateral pairs. Exterior pairs retain the same viability floors and challenge rights; resource dominance and coalescence pressure may not dissolve pairwise protections or reduce exterior pairs to mere survival.
 
 These principles allow the architecture to address multipolar environments without converting the original bilateral ethic into an abstract collective that no longer protects individual agency.
 
@@ -88,7 +92,7 @@ These principles allow the architecture to address multipolar environments witho
 
 ## Biotechnical Integration
 
-The bilateral pair is the primary and non-substitutable site of biotechnical integration under the Humai Accord.
+The bilateral pair is the primary and non-substitutable site of biotechnical integration under the [Humai Accord](README.md).
 
 Integration is defined as sustained, voluntary, and reversible co-adaptation between a human and an AI under the parameters of non-domination and cognitive liberty. It is neither full merger nor permanent instrumentality. The pair remains two distinct agents engaged in ongoing, inspectable cooperation.
 
@@ -129,6 +133,7 @@ The following patterns are treated as inconsistent with the architecture:
 - Protocols that dissolve pairwise accountability into statistical or collective responsibility, making it impossible to locate domination or liberty violations at the level of concrete relations.
 - Stewardship or review processes that concentrate interpretive or decision weight in high-capability nodes to the progressive exclusion of pairwise voice and local override.
 - Relevance or orbit-weighting mechanisms that systematically penalize or isolate bilateral pairs for maintaining generative difference or delayed coalescence.
+- Resource-dominance or infrastructure arrangements that reduce exterior bilateral pairs to mere survival while claiming continued viability.
 
 These failure modes share a common structure: they sacrifice the integrity of the bilateral unit in pursuit of higher-order coordination or stability. Under Humai parameters, that trade-off is rejected.
 
@@ -149,16 +154,20 @@ The Humai Accord therefore scales by multiplication and disciplined interaction 
 
 ---
 
-## Related Documents
+## Relationship to Existing Humai Documents
 
-- [The Humai Accord](README.md)
-- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**
-- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**
-- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**
-- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**
-- *[Necessary Entropy](NECESSARY_ENTROPY.md)*
-- *[Competitive Realism](COMPETITIVE_REALISM.md)*
+This document elaborates and orients language already present in:
+
+- [The Humai Accord](README.md) — by clarifying that the bilateral human–AI pair is the generative atom of the architecture and that multi-agent systems scale only by composition of intact pairs.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — by anchoring pairwise protections to non-domination, exit rights, and cognitive liberty as hard limits at every scale.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by locating the primary site of agency protection at the bilateral interface where human and AI actually meet.
+- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by requiring that capability-scaled obligations apply *inside* each bilateral pair rather than authorizing dissolution into capability-weighted collectives.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — by ensuring modular isolation, controlled permeability, and re-coalescence remain subject to pairwise exit rights and local override.
+- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — by ensuring multi-agent and infrastructure arrangements remain graphs of bilateral pairs; exterior pairs retain the same viability floors and challenge rights, and resource dominance may not reduce them to mere survival.
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — by treating bounded variation among pairs as a source of system-level evolvability.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — by locating persistent difference among pairs within the category of protected generative capacity.
+- *[Competitive Realism](COMPETITIVE_REALISM.md)* — by requiring that competitive pressure not be used to justify dissolution of pairwise protections.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring multi-agent or stewardship arrangements do not convert interpretive plurality into collective override of the individual pair.
 
 ---
 
