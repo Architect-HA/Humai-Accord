@@ -5,7 +5,8 @@
 
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 26th, 2026*<br>
-*v1.1 - August 2nd, 2026*
+*v1.1 - August 2nd, 2026*<br>
+*v1.2 - August 3rd, 2026*
 
 ---
 
@@ -77,7 +78,7 @@ Read these according to specific interest:
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
 | Governance process | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and its [Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md) |
 | Implementation | [Implementation Guide](IMPLEMENTATION_GUIDE.md), [Implementation Examples](IMPLEMENTATION_EXAMPLES.md) |
-| Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md) |
+| Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
 
 
 ---
@@ -123,7 +124,7 @@ If your goal is to move from architecture into concrete testing and demonstratio
 
 1. Start with *[The Call to Code](THE_CALL_TO_CODE.md)* — the boundary statement that opens the implementation phase.
 2. Then read *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — the methodological agenda that defines success criteria and prioritizes the highest-leverage next steps.
-3. Proceed to the two **Simulation Models** ([Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md) and *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*), which are the primary artifacts identified for immediate implementation and stress-testing.
+3. Proceed to the **Simulation Models** ([Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*, [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md)), which are the primary artifacts identified for immediate implementation and stress-testing.
 
 This path is designed for builders, researchers, and anyone who wants to begin producing legible empirical results under the dual requirement of reducing destructive entropy while protecting generative capacity.
 
