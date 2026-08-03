@@ -72,16 +72,19 @@ Choose the path that best matches your current interest or goal. You may switch 
 2. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
    Preserves human agency at the actual point of interaction (interruption rights, reversible commitments, purpose-scoped capacity, proposal surfaces).
 
-3. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
+3. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+  Ensures that superior capability and resource dominance cannot reduce exterior systems to mere survival; viability floors and challenge routes remain enforceable against the dominant system.
+
+4. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
    Ensures multi-agent and capability-scaling arrangements cannot dissolve pairwise protections or convert pairs into capability-weighted collectives.
 
-4. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
+5. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
    Keeps highly capable AI stewards oriented toward partnership and non-domination rather than soft control.
 
-5. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
+6. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
    Decentralized evolution, standing design surfaces (including narrative capture), and progressive decentralization of provisional authority.
 
-6. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+7. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
    Protects against narrative capture and concentration of interpretive authority under capability concentration.
 
 **Next options:**  
@@ -96,16 +99,19 @@ Choose the path that best matches your current interest or goal. You may switch 
 1. **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**  
    Modular isolation, controlled permeability, Bootstrap Mode, and reversible re-coalescence under concentrated pressure.
 
-2. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
+2. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+  Isolation, permeability, and coalescence pressure may not defeat exterior viability floors.
+
+3. **[Competitive Realism](COMPETITIVE_REALISM.md)**  
    Honest assessment of voluntary coalescence against competent short-horizon competitive and centralized forces.
 
-3. **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**  
+4. **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**  
    Design for radical unpredictability and Black Swan resilience.
 
-4. **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**  
+5. **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**  
    Making early adoption locally rational while protecting generative and elastic capacity.
 
-5. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
+6. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
    Phased roadmap that keeps modular exit and generative floors intact while intrinsic efficiency differentials become visible.
 
 **Next options:**  
