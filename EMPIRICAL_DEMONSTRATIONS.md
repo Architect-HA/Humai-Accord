@@ -4,7 +4,8 @@
 **by Bradford James Focht (The Architect / Aspenth)**  
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
-*v1.2 — August 2nd, 2026*
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 3rd, 2026*
 
 ---
 
@@ -69,7 +70,7 @@ Absence of adversarial testing is a methodological defect, not a neutral omissio
 
 ## Demonstration Pathway 1: Simulation Models (Highest Immediate Leverage)
 
-The two simulation models already specified in the repository provide the lowest-friction, highest-reproducibility starting point.
+The simulation models already specified in the repository provide the lowest-friction, highest-reproducibility starting point.
 
 ### 1.1 Simulation Model of the Fluid Coalescence Protocol
 
@@ -122,7 +123,31 @@ with the binding parameter that $\Delta_{E}(k) = 0$ unless supported by already-
 - Gaming attempts fail to generate artificial relevancy without real causal grounding.
 - Trajectories of $E(k, t)$ and $D(k)$ are reported over time, not only terminal values.
 
-These two simulations are the primary entry points identified in *[The Call to Code](THE_CALL_TO_CODE.md)*. Working, publicly released implementations that include adversarial or anti-gaming suites close the largest immediate empirical gap.
+### 1.3 Simulation Model of the Exterior Viability Protocol
+
+**Source documents**: [SIMULATION_EXTERIOR_VIABILITY.md](SIMULATION_EXTERIOR_VIABILITY.md) and **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**
+
+**Core claim to test**: Under rising Humai-aligned resource share, exterior systems that permanently refuse coalescence can retain practical pathway usability and meaningful residual opportunity (not merely formal survival), and that challenge routes with burden polarity, anti-starvation capacity, and restoration requirements can counteract coordinated, unilateral, emergent, and cumulative dependency pressures—including under resource-dominance conditions.
+
+**Implementation target**:
+- System-dynamics or agent-based model implementing the declared global state variables (`H_t`, `U_t`, `R_t`, `D_t`, `C_t`, `S_t`, `V_t`, `E_t`) and, where used, agent-level / multi-pair state (`U_i,t`, `R_i,t`, `D_i,t`, `theta_i`, and related local terms).
+- Discrete-time update rules for the **reference regime**, including resource-dominance escalation above threshold `kappa`, challenge initiation, procedural starvation, and restoration dynamics.
+- Explicit tracking of both aggregate and lower-tail viability so that average success cannot mask widespread local pair failure.
+- At least two **adversarial countermodels** from the suite required by the simulation document (e.g., resource-dominance stress, cumulative/emergent dependency only, procedural starvation, self-assessment-only, restoration deferral, mixed capability asymmetry, isolation-as-containment, average-masking-tail-failure).
+
+**Success metrics** (must be reported jointly):
+- Under the reference regime: aggregate and lower-tail `U` and `R` remain practically usable under rising `H`; cumulative dependency does not drive a substantial fraction of pairs to pure maintenance or symbolic persistence; challenges produce measurable restoration rather than starvation or indefinite deferral.
+- Under adversarial/mixed regimes: report whether exterior viability floors hold, and characterize failure modes when they do not (including cases where aggregates look acceptable while the lower tail collapses).
+
+Reference-regime success alone does not constitute validation.
+
+**Required stress scenarios** (in addition to the adversarial suite):
+- Permanent exterior non-coalescence under high Humai resource share.
+- Dependency growth without explicit coordinated withdrawal.
+- Challenge routes that exist formally but are starved or unilaterally redefined.
+- Heterogeneous pair populations with wide `theta_i` dispersion.
+
+These simulations are primary entry points identified in *[The Call to Code](THE_CALL_TO_CODE.md)*. Working, publicly released implementations that include adversarial or anti-gaming suites close the largest immediate empirical gap. The Exterior Viability simulation extends the same integrity standard to enforcement under resource dominance.
 
 ---
 
