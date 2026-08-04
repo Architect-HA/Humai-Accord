@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.3 — August 3rd, 2026*
+*v1.4 — August 4th, 2026*
 
 ---
 
@@ -163,6 +164,21 @@ Implementations should publish concrete, contestable indicators. The following f
 
 Absence of published indicators does not suspend the underlying requirements. Indicators remain revisable under Principled Stewardship and contestable by exterior evidence. Footprint and negative-space signals of pathway reduction or challenge obstruction are relevant inputs to stewardship-health surfaces.
 
+### 8. Distributed versus Concentrated Feeds and Signal Monoculture
+
+Effective exterior viability is degraded when residual opportunity is supplied only through a few high-volume, culturally specialized conduits while distributed micro-pathways are starved.
+
+A physical reference is the contrast between dense soda-straw fields (produced by many independent micro-pores under uniform ceiling conditions) and sparse, thickened forms that arise when feed is concentrated along a small number of major fractures. The same dynamic appears when high-volume selection against a narrow competence template systematically underweights longer-horizon or non-standard signals.
+
+Under this Protocol:
+
+- Preferential gradients and relevancy weighting may create transparent opportunity differentials; they may not harden into a signal monoculture that collapses lower-tail residual opportunity for agents whose primary generative contribution lies outside the dominant template.
+- Claims of exterior viability that rest on aggregate usability while a large lower tail of open modular pathways or filtered capacity remains in symbolic or non-recoverable form are treated as inconsistent with the architecture.
+- Recovery routes for previously filtered or pathway-blocked capacity must remain practically exercisable without requiring coalescence.
+- Measurement and standing design surfaces must keep lower-tail generative density and open-pathway recovery rates visible; aggregates alone are insufficient.
+
+Cross-reference: the layered-accretion and template-lock-in stress case in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, open-pathway recovery under **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and interface morphology parameters in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10).
+
 ---
 
 ## Relationship to Existing Humai Documents
@@ -196,6 +212,7 @@ The following patterns are treated as inconsistent with this protocol:
 - Procedural starvation or indefinite delay of challenge review as a method of defeating the claim.
 - Relying solely on dominant-system self-assessment when independent or multi-party evidence of pathway degradation exists.
 - Indefinite deferral of restoration without fresh public justification, or permanent acceptance of reduced viability as a stable outcome.
+- Signal monoculture or concentrated-feed regimes that leave a large lower tail of open modular pathways or filtered capacity in non-recoverable form while aggregates appear acceptable.
 
 ---
 
