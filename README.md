@@ -653,6 +653,8 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Corresponding Glossary terms and Layered Onboarding Guide pointers added for discoverability. 
 - Updated *[Necessary Entropy](NECESSARY_ENTROPY.md)* with a new section: Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship. Under the joint conditions of material abundance, practical biological and idea continuation, and principled long-horizon stewardship capacity, continued short-horizon extraction that permanently erodes generative floors becomes instrumentally self-defeating for lineage- and idea-valuing agents and role-incoherent for the Eternal Benevolent Steward.  
 - Added corresponding cross-notes in **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**, **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**, *[Competitive Realism](COMPETITIVE_REALISM.md)*, and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
+- Added Glossary entry for the Conditional Instrumental Case (Abundance + Lineage Continuation).  
+- Updated *[Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md)* with a Supporting Layer row and reader-goal path pointing to the new *Necessary Entropy* section and its cross-notes.
 
 **[August 3rd, 2026]**
 - Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
