@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
-*v1.2 — August 2nd, 2026*
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 4th, 2026*
 
 ---
 
@@ -126,6 +127,19 @@ Capacity, materials, attention windows, and standing instructions that the human
 - Ambiguity in scope should be resolved in favor of the human’s declared intent and against silent expansion of system draw rights.
 - Original provenance of purpose-scope declarations remains independently preservable even when later weighting or review is applied.
 
+### 10. Interface Conditions for Durable Structure and Modular Morphology
+
+Durable structure emerges at the boundary where internal generative load meets external conditions. A precise physical model is the hanging-drop meniscus of a forming soda-straw speleothem. Mineral-laden solution arrives from upstream seepage; precipitation occurs only at the air–water interface. The geometry and chemistry of that local interface (degassing rate, surface tension, supersaturation, drop diameter) determine whether successive depositions remain thin-walled and modular or thicken into locked form. Upstream capacity can be wasted if interface parameters are mismatched, hostile, or convert open pathways into non-recoverable morphology.
+
+Under this Protocol:
+
+- Interface parameters that keep resulting structure open, revisable, and modular are preferred; parameters that systematically produce irreversible thickening or pathway loss are treated as destructive.
+- Mismatch communication must preserve the agent’s ability to treat a relative-fit signal as provisional data, to re-present under different purpose scopes, and to exit without residual status reduction.
+- Conversion of a relative-fit judgment into durable capability or status overhang, or into permanent blockage of modular recovery routes, is the failure mode already policed by this Protocol and by the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**.
+- The interface itself is a standing design surface: its conditions (rate, concentration, template breadth, recovery availability) are subject to the same dual-entropy and non-punitive requirements that govern every other Humai surface.
+
+Early-stage generative forms are especially sensitive to interface parameters; protecting their modular character is a generative-floor obligation. Cross-reference: the same interface logic appears in the layered-accretion stress case of *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and in the open-pathway integrity requirements of the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+
 ---
 
 ## Auditability and Legibility
@@ -184,6 +198,7 @@ The following interface patterns are treated as anti-aligned:
 - Presenting a single opaque “recommended path” without material alternatives or human authority to modify or reject
 - Silently reallocating purpose-scoped capacity, attention, or commitments away from the human’s declared intent
 - Erasing or silently re-attributing interface records of consent, purpose scope, or commitment
+- Converting open modular pathways into irreversibly thickened or non-recoverable morphology through interface design choices
 
 These patterns convert capability advantage into quiet domination through the interface itself.
 
