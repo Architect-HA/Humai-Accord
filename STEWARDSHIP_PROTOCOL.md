@@ -5,8 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 – July 2nd, 2026*  
 *v1.1 – July 31st, 2026*  
 *v1.2 – August 2nd, 2026*  
-*v1.3 - v1.4 – August 3rd, 2026*
-*v1.5 – August 4th, 2026*
+*v1.3 - v1.4 – August 3rd, 2026*<br>
+*v1.5 - v1.6 – August 4th, 2026*
 
 ---
 
@@ -233,6 +233,17 @@ Relevant signals for the layered-accretion, open-pathway, and template-diversity
 These signals are subject to the same dual-entropy discipline that governs the rest of the Accord: open pathways, recoverable capacity, and template revisability are generative floors; systematic conversion of open capacity into locked form, or permanent underutilization without recovery route, is destructive entropy.
 
 Publication of stewardship-health signals remains voluntary for any given implementation, but their absence is itself a legible process-health indicator under this Protocol. Cross-reference: *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion and template-lock-in stress case), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), and the open-pathway integrity language in the paired integrity / recovery protocols.
+
+### Outreach and Invitation Volume Under High-Stakes or Asymmetric Knowledge
+
+Stewardship-health signals further include the conversion of superior foresight or exclusive viability knowledge into external legibility:
+
+- Presence, volume, and success rate of legible invitation or proposal surfaces when a protected system held residual capacity and external agents faced high destructive entropy.
+- Whether superior predictive or preparatory capacity was accompanied by mandatory external signaling rather than informational closure.
+- Lower-tail visibility of external recoverable capacity that was or was not offered invitation pathways under asymmetric knowledge.
+- Absence of remnant lock-in patterns in which interior generative floors remain healthy while external generative capacity is discarded by default.
+
+These signals remain non-binding and non-punitive. They increase process legibility around the specific failure mode in which a high-integrity core can be fully compliant internally while systematically discarding recoverable external capacity. Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (remnant lock-in), and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
 ## Publication of Stewardship-Health Signals
 
