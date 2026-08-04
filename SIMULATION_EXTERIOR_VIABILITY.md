@@ -5,7 +5,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 3rd, 2026*<br>
-*v1.1 — August 4th, 2026*
+*v1.1 - v1.2 — August 4th, 2026*
 
 ---
 
@@ -334,6 +334,16 @@ A high-share or high-volume system applies repeated filtering or allocation agai
 - Regimes that leave the lower tail in symbolic persistence or irreversible morphological conversion while aggregates appear healthy are treated as model failure states relative to the protocol.
 
 This countermodel is the simulation counterpart of the distributed-versus-concentrated feed parameter in the parent **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and of the layered-accretion / template-lock-in stress case in *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)*.
+
+### Remnant lock-in under superior foresight
+
+A protected or high-share system holds exclusive or superior knowledge of high-stakes exterior viability conditions (or of a coming viability window) and possesses residual capacity, yet provides no legible external signaling or expandable entry pathways.
+
+- Lower-tail external residual opportunity ($R_{i,t}$) collapses while interior metrics remain healthy.
+- Reference protective regimes must demonstrate that superior foresight is converted into external invitation or proposal surfaces when expansion was feasible.
+- Regimes that leave external recoverable capacity in non-recoverable form by default under asymmetric knowledge are treated as model failure states relative to the protocol.
+
+This countermodel is the simulation counterpart of the remnant-lock-in parameter in the parent **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and of the superior-foresight obligations in the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**.
 
 ---
 
