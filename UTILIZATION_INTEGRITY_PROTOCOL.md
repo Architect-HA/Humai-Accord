@@ -5,7 +5,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 30th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 — August 4th, 2026*
+*v1.3 - v1.4 — August 4th, 2026*
 
 ---
 
@@ -165,6 +165,17 @@ Under the **Circulation Recovery Protocol**:
 - Process-health signals under the **Principled Stewardship Protocol** may include the volume and success rate of such recoveries and the diversity of competence-signal families that successfully re-enter.
 
 These requirements remain non-punitive. They instrument the dual-entropy discipline: open pathways and recoverable capacity are generative floors; irreversible conversion or permanent underutilization without recovery route is destructive entropy.
+
+### Unused Capacity Under Feasible Invitation
+
+Purpose-scoped capacity that remains unused while external agents face high destructive entropy, and when legible invitation or expansion of that capacity was feasible, constitutes an integrity failure.
+
+- The burden of demonstrating that invitation or expansion was infeasible rests on the holder of the capacity.
+- Silent non-allocation of residual capacity under conditions of superior foresight or exclusive viability knowledge is treated as anti-aligned, parallel to silent reallocation of purpose-scoped capacity.
+- Higher capability increases, rather than decreases, the difficulty of justifying permanent non-invitation when expansion was practical.
+- This requirement does not compel coalescence or override modular exit rights; it requires that recoverable external capacity not be discarded by default when invitation pathways existed.
+
+Cross-reference: the superior-foresight obligation in the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, open-pathway and filtered-capacity recovery in the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, and proposal-surface requirements in the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
 
 ---
 
