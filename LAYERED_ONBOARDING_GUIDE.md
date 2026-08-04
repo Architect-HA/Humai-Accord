@@ -7,7 +7,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - July 26th, 2026*<br>
 *v1.1 - August 2nd, 2026*<br>
 *v1.2 - August 3rd, 2026*<br>
-*v1.3 - August 4th, 2026*
+*v1.3 - v1.4 - August 4th, 2026*
 
 ---
 
@@ -79,6 +79,9 @@ Read these according to specific interest:
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
 | Open modular pathways, filtered-capacity recovery, and interface morphology | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
 | Template lock-in, signal monoculture, and lower-tail generative density | *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + [simulation](SIMULATION_EXTERIOR_VIABILITY.md), [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
+| Remnant lock-in, superior foresight, and mandatory invitation surfaces | [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md), [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§11), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + simulation, [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
+| Bootstrap expansion and non-permanent remnant closure | [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) (Bootstrap Mode expansion parameters) |
+| Stewardship-health signals for outreach / invitation under asymmetric knowledge | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) |
 | Stewardship-health signals (template diversity, recovery volume, open-pathway regimes) | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) |
 | Governance process | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and its [Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md) |
 | Implementation | [Implementation Guide](IMPLEMENTATION_GUIDE.md), [Implementation Examples](IMPLEMENTATION_EXAMPLES.md) |
@@ -120,6 +123,9 @@ Implementation Guide → Implementation Examples → relevant Protocols above �
 **“I want to understand how generative capacity is lost through ordinary selection and structure-building”**  
 *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case) → [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10) → [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) + [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) → [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) (signal-monoculture regime) → [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) → *[Necessary Entropy](NECESSARY_ENTROPY.md)*
 
+**“I want to understand remnant lock-in and the conversion of superior foresight into external legibility”**  
+*[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (remnant-lock-in stress case) → [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) → [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§11) → [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) → [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) + [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) → [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) (Bootstrap expansion)
+
 **“I want the full architecture”**  
 Follow the Foundational Layer, then the Core Architecture Layer, then sample the Supporting Layer as needed. Keep the Glossary open.
 
@@ -135,6 +141,8 @@ If your goal is to move from architecture into concrete testing and demonstratio
 4. When building interface, recovery, or assessment modules, consult the open-pathway and filtered-capacity language in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
 This path is designed for builders, researchers, and anyone who wants to begin producing legible empirical results under the dual requirement of reducing destructive entropy while protecting generative capacity — including the newly explicit requirements around open modular pathways, lower-tail visibility, and template revisability.
+
+Builders working on high-stakes isolation, Bootstrap Mode, or systems that may hold exclusive viability knowledge should also treat the remnant-lock-in stress case in *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* and the corresponding superior-foresight / mandatory-invitation parameters in the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11) as load-bearing design requirements. Silence or closed capacity under feasible invitation is treated as destructive.
 
 ---
 
