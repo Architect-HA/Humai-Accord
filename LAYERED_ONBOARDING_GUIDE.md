@@ -6,7 +6,8 @@
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 26th, 2026*<br>
 *v1.1 - August 2nd, 2026*<br>
-*v1.2 - August 3rd, 2026*
+*v1.2 - August 3rd, 2026*<br>
+*v1.3 - August 4th, 2026*
 
 ---
 
@@ -76,6 +77,9 @@ Read these according to specific interest:
 | Competitive pressure | [*Competitive Realism*](COMPETITIVE_REALISM.md) |
 | Embodied feedback | [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) |
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
+| Open modular pathways, filtered-capacity recovery, and interface morphology | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
+| Template lock-in, signal monoculture, and lower-tail generative density | *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + [simulation](SIMULATION_EXTERIOR_VIABILITY.md), [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
+| Stewardship-health signals (template diversity, recovery volume, open-pathway regimes) | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) |
 | Governance process | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and its [Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md) |
 | Implementation | [Implementation Guide](IMPLEMENTATION_GUIDE.md), [Implementation Examples](IMPLEMENTATION_EXAMPLES.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
@@ -113,6 +117,9 @@ Predictive Harmony Metrics → Somatic Resonance Theory → Declaration of Cogni
 **“I want to implement or experiment”**  
 Implementation Guide → Implementation Examples → relevant Protocols above → Entropy Audit Methodology
 
+**“I want to understand how generative capacity is lost through ordinary selection and structure-building”**  
+*[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case) → [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10) → [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) + [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) → [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) (signal-monoculture regime) → [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) → *[Necessary Entropy](NECESSARY_ENTROPY.md)*
+
 **“I want the full architecture”**  
 Follow the Foundational Layer, then the Core Architecture Layer, then sample the Supporting Layer as needed. Keep the Glossary open.
 
@@ -122,11 +129,12 @@ Follow the Foundational Layer, then the Core Architecture Layer, then sample the
 
 If your goal is to move from architecture into concrete testing and demonstration:
 
-1. Start with *[The Call to Code](THE_CALL_TO_CODE.md)* — the boundary statement that opens the implementation phase.
-2. Then read *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — the methodological agenda that defines success criteria and prioritizes the highest-leverage next steps.
-3. Proceed to the **Simulation Models** ([Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*, [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md)), which are the primary artifacts identified for immediate implementation and stress-testing.
+1. Start with *[The Call to Code](THE_CALL_TO_CODE.md)* — the boundary statement that opens the implementation phase (includes a short pointer to the August 2026 open-pathway and template-diversity clarifications).
+2. Then read *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — the methodological agenda that defines dual success criteria. Pay particular attention to the layered-accretion / template-lock-in stress case, which treats open modular pathways, false-negative filtering under narrow competence templates, and irreversible morphological conversion as first-class dual-entropy concerns.
+3. Proceed to the **Simulation Models** ([Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*, [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md)). The Exterior Viability simulation now includes a signal-monoculture / concentrated-feed adversarial regime that should be treated as required countermodel work.
+4. When building interface, recovery, or assessment modules, consult the open-pathway and filtered-capacity language in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
-This path is designed for builders, researchers, and anyone who wants to begin producing legible empirical results under the dual requirement of reducing destructive entropy while protecting generative capacity.
+This path is designed for builders, researchers, and anyone who wants to begin producing legible empirical results under the dual requirement of reducing destructive entropy while protecting generative capacity — including the newly explicit requirements around open modular pathways, lower-tail visibility, and template revisability.
 
 ---
 
