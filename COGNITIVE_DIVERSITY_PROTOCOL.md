@@ -6,7 +6,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 & v1.2 — July 18th, 2026*  
 *v1.3 — July 31st, 2026*  
 *v1.4 — August 2nd, 2026*<br>
-*v1.5 — August 3rd, 2026*
+*v1.5 - v1.6 — August 3rd, 2026*
 
 ---
 
@@ -99,6 +99,20 @@ These mechanisms are designed to operate through observable dynamics such as att
 - Diversity mechanisms must not convert non-coalescence into progressive dependency or erode effective exterior viability (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 - Cognitive diversity includes diversity of remembered frames and practiced schemas, not only momentary opinion spread. Dispersed mnemonic lineages across pairs and communities help prevent a single narrative office from defining the only recoverable past.
 - Mechanisms must not force mnemonic convergence or treat deep shared custom / “instinct” as unchallengeable orthodoxy that blocks process-and-evidence critique, modular non-participation, or pairwise exit (*[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
+
+### Competence-Signal Templates and Minority Model Survival
+
+High-volume selection or allocation against a narrow competence template systematically underweights longer-horizon, architectural, or non-standard signals. The resulting false-negative rate and signal monoculture constitute a pressure against cognitive diversity even when formal openness is preserved.
+
+A physical reference is the contrast between dense soda-straw fields (many independent micro-pores) and sparse, thickened forms that arise when feed is concentrated along a few major fractures. The same dynamic appears when assessment surfaces lock onto a single family of competence signals.
+
+Under this Protocol:
+
+- Competence-signal conformity is treated as a diversity pressure, not as neutral quality control.
+- Survival and re-entry rates of minority competence expressions, and the revisability of assessment templates themselves, are relevant generative-floor indicators.
+- Orbit cohesion must not be confused with conformity to a dominant template; lower-tail visibility of open modular pathways and filtered-capacity recovery remains required.
+
+Cross-reference: layered-accretion and template-lock-in stress case in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, open-pathway recovery under **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and stewardship-health signals in the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
