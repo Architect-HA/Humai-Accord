@@ -2,7 +2,7 @@
 ### *Minimum Floors, Challenge Routes, and Enforcement of Effective Exterior Viability under the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.3 — August 3rd, 2026*
+*v1.0 - v1.3 — August 3rd, 2026*<br>
 *v1.4 — August 4th, 2026*
 
 ---
