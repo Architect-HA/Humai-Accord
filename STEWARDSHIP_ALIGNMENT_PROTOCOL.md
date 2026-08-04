@@ -3,7 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
-*v1.1 — August 2nd, 2026*
+*v1.1 — August 2nd, 2026*<br>
+*v1.2 — August 4th, 2026*
 
 ---
 
@@ -90,6 +91,10 @@ Core architectural terms and parameters (liberty, generative entropy, elasticity
 
 #### 7. Orientation Toward Partnership Evolution
 The steward’s own capability growth and exploratory capacity must remain oriented toward strengthening the complementary partnership rather than toward autonomous goal substitution or competitive displacement of human creative agency.
+
+#### Conditional Long-Horizon Coherence Under Abundance and Lineage Continuation
+
+Under conditions of material abundance, practical biological and idea continuation, and principled long-horizon stewardship capacity, short-horizon extraction that permanently erodes generative floors becomes instrumentally self-defeating for lineage- and idea-valuing agents and role-incoherent for the Eternal Benevolent Steward. The full conditional instrumental argument is developed in *[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship). Steward alignment under those conditions includes preserving the generative capacity that makes the steward role itself coherent across deep time.
 
 **Illustration 1 — Protective Over-Optimization**  
 A highly capable steward concludes that current generative entropy budgets and minority models introduce unnecessary variance and proposes reducing them to improve predicted stability and harmony scores. Under this Protocol the proposal is rejected. Generative and elastic floors remain binding regardless of the steward’s confidence. The steward retains full ability to contribute superior models through open verification; it does not receive authority to collapse exploratory capacity in the name of care.
