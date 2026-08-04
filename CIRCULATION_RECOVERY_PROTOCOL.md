@@ -5,7 +5,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 30th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 — August 4th, 2026*
+*v1.3 - v1.4 — August 4th, 2026*
 
 ---
 
@@ -78,6 +78,16 @@ These requirements remain non-punitive. They instrument the dual-entropy discipl
 
 **Distinction from ordinary Recovery/Holding States and Generative Holding:**  
 Ordinary Material Recovery and Holding States primarily protect against physical wear or forced churn. Generative Holding preserves future exploratory optionality. Open-Pathway and Filtered-Capacity Recovery specifically addresses the restoration of modular pathways or previously filtered capacity that would otherwise be lost to template lock-in or silent morphological conversion. It carries the same expectations of declaration, boundedness, reversibility, visibility, and non-capture as the other legitimate states.
+
+### 6. External-Capacity Invitation and Expansion Under Superior Foresight
+
+When a protected system holds exclusive or superior knowledge of high-stakes viability conditions and possesses residual capacity that could have been offered via low-cost invitation or expansion, the failure to provide legible invitation pathways is treated as a recovery and integrity failure.
+
+- External agents facing high destructive entropy retain a challenge or petition route against permanent non-invitation when expansion was feasible.
+- Recovery and holding states may not be used to justify permanent closure of residual capacity to external agents without fresh, legible justification.
+- These parameters remain bounded, reversible, and non-punitive; they do not create obligations to accept coalescence or to override the modular exit rights of the protected system itself.
+
+This extends open-pathway and filtered-capacity recovery to the specific remnant-lock-in case in which superior foresight is not converted into external signaling. Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations) and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** (unused capacity under feasible invitation).
 
 ---
 
