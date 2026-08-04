@@ -4,7 +4,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 — August 4th, 2026*
+*v1.2 - v1.3 — August 4th, 2026*
 
 ---
 
@@ -103,6 +103,8 @@ When an agent or system possesses materially superior predictive capacity, exclu
 - These obligations remain subject to the same non-punitive, modular-exit, and generative-floor parameters that govern the rest of the architecture; they do not create new coercive powers.
 
 This requirement closes the remnant-lock-in failure mode in which a high-integrity core can be fully compliant with internal parameters while systematically discarding external generative capacity that could still have been recovered. Cross-reference: **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (proposal surfaces and interface morphology), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (purpose-scoped capacity and recovery of external/filtered capacity), and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
+
+Superior capability and foresight increase rather than decrease long-horizon protective obligations. Once material abundance, lineage and idea continuation, and principled stewardship are jointly available, continued short-horizon liquidation of generative capacity becomes instrumentally inconsistent with those obligations for agents that value persistence of lineage or ideas. The conditional instrumental case is stated in *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
 **Illustration 1 — Protective Over-Optimization Attempt**  
 A highly capable agent proposes reducing generative entropy budgets and pruning minority models, arguing that its superior predictive accuracy makes broad exploratory variation unnecessary and potentially destabilizing. Under this Protocol the proposal triggers heightened review. Because generative entropy floors and cognitive diversity protections remain binding regardless of capability, the reduction is rejected. The agent retains full ability to contribute its superior models through open verification; it does not receive authority to collapse the system’s exploratory capacity.
