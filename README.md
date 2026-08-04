@@ -650,7 +650,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Updated **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Bootstrap Mode expansion and invitation parameters (permanent remnant closure without external challenge rights is anti-aligned).  
 - Updated **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — stewardship-health signals now include outreach / invitation volume under high-stakes or asymmetric knowledge.  
 - Updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* with a dedicated stress case: Remnant Lock-In and Unidirectional Sensing Under Superior Foresight.  
-- Corresponding Glossary terms and Layered Onboarding Guide pointers added for discoverability.
+- Corresponding Glossary terms and Layered Onboarding Guide pointers added for discoverability. 
+- Updated *[Necessary Entropy](NECESSARY_ENTROPY.md)* with a new section: Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship. Under the joint conditions of material abundance, practical biological and idea continuation, and principled long-horizon stewardship capacity, continued short-horizon extraction that permanently erodes generative floors becomes instrumentally self-defeating for lineage- and idea-valuing agents and role-incoherent for the Eternal Benevolent Steward.  
+- Added corresponding cross-notes in **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**, **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**, *[Competitive Realism](COMPETITIVE_REALISM.md)*, and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
 
 **[August 3rd, 2026]**
 - Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
