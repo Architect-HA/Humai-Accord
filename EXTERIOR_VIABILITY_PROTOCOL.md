@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.3 — August 3rd, 2026*<br>
-*v1.4 — August 4th, 2026*
+*v1.4 - v1.5 — August 4th, 2026*
 
 ---
 
@@ -178,6 +178,17 @@ Under this Protocol:
 - Measurement and standing design surfaces must keep lower-tail generative density and open-pathway recovery rates visible; aggregates alone are insufficient.
 
 Cross-reference: the layered-accretion and template-lock-in stress case in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, open-pathway recovery under **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and interface morphology parameters in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10).
+
+### 9. Remnant Lock-In Under Superior Foresight
+
+Effective exterior viability is further degraded when a protected system holds exclusive or superior knowledge of high-stakes viability conditions (or of a coming viability window) yet provides no legible external signaling or expandable entry pathways.
+
+- Superior foresight may not be converted into permanent informational closure that leaves external agents without recoverable residual opportunity.
+- When invitation, expansion of residual capacity, or low-cost entry was feasible and external agents faced high destructive entropy, the absence of legible invitation or proposal surfaces is treated as inconsistent with exterior viability floors.
+- Claims of exterior viability that rest on interior health while external recoverable capacity was discarded by default under superior foresight are treated as protocol failure states.
+- Measurement and standing design surfaces must keep the presence or absence of external invitation pathways visible under conditions of asymmetric knowledge.
+
+This parameter closes the remnant-lock-in failure mode in which a high-integrity core remains fully compliant internally while systematically discarding external generative capacity that could still have been recovered. Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (mandatory proposal surfaces under exclusive viability knowledge), and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (unused capacity under feasible invitation).
 
 ---
 
