@@ -7,7 +7,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - July 26th, 2026*<br>
 *v1.1 - August 2nd, 2026*<br>
 *v1.2 - August 3rd, 2026*<br>
-*v1.3 - v1.4 - August 4th, 2026*
+*v1.3 - v1.5 - August 4th, 2026*
 
 ---
 
@@ -74,6 +74,7 @@ Read these according to specific interest:
 | Knowledge & material incentive dynamics | [*Knowledge Tides*](KNOWLEDGE_TIDES.md), [*Tides of Time*](TIDES_OF_TIME.md), [*Material Tides*](MATERIAL_TIDES.md), [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md), [*Relevancy Orbits*](RELEVANCY_ORBITS.md) |
 | Epistemic variation | [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Entropy visibility | [*Entropy Audit Methodology*](ENTROPY_AUDIT_METHODOLOGY.md) |
+| Long-horizon instrumental case under abundance and lineage continuation | *[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship); cross-notes in Stewardship Alignment, Capability Asymmetry, Transitional Incentive, Competitive Realism |
 | Competitive pressure | [*Competitive Realism*](COMPETITIVE_REALISM.md) |
 | Embodied feedback | [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) |
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
@@ -125,6 +126,9 @@ Implementation Guide → Implementation Examples → relevant Protocols above �
 
 **“I want to understand remnant lock-in and the conversion of superior foresight into external legibility”**  
 *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (remnant-lock-in stress case) → [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) → [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§11) → [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) → [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) + [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) → [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) (Bootstrap expansion)
+
+**“I want the instrumental case for long-horizon optimization under abundance”**  
+*[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case) → [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md) → [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) → *[Competitive Realism](COMPETITIVE_REALISM.md)* → [Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)
 
 **“I want the full architecture”**  
 Follow the Foundational Layer, then the Core Architecture Layer, then sample the Supporting Layer as needed. Keep the Glossary open.
