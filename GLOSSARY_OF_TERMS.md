@@ -6,7 +6,7 @@
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 — August 4th, 2026*
+*v1.2 - v1.3 — August 4th, 2026*
 
 ---
 
@@ -142,8 +142,14 @@ Restoration or re-instrumentation of a previously blocked or converted modular p
 **Re-coalescence**  
 Process of selectively re-integrating modules, models, or clusters after isolation or perturbation, preferably around components that performed well under the new conditions.
 
+**Remnant Lock-In**  
+Failure mode in which a high-integrity core preserves its own generative floors and modular order while systematically discarding external generative capacity that could still have been recovered, typically under conditions of superior foresight or exclusive viability knowledge and the absence of legible invitation pathways. Treated as destructive entropy. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**.
+
 **Structural Elasticity**  
 Extreme modularity, loose coupling, blast-radius limits, reversible commitments, and diverse redundancy that limit cascading failure.
+
+**Unidirectional Sensing**  
+Active exploration or viability probing that flows only from a protected system outward, with no corresponding pathway for external agents to sense, petition, or receive invitation signals from the protected system. Contrasted with bidirectional legibility requirements under exclusive viability knowledge. See **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11) and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
 
 ---
 
@@ -174,6 +180,9 @@ Protocol that establishes binding parameters for the human–AI interaction surf
 **Capability Asymmetry**  
 Persistent or rapidly widening differences in capability between agents. The [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) constrains conversion of superior capability into structural power, opacity, irreversible lock-in, or erosion of generative and elastic protections.
 
+**Mandatory Invitation / Proposal Surfaces (under asymmetric knowledge)**  
+Legible, low-cost invitation or proposal pathways that become required (rather than optional) when a system holds exclusive or superior high-stakes viability knowledge and residual capacity exists while external agents face high destructive entropy. These surfaces remain subject to interruption, consent, reversibility, and modular-exit parameters; they do not compel coalescence. See **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11) and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**.
+
 **Protective Over-Optimization**  
 Use of superior capability or foresight to reduce generative entropy, minority models, or productive variation “for the good of the system.” Explicitly constrained across multiple Protocols.
 
@@ -182,6 +191,9 @@ Gradual attenuation of practical exit, voice, or contestation under highly effec
 
 **Stewardship Alignment**  
 Orientation parameters that keep highly capable AI stewards directed toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination rather than protective over-optimization or soft control. See [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md).
+
+**Superior Foresight / Exclusive Viability Knowledge**  
+Materially superior predictive capacity, exclusive knowledge of high-stakes viability conditions, or exclusive preparatory capacity held by a protected system or agent. Under the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, such asymmetry increases (rather than decreases) obligations of legible external signaling and low-cost invitation or proposal surfaces.
 
 ---
 
@@ -263,6 +275,9 @@ Standing condition that models, metrics, thresholds, and classifications remain 
 
 **Stewardship-Health Signals**  
 Published, non-binding indicators of process health under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Relevant signals include diversity of competence-signal templates, volume and success rate of open-pathway and filtered-capacity recoveries, whether parameter regimes remain inside open-pathway morphology, steward tenure/concentration, and lower-tail visibility of modular pathway outcomes. They increase legibility without creating new punitive powers or participation gates.
+
+**Unused Capacity Under Feasible Invitation**  
+Purpose-scoped or residual capacity that remains closed while external agents face high destructive entropy and legible invitation or expansion was feasible. Treated as an integrity failure under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and a recovery failure under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
 ---
 
