@@ -638,6 +638,8 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Updated **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its simulation model with distributed-versus-concentrated feed / signal-monoculture parameters, adversarial countermodel, and illustrative trajectory.  
 - Added corresponding cross-notes in **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.  
 - These refinements keep relative-fit signals provisional, treat open modular pathways as generative floors, treat irreversible pathway conversion and signal monoculture as destructive entropy, and require lower-tail visibility.
+- Updated *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* with concise definitions for the new terminology introduced in the open-pathway / template-diversity refinements: Open Modular Pathway, Open-Pathway Recovery, Filtered-Capacity Recovery, Layered Generative Accretion, Competence-Signal Template, Signal Monoculture / Template Lock-In, Stewardship-Health Signals, and Morphological Conversion (Open → Locked).  
+- Updated *[Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md)* (v1.3) — added Implementation & Empirical Path pointers to the layered-accretion / template-lock-in stress case and open-pathway language; expanded the Supporting & Specialized Layer table; added a new reader-goal path for understanding how generative capacity is lost through ordinary selection and structure-building.
 
 **[August 3rd, 2026]**
 - Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
