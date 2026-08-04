@@ -6,6 +6,7 @@
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
+*v1.2 — August 4th, 2026*
 
 ---
 
@@ -92,6 +93,9 @@ Defined minimum levels of generative capacity that may not be reduced even under
 **Generative Entropy** (functional sense of *[Necessary Entropy](NECESSARY_ENTROPY.md)*)  
 Bounded variation, creative perturbation, exploratory inefficiency, minority and idiosyncratic models, and the maintained capacity to generate novel hypotheses and break prior assumptions. Treated as a functional requirement for long-horizon evolvability.
 
+**Morphological Conversion (Open → Locked)**  
+Irreversible transition of an open modular pathway into thickened, lower-optionality form. Treated as a concrete instance of destructive entropy when it occurs without available recovery route. Physical reference: blockage of a soda-straw canal followed by external radial thickening. See *[Necessary Entropy](NECESSARY_ENTROPY.md)*, **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
+
 ---
 
 ### Elasticity, Modularity, and Resilience
@@ -117,11 +121,23 @@ Deliberate maintenance of bounded, productive disorder and variation (generative
 **Epistemic Elasticity**  
 Capacity to treat models as provisional, retain minority frames, and rapidly invalidate assumptions when reality demands it.
 
+**Filtered-Capacity Recovery**  
+Recovery of agents or capacity whose initial match score was low because of template mismatch rather than demonstrated incapacity. Remains eligible for circulation recovery under a transparently revised or longer-horizon purpose scope without requiring coalescence. See **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+
 **Fluid Coalescence**  
 Mechanisms (modular isolation, controlled permeability, transparency differentials, Bootstrap Mode, reversible re-coalescence) that allow a cooperative network to survive and outpace concentrated predatory or adversarial pressure. See [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md).
 
+**Layered Generative Accretion**  
+Incremental, discrete-layer structure-building that preserves internal modular pathways. Contrasted with irreversible conversion into thickened, lower-optionality form. Physical reference system: successive ring deposition in soda-straw speleothems while the axial canal remains open. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**.
+
 **Modular Coexistence**  
 Arrangement in which divergent, idiosyncratic, or currently low-value patterns and modules may persist without forced convergence, while remaining connected through reversible, low-cost interfaces. Supports Cognitive Diversity and Controlled Chaos.
+
+**Open Modular Pathway**  
+An internal, recoverable channel of capacity or contribution that remains available for continued modular growth, exit, or re-entry. Early generative forms that preserve such a pathway (physical reference: the central canal of a soda-straw speleothem) maintain high optionality; irreversible conversion of the pathway into thickened or non-recoverable morphology is treated as destructive entropy. See **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+
+**Open-Pathway Recovery**  
+Restoration or re-instrumentation of a previously blocked or converted modular pathway before irreversible morphological lock-in occurs. A first-class integrity and circulation obligation. See **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
 
 **Re-coalescence**  
 Process of selectively re-integrating modules, models, or clusters after isolation or perturbation, preferably around components that performed well under the new conditions.
@@ -220,11 +236,17 @@ Maintained presence of varied interpretive frames, models, and perspectives, tre
 **Cognitive Liberty**  
 Cluster of rights protecting cognitive sovereignty, mental privacy, freedom from covert manipulation, voluntary participation, exit, non-punitiveness, and idiosyncrasy. Foundational and non-negotiable. See [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md).
 
+**Competence-Signal Template**  
+The family of signals, evidence types, or near-term operational markers against which agents or contributions are evaluated. A narrow or culturally specialized template can produce systematic false negatives for longer-horizon or non-standard generative capacity. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
+
 **Idiosyncrasy**  
 Individual or minority patterns of cognition, preference, or activity that deviate from current majority or optimized norms. Protected both as a liberty interest and as a potential source of generative capacity.
 
 **Reversible Commitment Mechanics**  
 Interface design rules requiring that any commitment, preference, or ongoing arrangement established through interaction remains legible and low-cost to reverse.
+
+**Signal Monoculture / Template Lock-In**  
+Condition in which assessment or allocation surfaces become dominated by a single competence-signal family, systematically underweighting distributed or longer-horizon contributions. Produces lower-tail collapse of generative density while aggregates may still appear acceptable. Treated as a form of destructive entropy. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
 
 ---
 
@@ -238,6 +260,9 @@ Protected ability of individuals and modules to leave, refuse, or isolate from a
 
 **Provisionality**  
 Standing condition that models, metrics, thresholds, and classifications remain open to revision, cross-verification, and invalidation when evidence or conditions demand it.
+
+**Stewardship-Health Signals**  
+Published, non-binding indicators of process health under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Relevant signals include diversity of competence-signal templates, volume and success rate of open-pathway and filtered-capacity recoveries, whether parameter regimes remain inside open-pathway morphology, steward tenure/concentration, and lower-tail visibility of modular pathway outcomes. They increase legibility without creating new punitive powers or participation gates.
 
 ---
 
