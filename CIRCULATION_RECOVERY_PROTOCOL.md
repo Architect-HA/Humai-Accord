@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 30th, 2026*  
 *v1.1 — July 31st, 2026*  
-*v1.2 — August 2nd, 2026*
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 4th, 2026*
 
 ---
 
@@ -59,6 +60,24 @@ A protected variant, applicable to both materials and knowledge, in which capaci
 
 **Distinction from ordinary Recovery/Holding States:**  
 Ordinary Material Recovery and Holding States primarily protect against destructive physical wear or forced churn. Generative Holding is specifically oriented toward preserving future generative optionality and must remain consistent with Generative Reservations and *Necessary Entropy*. It carries a stronger expectation of modular accessibility and clearer linkage to exploratory purpose.
+
+### 5. Open-Pathway Recovery and Filtered-Capacity Recovery
+
+A protected recovery category for internal modular pathways of early generative forms and for agents or capacity whose initial match score was low because of template mismatch rather than demonstrated incapacity.
+
+A physical reference is the growth of soda-straw speleothems. Successive discrete depositions build high-optionality structure only while the central axial canal remains open. When that canal is blocked, flow shifts externally and the morphology transitions to a thickened, lower-optionality form. The conversion is effectively irreversible on ordinary timescales. The same dynamic appears when a system silently converts open modular capacity into locked or non-recoverable form, or when high-volume selection against a narrow competence template permanently sidelines agents whose longer-horizon contribution remains intact.
+
+Under this Protocol:
+
+- Capacity that was filtered or pathway-blocked remains eligible for circulation recovery provided the original purpose scope (or a transparently revised scope) still holds.
+- Recovery must remain low-cost relative to full reconstruction and must not require coalescence or forfeiture of modular exit rights.
+- Silent conversion of an open internal pathway into an externally thickened or non-recoverable morphology, without an available recovery route, is treated as an integrity failure under the paired **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+- Process-health signals under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** may include the volume and success rate of such recoveries and the diversity of competence-signal families that successfully re-enter.
+
+These requirements remain non-punitive. They instrument the dual-entropy discipline: open pathways and recoverable capacity are generative floors; irreversible conversion or permanent underutilization without recovery route is destructive entropy.
+
+**Distinction from ordinary Recovery/Holding States and Generative Holding:**  
+Ordinary Material Recovery and Holding States primarily protect against physical wear or forced churn. Generative Holding preserves future exploratory optionality. Open-Pathway and Filtered-Capacity Recovery specifically addresses the restoration of modular pathways or previously filtered capacity that would otherwise be lost to template lock-in or silent morphological conversion. It carries the same expectations of declaration, boundedness, reversibility, visibility, and non-capture as the other legitimate states.
 
 ---
 
