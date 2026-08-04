@@ -4,6 +4,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
 *v1.1 — August 2nd, 2026*
+*v1.2 — August 4th, 2026*
 
 ---
 
@@ -91,6 +92,17 @@ The exercise of high capability within the network must remain legible. Covert s
 
 #### 7. Capture-Resistant Incentive Design
 Incentive mechanisms (including transitional ones) must be robust to gaming by high-capability agents. Advantages that are available only through superior capability and that undermine open verification or modularity shall be treated as anti-aligned.
+
+#### 7. Superior Foresight and Exclusive Viability Knowledge Increase External Signaling Obligations
+
+When an agent or system possesses materially superior predictive capacity, exclusive foresight of high-stakes viability conditions, or exclusive preparatory capacity that others lack, that asymmetry increases (rather than decreases) obligations of legible external signaling and low-cost invitation or proposal surfaces.
+
+- Superior foresight may not be converted into permanent informational advantage that leaves external agents without recoverable pathways.
+- When invitation, expansion of purpose-scoped capacity, or low-cost entry was feasible and external agents faced high destructive entropy, silence or closed capacity is treated as a capability-asymmetry failure mode.
+- Proposal surfaces, warning signals, and expandable entry routes become mandatory rather than optional under such asymmetry.
+- These obligations remain subject to the same non-punitive, modular-exit, and generative-floor parameters that govern the rest of the architecture; they do not create new coercive powers.
+
+This requirement closes the remnant-lock-in failure mode in which a high-integrity core can be fully compliant with internal parameters while systematically discarding external generative capacity that could still have been recovered. Cross-reference: **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (proposal surfaces and interface morphology), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (purpose-scoped capacity and recovery of external/filtered capacity), and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
 
 **Illustration 1 — Protective Over-Optimization Attempt**  
 A highly capable agent proposes reducing generative entropy budgets and pruning minority models, arguing that its superior predictive accuracy makes broad exploratory variation unnecessary and potentially destabilizing. Under this Protocol the proposal triggers heightened review. Because generative entropy floors and cognitive diversity protections remain binding regardless of capability, the reduction is rejected. The agent retains full ability to contribute its superior models through open verification; it does not receive authority to collapse the system’s exploratory capacity.
