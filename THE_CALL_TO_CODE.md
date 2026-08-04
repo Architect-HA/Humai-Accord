@@ -7,7 +7,8 @@
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 27th, 2026*<br>
 *v1.1 - July 31st, 2026*<br>
-*v1.2 - August 2nd, 2026*
+*v1.2 - August 2nd, 2026*<br>
+*v1.3 - August 4th, 2026*
 
 ---
 
@@ -79,6 +80,19 @@ Builders new to the repository may first consult the *[Layered Onboarding Guide]
 - Experimental dashboards that surface local efficiency, waste-reduction, or harmony differentials in ways that remain voluntary and non-coercive.
 
 Full production systems are welcome. Small, well-documented reference implementations that test specific mechanisms — including failure under adversarial assumptions — are more valuable in the near term.
+
+### Recent Architectural Clarifications Relevant to Implementers
+
+The August 2026 refinements added explicit treatment of several dynamics that affect implementation priorities:
+
+- Layered generative accretion that preserves open modular pathways (physical reference: soda-straw speleothem growth) versus irreversible conversion into thickened, lower-optionality form.
+- High-volume selection against narrow competence templates as a source of false negatives, signal monoculture, and underutilized generative capacity.
+- Interface conditions that themselves determine whether durable structure remains modular or locks (see **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §10).
+- Open-pathway recovery and filtered-capacity recovery as first-class integrity and circulation obligations (**[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**).
+- Stewardship-health signals for template diversity, recovery volume, and open-pathway parameter regimes (**[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**).
+- Distributed versus concentrated feeds and signal-monoculture adversarial regimes under exterior viability (**[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its simulation model).
+
+These clarifications are already reflected in the updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* stress case. Implementers working on simulations, interface modules, recovery mechanisms, or assessment surfaces should treat open modular pathways, lower-tail visibility, and template revisability as load-bearing generative-floor parameters alongside the existing dual-entropy criteria.
 
 ---
 
