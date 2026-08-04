@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 30th, 2026*  
 *v1.1 — July 31st, 2026*  
-*v1.2 — August 2nd, 2026*
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 4th, 2026*
 
 ---
 
@@ -146,6 +147,24 @@ When material is under a declared recovery, holding, generative, or other purpos
 - Ambiguity is resolved against silent expansion of draw rights
 
 This does not freeze capacity indefinitely. It prevents utilization theater that treats purpose-scoped material as free scoring inventory.
+
+### Open-Pathway Integrity and Recovery of Filtered Capacity
+
+Purpose-scoped capacity includes the internal modular pathways of early generative forms and the agents whose initial match score was low because of template mismatch rather than demonstrated incapacity.
+
+A physical reference is the growth of soda-straw speleothems. Successive discrete depositions build high-optionality structure only while the central axial canal remains open. When that canal is blocked, flow shifts externally and the morphology transitions to a thickened, lower-optionality form. The conversion is effectively irreversible on ordinary timescales. The same dynamic appears when a system silently converts open modular capacity into locked or non-recoverable form, or when high-volume selection against a narrow competence template permanently sidelines agents whose longer-horizon contribution remains intact.
+
+Under the **Utilization Integrity Protocol**:
+- Silent reallocation or permanent sidelining of such capacity without fresh purpose justification violates integrity parameters.
+- Conversion of an open internal pathway into an externally thickened or non-recoverable morphology, without an available recovery route, is treated as an integrity failure.
+- Recovery mechanisms that re-open, re-route, or re-instrument the pathway (or the filtered agent) against revised or longer-horizon purposes before irreversible lock-in occurs are first-class obligations of integrity.
+
+Under the **Circulation Recovery Protocol**:
+- Filtered or pathway-blocked capacity remains eligible for circulation recovery provided the original purpose scope (or a transparently revised scope) still holds.
+- Recovery must remain low-cost relative to full reconstruction and must not require coalescence or forfeiture of modular exit rights.
+- Process-health signals under the **Principled Stewardship Protocol** may include the volume and success rate of such recoveries and the diversity of competence-signal families that successfully re-enter.
+
+These requirements remain non-punitive. They instrument the dual-entropy discipline: open pathways and recoverable capacity are generative floors; irreversible conversion or permanent underutilization without recovery route is destructive entropy.
 
 ---
 
