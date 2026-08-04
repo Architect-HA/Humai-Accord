@@ -3,8 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
-*v1.1 — August 2nd, 2026*  
-*v1.2 — August 2nd, 2026*
+*v1.1 - v1.2 — August 2nd, 2026*  
+*v1.3 — August 4th, 2026*
 
 ---
 
@@ -110,6 +110,8 @@ Under a competitive realist stance, Humai-aligned systems and stewards shall tre
 6. **Treat internal drift under pressure as a first-class risk** equal in importance to external attack — including narrative capture and purpose drift that redefine core terms to license permanent reduction of generative or liberty floors.
 7. **Accept that full voluntary coalescence may remain partial or contested for extended periods**; the architecture must remain viable in mixed and adversarial environments, not only in idealized cooperative ones. Exterior systems retain legitimacy of existence and basic agency; progressive dependency that converts non-coalescence into loss of practical agency is treated as a competitive-realist failure mode.
 8. **Preserve provenance and residual divergent readings** so that pressure-driven redefinition of the architecture remains contestable rather than becoming silent orthodoxy.
+
+**Competitive Realism** requires the architecture to remain viable under competent short-horizon opposition. It does not require treating short-horizon extraction as permanently rational. Under the joint conditions of abundance, lineage and idea continuation, and principled stewardship, continued sacrifice of long-horizon generative capacity for short-horizon gain becomes instrumentally self-defeating for lineage- and idea-valuing agents. The conditional instrumental case is developed in *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
 ---
 
