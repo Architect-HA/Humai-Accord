@@ -6,7 +6,7 @@
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*<br>
-*v1.6 - v1.7 — August 4th, 2026*
+*v1.6 - v1.8 — August 4th, 2026*
 
 ---
 
@@ -434,6 +434,8 @@ These signals accumulate more slowly but constitute stronger evidence of long-ho
 - Interior process-and-evidence protections holding under classification and starvation pressure.
 
 All published results must report both classes, preferably as trajectories.
+
+The dual success criteria (reduction of destructive entropy while protection of generative capacity) acquire additional instrumental force under conditions of abundance, lineage and idea continuation, and principled stewardship. Short-horizon strategies that permanently erode generative floors become self-defeating for agents that value those continuities. See the conditional instrumental case in *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
 ---
 
