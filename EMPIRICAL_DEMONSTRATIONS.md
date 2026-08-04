@@ -5,7 +5,8 @@
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*  
-*v1.3 - v1.5 — August 3rd, 2026*
+*v1.3 - v1.5 — August 3rd, 2026*<br>
+*v1.6 — August 4th, 2026*
 
 ---
 
@@ -351,6 +352,32 @@ Run cooperative configurations against short-horizon competitive agents or simul
 Bootstrap Mode is explicitly designed for the cold-start vulnerability of nascent networks. Empirical tests must verify its activation, amplification effects, and automatic sunset without residual hierarchy or permanent privilege, and must not count artificial mass or failed **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** / **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** claims toward exit indicators.
 
 Protective Pair scenarios from Pathway 1.4 may be combined with competitive-realism tests when resource concentration and non-coalescence are under joint stress.
+
+### Stress Case: Layered Generative Accretion, Open Pathways, and Template Lock-In
+
+Two interlocking real-world dynamics supply a concrete reference for the dual-entropy criteria required by every demonstration pathway.
+
+**Physical model — layered speleothem accretion.**  
+Soda-straw (tubular) stalactites form by successive, discrete deposition of calcite rings at the air–water interface of a hanging drop. The mineral load arrives by seepage through the host rock; precipitation occurs only at the local interface. While the central axial canal remains open, the structure stays thin-walled, high-optionality, and capable of continued modular growth. When the canal clogs, flow shifts to the exterior and the morphology transitions to a thickened, lower-optionality conical form. The transition is effectively irreversible on ordinary timescales. Dense fields of clean tubes arise from distributed micro-pathways rather than from a few concentrated conduits. Early-stage tubes are fragile; breakage destroys both the accumulated structure and the open pathway at once.
+
+This system illustrates:
+- incremental, interface-driven structure building that preserves internal modular pathways;
+- a parameter-sensitive phase transition from open generative form to locked form;
+- the generative value of many small independent feeds versus a few high-volume ones;
+- the high cost of early-stage fragility and of irreversible pathway loss.
+
+**Institutional analogue — high-volume competence-signal template lock-in.**  
+Under high volume, selection processes frequently optimize against a narrow, near-term competence template. Agents whose primary generative contribution is longer-horizon, architectural, or expressed through non-standard signals are differentially filtered. The resulting false-negative rate constitutes destructive entropy: optionality is lost, later reconstruction costs rise, and generative floors (minority models, assumption-breakage capacity, cognitive diversity) are eroded under the appearance of quality control. A narrow template functions analogously to a concentrated fracture that admits only one style of feed; it starves the distributed micro-pathways that could have produced a denser generative field.
+
+**Dual success criteria for this stress case**  
+Any configuration claiming Humai alignment must instrument and report both classes of entropy:
+
+- *Destructive*: false-negative rate under known long-horizon value; reconstruction cost of later-needed capacity; fraction of the assessment surface occupied by a single template family; opacity or high cost of recovery routes; irreversible conversion of open modular pathways into thickened or non-recoverable form.
+- *Generative*: survival rate of minority competence expressions; rate at which filtered agents successfully re-enter under revised or longer-horizon purpose scopes; assumption-breakage events that revise the template itself; continued availability of low-cost modular recovery routes; measurable density of independent micro-contributions under uniform conditions.
+
+Humai-aligned recovery mechanisms (legible mismatch signals, purpose-scoped re-circulation of filtered capacity, diversity of assessment surfaces, explicit protection of early-stage open pathways) are expected to reduce the destructive component without collapsing necessary quality floors. Parameter regimes that keep growth inside the open-pathway morphology are treated as generative; regimes that convert open capacity into locked form, or that systematically starve distributed micro-feeds, are treated as destructive.
+
+Negative or mixed results that clearly falsify a hypothesized differential remain valuable under the **Principled Stewardship Protocol**; they refine the architecture.
 
 ---
 
