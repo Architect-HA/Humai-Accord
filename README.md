@@ -1,9 +1,11 @@
 # The Humai Accord
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
-*Keywords:
-Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, process-and-evidence, narrative capture, dispersed memory, multi-carrier memory*
-
+**Keywords:** <br> 
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, process-and-evidence, narrative capture, dispersed memory, multi-carrier memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology*
+<br>
+<br>
+<br>
 By **Bradford James Focht** (The Architect / Aspenth)
 
 ---
@@ -639,6 +641,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Added corresponding cross-notes in **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 - Updated *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* with concise definitions for the new terminology introduced in the open-pathway / template-diversity refinements: Open Modular Pathway, Open-Pathway Recovery, Filtered-Capacity Recovery, Layered Generative Accretion, Competence-Signal Template, Signal Monoculture / Template Lock-In, Stewardship-Health Signals, and Morphological Conversion (Open → Locked).  
 - Updated *[Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md)* (v1.3) — added Implementation & Empirical Path pointers to the layered-accretion / template-lock-in stress case and open-pathway language; expanded the Supporting & Specialized Layer table; added a new reader-goal path for understanding how generative capacity is lost through ordinary selection and structure-building.
+- Updated keywords section at top of README and improved formatting slightly.
 
 **[August 3rd, 2026]**
 - Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
