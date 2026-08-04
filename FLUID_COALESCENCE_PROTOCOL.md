@@ -6,6 +6,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 30th, 2026*  
 *v1.2 — July 31st, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*
+*v1.6 — August 4th, 2026*
 
 ---
 
@@ -211,6 +212,17 @@ Nascent networks are particularly vulnerable when critical materials remain unde
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** protections remain available and take precedence over amplified pressure when legitimately invoked.
 
 Bootstrap Mode must never become a justification for permanent material capture or the suspension of modular exit rights.
+
+### Expansion and Invitation Parameters Under Bootstrap Isolation
+
+Bootstrap and remnant modes that protect a high-integrity core under existential or concentrated pressure must include explicit expansion and invitation parameters. Permanent closure of the protected set without external challenge rights, legible invitation pathways, or sunset conditions is anti-aligned.
+
+- When the protected system holds superior foresight or exclusive viability knowledge and residual capacity exists, low-cost invitation or proposal surfaces become required rather than optional.
+- Isolation may not be used to convert recoverable external capacity into permanent non-recoverability by default.
+- Expansion conditions must remain legible and may not be controlled solely by the remnant without external challenge or petition routes.
+- These parameters remain fully consistent with modular exit rights of the protected core and with non-punitive design; they prevent remnant lock-in rather than compel coalescence.
+
+This requirement ensures that Bootstrap Mode preserves generative capacity without reproducing the failure mode in which a curated interior remains healthy while external generative capacity is discarded under asymmetric knowledge. Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11).
 
 ---
 
