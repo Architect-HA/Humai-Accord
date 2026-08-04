@@ -6,7 +6,7 @@
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*<br>
-*v1.6 — August 4th, 2026*
+*v1.6 - v1.7 — August 4th, 2026*
 
 ---
 
@@ -378,6 +378,21 @@ Any configuration claiming Humai alignment must instrument and report both class
 Humai-aligned recovery mechanisms (legible mismatch signals, purpose-scoped re-circulation of filtered capacity, diversity of assessment surfaces, explicit protection of early-stage open pathways) are expected to reduce the destructive component without collapsing necessary quality floors. Parameter regimes that keep growth inside the open-pathway morphology are treated as generative; regimes that convert open capacity into locked form, or that systematically starve distributed micro-feeds, are treated as destructive.
 
 Negative or mixed results that clearly falsify a hypothesized differential remain valuable under the **Principled Stewardship Protocol**; they refine the architecture.
+
+### Stress Case: Remnant Lock-In and Unidirectional Sensing Under Superior Foresight
+
+A protected or high-integrity core holds exclusive or materially superior knowledge of high-stakes viability conditions (or of a coming viability window), possesses residual capacity, and has ample preparation time, yet provides no legible external signaling or expandable invitation pathways. External agents facing high destructive entropy are left without recoverable entry routes.
+
+This configuration reproduces a classic remnant-lock-in failure mode: interior generative floors and modular order are preserved while external generative capacity is discarded by default. Sensing, when present, is unidirectional (interior probes of the exterior) with no corresponding pathway for exterior agents to sense or petition the protected system.
+
+**Dual success criteria for this stress case**
+
+- *Destructive entropy metrics*: volume of external recoverable capacity left without invitation pathways; collapse of lower-tail external residual opportunity while interior metrics remain healthy; presence of informational closure under superior foresight; irreversibility of non-invitation once the viability window closes.
+- *Generative entropy metrics*: existence and uptake rate of legible invitation or proposal surfaces; success rate of external agents who gain entry when invitation was feasible; preservation of modular exit rights for the protected core itself; assumption-breakage events that revise remnant-closure parameters.
+
+Humai-aligned configurations must instrument the conversion of superior foresight into external legibility as a first-class parameter. Silence or closed capacity under feasible invitation is treated as destructive. These requirements remain fully consistent with non-punitive design, modular exit, and the right of the protected core to maintain its own generative floors.
+
+Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its simulation (remnant-lock-in adversarial regime), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (unused capacity under feasible invitation), and **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (Bootstrap expansion parameters).
 
 ---
 
