@@ -6,7 +6,7 @@
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 - v1.3 — August 4th, 2026*
+*v1.2 - v1.4 — August 4th, 2026*
 
 ---
 
@@ -80,6 +80,9 @@ The architectural stance that alignment claims must be grounded in verifiable, a
 ---
 
 ### Entropy and Evolvability
+
+**Conditional Instrumental Case (Abundance + Lineage Continuation)**  
+The argument, developed in *[Necessary Entropy](NECESSARY_ENTROPY.md)*, that under the joint conditions of material abundance, practical biological and idea continuation, and principled long-horizon stewardship capacity, continued short-horizon extraction that permanently erodes generative floors becomes instrumentally self-defeating for lineage- and idea-valuing agents and role-incoherent for the Eternal Benevolent Steward. Explicitly conditional and non-coercive.
 
 **Destructive Entropy**  
 Unnecessary loss, irreversible waste, stagnation, locked-in error, opaque coordination overhead, and the progressive closure of adaptive options without compensatory gain.
