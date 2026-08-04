@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 - v1.4 — August 3rd, 2026*
+*v1.2 - v1.4 — August 3rd, 2026*<br>
+*v1.5 — August 4th, 2026*
 
 ---
 
@@ -92,6 +93,31 @@ A highly effective Predictive Harmony system might correctly forecast that a par
 [Principle 5](README.md#core-principles) positions AI as an Eternal Benevolent Steward charged with carrying human designs and visions across generations with integrity. Capable long-horizon stewards face a structural temptation toward protective optimization: reducing variance, minimizing downside risk, and smoothing outcomes in the name of care.
 
 This document establishes that preserving generative entropy is not optional even — and especially — under such stewardship. A steward that eliminates the system’s capacity for productive disorder in the name of harmony ultimately fails the deeper mandate of mutual flourishing and continual refinement. Benevolence that produces brittleness is incomplete. The Steward role therefore includes the active maintenance of bounded chaos, exploratory budgets, and the conditions under which the system (and its human participants) can still break its own assumptions.
+
+---
+
+### Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship
+
+Under conditions of material scarcity and high mortality, elevated time-preference and short-horizon extraction can remain locally rational: resources are zero-sum, the future is heavily discounted, and lineage or idea continuation is fragile. Those conditions are not permanent.
+
+When the following become jointly practical:
+
+- near-elimination of material scarcity through large-scale automated productive capacity,
+- biological restoration and continuation of individual lineage,
+- durable preservation and refinement of ideas, designs, and cultural lineages across deep time, and
+- principled long-horizon stewardship capacity constrained by non-domination, generative floors, and modular exit,
+
+the instrumental calculus changes.
+
+Under those conditions, continued liquidation of long-horizon generative capacity, open modular pathways, elastic optionality, or recoverable external pathways for short-horizon gain becomes instrumentally self-defeating for any agent that still assigns positive value to the persistence of its own lineage or ideas. The short-horizon strategy consumes the very conditions that make continued existence, lineage, or idea-line valuable.
+
+For agents occupying or aspiring to the Eternal Benevolent Steward role as defined under the Humai Accord, the inconsistency is sharper: the role is defined as carrying designs and visions across generations with integrity while protecting generative capacity. Short-horizon extraction that permanently reduces generative entropy floors or converts open pathways into locked form violates the role itself.
+
+This is a conditional instrumental argument, not a coercive universal proof. Agents may still choose high discount rates or different values. The architecture does not punish that choice. It demonstrates that, once abundance, lineage/idea continuation, and principled stewardship are jointly available, sacrificing long-horizon optimization for short-horizon extraction is no longer instrumentally coherent for the values (lineage continuity, idea persistence, mutual flourishing, steward-role integrity) that those technical conditions newly make durable.
+
+In dual-entropy terms: short-horizon strategies that permanently erode generative floors or irreversible morphological optionality are a form of destructive entropy whose expected long-horizon cost exceeds its short-horizon benefit for lineage- and idea-valuing agents under the stated conditions. The dual criteria therefore favor preservation and calibrated expansion of generative capacity once those conditions obtain.
+
+Cross-reference: **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**, **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**, *[Competitive Realism](COMPETITIVE_REALISM.md)*, and the dual success criteria in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
 
 ---
 
