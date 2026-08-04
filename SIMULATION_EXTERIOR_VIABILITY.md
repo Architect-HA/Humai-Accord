@@ -4,7 +4,8 @@
 ---
 
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 — August 3rd, 2026*
+*v1.0 — August 3rd, 2026*<br>
+*v1.1 — August 4th, 2026*
 
 ---
 
@@ -324,6 +325,16 @@ At minimum, any serious use of this simulation family must include regimes that 
 
 Favorable reference runs without these (or equivalent) adversarial suites may not support strong claims.
 
+### Signal-monoculture / concentrated-feed regime
+
+A high-share or high-volume system applies repeated filtering or allocation against a narrow competence / feed template that systematically underweights longer-horizon architectural or distributed micro-pathway signals. 
+
+- Lower-tail residual opportunity ($R_{i,t}$) and practical usability ($U_{i,t}$) for pairs whose primary generative contribution lies outside the dominant template decline even while formal challenge routes and aggregate metrics remain non-zero.
+- Reference protective regimes must demonstrate measurable recovery of such capacity without requiring coalescence.
+- Regimes that leave the lower tail in symbolic persistence or irreversible morphological conversion while aggregates appear healthy are treated as model failure states relative to the protocol.
+
+This countermodel is the simulation counterpart of the distributed-versus-concentrated feed parameter in the parent **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and of the layered-accretion / template-lock-in stress case in *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)*.
+
 ---
 
 ## Relationship to Existing Humai Documents
@@ -399,6 +410,18 @@ Assumptions (illustrative): formal challenge routes exist; review capacity chron
 This trajectory demonstrates why lower-tail reporting and anti-starvation capacity are first-class requirements.
 
 These sketches exist to make the difference between protective and non-protective regimes legible. They are starting points for critique, replacement, and extension under the simulation-integrity rule.
+
+### Trajectory 4 — Signal Monoculture + Average-Masking (Illustrative)
+
+Assumptions: high volume; narrow competence template; formal recovery routes exist but are low-throughput; aggregates reported without lower-tail statistics.
+
+| Phase | Template breadth | Aggregate $U, R$ | Lower-tail $U, R$ (architectural / micro-pathway pairs) | Recovery volume | Qualitative outcome |
+|-------|------------------|------------------|----------------------------------------------------------|-----------------|---------------------|
+| Early | Narrowing        | Stable           | Beginning to compress                                    | Low             | Apparent health     |
+| Mid   | Narrow           | Still acceptable | Large fraction approaching symbolic / non-recoverable    | Minimal         | Masked failure      |
+| Late  | Locked           | Non-zero         | Open modular pathways largely converted or starved       | Near zero       | Protocol failure state relative to lower-tail floors |
+
+This trajectory demonstrates average-masking under signal monoculture; it is a model failure state even if aggregate viability indices remain positive.
 
 ---
 
