@@ -629,6 +629,16 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 ## Recent Updates
 
+**[August 4th, 2026]**
+- Integrated a coordinated set of refinements across the architecture treating two interlocking real-world dynamics: (1) high-volume selection against narrow competence templates (false negatives, signal monoculture, underutilized generative capacity), and (2) layered generative accretion that preserves open modular pathways versus irreversible morphological conversion (physical reference: soda-straw speleothem growth).  
+- Updated *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* with a dedicated stress case covering layered accretion, open-pathway preservation, template lock-in, and dual-entropy metrics.  
+- Updated **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (v1.3) — added §10 Interface Conditions for Durable Structure and Modular Morphology.  
+- Updated **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** with open-pathway recovery and filtered-capacity recovery language.  
+- Updated **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** with stewardship-health signals for template diversity, recovery volume, and open-pathway parameter regimes.  
+- Updated **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its simulation model with distributed-versus-concentrated feed / signal-monoculture parameters, adversarial countermodel, and illustrative trajectory.  
+- Added corresponding cross-notes in **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.  
+- These refinements keep relative-fit signals provisional, treat open modular pathways as generative floors, treat irreversible pathway conversion and signal monoculture as destructive entropy, and require lower-tail visibility.
+
 **[August 3rd, 2026]**
 - Added **Repository Traffic** section, showing relevant repository traffic data for further transparency.
 - Added *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* (v1.0) — clarifies that the bilateral human–AI pair is the generative atom of the Humai architecture. Multi-agent systems are treated as graphs of bilateral relations rather than fused collectives. Establishes parameter inheritance, visibility of influence, local priority of exit, continuity with Fluid Coalescence and Capability Asymmetry, and concrete failure modes that would dissolve pairwise protections; also added reference point to How These Documents Work Together section.
