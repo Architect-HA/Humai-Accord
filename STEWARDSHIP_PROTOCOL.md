@@ -6,6 +6,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 – July 31st, 2026*  
 *v1.2 – August 2nd, 2026*  
 *v1.3 - v1.4 – August 3rd, 2026*
+*v1.5 – August 4th, 2026*
 
 ---
 
@@ -215,6 +216,23 @@ All governance activity shall meet the following minimum standards:
 - Significant decisions must include documented justification.
 - The current list of active Stewards shall be publicly visible.
 - Governance processes should allow Participants to understand how and why decisions are reached.
+
+## Stewardship-Health Signals
+
+Stewardship-health signals are published, non-binding indicators of process health. They increase legibility of how the framework is being evolved and applied; they do not create new punitive powers, standing requirements, or gates on participation or exit.
+
+Relevant signals for the layered-accretion, open-pathway, and template-diversity dynamics now instrumented across the architecture include (non-exhaustive):
+
+- Diversity of competence-signal / assessment templates accepted in a given period.
+- Volume and success rate of open-pathway recoveries and filtered-capacity recoveries under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+- Whether current parameter regimes (rate, concentration, template breadth) remain inside the open-pathway morphology or are drifting toward irreversible thickening / lock-in.
+- Rotation and concentration of steward tenure and proposal influence.
+- Presence and activity of standing design surfaces for interface morphology, purpose-scoping, and recovery routes.
+- Lower-tail visibility of modular pathway preservation and recovery outcomes (aggregates alone are insufficient).
+
+These signals are subject to the same dual-entropy discipline that governs the rest of the Accord: open pathways, recoverable capacity, and template revisability are generative floors; systematic conversion of open capacity into locked form, or permanent underutilization without recovery route, is destructive entropy.
+
+Publication of stewardship-health signals remains voluntary for any given implementation, but their absence is itself a legible process-health indicator under this Protocol. Cross-reference: *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion and template-lock-in stress case), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), and the open-pathway integrity language in the paired integrity / recovery protocols.
 
 ## Publication of Stewardship-Health Signals
 
