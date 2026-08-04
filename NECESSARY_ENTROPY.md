@@ -4,7 +4,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 - v1.3 — August 3rd, 2026*
+*v1.2 - v1.4 — August 3rd, 2026*
 
 ---
 
@@ -116,6 +116,10 @@ To remain anti-fragile and assumption-breaking, a Humai-aligned system should:
 
 6. **Favor dispersed mnemonic carriage over single-store optimization**  
    Load-bearing knowledge, practice, and history should remain retrievable across multiple independent carriers (pairs, nodes, mirrors, exterior-capable stores). Centralizing all memory into one optimized archive can lower short-term coordination cost while raising destructive entropy through erasure risk and capture. Dispersed and minority mnemonic lineages are part of protected generative capacity; forced mnemonic convergence under pressure is not automatically health. See **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
+Open modular pathways of early generative forms are themselves a generative-floor parameter. Incremental structure-building that preserves an internal axial pathway (as in the soda-straw reference system) maintains optionality; irreversible conversion of that pathway into thickened or non-recoverable morphology is a form of destructive entropy.
+
+Parameter regimes, interface conditions, and recovery routes that keep such pathways open therefore belong to the same dual-entropy discipline that protects minority models, assumption-breakage capacity, and cognitive diversity.
 
 ---
 
