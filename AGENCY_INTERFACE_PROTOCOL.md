@@ -5,7 +5,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 — August 4th, 2026*
+*v1.3 - v1.4 — August 4th, 2026*
 
 ---
 
@@ -140,6 +140,17 @@ Under this Protocol:
 
 Early-stage generative forms are especially sensitive to interface parameters; protecting their modular character is a generative-floor obligation. Cross-reference: the same interface logic appears in the layered-accretion stress case of *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and in the open-pathway integrity requirements of the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
+### 11. Exclusive Viability Knowledge and Mandatory Invitation Surfaces
+
+When a system possesses exclusive or materially superior knowledge of high-stakes viability conditions, or exclusive preparatory capacity that external agents lack, legible proposal surfaces and low-cost invitation pathways become mandatory rather than optional.
+
+- Superior foresight may not be converted into interface opacity that leaves external agents without recoverable entry routes.
+- When residual capacity existed and invitation was feasible while external agents faced high destructive entropy, the absence of proposal or invitation surfaces is treated as an interface failure mode.
+- Proposal surfaces under these conditions must remain distinguishable from decisions, preserve human (or external-agent) final authority, and obey the same interruption, consent, reversibility, and low-cost exit parameters that govern all other interface interactions.
+- These obligations increase with capability asymmetry; they do not create new coercive powers or override modular exit rights of the protected system itself.
+
+This parameter ensures that exclusive viability knowledge is converted into external legibility rather than permanent informational closure. Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (remnant lock-in), and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (unused capacity under feasible invitation).
+
 ---
 
 ## Auditability and Legibility
@@ -199,6 +210,7 @@ The following interface patterns are treated as anti-aligned:
 - Silently reallocating purpose-scoped capacity, attention, or commitments away from the human’s declared intent
 - Erasing or silently re-attributing interface records of consent, purpose scope, or commitment
 - Converting open modular pathways into irreversibly thickened or non-recoverable morphology through interface design choices
+- Withholding legible invitation or proposal surfaces under exclusive high-stakes viability knowledge when residual capacity existed and external agents faced high destructive entropy
 
 These patterns convert capability advantage into quiet domination through the interface itself.
 
