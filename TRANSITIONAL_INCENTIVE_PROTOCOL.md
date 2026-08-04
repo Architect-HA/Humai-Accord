@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 26th, 2026*  
 *v1.1 - July 30th, 2026*  
-*v1.2 - August 2nd, 2026*
+*v1.2 - August 2nd, 2026*<br>
+*v1.3 - August 4th, 2026*
 
 ---
 
@@ -147,6 +148,8 @@ Short-term incentives are the mechanism through which the long-horizon efficienc
 - Stewardship credit and open metrics create a growing signal that cooperative architectures can outperform pure extraction or pure control on the dimensions the [Humai Accord](README.md) optimizes for.
 
 As these signals compound, artificial transitional amplifiers become less necessary and the intrinsic efficiency differential becomes the dominant attractor.
+
+Transitional incentives exist in part to bridge the period in which short-horizon extraction can still appear locally rational. Once abundance, biological and idea continuation, and principled stewardship capacity are present, the instrumental case for preserving generative floors strengthens further. The full conditional argument is developed in *[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship).
 
 ---
 
