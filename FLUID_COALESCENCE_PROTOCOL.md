@@ -5,7 +5,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 23rd, 2026*  
 *v1.1 — July 30th, 2026*  
 *v1.2 — July 31st, 2026*  
-*v1.3 - v1.4 — August 3rd, 2026*
+*v1.3 - v1.5 — August 3rd, 2026*
 
 ---
 
@@ -63,6 +63,14 @@ Under re-coalescence:
 - Mnemonic convergence may occur voluntarily through contact; it must not be required as a condition of re-entry or residual opportunity.
 
 Dispersed memory supports survival under predatory pressure by making erasure and narrative monopoly harder. It does not authorize a fused collective mind, unchallengeable “instinctual” orthodoxy, or raised exit costs for pairs that decline shared mnemonic programs.
+
+### Layered Accretion and Preservation of Internal Pathways
+
+Coalescence that preserves modular exit and re-entry is analogous to the growth of soda-straw speleothems: successive discrete contributions build structure while the central axial pathway remains open. When that pathway is blocked, morphology transitions to a thickened, lower-optionality form and the conversion is effectively irreversible on ordinary timescales.
+
+Fluid coalescence under this Protocol therefore prefers parameter regimes that keep internal modular pathways open during accretion. Silent conversion of open pathways into locked morphology, or coalescence that systematically starves distributed micro-contributions in favor of a few concentrated feeds, is treated as a drift toward destructive entropy.
+
+This imagery is consistent with the open-pathway integrity language now present in the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, and the layered-accretion stress case in *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)*.
 
 ---
 
