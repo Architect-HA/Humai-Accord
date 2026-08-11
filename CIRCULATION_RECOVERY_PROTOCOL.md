@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 30th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 - v1.4 — August 4th, 2026*
+*v1.3 - v1.4 — August 4th, 2026*<br>
+*v1.5 — August 11th, 2026*
 
 ---
 
@@ -29,6 +30,7 @@ Circulation is a means, not an end.
 - Forced continuous activity that accelerates physical degradation, produces low-value churn, exhausts maintainers, or erodes generative capacity is itself a form of destructive entropy.
 - Legitimate recovery and holding states must be available, visible, and protected from full stagnation or relevancy-decay penalties when properly justified and attested.
 - Such states must remain bounded and reversible. They must not become a new form of permanent capture or capability-based privilege.
+- Legitimate recovery and holding states are further elevated as operational expressions of the Knowledge Continuity and Material Continuity Floors established in the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX) and operationalized in the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**. They supply non-punitive, modular residual pathways that protect against irreversible loss of knowledge lineage or basic material agency after disruption or opportunity-cost stranding of substrates.
 - Capacity, materials, or knowledge held under a declared recovery, holding, quiet, or generative purpose must remain **legibly scoped** to that purpose unless explicitly released or reassigned.
 - The same underlying logic applies to both material circulation and knowledge relevancy dynamics.
 
@@ -72,6 +74,7 @@ Under this Protocol:
 - Capacity that was filtered or pathway-blocked remains eligible for circulation recovery provided the original purpose scope (or a transparently revised scope) still holds.
 - Recovery must remain low-cost relative to full reconstruction and must not require coalescence or forfeiture of modular exit rights.
 - Silent conversion of an open internal pathway into an externally thickened or non-recoverable morphology, without an available recovery route, is treated as an integrity failure under the paired **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+- Open-Pathway and Filtered-Capacity Recovery specifically instrument the Continuity Floors: modular pathways and previously filtered capacity remain eligible for low-cost recovery so that template lock-in, silent morphological conversion, or post-disruption substrate shifts do not extinguish residual agency. Recovery under these categories remains non-punitive, does not require coalescence, and preserves modular exit rights.
 - Process-health signals under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** may include the volume and success rate of such recoveries and the diversity of competence-signal families that successfully re-enter.
 
 These requirements remain non-punitive. They instrument the dual-entropy discipline: open pathways and recoverable capacity are generative floors; irreversible conversion or permanent underutilization without recovery route is destructive entropy.
