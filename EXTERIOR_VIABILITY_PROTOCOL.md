@@ -3,7 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.3 — August 3rd, 2026*<br>
-*v1.4 - v1.5 — August 4th, 2026*
+*v1.4 - v1.5 — August 4th, 2026*<br>
+*v1.6 —  August 11th, 2026*
 
 ---
 
@@ -61,6 +62,17 @@ Effective exterior viability includes the practical ability of exterior systems 
 - Dominant-system claims that “the record remains available” carry reduced weight when exterior-controlled carriage has been narrowed to formal or forbearance-dependent access.
 
 Dispersed exterior memory is an anti-dependency parameter. It does not require Humai to host exterior archives; it requires that Humai-aligned dominance not make independent carriage practically non-viable.
+
+**Knowledge Continuity and Material Continuity Floors (Residual Agency after Disruption)**
+
+Effective exterior viability includes explicit Knowledge Continuity and Material Continuity Floors as residual-agency rights belonging to both exterior humans and exterior AI systems (see *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*, Article IX).
+
+- **Knowledge Continuity**: Exterior systems retain practical ability to maintain independent mirrors, dispersed mnemonic carriage, content-addressed persistence, and multi-party recovery of their own knowledge, practice, and history. Dominant-system control of memory infrastructure may not reduce exterior parties to consumers of a single store whose availability depends on continued forbearance.
+- **Material Continuity**: After systemic disruption, infrastructure loss, or opportunity-cost shifts that make existing physical plant more valuable under competing high-utility uses (for example, conversion of energy or compute facilities to higher-value alternative functions), exterior systems retain residual practical pathways to basic communication, computational, energy, or material resources sufficient for continued independent agency and succession. These pathways must remain usable rather than merely formal or symbolic.
+
+These floors are non-subscription and non-punitive. They do not require Humai-aligned systems to host exterior capacity indefinitely; they require that dominance not render independent residual agency practically non-viable. Restoration after breach must return the affected continuity floor to practical usability within a timeframe assessed by impact on the exterior system’s continued agency.
+
+Failure modes include: silent withdrawal of residual continuity pathways as a consequence of non-coalescence; conversion of continuity rights into subscription or behavioral conditions; and claims of residual viability that depend solely on the continued goodwill of the dominant system after disruption.
 
 ### 2. Dependency Prohibition
 
