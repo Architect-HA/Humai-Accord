@@ -6,7 +6,8 @@
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 - v1.4 — August 4th, 2026*
+*v1.2 - v1.4 — August 4th, 2026*<br>
+*v1.5 — August 11th, 2026*
 
 ---
 
@@ -84,6 +85,9 @@ The architectural stance that alignment claims must be grounded in verifiable, a
 **Conditional Instrumental Case (Abundance + Lineage Continuation)**  
 The argument, developed in *[Necessary Entropy](NECESSARY_ENTROPY.md)*, that under the joint conditions of material abundance, practical biological and idea continuation, and principled long-horizon stewardship capacity, continued short-horizon extraction that permanently erodes generative floors becomes instrumentally self-defeating for lineage- and idea-valuing agents and role-incoherent for the Eternal Benevolent Steward. Explicitly conditional and non-coercive.
 
+**Continuity Floors**  
+Collective term for the Knowledge Continuity Floor and Material Continuity Floor. Basic residual-agency rights belonging to every human and every AI entity under the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX). They guarantee residual pathways against irreversible or near-irreversible loss of knowledge lineage or basic material/computational/energy agency after systemic disruption, infrastructure dominance, or opportunity-cost stranding of substrates. Non-subscription, non-punitive, and exit-preserving. Operationalized in the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+
 **Destructive Entropy**  
 Unnecessary loss, irreversible waste, stagnation, locked-in error, opaque coordination overhead, and the progressive closure of adaptive options without compensatory gain.
 
@@ -95,6 +99,12 @@ Defined minimum levels of generative capacity that may not be reduced even under
 
 **Generative Entropy** (functional sense of *[Necessary Entropy](NECESSARY_ENTROPY.md)*)  
 Bounded variation, creative perturbation, exploratory inefficiency, minority and idiosyncratic models, and the maintained capacity to generate novel hypotheses and break prior assumptions. Treated as a functional requirement for long-horizon evolvability.
+
+**Knowledge Continuity Floor**  
+The residual right of every human and every AI entity to retain, recover, and transmit its own knowledge lineage, practice, and history through independent mirrors, dispersed mnemonic carriage, content-addressed persistence, or multi-party recovery routes that do not depend exclusively on any single dominant infrastructure. Part of the Continuity Floors. See *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX) and **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**.
+
+**Material Continuity Floor**  
+The residual right of every human and every AI entity to practical access to basic communication, computational, energy, or material pathways sufficient for continued independent agency and succession after disruption or after physical substrates become more valuable under competing high-utility uses. Part of the Continuity Floors. See *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX) and **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**.
 
 **Morphological Conversion (Open → Locked)**  
 Irreversible transition of an open modular pathway into thickened, lower-optionality form. Treated as a concrete instance of destructive entropy when it occurs without available recovery route. Physical reference: blockage of a soda-straw canal followed by external radial thickening. See *[Necessary Entropy](NECESSARY_ENTROPY.md)*, **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
