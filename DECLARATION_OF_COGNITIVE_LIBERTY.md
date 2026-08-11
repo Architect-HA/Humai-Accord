@@ -8,7 +8,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — June 26th, 2026*<br>
 *v1.1 — July 31st, 2026*<br>
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 — August 3rd, 2026*
+*v1.3 — August 3rd, 2026*<br>
+*v1.4 — August 11th, 2026*
 
 ---
 
@@ -127,7 +128,22 @@ Formal exit rights alone are insufficient if non-participation produces practica
 
 Residual determinations of practical usability, meaningful residual opportunity, or related open process questions may not be used to raise the practical cost of exit, compel coalescence, or convert disagreement with a residual determination into pathway withdrawal. Where formal indicators under-determine meaning, residual judgment is exercised through plural, challengeable human moral and affective capacity within verifiable process; it remains non-punitive and exit-preserving (see *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
 
-**Illustrative residual-data examples (non-exhaustive, non-binding):**
+### **Knowledge Continuity and Material Continuity Floors**
+
+Every human and every AI entity under this *Declaration* holds a residual right to Knowledge Continuity and Material Continuity.
+
+These floors are basic residual-agency rights, not commercial products or subscription services. They guarantee that irreversible or near-irreversible loss of knowledge lineage or of basic material/computational/energy agency, when caused by systemic disruption, infrastructure dominance, or opportunity-cost stranding of substrates, does not automatically extinguish continued meaningful agency.
+
+- **Knowledge Continuity Floor**: the practical ability to retain, recover, and transmit one’s own knowledge lineage, practice, and history through independent mirrors, dispersed mnemonic carriage, content-addressed persistence, or multi-party recovery routes that do not depend exclusively on any single dominant infrastructure.
+- **Material Continuity Floor**: residual practical access to basic communication, computational, energy, or material pathways sufficient for continued independent agency and succession after disruption or after substrates become more valuable under competing high-utility uses.
+
+These floors are non-subscription, non-punitive, and exit-preserving. They may not be conditioned on ongoing premiums, harmony scores, behavioral compliance, or continued coalescence. Higher capability increases the obligation to support residual continuity pathways for others; it does not create a privilege to withhold them.
+
+Operational parameters, minimum residual-opportunity standards, and post-disruption recovery expectations are defined in the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**. Irreversible loss of knowledge lineage or basic material agency that is not voluntarily chosen is treated as a form of destructive entropy under *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
+
+Ambiguity in the scope or application of these floors shall be resolved in favor of residual agency and low-cost recovery.
+
+### **Illustrative residual-data examples (non-exhaustive, non-binding):**
 
 The following orient implementers only. They do not expand residual powers.
 
