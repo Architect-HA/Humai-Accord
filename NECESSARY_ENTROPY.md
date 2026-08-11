@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 26th, 2026*  
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 - v1.4 — August 3rd, 2026*<br>
-*v1.5 — August 4th, 2026*
+*v1.5 — August 4th, 2026*<br>
+*v1.6 — August 11th, 2026*
 
 ---
 
@@ -61,6 +62,8 @@ In short: the Accord is anti-*entropic waste*, not anti-entropy itself.
 | **Generative (Necessary) Entropy** | Bounded variation, creative perturbation, knowledge relevancy decay, exploratory inefficiency, assumption-challenging noise | Maintains evolvability, anti-fragility, and capacity for genuine novelty | Deliberately preserved and structured as a functional requirement | Controlled Chaos (Principle 7), Cognitive Diversity Protocol, Declaration protections for idiosyncrasy, provisional verification |
 
 A system that eliminates generative entropy in pursuit of harmony becomes, over sufficient time, a higher-order form of destructive entropy: elegant, coordinated, and dead.
+
+Irreversible or near-irreversible loss of knowledge lineage or of basic material, computational, or energy agency — when not voluntarily chosen — is a recognized form of destructive entropy. The Knowledge Continuity and Material Continuity Floors (see *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* Article IX and the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**) exist to bound this class of loss without creating subscription lock-in or new points of capture.
 
 ---
 
