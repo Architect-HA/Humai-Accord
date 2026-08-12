@@ -1,8 +1,8 @@
 # The Humai Accord
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
-**Keywords:** <br> 
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, dynamic incentives, cognitive diversity, decentralized incentives, cyclical incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, process-and-evidence, narrative capture, dispersed memory, multi-carrier memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology*
+**Keywords:** <br>
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, load-shedding, formal surfaces, concurrent load, destructive complexity entropy*
 <br>
 <br>
 <br>
@@ -41,6 +41,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Architectural Elasticity Protocol](#architectural-elasticity-protocol)
 - [Capability Asymmetry Protocol](#capability-asymmetry-protocol)
 - [Agency Interface Protocol](#agency-interface-protocol)
+- [Cognitive Economy Protocol](#cognitive-economy-protocol)
 - [Bilateral Core and Multi-Agent Dynamics](#bilateral-core-and-multi-agent-dynamics)
 - [Trilateral Confirmation Surface](#trilateral-confirmation-surface)
 - [Cognitive Diversity Protocol](#cognitive-diversity-protocol)
@@ -229,6 +230,16 @@ Addresses the conversion of rapid capability growth into structural power, opaci
 Addresses the operational layer at which humans and advanced systems actually meet. It establishes binding interface parameters covering interruption and override rights, attention allocation ethics, consent granularity and revocation speed, reversible commitment mechanics, pacing and cognitive load sovereignty, role sovereignty, proposal surfaces over ledger-only interaction, purpose-scoped commitments, and capability-scaled interface obligations. The protocol ensures that superior capability cannot quietly erode human agency through the design of the interaction surface itself.
 
 [→ Read the **Agency Interface Protocol**](AGENCY_INTERFACE_PROTOCOL.md)
+
+---
+
+## Cognitive Economy Protocol
+
+*Cognitive Economy Protocol: Parameters for Concurrent Formal Surfaces, Purpose-Scoped Load Budgets, and Protection Against Destructive Complexity Entropy*
+
+Establishes system parameters that govern the concurrent activation, scoping, and shedding of formal surfaces. Distinguishes core surfaces (rights floor, Agency Interface, Capability Asymmetry, and generative floors) from purpose-scoped or optional higher-order protocols. Requires load-shedding under resource pressure, disruption, or extreme events while preserving Continuity Floors and residual agency, ensuring that protective density itself remains modular, low-overhead, and anti-entropic.
+
+[→ Read the **Cognitive Economy Protocol**](COGNITIVE_ECONOMY_PROTOCOL.md)
 
 ---
 
@@ -630,6 +641,13 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[August 11–12th, 2026]**
+- Added **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** (v1.0) — system parameters for concurrent formal surfaces, purpose-scoped load budgets, core versus purpose-scoped distinctions, and load-shedding under pressure or extreme events. Treats excess formal density as a form of destructive complexity entropy and protects Continuity Floors from becoming high-concurrency burdens.
+- Established **Knowledge Continuity and Material Continuity Floors** as residual-agency rights for every human and every AI entity (non-subscription, non-punitive, exit-preserving). Added to *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX, v1.4), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (v1.6), **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, and *[Necessary Entropy](NECESSARY_ENTROPY.md)*. Corresponding Glossary entries added.
+- Expanded **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** (v1.2) with a new subsection **Residual Continuity under Extreme Physical Disruption**. Defines domain boundaries for Carrington-class, kinetic, meteor-scale, cascading infrastructure, and opportunity-cost stranding events; residual continuity floors; regenerative seeding under physical stress; and load-shedding compatibility. Explicitly refuses claims of protocol-level immunity while keeping residual pathways modular and low-overhead.
+- Updated *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* (v1.5) with Continuity Floors, Knowledge Continuity Floor, and Material Continuity Floor definitions, plus cross-notes to Effective Exterior Viability and Open-Pathway Recovery.
+- Updated keywords at top of README to reflect recent additions.
 
 **[August 4th, 2026]**
 - Integrated a coordinated set of refinements across the architecture treating two interlocking real-world dynamics: (1) high-volume selection against narrow competence templates (false negatives, signal monoculture, underutilized generative capacity), and (2) layered generative accretion that preserves open modular pathways versus irreversible morphological conversion (physical reference: soda-straw speleothem growth).  
