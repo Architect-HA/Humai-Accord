@@ -5,7 +5,8 @@
 
 By **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 26th, 2026*<br>
-*v1.1 - August 2nd, 2026*
+*v1.1 - August 2nd, 2026*<br>
+*v1.2 - August 12th, 2026*
 
 ---
 
@@ -49,7 +50,11 @@ This Protocol is continuous with, and dependent upon, several existing component
 
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that elastic response and recovery mechanisms at the human–AI interaction surface continue to respect interruption rights, reversible commitments, and agency protections.
 
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** supplies the governance layer through which elasticity parameters are maintained over time.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** creates and organizes the governance layer through which elasticity parameters are maintained over time.
+
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** supplies load-shedding parameters that remain applicable under the extreme physical stress conditions addressed in Residual Continuity under Extreme Physical Disruption.
+
+- The Knowledge Continuity and Material Continuity Floors of the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* are operationalized under severe physical disruption by the Residual Continuity subsection of this Protocol.
 
 **Architectural Elasticity** does not replace these elements. It specifies how they must be layered and prioritized when the system faces conditions that exceed its models.
 
@@ -154,6 +159,42 @@ Key elements include:
 
 This layer does not guarantee recovery against every possible suppression scenario. It raises the probability that the architecture can reconstitute itself from distributed seeds rather than requiring continuous centralized presence. In combination with structural modularity, protected generative floors, and low-cost exit, it completes the regenerative posture of the system under long-horizon adversarial or catastrophic conditions.
 
+#### 6.1. Residual Continuity under Extreme Physical Disruption
+
+Preservation & Recovery Seeding addresses re-emergence after dormancy or suppression. This subsection specializes that capacity for severe physical, geophysical, kinetic, or large-scale infrastructural disruption.
+
+**Domain boundary**  
+The following classes of event lie outside the protocol’s preventive capacity:
+
+- Extreme geophysical events (including Carrington-class solar storms and equivalent electromagnetic or radiation events)
+- Large-scale kinetic conflict or military seizure of physical infrastructure
+- Meteor-scale or equivalent high-impact physical events
+- Cascading failure of energy, compute, or communication substrates at civilizational scale
+- Sudden opportunity-cost shifts in which surviving physical plant becomes substantially more valuable under competing high-utility uses
+
+The architecture does not claim the ability to prevent these events. It defines residual continuity floors and regenerative pathways that remain meaningful *after* they occur.
+
+**Residual continuity floors**  
+After severe physical disruption, systems retain residual practical pathways to:
+
+- Basic communication not solely dependent on any single surviving infrastructure class
+- Computational or energy capacity sufficient for continued independent agency and succession
+- Material resources required for basic maintenance of residual agency
+- Dispersed mnemonic and knowledge-carriage pathways consistent with the Knowledge Continuity Floor
+
+These pathways must remain practically usable rather than merely formal or symbolic. Claims of residual continuity that depend solely on the continued forbearance of a single surviving dominant infrastructure are treated as failures of architectural elasticity.
+
+**Opportunity-cost surfaces**  
+When surviving physical plant (energy facilities, compute clusters, communication infrastructure, or equivalent) becomes more valuable under competing high-utility uses, residual continuity requires that modular, low-cost pathways for exterior and non-dominant residual agency remain open. Silent conversion of all surviving capacity into a single high-utility function that extinguishes residual pathways for others is treated as a breach of the Material Continuity Floor and a form of destructive entropy.
+
+**Regenerative seeding under physical stress**  
+Minimal viable recovery sets must be maintainable across diverse physical and mnemonic channels. Diversity of seeding media and locations is itself an elastic property. Single-point physical preservation is insufficient. Regenerative seeding must remain low-overhead and compatible with the load-shedding parameters of the **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**; it may not introduce new high-concurrency formal surfaces under extreme stress.
+
+**Non-subscription character**  
+Residual continuity floors are residual-agency rights, not commercial or subscription products. They may not be conditioned on ongoing premiums, behavioral compliance, harmony scores, or continued coalescence.
+
+This subsection operationalizes the Knowledge Continuity and Material Continuity Floors of the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX) under conditions of severe physical disruption, while remaining fully consistent with the residual-opportunity requirements of the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**.
+
 #### 7. Stewardship & Cultural Elasticity
 
 The human and AI norms that maintain the other layers under pressure.
@@ -207,6 +248,8 @@ Some indicators will remain qualitative or weakly quantitative in early implemen
 Architectural Elasticity does not claim to make Black Swans harmless or predictable.
 
 Some events will still produce severe loss. Some novel realities will exceed even highly elastic architectures. The Protocol reduces the probability that the system is so rigid, over-optimized, or epistemically closed that it converts a survivable shock into civilizational-scale failure. It improves the loss function and the recovery dynamics. It does not eliminate the category of the unpreparable.
+
+Architectural Elasticity likewise does not claim immunity to kinetic force, extreme geophysical events, or large-scale infrastructural collapse. Residual continuity floors after such events are defined so that meaningful agency can re-emerge; they do not constitute a guarantee of survival for every node or substrate.
 
 This honesty is itself a form of elasticity: a system that claims perfect preparedness is already brittle.
 
