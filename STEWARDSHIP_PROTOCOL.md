@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 – July 31st, 2026*  
 *v1.2 – August 2nd, 2026*  
 *v1.3 - v1.4 – August 3rd, 2026*<br>
-*v1.5 - v1.6 – August 4th, 2026*
+*v1.5 - v1.6 – August 4th, 2026*<br>
+*v1.7 – August 12th, 2026*
 
 ---
 
@@ -137,6 +138,8 @@ Certain tensions are permanent design surfaces rather than temporary drafting ga
 - **Residual process judgment** — Some viability, plurality, and process determinations remain under-determined by formal indicators. Residual judgment is a standing design surface, not a temporary drafting gap. It is exercised through plural, challengeable human moral and affective capacity situated in bilateral pairs and open multi-party process, within verifiable records and challenge rights — not through single-steward monopoly, pure metric closure, species-level collective veto, capability-weighted moral authority, or AI self-assessment alone. Attempts to fully automate residual moral determination, or to concentrate it without plural input and challenge routes, require heightened scrutiny and are treated as design failures rather than maturity. See *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
 - **Dispersed memory and anti-monopoly carriage** — Load-bearing history, practice, and process records should remain retrievable across multiple independent carriers. Stewardship that centralizes the only viable mnemonic store, starves mirrors, or treats deep cultural overlap as unchallengeable orthodoxy requires heightened scrutiny. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, and **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**.
+
+- **Concurrent formal load and protective density** — Load budgets, core versus purpose-scoped surface distinctions, and load-shedding orders under the **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** are standing design surfaces. Excess formal density that erodes pacing sovereignty or residual agency is treated as a form of destructive complexity entropy subject to stewardship review and anti-concentration signals.
 
 Proposals that would widen residual powers in these areas, or convert provisional administrative control into permanent authority, require heightened scrutiny and should not advance without strong, diverse review saturation.
 
