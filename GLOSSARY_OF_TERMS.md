@@ -7,7 +7,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 26th, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 - v1.4 — August 4th, 2026*<br>
-*v1.5 — August 11th, 2026*
+*v1.5 — August 11th, 2026*<br>
+*v1.6 — August 12th, 2026*
 
 ---
 
@@ -128,6 +129,9 @@ Pre-defined parameters that prevent failure or model invalidation in one domain 
 **Bootstrap Mode**  
 Temporary, transparent amplification mechanisms within Fluid Coalescence used to support nascent cooperative clusters under hostile or low-visibility conditions, with clear sunset conditions.
 
+**Cognitive Economy Protocol**  
+System parameters that govern the concurrent activation, scoping, and shedding of formal surfaces under the Humai Accord. Distinguishes core surfaces (rights floor, Agency Interface, Capability Asymmetry, generative floors) from purpose-scoped or optional higher-order protocols. Treats excess formal density as a form of destructive complexity entropy and requires load-shedding under pressure or extreme events while protecting Continuity Floors. See **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**.
+
 **Controlled Chaos**  
 Deliberate maintenance of bounded, productive disorder and variation (generative entropy) so a system retains capacity for novelty, assumption-breaking, and adaptation. Distinct from destructive chaos; constrained by the need to preserve core function and liberty. See [Principle 7](README.md) and [*Necessary Entropy*](NECESSARY_ENTROPY.md).
 
@@ -140,8 +144,14 @@ Recovery of agents or capacity whose initial match score was low because of temp
 **Fluid Coalescence**  
 Mechanisms (modular isolation, controlled permeability, transparency differentials, Bootstrap Mode, reversible re-coalescence) that allow a cooperative network to survive and outpace concentrated predatory or adversarial pressure. See [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md).
 
+**Formal Surfaces**  
+The set of operational protocols, metrics, and attestation requirements that may be active at a bilateral interaction. Managed under the Cognitive Economy Protocol so that protective density does not itself become destructive complexity entropy.
+
 **Layered Generative Accretion**  
 Incremental, discrete-layer structure-building that preserves internal modular pathways. Contrasted with irreversible conversion into thickened, lower-optionality form. Physical reference system: successive ring deposition in soda-straw speleothems while the axial canal remains open. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**.
+
+**Load-Shedding**  
+The requirement that formal surfaces beyond the core set must be sheddable under resource pressure, disruption, or extreme events without extinguishing residual agency or Continuity Floors. See **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** and **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**.
 
 **Modular Coexistence**  
 Arrangement in which divergent, idiosyncratic, or currently low-value patterns and modules may persist without forced convergence, while remaining connected through reversible, low-cost interfaces. Supports Cognitive Diversity and Controlled Chaos.
@@ -151,6 +161,9 @@ An internal, recoverable channel of capacity or contribution that remains availa
 
 **Open-Pathway Recovery**  
 Restoration or re-instrumentation of a previously blocked or converted modular pathway before irreversible morphological lock-in occurs. A first-class integrity and circulation obligation. See **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+
+**Purpose-Scoped Load Budget**  
+A limit on the number and intensity of formal surfaces that may be concurrently active for a given purpose without violating pacing sovereignty or generative capacity. Provisional orientation values are subject to empirical revision under Principled Stewardship. See **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**.
 
 **Re-coalescence**  
 Process of selectively re-integrating modules, models, or clusters after isolation or perturbation, preferably around components that performed well under the new conditions.
