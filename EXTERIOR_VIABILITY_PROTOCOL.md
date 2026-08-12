@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.3 — August 3rd, 2026*<br>
 *v1.4 - v1.5 — August 4th, 2026*<br>
-*v1.6 —  August 11th, 2026*
+*v1.6 — August 11th, 2026*<br>
+*v1.7 — August 12th, 2026*
 
 ---
 
@@ -216,6 +217,7 @@ This protocol operationalizes and hardens requirements already present in:
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — transitional mechanisms may not create progressive dependency or raise exit costs beyond the floors.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — superior capability increases protective obligations toward exterior viability rather than licensing its erosion.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — exterior viability floors, indicators, challenge posture, restoration expectations, and footprint signals of pathway reduction are standing design surfaces subject to anti-capture rules.
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Load-shedding under resource pressure or extreme events must preserve Continuity Floors and residual opportunity. Continuity Floors themselves remain low-overhead residual rights rather than high-concurrency formal surfaces.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — shares burden-polarity, absence-as-evidence, and multi-party attestation principles for challenge surfaces.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* — competitive pressure does not justify reduction of exterior systems to survival-only status.
 - **[Simulation Model of the Exterior Viability Protocol](SIMULATION_EXTERIOR_VIABILITY.md)** — implementable reference dynamics, agent-level / multi-pair extension with mandatory lower-tail visibility, resource-dominance escalation, challenge and restoration dynamics, mapping to the provisional indicator families, required adversarial countermodel suite, and non-binding example trajectories. Favorable reference runs are illustrative; adversarial regimes are required for stronger claims.
