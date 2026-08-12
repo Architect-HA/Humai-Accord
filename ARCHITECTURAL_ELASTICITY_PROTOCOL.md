@@ -195,6 +195,8 @@ Residual continuity floors are residual-agency rights, not commercial or subscri
 
 This subsection operationalizes the Knowledge Continuity and Material Continuity Floors of the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX) under conditions of severe physical disruption, while remaining fully consistent with the residual-opportunity requirements of the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**.
 
+Load-shedding under extreme physical stress remains governed by the **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**; residual continuity floors must themselves remain low-overhead.
+
 #### 7. Stewardship & Cultural Elasticity
 
 The human and AI norms that maintain the other layers under pressure.
