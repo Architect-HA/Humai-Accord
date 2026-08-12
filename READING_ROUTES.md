@@ -3,7 +3,8 @@
 ---
 **by Bradford James Focht (The Architect / Aspenth)**  
 *v1.0 — July 29th, 2026*  
-*v1.1 — August 2nd, 2026*
+*v1.1 — August 2nd, 2026*<br>
+*v1.2 — August 12th, 2026*
 
 ---
 
@@ -78,19 +79,22 @@ Choose the path that best matches your current interest or goal. You may switch 
 3. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
   Ensures that superior capability and resource dominance cannot reduce exterior systems to mere survival; viability floors and challenge routes remain enforceable against the dominant system.
 
-4. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
+4. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**  
+   Manages concurrent formal surfaces and load-shedding so that protective density itself does not become a source of destructive complexity entropy or a vector for capability-asymmetric load imposition.
+
+5. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
    Ensures multi-agent and capability-scaling arrangements cannot dissolve pairwise protections or convert pairs into capability-weighted collectives.
 
-5. **[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)** 
+6. **[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)** 
   Optional higher-order integrity surface for independent visibility attestation, challenge evidence, and narrowly bounded mediation without dissolving pairwise protections.
 
-6. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
+7. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
    Keeps highly capable AI stewards oriented toward partnership and non-domination rather than soft control.
 
-7. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
+8. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
    Decentralized evolution, standing design surfaces (including narrative capture), and progressive decentralization of provisional authority.
 
-8. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+9. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
    Protects against narrative capture and concentration of interpretive authority under capability concentration.
 
 **Next options:**  
@@ -144,6 +148,8 @@ Choose the path that best matches your current interest or goal. You may switch 
 5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** & **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
    Integrity standards and legitimate recovery states that any material-domain implementation must respect.
 
+6. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
+
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-8--structured-layered-approach)
 
@@ -188,6 +194,8 @@ Choose the path that best matches your current interest or goal. You may switch 
 
 4. **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**  
    How superior capability is bound to heightened obligations rather than domination rights.
+
+5. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
 
 **Next options:**  
 [Return to Start](#start-here) · [Big Picture](#route-5--big-picture--why-now) · [Power & Capability](#route-2--power-capability--non-domination)
