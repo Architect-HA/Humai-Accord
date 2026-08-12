@@ -7,7 +7,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - July 26th, 2026*<br>
 *v1.1 - August 2nd, 2026*<br>
 *v1.2 - August 3rd, 2026*<br>
-*v1.3 - v1.5 - August 4th, 2026*
+*v1.3 - v1.5 - August 4th, 2026*<br>
+*v1.6 - August 12th, 2026*
 
 ---
 
@@ -60,8 +61,9 @@ These documents form the current operational heart of the architecture. Once the
 3. **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — Making early adoption locally rational
 4. **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Constraining power under capability growth
 5. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Preserving human agency at the actual point of interaction
-6. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — Keeping the Eternal Benevolent Steward oriented toward partnership
-7. *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Operationalizing harmony in realistic human and AI terms
+6. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Managing concurrent formal surfaces and protecting against destructive complexity entropy
+7. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — Keeping the Eternal Benevolent Steward oriented toward partnership
+8. *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Operationalizing harmony in realistic human and AI terms
 
 ---
 
@@ -79,6 +81,7 @@ Read these according to specific interest:
 | Embodied feedback | [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) |
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
 | Open modular pathways, filtered-capacity recovery, and interface morphology | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
+| Formal load, concurrent surfaces, and protective density | [Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md) |
 | Template lock-in, signal monoculture, and lower-tail generative density | *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + [simulation](SIMULATION_EXTERIOR_VIABILITY.md), [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Remnant lock-in, superior foresight, and mandatory invitation surfaces | [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md), [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§11), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + simulation, [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
 | Bootstrap expansion and non-permanent remnant closure | [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) (Bootstrap Mode expansion parameters) |
