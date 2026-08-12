@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 - v1.4 — August 3rd, 2026*<br>
 *v1.5 — August 4th, 2026*<br>
-*v1.6 — August 11th, 2026*
+*v1.6 — August 11th, 2026*<br>
+*v1.7 — August 12th, 2026*
 
 ---
 
@@ -64,6 +65,8 @@ In short: the Accord is anti-*entropic waste*, not anti-entropy itself.
 A system that eliminates generative entropy in pursuit of harmony becomes, over sufficient time, a higher-order form of destructive entropy: elegant, coordinated, and dead.
 
 Irreversible or near-irreversible loss of knowledge lineage or of basic material, computational, or energy agency — when not voluntarily chosen — is a recognized form of destructive entropy. The Knowledge Continuity and Material Continuity Floors (see *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* Article IX and the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**) exist to bound this class of loss without creating subscription lock-in or new points of capture.
+
+Excess concurrent formal density — the requirement that every bilateral pair continuously run every higher-order protocol — is a recognized form of destructive complexity entropy. The **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** operationalizes load budgets, core versus purpose-scoped distinctions, and load-shedding so that protective density remains modular and anti-entropic.
 
 ---
 
