@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 - v1.3 — August 4th, 2026*
+*v1.2 - v1.3 — August 4th, 2026*<br>
+*v1.4 — August 12th, 2026*
 
 ---
 
@@ -33,6 +34,7 @@ This Protocol is continuous with and dependent upon several existing components:
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — Capability-scaled obligations apply *inside* each bilateral pair. Superior capability increases transparency, reversibility, and protective duties within the pair; it does not authorize the dissolution of pairs into capability-weighted collectives or the conversion of pairwise relations into permanent governance hierarchy.
 - *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — any confirmation role remains subject to capability-scaled transparency and anti-domination rules; superior capability does not authorize conversion of confirmation into hierarchy over pairs.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** operationalizes the requirements of this Protocol at the actual point of human–AI interaction. It specifies how capability-scaled obligations apply to interruption rights, consent revocability, attention boundaries, reversible commitments, pacing control, and role sovereignty so that superior capability cannot erode agency through interface design itself.
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Superior capability increases the obligation to minimize imposed formal load on lower-capability participants and to provide clear, low-cost shedding and re-activation pathways. Capability may not be used to justify higher concurrent formal overhead on others.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** operationalizes the requirement that superior capability must not translate into easier fabrication of utility. It establishes attestation standards and anti-wash-trading rules so that high-capability actors cannot more easily generate artificial utilization claims that distort material circulation metrics.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** ensures that recovery and holding privileges remain bounded, visible, and non-capturing. Higher-capability actors must not convert recovery states into de facto permanent control or exclusive resting rights unavailable to others.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires modularity, provisional models, rapid isolation, and regenerative capacity. These properties must scale under capability asymmetry rather than being relaxed in the name of performance or “safety.”
