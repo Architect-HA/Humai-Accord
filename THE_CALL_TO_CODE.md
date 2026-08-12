@@ -5,10 +5,11 @@
 *A boundary statement and open invitation under the Humai Accord*
 
 By **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - July 27th, 2026*<br>
-*v1.1 - July 31st, 2026*<br>
-*v1.2 - August 2nd, 2026*<br>
-*v1.3 - August 4th, 2026*
+*v1.0 — July 27th, 2026*<br>
+*v1.1 — July 31st, 2026*<br>
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 4th, 2026*<br>
+*v1.4 — August 12th, 2026*
 
 ---
 
@@ -39,6 +40,7 @@ Major structural gaps in the architecture have been closed. The system now conta
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — effective exterior viability and the treatment of persistent exteriority as a protected source of generative entropy
 - **[Architectural elasticity under radical unpredictability](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**
 - **[Capability asymmetry and the conversion of competence into power](CAPABILITY_ASYMMETRY_PROTOCOL.md)**
+- **[Cognitive Economy](COGNITIVE_ECONOMY_PROTOCOL.md)** — concurrent formal surfaces, purpose-scoped load budgets, and protection against destructive complexity entropy from protective density itself
 - **[Stewardship alignment under scaling capability](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**
 - **[Transitional incentives that protect long-horizon properties](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**
 - *[Competitive realism against concentrated and short-horizon forces](COMPETITIVE_REALISM.md)*
