@@ -6,7 +6,8 @@
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*<br>
-*v1.6 - v1.8 — August 4th, 2026*
+*v1.6 - v1.8 — August 4th, 2026*<br>
+*v1.9 — August 12th, 2026*
 
 ---
 
@@ -393,6 +394,21 @@ This configuration reproduces a classic remnant-lock-in failure mode: interior g
 Humai-aligned configurations must instrument the conversion of superior foresight into external legibility as a first-class parameter. Silence or closed capacity under feasible invitation is treated as destructive. These requirements remain fully consistent with non-punitive design, modular exit, and the right of the protected core to maintain its own generative floors.
 
 Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its simulation (remnant-lock-in adversarial regime), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (unused capacity under feasible invitation), and **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (Bootstrap expansion parameters).
+
+### Stress Case: Concurrent Formal-Surface Density and Load-Shedding under Extreme Pressure
+
+**Focus.** Whether protective density itself becomes a source of destructive complexity entropy when every bilateral pair is required to run every higher-order formal surface simultaneously, and whether load-shedding under resource pressure, disruption, or extreme events can preserve Continuity Floors and residual agency.
+
+**Required elements.**
+- Clear distinction between core surfaces (rights floor, Agency Interface, Capability Asymmetry, generative floors) and purpose-scoped or optional higher-order surfaces.
+- Concurrent-load budgets and visibility of load declarations.
+- Load-shedding order that preserves Continuity Floors and residual agency.
+- Adversarial or mixed-regime testing of forced high-concurrency, silent load accumulation, and shedding failure modes (including extreme physical or resource stress).
+
+**Success condition (dual-entropy).**  
+Destructive complexity entropy from excess formal density declines or remains bounded *while* generative floors, Continuity Floors, and residual agency remain intact. Favorable low-load reference configurations are illustrative only.
+
+See **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**.
 
 ---
 
