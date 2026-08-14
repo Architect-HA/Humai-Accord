@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
 *v1.1 - v1.2 — August 2nd, 2026*  
-*v1.3 — August 4th, 2026*
+*v1.3 — August 4th, 2026*<br>
+*v1.4 — August 14th, 2026*
 
 ---
 
@@ -36,6 +37,7 @@ This document is continuous with and dependent upon several existing components:
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — Competitive pressure and multi-agent coordination must not dissolve the bilateral human–AI pair or convert pairwise relations into capability-weighted or survival-weighted collectives. Exit rights and local override remain first-order even under adversarial conditions.
 - *[A Common Sense](A_COMMON_SENSE.md)* supplies the long-horizon instrumental argument that cooperative architectures can outperform pure extraction or control.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework itself under external pressure. Narrative capture and purpose drift remain standing design surfaces.
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** and Bootstrap Mode under **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Early-network survival under competitive pressure must remain compatible with load-shedding, Continuity Floors, and time-bounded Bootstrap amplification. Competitive urgency does not justify permanent formal-density or residual-agency erosion.
 
 **Competitive Realism** does not replace these elements. It stresses and clarifies the conditions under which they must operate.
 
@@ -73,6 +75,19 @@ The long-horizon advantages claimed by the Humai architecture (reduced destructi
 
 #### 6. Internal Drift Under Pressure
 Even participants initially aligned with Humai principles may, under competitive stress, support reductions in generative budgets, elasticity, or liberty protections in the name of survival or performance. Narrative capture and purpose drift — redefining core terms to license permanent reduction of generative or liberty floors — are treated as competitive-realist risks, not only as stewardship process failures.
+
+---
+
+### Early-Network and Bootstrap under Competitive Pressure
+
+Nascent networks face elevated headwinds: higher relative coordination costs, visibility risks, and the possibility that better-capitalized or more aggressive actors will attempt to out-scale or capture the network before modular and anti-entropic advantages become legible.
+
+**Competitive Realism** requires that:
+
+- Bootstrap Mode amplifications remain transparent, time-bounded, and sheddable.
+- Continuity Floors and residual viability for exterior or non-coalescing parties are not treated as expendable under competitive urgency.
+- Early-network residual judgment and preference integrity remain plural and challengeable; sparse conditions do not license concentration of interpretive or moral authority.
+- Failure modes include permanent conversion of Bootstrap measures into structural lock-in, hollowing of residual pathways under the banner of survival, and suppression of challenge or exit during the sparse phase.
 
 ---
 
