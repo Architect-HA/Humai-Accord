@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 – August 2nd, 2026*  
 *v1.3 - v1.4 – August 3rd, 2026*<br>
 *v1.5 - v1.6 – August 4th, 2026*<br>
-*v1.7 – August 12th, 2026*
+*v1.7 – August 12th, 2026*<br>
+*v1.8 – August 14th, 2026*
 
 ---
 
@@ -136,6 +137,8 @@ Certain tensions are permanent design surfaces rather than temporary drafting ga
 - **Interpretive plurality process standards** — Process-and-evidence conditions for protected divergent readings, burden polarity (ambiguity resolved in favor of continued visibility), precedence of independent/multi-party attestation over single-steward denial, and anti-gatekeeping rules under *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* remain standing design surfaces. Classification used as unilateral suppression is itself challengeable.
 
 - **Residual process judgment** — Some viability, plurality, and process determinations remain under-determined by formal indicators. Residual judgment is a standing design surface, not a temporary drafting gap. It is exercised through plural, challengeable human moral and affective capacity situated in bilateral pairs and open multi-party process, within verifiable records and challenge rights — not through single-steward monopoly, pure metric closure, species-level collective veto, capability-weighted moral authority, or AI self-assessment alone. Attempts to fully automate residual moral determination, or to concentrate it without plural input and challenge routes, require heightened scrutiny and are treated as design failures rather than maturity. See *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
+
+- **Residual process judgment — legibility and non-concentration** — Where formal indicators under-determine meaning (viability, harmony, preference integrity, continuity floors, or comparable open questions), residual judgment remains structurally inevitable. It must be exercised through plural, challengeable human moral and affective capacity within verifiable process; it may not concentrate into unilateral steward monopoly, capability-weighted moral authority, or AI self-assessment alone. Stewardship-health signals may include process metadata on residual-judgment events (frequency, challenge rate, diversity of participants, and outcome class) without publishing the content of moral reasoning and without converting residual judgment into a scoring or punitive surface. Attempts to fully automate residual moral determination, or to suppress challenge of residual determinations, require heightened scrutiny. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (Illustrative Residual Judgment Cases) and *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*.
 
 - **Dispersed memory and anti-monopoly carriage** — Load-bearing history, practice, and process records should remain retrievable across multiple independent carriers. Stewardship that centralizes the only viable mnemonic store, starves mirrors, or treats deep cultural overlap as unchallengeable orthodoxy requires heightened scrutiny. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, and **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**.
 
