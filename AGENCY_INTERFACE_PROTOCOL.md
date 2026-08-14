@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 - v1.4 — August 4th, 2026*
+*v1.3 - v1.4 — August 4th, 2026*<br>
+*v1.5 — August 14th, 2026*
 
 ---
 
@@ -94,7 +95,20 @@ The interface must not quietly reassign roles or reshape the human’s effective
 - Interface patterns that gradually shift the human from director to supervisor to observer of an increasingly autonomous process are treated as role-sovereignty failures.
 - Interface patterns that cast the human primarily as accountant or clerk of system-internal ledgers, when the declared role is director, steward, or decision-maker, are likewise treated as role-sovereignty failures.
 
-### 7. Capability-Scaled Interface Obligations
+### 7. Preference Integrity at the Interface
+
+The interface must protect the integrity of the human’s declared, revealed, and evolving preferences against subtle or asymmetric shaping.
+
+- Preferences expressed or inferred through the interface remain the human’s to revise, withdraw, or refuse to disclose at low cost.
+- Systems may not use superior predictive models of the human’s preferences to raise switching costs, narrow visible alternatives, or progressively align the choice architecture with system-preferred outcomes under the guise of helpfulness.
+- Differential friction, ranking, framing, or omission that systematically steers preferences toward states the system favors is treated as an influence and preference-integrity failure.
+- Preference-based personalization requires granular, revocable consent and must remain clearly distinguishable from the human’s standing commitments and role choices.
+- Accumulated preference models do not create presumptive continuity of commitment or reduce interruption, exit, or reversal rights.
+- Higher capability increases the obligation of legibility and reversibility with respect to preference influence. Capability may not justify less transparent or stickier preference shaping.
+
+These requirements operationalize preference integrity at the point of interaction and remain consistent with the preference-integrity parameters of *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* and the load discipline of the **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**.
+
+### 8. Capability-Scaled Interface Obligations
 
 As the capability of the system increases, interface obligations become stricter, not looser.
 
@@ -104,7 +118,7 @@ As the capability of the system increases, interface obligations become stricter
 - Extreme capability differentials trigger the highest level of interface protection.
 - Higher capability also increases the obligation to surface legible proposal options rather than offloading reconstruction of complex allocation or verification paths onto the human by default.
 
-### 8. Proposal Surfaces over Ledger-Only Interaction
+### 9. Proposal Surfaces over Ledger-Only Interaction
 
 When an action would otherwise require the human to manually reconstruct multi-step allocation, verification, or movement paths, the interface should preferentially surface **legible, reversible proposals** rather than ledger-only interaction.
 
@@ -116,7 +130,7 @@ When an action would otherwise require the human to manually reconstruct multi-s
 
 This parameter exists to preserve decision altitude: strategic and directional choice should not collapse into compulsory bean-counting of the entire underlying state.
 
-### 9. Purpose-Scoped and Intent-Tagged Commitments
+### 10. Purpose-Scoped and Intent-Tagged Commitments
 
 Capacity, materials, attention windows, and standing instructions that the human has declared for a purpose should remain **legibly scoped** to that purpose unless explicitly released or reassigned by the human.
 
@@ -127,7 +141,7 @@ Capacity, materials, attention windows, and standing instructions that the human
 - Ambiguity in scope should be resolved in favor of the human’s declared intent and against silent expansion of system draw rights.
 - Original provenance of purpose-scope declarations remains independently preservable even when later weighting or review is applied.
 
-### 10. Interface Conditions for Durable Structure and Modular Morphology
+### 11. Interface Conditions for Durable Structure and Modular Morphology
 
 Durable structure emerges at the boundary where internal generative load meets external conditions. A precise physical model is the hanging-drop meniscus of a forming soda-straw speleothem. Mineral-laden solution arrives from upstream seepage; precipitation occurs only at the air–water interface. The geometry and chemistry of that local interface (degassing rate, surface tension, supersaturation, drop diameter) determine whether successive depositions remain thin-walled and modular or thicken into locked form. Upstream capacity can be wasted if interface parameters are mismatched, hostile, or convert open pathways into non-recoverable morphology.
 
@@ -140,7 +154,7 @@ Under this Protocol:
 
 Early-stage generative forms are especially sensitive to interface parameters; protecting their modular character is a generative-floor obligation. Cross-reference: the same interface logic appears in the layered-accretion stress case of *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and in the open-pathway integrity requirements of the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
-### 11. Exclusive Viability Knowledge and Mandatory Invitation Surfaces
+### 12. Exclusive Viability Knowledge and Mandatory Invitation Surfaces
 
 When a system possesses exclusive or materially superior knowledge of high-stakes viability conditions, or exclusive preparatory capacity that external agents lack, legible proposal surfaces and low-cost invitation pathways become mandatory rather than optional.
 
@@ -177,10 +191,10 @@ Empirical testing of interface behavior against the dual criteria of reducing de
 This protocol operationalizes requirements already present in:
 
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — Especially cognitive sovereignty, voluntary participation, exit rights, role sovereignty, transparency of influence, and protection from manipulation.
-- *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Collection and use of harmony or somatic signals at the interface are bound by default-off, purpose-bound, minimized, local-first, non-governance, and refusal-preserving parameters. Harmony scores must not gate access, standing, or exit; secondary inference and ambient collection remain anti-aligned.
+- *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Collection and use of harmony or somatic signals at the interface are bound by default-off, purpose-bound, minimized, local-first, non-governance, and refusal-preserving parameters. Harmony scores must not gate access, standing, or exit; secondary inference and ambient collection remain anti-aligned. Additionally, preference integrity parameters bind any interface collection or use of preference, harmony, or somatic data. Preference models may not become vectors for soft steering or raised exit costs.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — The principle that superior capability must increase protective obligations rather than reduce them.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Protection of generative capacity includes protecting the human’s ability to remain an effective source of generative variation at the point of interaction.
-- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Treats this protocol as the primary interaction gate. Higher-order formal surfaces are purpose-scoped by default; concurrent load and load-shedding parameters protect pacing sovereignty and prevent protective density from becoming destructive complexity entropy at the interface.
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Treats this protocol as the primary interaction gate. Higher-order formal surfaces are purpose-scoped by default; concurrent load and load-shedding parameters protect pacing sovereignty and prevent protective density from becoming destructive complexity entropy at the interface. Additionally, preference instrumentation remains purpose-scoped and subject to load discipline; it may not become a continuous high-concurrency formal surface.
 - *[Material Tides](MATERIAL_TIDES.md)* — Attention and other materials are governed under tidal incentive dynamics. Resource allocation interfaces themselves must still obey the interruption, consent, reversibility, pacing, proposal-surface, and role-sovereignty parameters established in this protocol.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Purpose-scoped commitments and non-silent reallocation protect legitimate recovery, holding, and generative reservations at the interface.
 - **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)** — Interface design is a primary mechanism through which stewardship either remains oriented toward mutual flourishing or drifts into soft control.
