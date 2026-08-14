@@ -7,7 +7,8 @@
 *v1.2 — August 2nd, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*<br>
 *v1.6 - v1.8 — August 4th, 2026*<br>
-*v1.9 — August 12th, 2026*
+*v1.9 — August 12th, 2026*<br>
+*v1.9.1 — August 14th, 2026*
 
 ---
 
@@ -82,6 +83,16 @@ The following cases are **illustrative only**. They orient evaluation. They do n
 Each case follows the same structure: setup; what metrics may say; what remains under-determined; how residual judgment should operate under Humai parameters. 
 
 These cases complement **Pathway 1.4**; they do not replace its minimum required scenarios.
+
+**Instrumentation note:**  
+Residual judgment events are observable process signals. For stronger claims about process integrity, evaluations should be able to report, at minimum:
+
+- whether a residual determination occurred and on what formal indicators it was under-determined;
+- whether plural or multi-party human input was present;
+- whether independent or challenge evidence was available and considered;
+- and whether the determination remained non-punitive and exit-preserving.
+
+These signals inform stewardship-health review under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. They do not create new scoring powers or authorize metric closure of residual moral questions. AI self-assessment alone remains insufficient. Favorable residual-judgment process records are illustrative; adversarial or contested residual determinations remain necessary for stronger claims about process integrity.
 
 ### Case 1 — Hollow Formal Exterior Viability
 
