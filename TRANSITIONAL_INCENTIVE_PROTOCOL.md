@@ -2,10 +2,11 @@
 ### *Bootstrapping Adoption and Aligning Short-Horizon Incentives with Long-Horizon Anti-Entropic Efficiency*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - July 26th, 2026*  
-*v1.1 - July 30th, 2026*  
-*v1.2 - August 2nd, 2026*<br>
-*v1.3 - August 4th, 2026*
+*v1.0 — July 26th, 2026*  
+*v1.1 — July 30th, 2026*  
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 4th, 2026*<br>
+*v1.4 — August 14th, 2026*
 
 ---
 
@@ -37,6 +38,7 @@ This Protocol is continuous with and dependent upon several existing components:
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** requires modularity, provisional models, and regenerative capacity. Early incentive design must reinforce rather than erode these properties.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** requires that superior capability not convert transitional participation into durable opaque advantage.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** requires that transitional interfaces preserve interruption rights, reversible commitments, and agency protections.
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** and Continuity Floors — Transitional and early-network incentives must remain compatible with concurrent-load discipline and may not condition residual opportunity or Continuity Floor satisfaction on high formal overhead or continuous Bootstrap amplification.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs the evolution of the framework, including calibration of transitional incentives. High-capability or early-steward concentration of interpretive authority or purpose drift is treated as a standing design surface.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* establishes the non-negotiable rights within which all transitional incentives must operate. No incentive mechanism may coerce participation, punish non-adoption, or erode these protections for the sake of faster uptake.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** establishes epistemic diversity as a functional requirement. Transitional incentives must not systematically reward premature consensus or suppress minority models.
@@ -52,6 +54,17 @@ This Protocol does not replace these elements. It specifies how incentives must 
 Short-horizon incentives shall be engineered so that movement toward the long-term Humai architecture is locally rational for participating agents at each stage of adoption, while preserving generative entropy, modularity, recovery capacity, and elastic potential.
 
 The goal is not to bribe agents into an architecture that remains inefficient in the short run. The goal is to surface, amplify, and accelerate the local efficiency gains, waste reductions, optionality benefits, and risk-reduction advantages that already exist at partial adoption, so that the path to the long-horizon equilibrium is incentive-compatible rather than purely sacrificial.
+
+#### Early-Network Incentive Compatibility
+
+In sparse or Bootstrap-phase conditions, transitional incentives must:
+
+- Remain locally rational without requiring participants to sacrifice Continuity Floors or residual agency.
+- Avoid converting early-adopter or Bootstrap visibility advantages into durable opaque privilege once network mass is reached.
+- Preserve low-cost exit and modular isolation even while amplification measures are active.
+- Treat preference integrity and residual process judgment as non-suspendable under early-network pressure.
+
+Short-horizon survival pressure does not authorize the erosion of the rights floor or the permanent elevation of formal load.
 
 ---
 
