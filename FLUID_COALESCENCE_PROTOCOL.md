@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 30th, 2026*  
 *v1.2 — July 31st, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*<br>
-*v1.6 — August 4th, 2026*
+*v1.6 — August 4th, 2026*<br>
+*v1.7 — August 14th, 2026*
 
 ---
 
@@ -191,6 +192,20 @@ Bootstrap Mode activation and sunset criteria must be public and pre-declared. T
 - Artificial mass, fabricated attestation, or recovery claims that fail **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** standards do not count toward exit indicators
 
 The goal is a bounded early window, not permanent privilege.
+
+### Early-Network Residual Viability and Load Discipline
+
+Bootstrap Mode exists to give a nascent network a bounded opportunity to reach self-reinforcing mass. It does not suspend Continuity Floors, residual agency, or Cognitive Economy discipline.
+
+While in Bootstrap Mode:
+
+- Continuity Floors (Knowledge Continuity and Material Continuity) remain residual-agency rights. Temporary amplification measures may not convert them into high-concurrency formal burdens or condition residual opportunity on continuous high formal load.
+- Formal surfaces beyond the core set remain subject to the load-shedding parameters of the **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**. Bootstrap amplification itself must remain sheddable and time-bounded.
+- Residual process judgment under sparse conditions (including determinations of meaningful residual opportunity, preference integrity, or continuity-floor satisfaction) remains plural, challengeable, non-punitive, and exit-preserving. Sparse participation does not authorize concentration of residual judgment into early-steward or high-capability monopoly. See **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
+- Exterior and non-coalescing parties retain residual viability floors; Bootstrap Mode may not be used as progressive containment or as justification for hollowing exterior pathways.
+- Temporary generative and recovery protections already recognized in Bootstrap Mode remain compatible with the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and must not harden into permanent lock-in once sunset conditions are met.
+
+Successful exit from Bootstrap Mode is measured by growth in verified causal volume, participant or modular-node count, and integrity coverage beyond pre-declared thresholds, while Continuity Floors and residual agency remain intact. Failure to sunset, or conversion of Bootstrap amplifications into permanent structural advantage, is treated as a design and stewardship failure.
 
 ### Interaction Between Amplified Pressure and Recovery Protections
 
