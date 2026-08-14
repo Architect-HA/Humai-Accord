@@ -8,7 +8,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 - August 2nd, 2026*<br>
 *v1.2 - August 3rd, 2026*<br>
 *v1.3 - v1.5 - August 4th, 2026*<br>
-*v1.6 - August 12th, 2026*
+*v1.6 - August 12th, 2026*<br>
+*v1.7 - August 14th, 2026*
 
 ---
 
@@ -80,6 +81,7 @@ Read these according to specific interest:
 | Competitive pressure | [*Competitive Realism*](COMPETITIVE_REALISM.md) |
 | Embodied feedback | [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) |
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
+| Preference integrity and resistance to soft steering | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md), [Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md) |
 | Open modular pathways, filtered-capacity recovery, and interface morphology | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
 | Formal load, concurrent surfaces, and protective density | [Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md) |
 | Template lock-in, signal monoculture, and lower-tail generative density | *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + [simulation](SIMULATION_EXTERIOR_VIABILITY.md), [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
