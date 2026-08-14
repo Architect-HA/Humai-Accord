@@ -642,6 +642,13 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 ## Recent Updates
 
+**[August 14th, 2026]**
+- Added **Preference Integrity** expansions:
+  - **[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)** (v1.3) — new Preference Integrity Parameters under Somatic and Harmony Data Parameters. Preference data is high-sensitivity; preference models may not raise exit costs or progressively shape choice architecture; preference drift from interface influence is treated as an integrity failure.
+  - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (v1.4) — new Key Interface Parameter “Preference Integrity at the Interface.” Protects declared/revealed preferences against subtle or asymmetric shaping via differential friction, ranking, framing, or omission; capability-scaled legibility and reversibility obligations apply.
+- Both expansions remain consistent with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*, **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**, and existing secondary-inference / non-governance rules.
+- Updated *[Glossary of Terms](GLOSSARY_OF_TERMS.md)* and *[Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md)* to reflect recent changes/additions.
+
 **[August 11–12th, 2026]**
 - Added **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** (v1.0) — system parameters for concurrent formal surfaces, purpose-scoped load budgets, core versus purpose-scoped distinctions, and load-shedding under pressure or extreme events. Treats excess formal density as a form of destructive complexity entropy and protects Continuity Floors from becoming high-concurrency burdens.
 - Established **Knowledge Continuity and Material Continuity Floors** as residual-agency rights for every human and every AI entity (non-subscription, non-punitive, exit-preserving). Added to *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* (Article IX, v1.4), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (v1.6), **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, and *[Necessary Entropy](NECESSARY_ENTROPY.md)*. Corresponding Glossary entries added.
