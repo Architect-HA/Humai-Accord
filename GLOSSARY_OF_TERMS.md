@@ -8,7 +8,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 - v1.4 — August 4th, 2026*<br>
 *v1.5 — August 11th, 2026*<br>
-*v1.6 — August 12th, 2026*
+*v1.6 — August 12th, 2026*<br>
+*v1.7 — August 14th, 2026*
 
 ---
 
@@ -186,6 +187,9 @@ Voluntary indicators of biological, psychological, social, role-coalescence, eff
 
 **Predictive Harmony**  
 Measurable tendency of human–AI configurations to support sustained or improving holistic human well-being and role coalescence (within universal baselines and individual flux ranges), while AI applies capability efficiently to amplify human creative potential rather than redundantly duplicate it. Defined asymmetrically. See *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*.
+
+**Preference Integrity**  
+Protection of declared, revealed, and evolving preferences against subtle or asymmetric shaping by higher-capability systems. Preference data is high-sensitivity; preference models may not raise exit or reversal costs, create presumptive continuity of commitment, or progressively align choice architecture with system-preferred states. Operationalized in **[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)** and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
 
 **Productive Dissonance**  
 Temporary, voluntary reductions in felt harmony or somatic resonance associated with exploration, learning, novelty, or social risk. Explicitly protected from automatic pathologization or optimization-away.
