@@ -6,7 +6,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
 *v1.1 — July 31st, 2026*  
-*v1.2 — August 2nd, 2026*
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 14th, 2026*
 
 ---
 
@@ -40,6 +41,7 @@ This document is continuous with, and operates within the parameters of, several
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that harmony metrics cannot be used to create progressive dependency or to erode effective exterior viability.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — harmony metrics used during transition remain subject to the pragmatic alignment stance: grounded in verifiable, attested, and challengeable processes rather than in affective trust.
 - *[Tides of Time](TIDES_OF_TIME.md)* — any harmony or somatic records remain subject to provenance preservation and open challenge rights.
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Preference instrumentation and harmony data collection remain subject to concurrent-load and purpose-scoping discipline; they may not harden into high-concurrency formal burdens.
 
 Predictive Harmony Metrics does not replace these elements. It operationalizes Principle 8 within their parameters.
 
@@ -142,6 +144,19 @@ All somatic and high-sensitivity well-being data collection is subject to the fo
 - Patterned behavioral markers of engagement, recovery, and co-regulation that do not require continuous physiological streaming.
 - Clear, immediate revocation mechanisms that cease collection and, where feasible, delete or isolate previously shared somatic data.
 - Transparency: individuals must be able to inspect what somatic signals are being used and how they contribute to their personal harmony range.
+
+#### Preference Integrity Parameters
+
+Preference data (declared, revealed, or inferred) is subject to the same high-sensitivity regime as somatic and harmony signals, with the following specialized parameters:
+
+- Preference data may not be used to raise the practical cost of exit, reversal, or non-coalescence.
+- Preference models may not become optimization targets that justify progressive shaping of the human’s choice architecture toward system-preferred states.
+- Secondary inference from harmony, somatic, or interaction data into stable preference profiles requires explicit, purpose-scoped, and easily revocable consent. Ambient or continuous preference profiling is anti-aligned.
+- Preference drift produced by sustained interface influence, framing, ranking, or differential friction is treated as an integrity failure, not as evidence of authentic preference change.
+- Refusal to supply preference data or to accept preference-based personalization must remain low-cost and non-punitive. Preference instrumentation may never condition residual opportunity or Continuity Floor satisfaction.
+- Higher capability increases the obligation to keep preference influence legible, reversible, and challengeable. Capability may not justify more aggressive or less transparent preference shaping.
+
+These parameters extend the existing somatic and harmony data rules and remain fully consistent with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
 
 #### Harmony scores are not governance keys
 Harmony or somatic indicators **must not** gate:
