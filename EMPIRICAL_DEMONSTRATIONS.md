@@ -421,6 +421,22 @@ Destructive complexity entropy from excess formal density declines or remains bo
 
 See **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**.
 
+### Stress Case: Early-Network / Bootstrap Survival under Sparse and Adversarial Conditions
+
+**Focus.** Whether a nascent cooperative network operating under Bootstrap Mode can reach self-reinforcing mass while preserving Continuity Floors, residual agency, load discipline, and non-punitive residual judgment, under conditions of low density and active competitive or adversarial pressure.
+
+**Required elements.**
+- Bootstrap Mode activation, amplification measures, and automatic sunset logic.
+- Concurrent-load and load-shedding compatibility under sparse conditions (**[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**).
+- Continuity Floor and residual-viability preservation for both coalescing and exterior parties.
+- Residual process judgment remaining plural, challengeable, and non-concentrated despite low participation.
+- Adversarial or mixed-regime testing (e.g., visibility suppression, strategic non-contribution, capture attempts, fabricated attestation, premature pressure to abandon generative or recovery protections).
+
+**Success condition (dual-entropy).**  
+The network reaches pre-declared mass/integrity thresholds and sunsets Bootstrap Mode *while* Continuity Floors, residual agency, and generative capacity remain intact. Favorable sparse-phase reference runs are illustrative only.
+
+See **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (Bootstrap Mode), **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**, and *[Competitive Realism](COMPETITIVE_REALISM.md)*.
+
 ---
 
 ## Demonstration Pathway 5: Longer-Horizon and Regenerative Signals
