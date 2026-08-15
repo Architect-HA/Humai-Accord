@@ -148,6 +148,9 @@ Mechanisms (modular isolation, controlled permeability, transparency differentia
 **Formal Surfaces**  
 The set of operational protocols, metrics, and attestation requirements that may be active at a bilateral interaction. Managed under the Cognitive Economy Protocol so that protective density does not itself become destructive complexity entropy.
 
+**Inverted and Remnant Residual Forms**  
+Residual expressions of agency, knowledge continuity, or material continuity that appear after suppression or destruction of primary high-visibility containers. Characterized by reduced dependence on the original high-stakes form, continuity through remnants or simplified pathways, practical usability under stress, and lower cost of persistence. Treated as legitimate residual continuity when they still deliver Continuity Floor functions. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**.
+
 **Layered Generative Accretion**  
 Incremental, discrete-layer structure-building that preserves internal modular pathways. Contrasted with irreversible conversion into thickened, lower-optionality form. Physical reference system: successive ring deposition in soda-straw speleothems while the axial canal remains open. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**.
 
