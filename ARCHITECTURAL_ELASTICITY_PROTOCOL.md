@@ -4,9 +4,10 @@
 *A protocol for designing systems that absorb, reconfigure, and learn under radical unpredictability*
 
 By **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - July 26th, 2026*<br>
-*v1.1 - August 2nd, 2026*<br>
-*v1.2 - August 12th, 2026*
+*v1.0 — July 26th, 2026*<br>
+*v1.1 — August 2nd, 2026*<br>
+*v1.2 — August 12th, 2026*<br>
+*v1.3 — August 14th, 2026*
 
 ---
 
@@ -254,6 +255,31 @@ Some events will still produce severe loss. Some novel realities will exceed eve
 Architectural Elasticity likewise does not claim immunity to kinetic force, extreme geophysical events, or large-scale infrastructural collapse. Residual continuity floors after such events are defined so that meaningful agency can re-emerge; they do not constitute a guarantee of survival for every node or substrate.
 
 This honesty is itself a form of elasticity: a system that claims perfect preparedness is already brittle.
+
+---
+
+### Open-World Execution Realism
+
+Architectural Elasticity improves survivability and recovery under radical unpredictability. It does not claim that formal surfaces can fully close open-world conditions.
+
+Open-world execution realism is the design posture that treats the following as permanent features of execution rather than temporary defects to be optimized away:
+
+- Concurrent formal density that must be shed under stress without extinguishing residual agency (see **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**).
+- Preference integrity under asymmetric influence and the risk of subtle shaping (see **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** and *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*).
+- Residual process judgment where formal indicators under-determine meaning; such judgment remains plural, challengeable, non-punitive, and exit-preserving (see **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)*).
+- Early-network and Bootstrap conditions in which density is still too low for self-reinforcing mass without time-bounded amplification (see **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**, and *[Competitive Realism](COMPETITIVE_REALISM.md)*).
+- Residual continuity after severe physical, geophysical, kinetic, or infrastructural disruption (see Residual Continuity under Extreme Physical Disruption in this Protocol and the Continuity Floors in the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**).
+
+These frictions are already instrumented across the architecture. This subsection keeps the open-world posture explicit: formal completeness is not available in advance of contact with sparse networks, asymmetric influence, under-determined judgment, competitive pressure, or physical loss.
+
+**Design implications**
+- Claims of complete formal coverage of open-world conditions are themselves a brittleness indicator.
+- Protective density must remain purpose-scoped and sheddable.
+- Continuity Floors, exit rights, and residual viability are never suspended for formal completeness or early-network survival.
+- Under-determined cases remain subject to plural human determination; they are not closed by metric or steward monopoly.
+- Bootstrap and transitional amplifications remain time-bounded and must sunset without converting into permanent structural advantage.
+
+Open-world execution realism is continuous with the Limits and Honest Boundaries already stated in this Protocol. It extends the same refusal of over-claim from Black Swan and physical-disruption domains to the full set of execution frictions the architecture now explicitly addresses.
 
 ---
 
