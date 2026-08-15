@@ -2,7 +2,8 @@
 ### *Parameters for Concurrent Formal Surfaces, Purpose-Scoped Load Budgets, and Protection Against Destructive Complexity Entropy*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 — August 11th, 2026*
+*v1.0 — August 11th, 2026*<br>
+*v1.1 — August 14th, 2026*
 
 ---
 
@@ -98,15 +99,15 @@ Superior capability increases the obligation to minimize imposed formal load on 
 
 This protocol operationalizes load and economy parameters that were previously distributed across multiple surfaces. It draws directly upon:
 
-- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — rights floor, Continuity Floors, exit, and non-punitiveness remain inviolable and may not be suspended in substance;
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — primary interaction gate, pacing sovereignty, purpose-scoped commitments, and proposal surfaces;
-- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — capability-scaled obligations now explicitly include load minimization;
-- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — excess formal complexity that erodes generative capacity is destructive entropy;
-- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — load-shedding under radical unpredictability and extreme events;
-- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and Continuity Floors — residual agency after disruption must not depend on continuous high formal load;
-- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — recovery and holding states remain low-overhead expressions of continuity;
-- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Bootstrap Mode and modular isolation must themselves respect concurrent-load ceilings;
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — load budgets and shedding orders are standing design surfaces subject to review and anti-concentration signals.
+- *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — rights floor, Continuity Floors, exit, and non-punitiveness remain inviolable and may not be suspended in substance
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — primary interaction gate, pacing sovereignty, purpose-scoped commitments, and proposal surfaces
+- **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — capability-scaled obligations now explicitly include load minimization
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — excess formal complexity that erodes generative capacity is destructive entropy
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — under severe disruption, formal surfaces may condense or be shed while residual agency reappears in inverted or remnant forms. Cognitive Economy load-shedding is compatible with, and should not extinguish, such residual expressions of the Continuity Floors
+- **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and Continuity Floors — residual agency after disruption must not depend on continuous high formal load
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — recovery and holding states remain low-overhead expressions of continuity
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Bootstrap Mode and modular isolation must themselves respect concurrent-load ceilings
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — load budgets and shedding orders are standing design surfaces subject to review and anti-concentration signals
 
 ---
 
