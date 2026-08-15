@@ -9,7 +9,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 31st, 2026*<br>
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 — August 3rd, 2026*<br>
-*v1.4 — August 11th, 2026*
+*v1.4 — August 11th, 2026*<br>
+*v1.5 — August 14th, 2026*
 
 ---
 
@@ -140,6 +141,8 @@ These floors are basic residual-agency rights, not commercial products or subscr
 These floors are non-subscription, non-punitive, and exit-preserving. They may not be conditioned on ongoing premiums, harmony scores, behavioral compliance, or continued coalescence. Higher capability increases the obligation to support residual continuity pathways for others; it does not create a privilege to withhold them.
 
 Operational parameters, minimum residual-opportunity standards, and post-disruption recovery expectations are defined in the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**. Irreversible loss of knowledge lineage or basic material agency that is not voluntarily chosen is treated as a form of destructive entropy under *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
+
+Continuity Floors protect residual knowledge and material agency as functions. They are not limited to any single high-visibility container of those functions. After severe disruption or suppression of primary pathways, inverted, remnant, or lower-visibility expressions that still deliver residual agency satisfy the Floors. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** (Inverted and Remnant Residual Forms).
 
 Ambiguity in the scope or application of these floors shall be resolved in favor of residual agency and low-cost recovery.
 
