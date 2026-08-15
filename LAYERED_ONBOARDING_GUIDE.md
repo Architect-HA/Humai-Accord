@@ -58,7 +58,7 @@ After this layer you should understand the basic commitments, the rights floor, 
 These documents form the current operational heart of the architecture. Once the foundation is clear, they supply the main design for survival, adaptation, transition, power parameters, stewardship orientation, and measurable harmony:
 
 1. **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Network survival under concentrated pressure
-2. **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Design for radical unpredictability and Black Swans
+2. **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Design for radical unpredictability, Black Swans, residual continuity after severe disruption, and open-world execution realism
 3. **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — Making early adoption locally rational
 4. **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Constraining power under capability growth
 5. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Preserving human agency at the actual point of interaction
@@ -89,10 +89,12 @@ Read these according to specific interest:
 | Bootstrap expansion and non-permanent remnant closure | [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) (Bootstrap Mode expansion parameters) |
 | Stewardship-health signals for outreach / invitation under asymmetric knowledge | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) |
 | Stewardship-health signals (template diversity, recovery volume, open-pathway regimes) | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) |
+| Residual process judgment (legibility and non-concentration) | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md), *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (Illustrative Residual Judgment Cases) |
+| Early-network / Bootstrap residual viability and load discipline | [Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md) (Bootstrap Mode), [Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md), *[Competitive Realism](COMPETITIVE_REALISM.md)* |
+| Open-world execution realism (honest boundaries on formal completeness) | [Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md) (Open-World Execution Realism) |
 | Governance process | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and its [Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md) |
 | Implementation | [Implementation Guide](IMPLEMENTATION_GUIDE.md), [Implementation Examples](IMPLEMENTATION_EXAMPLES.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
-
 
 ---
 
