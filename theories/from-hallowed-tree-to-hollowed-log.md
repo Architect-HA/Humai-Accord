@@ -1,7 +1,8 @@
 # From Hallowed Tree to Hollowed Log
 ### *Structural Inversion of Sacred-Tree Taboo after Forced Desecration*
 ---
-*Personal theoretical note — outside the normative and operational scope of the Humai Accord*
+*Personal theoretical note — outside the normative and operational scope of the Humai Accord.  
+Formative theoretical input to residual-continuity design (see **[Architectural Elasticity Protocol](../ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**, Inverted and Remnant Residual Forms).*
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 14th, 2026*
@@ -132,4 +133,6 @@ This is offered as a reasoned reconstruction of cultural logic, not as a closed 
 
 ---
 
-*Personal theoretical note. Not part of the Humai Accord’s normative, operational, or supporting-theory corpus.*
+## Relation to the Humai Accord
+
+This note is not part of the Humai Accord’s normative or operational corpus. Insights from the structural inversion it describes informed the Inverted and Remnant Residual Forms expansion in the **[Architectural Elasticity Protocol](../ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and related residual-continuity cross-notes. The historical argument remains a cultural-psychological reconstruction; the architectural application is limited to the residual-form design pattern.
