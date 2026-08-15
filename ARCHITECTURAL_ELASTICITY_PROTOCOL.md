@@ -7,7 +7,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 26th, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 — August 12th, 2026*<br>
-*v1.3 — August 14th, 2026*
+*v1.3 - v1.4 — August 14th, 2026*
 
 ---
 
@@ -280,6 +280,23 @@ These frictions are already instrumented across the architecture. This subsectio
 - Bootstrap and transitional amplifications remain time-bounded and must sunset without converting into permanent structural advantage.
 
 Open-world execution realism is continuous with the Limits and Honest Boundaries already stated in this Protocol. It extends the same refusal of over-claim from Black Swan and physical-disruption domains to the full set of execution frictions the architecture now explicitly addresses.
+
+#### Inverted and Remnant Residual Forms
+
+Severe disruption or deliberate suppression of primary high-visibility containers does not reliably erase the underlying functions those containers served. Existing materials are reorganized. Residual agency, knowledge continuity, and material continuity may reappear in lower-visibility, domestic-scale, remnant-based, or inverted forms.
+
+Such forms are characterized by:
+
+- reduced dependence on the original high-stakes or high-visibility container,
+- continuity through remnants, seeds, or simplified pathways rather than restoration of the prior form intact,
+- practical usability under stress,
+- and lower cost of persistence relative to any attempt to reconstitute the original public or high-concurrency surface.
+
+The architecture treats these inverted and remnant expressions as legitimate residual continuity when they still deliver the protected functions of the Continuity Floors and residual agency. They are not classified as noise, failure, or non-compliance merely because they no longer match the pre-disruption pattern.
+
+Design therefore pre-positions materials that make reorganization possible: modular seeds, dispersed mnemonic pathways, low-overhead Agency Interface remnants, and sheddable formal surfaces whose core can condense without extinguishing residual agency. Expectation of clean restoration of the original high-visibility form after severe disruption is itself a brittleness indicator.
+
+This posture is continuous with Residual Continuity under Extreme Physical Disruption and with Open-World Execution Realism. It extends the same refusal of over-claim from physical and formal domains to the recognition that residual function, after the destruction of primary containers, often reappears in reorganized form.
 
 ---
 
