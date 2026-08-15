@@ -7,7 +7,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — July 31st, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*<br>
 *v1.6 — August 4th, 2026*<br>
-*v1.7 — August 14th, 2026*
+*v1.7 - v1.8 — August 14th, 2026*
 
 ---
 
@@ -204,6 +204,7 @@ While in Bootstrap Mode:
 - Residual process judgment under sparse conditions (including determinations of meaningful residual opportunity, preference integrity, or continuity-floor satisfaction) remains plural, challengeable, non-punitive, and exit-preserving. Sparse participation does not authorize concentration of residual judgment into early-steward or high-capability monopoly. See **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
 - Exterior and non-coalescing parties retain residual viability floors; Bootstrap Mode may not be used as progressive containment or as justification for hollowing exterior pathways.
 - Temporary generative and recovery protections already recognized in Bootstrap Mode remain compatible with the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and must not harden into permanent lock-in once sunset conditions are met.
+- Under sparse, suppressed, or post-disruption conditions, residual early-network viability may appear in inverted, remnant, or lower-visibility forms rather than as restoration of the original high-visibility pattern. These forms remain compatible with Continuity Floors and Cognitive Economy load discipline when they still deliver residual agency. Bootstrap amplification may support reorganization of existing materials into such residual forms; it may not require the original high-stakes surface to remain intact. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** (Inverted and Remnant Residual Forms).
 
 Successful exit from Bootstrap Mode is measured by growth in verified causal volume, participant or modular-node count, and integrity coverage beyond pre-declared thresholds, while Continuity Floors and residual agency remain intact. Failure to sunset, or conversion of Bootstrap amplifications into permanent structural advantage, is treated as a design and stewardship failure.
 
