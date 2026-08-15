@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - v1.3 — August 3rd, 2026*<br>
 *v1.4 - v1.5 — August 4th, 2026*<br>
 *v1.6 — August 11th, 2026*<br>
-*v1.7 — August 12th, 2026*
+*v1.7 — August 12th, 2026*<br>
+*v1.8 — August 14th, 2026*
 
 ---
 
@@ -35,7 +36,7 @@ These are system parameters under the Humai Accord.
 
 ## Key Parameters
 
-### 1. Minimum Viability Floors
+### Minimum Viability Floors
 
 An exterior person, system, institution, or framework retains practical, usable access to the following:
 
@@ -64,7 +65,7 @@ Effective exterior viability includes the practical ability of exterior systems 
 
 Dispersed exterior memory is an anti-dependency parameter. It does not require Humai to host exterior archives; it requires that Humai-aligned dominance not make independent carriage practically non-viable.
 
-**Knowledge Continuity and Material Continuity Floors (Residual Agency after Disruption)**
+### Knowledge Continuity and Material Continuity Floors (Residual Agency after Disruption)
 
 Effective exterior viability includes explicit Knowledge Continuity and Material Continuity Floors as residual-agency rights belonging to both exterior humans and exterior AI systems (see *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*, Article IX).
 
@@ -75,7 +76,11 @@ These floors are non-subscription and non-punitive. They do not require Humai-al
 
 Failure modes include: silent withdrawal of residual continuity pathways as a consequence of non-coalescence; conversion of continuity rights into subscription or behavioral conditions; and claims of residual viability that depend solely on the continued goodwill of the dominant system after disruption.
 
-### 2. Dependency Prohibition
+**Inverted and Remnant Residual Forms**  
+
+After suppression or destruction of primary high-visibility pathways, residual exterior viability may take inverted, lower-visibility, or remnant-based forms. Such forms remain valid expressions of residual agency when they still preserve practical continuity of communication, knowledge carriage, material access, or independent succession. They are not treated as mere formal or symbolic presence merely because they no longer match the pre-disruption pattern. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** (Inverted and Remnant Residual Forms).
+
+### Dependency Prohibition
 
 The following forms of dependency that render exterior existence substantively non-viable are inconsistent with the architecture:
 
@@ -86,7 +91,7 @@ The following forms of dependency that render exterior existence substantively n
 
 Transparent opportunity gradients remain legitimate. Dependency that converts the right to remain exterior into practical loss of meaningful agency does not.
 
-### 3. Resource-Dominance Escalation
+### Resource-Dominance Escalation
 
 When Humai-aligned systems control a large majority of communication channels, material resources, stewardship infrastructure, or equivalent, the following additional requirements apply:
 
@@ -99,7 +104,7 @@ When Humai-aligned systems control a large majority of communication channels, m
 
 Dominance increases the protective obligation; it does not relax it.
 
-### 4. Challenge and External Appeal Posture
+### Challenge and External Appeal Posture
 
 Exterior systems must have access to legible challenge routes regarding viability floor breaches.
 
@@ -124,7 +129,7 @@ Residual determinations of practical usability and meaningful residual opportuni
 
 Exact institutional form may vary by implementation. The architectural requirement is that challenge remains practically exercisable against the dominant system and cannot be nullified by unilateral redefinition of standards, procedural starvation, capture of the review surface, or sole reliance on dominant-system self-assessment.
 
-### 5. Remedies and Restoration
+### Remedies and Restoration
 
 When a viability floor is breached, restoration pathways must return the exterior system to practical usability of the affected floor within a reasonable timeframe.
 
@@ -140,13 +145,13 @@ Remedies may include:
 
 Where full immediate restoration is impractical, the dominant system must publish a time-bounded restoration plan with measurable intermediate indicators. Failure to restore, or indefinite deferral without fresh public justification, is treated as a continuing breach.
 
-### 6. Isolation and Coalescence Interaction
+### Isolation and Coalescence Interaction
 
 Modular isolation, controlled permeability, and coalescence pressure under the **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and related mechanisms remain fully subject to the floors defined here.
 
 Temporary isolation may never function as progressive withdrawal of basic agency pathways from an exterior system or bilateral pair. Re-coalescence conditions may not be structured to raise the practical cost of remaining exterior beyond the viability floors.
 
-### 7. Provisional Indicator Families and Standing Design Surface
+### Provisional Indicator Families and Standing Design Surface
 
 Minimum viability floors, breach indicators, challenge-process performance, and restoration expectations are standing design surfaces under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
@@ -177,7 +182,7 @@ Implementations should publish concrete, contestable indicators. The following f
 
 Absence of published indicators does not suspend the underlying requirements. Indicators remain revisable under Principled Stewardship and contestable by exterior evidence. Footprint and negative-space signals of pathway reduction or challenge obstruction are relevant inputs to stewardship-health surfaces.
 
-### 8. Distributed versus Concentrated Feeds and Signal Monoculture
+### Distributed versus Concentrated Feeds and Signal Monoculture
 
 Effective exterior viability is degraded when residual opportunity is supplied only through a few high-volume, culturally specialized conduits while distributed micro-pathways are starved.
 
@@ -192,7 +197,7 @@ Under this Protocol:
 
 Cross-reference: the layered-accretion and template-lock-in stress case in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, open-pathway recovery under **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and interface morphology parameters in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10).
 
-### 9. Remnant Lock-In Under Superior Foresight
+### Remnant Lock-In Under Superior Foresight
 
 Effective exterior viability is further degraded when a protected system holds exclusive or superior knowledge of high-stakes viability conditions (or of a coming viability window) yet provides no legible external signaling or expandable entry pathways.
 
