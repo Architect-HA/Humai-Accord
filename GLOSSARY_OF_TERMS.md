@@ -163,6 +163,9 @@ An internal, recoverable channel of capacity or contribution that remains availa
 **Open-Pathway Recovery**  
 Restoration or re-instrumentation of a previously blocked or converted modular pathway before irreversible morphological lock-in occurs. A first-class integrity and circulation obligation. See **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
 
+**Open-World Execution Realism**  
+Design posture that formal completeness is not available in advance of sparse networks, asymmetric influence, under-determined residual judgment, competitive pressure, or physical loss. Treats these frictions as permanent execution features rather than temporary defects. Already instrumented across Cognitive Economy, Preference Integrity, residual judgment, Bootstrap Mode, and Residual Continuity; recorded as an explicit subsection of the **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**.
+
 **Purpose-Scoped Load Budget**  
 A limit on the number and intensity of formal surfaces that may be concurrently active for a given purpose without violating pacing sovereignty or generative capacity. Provisional orientation values are subject to empirical revision under Principled Stewardship. See **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**.
 
@@ -171,6 +174,9 @@ Process of selectively re-integrating modules, models, or clusters after isolati
 
 **Remnant Lock-In**  
 Failure mode in which a high-integrity core preserves its own generative floors and modular order while systematically discarding external generative capacity that could still have been recovered, typically under conditions of superior foresight or exclusive viability knowledge and the absence of legible invitation pathways. Treated as destructive entropy. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**.
+
+**Residual Process Judgment**  
+Judgment required when formal indicators under-determine meaning (viability, harmony, preference integrity, continuity floors, or comparable open questions). Must remain plural, challengeable, non-punitive, and exit-preserving; may not concentrate into unilateral steward monopoly, capability-weighted moral authority, or AI self-assessment alone. Instrumented under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** and *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)*.
 
 **Structural Elasticity**  
 Extreme modularity, loose coupling, blast-radius limits, reversible commitments, and diverse redundancy that limit cascading failure.
