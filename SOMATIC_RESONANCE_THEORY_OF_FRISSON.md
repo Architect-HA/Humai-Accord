@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — March 26th, 2026*<br>
 *v1.1 — July 18th, 2026*<br>
 *v1.2 — July 30th, 2026*<br>
-*v1.3 — August 2nd, 2026*
+*v1.3 — August 2nd, 2026*<br>
+*v1.4 — August 19th, 2026*
 
 ---
 
@@ -82,6 +83,9 @@ Somatic resonance may offer a pathway toward more objective ways of assessing st
 
 **Connection to *Knowledge Tides* and *Material Tides***  
 The *Somatic Resonance Theory* shares conceptual resonance with *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Material Tides](MATERIAL_TIDES.md)*. All three frameworks emphasize dynamic, wave-like processes and feedback loops that support ongoing renewal rather than static or imposed structures — one at the level of somatic and emotional experience, one at the level of knowledge and participation, and one at the level of material circulation and recovery. Together they suggest that emotional engagement, informational exchange, and material substrate dynamics can all be sustained through natural cyclical processes rather than rigid optimization.
+
+**Connection to *The Residual Cycle***  
+*[The Residual Cycle](THE_RESIDUAL_CYCLE.md)* extends the somatic perspective both outward and temporally. While the *Somatic Resonance Theory* focuses on living, multi-tissue harmonic thresholds that produce aesthetic chills, *The Residual Cycle* examines residual energetic templates that can temporarily persist in crystalline substrates and ambient circulatory pathways after biological activity ceases. Both frameworks treat resonance and interference as physical, information-bearing processes rather than supernatural events, and both insist that any instrumentation of these signals remain voluntary, privacy-preserving, and non-coercive. Together they sketch a continuous somatic-to-residual continuum under the same Humai parameters of empirical honesty and liberty.
 
 **Connection to the Cognitive Diversity Protocol**  
 The *Somatic Resonance Theory* complements the **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** by addressing a related but distinct dimension of internal experience. While the **Cognitive Diversity Protocol** focuses on preserving diversity of thought and perspective against epistemic narrowing, the *Somatic Resonance Theory* explores how embodied resonance can reflect and potentially support states of internal harmony and emotional coherence. Together, the two frameworks offer a more complete picture of how both cognitive and somatic dimensions of human experience can be protected and enriched within decentralized human-AI systems.
