@@ -72,6 +72,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [A Common Sense](#a-common-sense)
 - [Why Walk When You Can Ride?](#why-walk-when-you-can-ride)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
+- [The Residual Cycle](#the-residual-cycle)
 
 ### Implementation & Empirical Layer
 - [The Call to Code](#the-call-to-code)
@@ -459,6 +460,17 @@ An embodied conceptual framework proposing that aesthetic chills (frisson) arise
 
 ---
 
+## The Residual Cycle
+
+*The Unified Theory of Ghosts*  
+*(A Physical Model of Residual Flux, Pattern Interference, and Measurable Anomalous Experience)*
+
+A provisional physical model treating phenomena traditionally labeled “hauntings” as temporary interference between residual energetic templates and living biodynamic fields. The theory emphasizes lifelong atmospheric coupling, circulatory dissipation of residual energy into planetary pathways (including the water cycle), preferred crystalline sites grounded in thermoluminescence and piezoelectric behavior, multi-channel co-verification, and the functional role of Multi-Emitter systems operated in a graded restorative regime. It extends the somatic perspective outward and temporally while remaining fully aligned with cognitive liberty and non-coercive measurement.
+
+[→ Read **The Residual Cycle**](THE_RESIDUAL_CYCLE.md)
+
+---
+
 ## The Call to Code
 
 *The Call to Code: An Invitation to Implementation*
@@ -641,6 +653,10 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[August 19th, 2026]**  
+- Added **The Residual Cycle** (*The Unified Theory of Ghosts*) — a provisional physical model of residual flux, pattern interference, and measurable anomalous experience. The theory treats phenomena traditionally labeled “hauntings” as temporary interference between residual energetic templates and living biodynamic fields.
+- Added relevant cross-linking sections to the README and *Somatic Resonance Theory* documents.
 
 **[August 14th, 2026]**
 - Added **Preference Integrity** expansions:
