@@ -73,6 +73,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Why Walk When You Can Ride?](#why-walk-when-you-can-ride)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [The Residual Cycle](#the-residual-cycle)
+- [The Synthesist's Cookbook](#the-synthesists-cookbook)
 
 ### Implementation & Empirical Layer
 - [The Call to Code](#the-call-to-code)
@@ -462,12 +463,22 @@ An embodied conceptual framework proposing that aesthetic chills (frisson) arise
 
 ## The Residual Cycle
 
-*The Unified Theory of Ghosts*  
-*(A Physical Model of Residual Flux, Pattern Interference, and Measurable Anomalous Experience)*
+#### The Unified Theory of Ghosts  
+*A Physical Model of Residual Flux, Pattern Interference, and Measurable Anomalous Experience*
 
 A provisional physical model treating phenomena traditionally labeled “hauntings” as temporary interference between residual energetic templates and living biodynamic fields. The theory emphasizes lifelong atmospheric coupling, circulatory dissipation of residual energy into planetary pathways (including the water cycle), preferred crystalline sites grounded in thermoluminescence and piezoelectric behavior, multi-channel co-verification, and the functional role of Multi-Emitter systems operated in a graded restorative regime. It extends the somatic perspective outward and temporally while remaining fully aligned with cognitive liberty and non-coercive measurement.
 
 [→ Read **The Residual Cycle**](THE_RESIDUAL_CYCLE.md)
+
+---
+
+## The Synthesist's Cookbook
+#### Hypervariant Crystal Energy Storage Framework
+*A Controlled, Multi-Mineral Process Architecture and Laboratory Cookbook for Tunable High-Capacity Crystalline Lattices*
+
+A provisional, Humai-aligned laboratory cookbook and process architecture for the controlled formation and co-verified rating of crystalline lattices with tunable energy-storage capacity across quartz, calcite, mullite, and magnetite systems. Supplies hard baselines, example variant recipes, dual-metric reporting rules, instrumentation and calibration standards, quantified high-P/T cost envelopes, and mandatory co-verification gates. Capacity claims remain provisional until multi-channel agreement is demonstrated.
+
+[→ Read **The Synthesist's Cookbook**](SYNTHESISTS_COOKBOOK.md)
 
 ---
 
@@ -657,6 +668,8 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 **[August 19th, 2026]**  
 - Added **The Residual Cycle** (*The Unified Theory of Ghosts*) — a provisional physical model of residual flux, pattern interference, and measurable anomalous experience. The theory treats phenomena traditionally labeled “hauntings” as temporary interference between residual energetic templates and living biodynamic fields.
 - Added relevant cross-linking sections to the README and *Somatic Resonance Theory* documents.
+- Added **The Synthesist's Cookbook** (*Hypervariant Crystal Energy Storage Framework*) — a provisional multi-mineral process architecture and laboratory cookbook for the controlled formation and co-verified rating of crystalline lattices with tunable energy-storage capacity (quartz, calcite, mullite, magnetite). Includes example variant recipes, dual-metric reporting rules, instrumentation/calibration standards, quantified high-P/T cost envelopes, and mandatory co-verification gates.
+- Added corresponding Table of Contents entry and document section under Measurement, Harmony & Supporting Theory.
 
 **[August 14th, 2026]**
 - Added **Preference Integrity** expansions:
