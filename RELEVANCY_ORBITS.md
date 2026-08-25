@@ -3,7 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 31st, 2026*<br>
-*v1.1 — August 2nd, 2026*
+*v1.1 — August 2nd, 2026*<br>
+*v1.2 — August 25th, 2026*
 
 ---
 
@@ -223,6 +224,7 @@ Treated as anti-aligned:
 
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* / *[Material Tides](MATERIAL_TIDES.md)* — Orbits sit under tidal pressure; they do not exempt members from decay or under-utilization signals
 - *[Tides of Time](TIDES_OF_TIME.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Supply the event records, attestation classes, density signals, and integrity-sensitive weights that feed $B(i,j,t)$
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** (v1.2) — Working-set and multi-resolution parameters keep orbit-level and long-horizon knowledge surfaces low-overhead; permanent full-context loading of growing corpora is treated as a load-integrity failure under the Continuity Floors.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Isolation and re-coalescence as forced or voluntary orbit reconfiguration under pressure
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Integrity and purpose-scope rules bind what may count as a linking event
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — Multiple orbits preferred over monoculture fusion
