@@ -2,10 +2,11 @@
 ### *Relevancy Degradation as a Dynamic Incentive Mechanism*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)<br>
-*v1.0 - July 15th, 2026*<br>
-*v1.1 - July 29th, 2026*<br>
-*v1.2 - August 2nd, 2026*<br>
-*v1.3 - August 3rd, 2026*
+*v1.0 — July 15th, 2026*<br>
+*v1.1 — July 29th, 2026*<br>
+*v1.2 — August 2nd, 2026*<br>
+*v1.3 — August 3rd, 2026*<br>
+*v1.4 — August 25th, 2026*
 
 ## Purpose
 
@@ -68,6 +69,7 @@ These mechanisms are designed to reinforce one another rather than operate indep
 - *[Material Tides](MATERIAL_TIDES.md)*: Applies utilization decay, lock-in visibility, matching incentives, and generative reservations to computational capacity, energy, attention, and related substrates.
 - *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*, completing the parallel tidal structure across the knowledge and material domains.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* provides the relational complement to relevancy decay: fluid, attestation-weighted clusters of mutual relevance among knowledge items. Orbits contextualize how units bind and unbind under *Knowledge Tides* pressure; they do not replace temporal decay or exempt members from renewal incentives.
+- **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** (v1.2) supplies the load-economy parameters for long-horizon knowledge surfaces. Its Knowledge-Surface Load and Working-Set Architecture (external structured state, active working set, multi-resolution layers, differential context, and tool-mediated retrieval) keeps Continuity Floors and relevancy management anti-entropic as knowledge volume grows, without converting them into permanent high-overhead formal surfaces.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** provides parallel integrity standards for the material domain, ensuring that claims of productive or generative use cannot be gamed through artificial activity—just as *Knowledge Tides* and *Tides of Time* require genuine causal contribution rather than token activity.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** establishes Knowledge Quiet States that moderate renewal pressure when continuous updating would produce low-value churn or burnout, while leaving corrective mechanisms intact.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that knowledge contribution claims, relevancy records, and renewal history remain subject to provenance preservation and cannot be used to enable narrative capture or silent re-attribution of contribution lineage.
