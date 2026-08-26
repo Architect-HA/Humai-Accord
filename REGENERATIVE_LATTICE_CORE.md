@@ -3,7 +3,7 @@
 #### *Shielded Circulatory Conversion, Gated Reconstitution, and Regenerative Thermoelectric Recovery for Long-Haul Shipboard and Surface-Station Power*
 
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.8 — August 26th, 2026* 
+*v1.0 - v1.9 — August 26th, 2026* 
 
 ---
 
@@ -334,6 +334,8 @@ At least one slot may be held as an exploratory Cookbook variant under the Entro
 
 **EMI / magnetic standoff.** Fe3 cans are magnetic articles. Rack slots sit in Z1, heads in Z2. Cans remain in sealed, field-tamed housings; slot D exploratory articles follow the same standoff. Do not mount an unshielded magnetite payload on a condenser shoulder or against a Stirling balancer. EM handling for reconstitution happens in Module F with the cartridge pulled, not in an energized rack slot next to a live head.
 
+The on-cassette rack is **tier-0** ride-through (converter cover). Bay-level arrays are vehicle- or station-side **tier-1** and are specified under Transit and Surface Modes. They are not a sixth module.
+
 ### Module F — Gated reconstitution cell
 
 Workshop cell in the service gallery. Accepts a pulled cartridge. Runs pulse-open → rearrange → recrystallize-lock → verify at screening payload or $\leq 10\%$. Hold duration $> t_{\mathrm{diff}}$. Three S4 passes before the cartridge returns to the rack. Photons time the window. Electromagnetic handling is allowed for magnetite payloads. Fields do not contain Module A.
@@ -391,6 +393,34 @@ No interior rebuild of Modules A–F is required for remate. If remate needs a n
 **Remate dead time.** Afterheat does not wait for the checklist. Reject-kit live is step 2 and is not skipped. If station sink and ship radiator would both be open at once, keep one reject path until the other is verified. Dead-time with no reject path is a hold, not a partial mate.
 
 **Voyage support mass.** Cassette dry mass is not spare-head, spare-can, or radiator logistics mass. Those ride on the vehicle or station.
+
+### Bay-level buffer arrays (tier-1)
+
+Localized Cookbook arrays may island a bay when the primary path is isolated, remating, or mid-head-swap. They are **electrical second-tier ride-through**, not a second tree and not a heat tap on Module B.
+
+**Topology.** Charge and discharge sit on the already-converted plate bus (or a designated charge tap). Reroute is switchgear: staged contactors and a written isolate list. The lattice sources or sinks. It does not switch the tree, start the kit, or carry source flux.
+
+- Module A → tree → Stirling → main DC bus (plate)
+- TE bus → logged separate channel
+- main bus → Module E rack (tier-0, converter cover)
+- main bus → bay arrays (tier-1, named bay hotel / control / one restart)
+
+**Rules.**
+
+- Off-shield only. No array inside the neutron boundary.
+- Gallery-class $L$. GM-1 / GM-H1 and travelers are parent Cookbook. Pulse-open stays in Module F (or a station copy of F), never in the bay rack.
+- Per-bay $n$ cans. Isolate one cartridge; the bay stays up on the rest. $n+1$ is cover. $N+1$ remains extra *cassettes*.
+- Charge from the bus, current-limited. Heat-pipe fluid is not a charge medium.
+- TE watts stay on their own channel. Do not refill an array from unlogged reject-heat accounting.
+- D-class dry until seated; E-class sealed incoming. No in-flight fill.
+- Retain-first. A dead array is isolate-and-swap, not eject-the-cassette.
+- Cognitive Economy: if the isolate list needs a thesis, the array is not released.
+
+**Allowed use.** Bay hotel and control through a Stirling-head swap, a converter trip, Structured Transition steps 3–5, or a local bus fault that islands that bay only.
+
+**Refused use.** Second core; propulsion feed; ship-length charged article; pulse-open of structure; automatic hull routing; folding TE recovery into a lattice capacity claim; holding habitat viability on one bay rack.
+
+**Depth.** Minutes of a *named* bay load, not voyage-days. Hours of cover are another cassette or a station sink, not a larger crystal. Ratings stay provisional under Cookbook co-verification. Voyage-support mass for spare cans and array racks rides on the vehicle or station, not in cassette dry mass.
 
 ---
 
