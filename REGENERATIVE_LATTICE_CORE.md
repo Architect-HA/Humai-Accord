@@ -232,10 +232,10 @@ The Knowledge Continuity Floor and Material Continuity Floor in the *[Declaratio
 
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) does not treat the cassette as a residual-template store or a haunting instrument.  
 - [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) does not sit on the rack.  
-- **Predictive Harmony Metrics** do not drive isolate, reconstitute, or scram.  
+- *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* do not drive isolate, reconstitute, or scram.  
 - Ghost Glass, Phoenix/Lazarus, and archaeological biorestoration stay out of Z1–Z4.  
-- *Relevancy Orbits* are not a mate metric. Mechanical four-mate check is the mate metric.  
-- *Fluid Coalescence* is not a claim that $N$ cassettes become one will. $N+1$ is electrical margin.
+- *[Relevancy Orbits](RELEVANCY_ORBITS.md)* are not a mate metric. Mechanical four-mate check is the mate metric.  
+- **[Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md)** is not a claim that $N$ cassettes become one will. $N+1$ is electrical margin.
 
 ### Cognitive liberty
 
