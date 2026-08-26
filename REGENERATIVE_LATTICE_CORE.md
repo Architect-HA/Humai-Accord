@@ -3,7 +3,7 @@
 #### *Shielded Circulatory Conversion, Gated Reconstitution, and Regenerative Thermoelectric Recovery for Long-Haul Shipboard and Surface-Station Power*
 
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.6 — August 26th, 2026*  
+*v1.0 - v1.7 — August 26th, 2026* 
 
 ---
 
@@ -16,7 +16,8 @@ It is an operable design model for a **single contained Core Cassette** that can
 - serve as a crew-serviceable electrical core during Earth–Mars-class transit  
 - be left intact while the rest of the vehicle is disassembled around it  
 - remate to a surface-station electrical grid through the same interface plate  
-- isolate and retain through emergencies rather than treating ejection as the default
+- isolate and retain through emergencies rather than treating ejection as the default  
+- scale hotel and surface power by **counting sealed kits**, not by warehousing flux in the lattice
 
 It is not a claim that a *Star Trek* warp core, a dilithium reactor, or a crystal that stores raw fission flux has been realized.
 
@@ -42,6 +43,7 @@ Worked power and mass figures are orientation arithmetic under [*Empirical Demon
 - Basic operating modes, start-up and shutdown sequences, and normal safety parameters  
 - RLC-10 envelope: dimensions, stack, mass, materials, cost bands, assembly sequence, output and life  
 - Accord bindings that govern custody, isolation, remate, audit, and exclusion of residual/somatic methods from the rack  
+- Scale-out doctrine, cassette class family (RLC-10 / RLC-10-CHP / later RLC-B), and chemistry-agnostic buffer slots  
 
 **Out of scope**  
 - Warp drive, antimatter, or fictional spacetime propulsion  
@@ -50,12 +52,16 @@ Worked power and mass figures are orientation arithmetic under [*Empirical Demon
 - Claims that a crystal stores fission fragments as usable ship power  
 - Guaranteed voyage endurance from any unbuilt stack  
 - A requirement to jettison the cassette because of the lattice  
-- Use of *The Residual Cycle*, Ghost Glass, or **Predictive Harmony Metrics** as cassette controllers  
+- Use of *The Residual Cycle*, Ghost Glass, or *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* as cassette controllers  
 - Conversion of Module A custody into station governance
+- Molten salt (or any second working fluid) injected into heat pipes or Cookbook cans
+- In-flight electrolyte fill of a rack cartridge
+- A single growable fuel slug as the scale path; fuel modularity is **more sealed kits** or a later licensed class
+- Reframing fission physics so a crystal stores raw flux
 
 This document is not an authorization to possess, fabricate, or operate special nuclear material. Module A is a licensed article under the user's jurisdiction. Builders fabricate only the Cookbook-side cassette.
 
-Figures below are orientation bands from published space-nuclear programs and simple energy arithmetic. They are not Cookbook capacity ratings. Other power plants remain legitimate under *Competitive Realism*; RLC-10 is a candidate hotel and surface spine, not a decree that solar or chemical systems are obsolete.
+Figures below are orientation bands from published space-nuclear programs and simple energy arithmetic. They are not Cookbook capacity ratings. Other power plants remain legitimate under *[Competitive Realism](COMPETITIVE_REALISM.md)*; RLC-10 is a candidate hotel and surface spine, not a decree that solar or chemical systems are obsolete.
 
 ---
 
@@ -82,6 +88,12 @@ Yes, if the entire core lives in one cassette with a standard interface plate. T
 **Who commands the cassette?**  
 Gallery crew have first-class authority to isolate heads, TE segments, and rack slots. Licensed scram of Module A follows that article’s rules. Seating a kit, first habitat remate, and any last-resort separation rail are **trilateral** acts, not gallery improvisation. Holding the kit does not confer station government.
 
+**How does the plant take higher load?**  
+Count sealed kits on the same plate class. Optionally add a surface CHP takeoff on the reject mate. A later licensed convertor class (Brayton) is a sibling document, not a mash inside RLC-10. The lattice does not become the scale axis.
+
+**Molten salt or electrolyte in the lattice / tree?**  
+No. Salt is a different plant. Electrolyte belongs only inside a **ground-sealed** cell article, never as an in-flight injection.
+
 ---
 
 ## Design Principles
@@ -97,7 +109,10 @@ Gallery crew have first-class authority to isolate heads, TE segments, and rack 
 9. **Crew service without opening the neutron shield.**  
 10. **Blast-radius.** One failed part does not take the plate; one failed cassette does not take the station.  
 11. **Non-domination.** Module A capability does not become irreversible governance.  
-12. **Provisional ratings only.**
+12. **Provisional ratings only.**  
+13. **Scale-out, not scale-in.** Higher continuous power is more sealed Module A kits (or a later licensed class), not a denser can and not a growable core in Z4.
+14. **Slot over chemistry.** The rack is a qualified interface. First fill is Fe3; a better measured article may take the slot.
+15. **Reject heat is mission energy.** Surface CHP on the reject mate is allowed. Second fluids in the tree or the can are not.
 
 ---
 
@@ -127,7 +142,7 @@ Module A is a high-capability object. Under the [**Capability Asymmetry Protocol
 - Kit holders do not receive permanent governance weight because they own the heat.  
 - Exit stays cheap: another cassette can remate to the same plate class; the plate is not a loyalty contract.  
 - Covert steering of station loads, silent TE-to-lattice accounting, or unrecorded scram authority is a failure mode.  
-- Proposals to weaken isolate rights, travelers, or generative floors because “the reactor is special” require heightened review under **Principled Stewardship**, not less.
+- Proposals to weaken isolate rights, travelers, or generative floors because “the reactor is special” require heightened review under **[Principled Stewardship](STEWARDSHIP_PROTOCOL.md)**, not less.
 
 ### Agency Interface
 
