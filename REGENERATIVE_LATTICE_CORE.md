@@ -3,7 +3,7 @@
 #### *Shielded Circulatory Conversion, Gated Reconstitution, and Regenerative Thermoelectric Recovery for Long-Haul Shipboard and Surface-Station Power*
 
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.7 — August 26th, 2026* 
+*v1.0 - v1.8 — August 26th, 2026* 
 
 ---
 
@@ -217,6 +217,16 @@ Audits are provisional, contestable, and subordinate to cognitive liberty.
 ### Cognitive Economy
 
 Gallery procedures must be runnable under stress. An isolate list or traveler that requires a thesis is a **Cognitive Economy** failure. Module F steps stay the six already written.
+
+### Continuity Floors at the Cassette
+
+The Knowledge Continuity Floor and Material Continuity Floor in the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* are residual-agency rights. They are not a second protocol and not a reason to grow Module A. This cassette applies them as follows.
+
+**Knowledge object.** Travelers are the lineage for that article: incoming package, pulse/lock log, $t_{\mathrm{diff}}$, S4, disposition. A can without a traveler is an unrecoverable knowledge cut. Gallery procedures stay short under **Cognitive Economy**; the log is the floor, not a thesis.
+
+**Material object.** Practical pathways are the interface plate, a seated licensed kit, spare heads and TE segments carried *off-cassette*, and idle qualified D-class or E-class articles at $0\%$ payload. Those spares are voyage support and low-tide store, not trophy mass and not governance weight.
+
+**What this section does not add.** It does not change electrical class, ride-through arithmetic, or reconstitution gates. $N+1$ remains an Exterior Viability restoration path, not a Continuity entitlement to extra kits. Holding a kit still does not confer station government.
 
 ### Exclusions (keep the column dry)
 
