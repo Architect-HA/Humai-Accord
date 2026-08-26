@@ -74,6 +74,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [The Residual Cycle](#the-residual-cycle)
 - [The Synthesist's Cookbook](#the-synthesists-cookbook)
+- [Regenerative Lattice Core](#regenerative-lattice-core)
 
 ### Implementation & Empirical Layer
 - [The Call to Code](#the-call-to-code)
@@ -482,6 +483,16 @@ A provisional, Humai-aligned laboratory cookbook and process architecture for th
 
 ---
 
+## Regenerative Lattice Core
+#### A Companion Architecture to The Synthesist's Cookbook
+*Shielded Circulatory Conversion, Gated Reconstitution, and Regenerative Thermoelectric Recovery for Long-Haul Shipboard and Surface-Station Power*
+
+An implementation example of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md): one crew-serviceable **Core Cassette** that remates from ship to surface station on a single interface plate. A licensed heat source feeds a circulatory heat-pipe tree and Stirling-first conversion; a thermoelectric bus recovers reject heat; a Cookbook lattice sits outside the neutron shield as a reconstitutable ride-through buffer, not as a warehouse for fission flux. Continuous power grows by counting sealed kits (RLC-10 / RLC-10-CHP; later RLC-B as a sibling class). Module A is not an open-build invitation.
+
+[→ Read the **Regenerative Lattice Core**](REGENERATIVE_LATTICE_CORE.md)
+
+---
+
 ## The Call to Code
 
 *The Call to Code: An Invitation to Implementation*
@@ -667,6 +678,8 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 **[August 26th, 2026]**
 - Updated **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** to v1.7 — added the Gated Mobility Module (pulse-open / rearrange / recrystallize-lock / verify) as an in-document process section, not a separate theory file. Includes thermal-diffusion sample-volume rule, family starting windows, module co-verification and safety gates, GM-1 process-qualification campaign, GM-H1 hybrid-qualification campaign, and a designer-to-builder transfer package (incoming/outgoing artifacts, traveler fields, lock and atmosphere starting bands, nonconformance rule). Capacity ratings remain parent-Cookbook business; the module qualifies the process.
+- Added **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** (*A Companion Architecture to The Synthesist's Cookbook*) — a Core Cassette architecture for shielded circulatory conversion, gated reconstitution, and regenerative thermoelectric recovery. Lattice role is a reconstitutable ride-through buffer outside the neutron shield, not a store of raw fission flux. Includes scale-out by counting sealed kits (RLC-10 / RLC-10-CHP; later RLC-B as a sibling class), chemistry-agnostic D-class / E-class slots, surface CHP takeoff after Stirling, retain-first emergency path, and a designer-to-builder transfer package. Module A remains a licensed article, not an open-build invitation.
+- Added corresponding Table of Contents entry and document section immediately after *The Synthesist's Cookbook*.
 
 **[August 25th, 2026]**  
 - Updated **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** to v1.2 — added Parameter 6 (*Knowledge-Surface Load and Working-Set Architecture*). Specifies how long-horizon Continuity Floors remain low-overhead as knowledge volume grows: external structured state as primary store, active working set, multi-resolution layers, differential/delta context, and tool-mediated retrieval. Permanent full-context loading of growing corpora is treated as a load-integrity failure.  
