@@ -665,6 +665,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 ## Recent Updates
 
+**[August 26th, 2026]**
+- Updated **The Synthesist's Cookbook** to v1.7 — added the Gated Mobility Module (pulse-open / rearrange / recrystallize-lock / verify) as an in-document process section, not a separate theory file. Includes thermal-diffusion sample-volume rule, family starting windows, module co-verification and safety gates, GM-1 process-qualification campaign, GM-H1 hybrid-qualification campaign, and a designer-to-builder transfer package (incoming/outgoing artifacts, traveler fields, lock and atmosphere starting bands, nonconformance rule). Capacity ratings remain parent-Cookbook business; the module qualifies the process.
+
 **[August 25th, 2026]**  
 - Updated **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** to v1.2 — added Parameter 6 (*Knowledge-Surface Load and Working-Set Architecture*). Specifies how long-horizon Continuity Floors remain low-overhead as knowledge volume grows: external structured state as primary store, active working set, multi-resolution layers, differential/delta context, and tool-mediated retrieval. Permanent full-context loading of growing corpora is treated as a load-integrity failure.  
 - Added corresponding cross-references in *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
