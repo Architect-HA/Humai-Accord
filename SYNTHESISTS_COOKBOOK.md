@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — August 19th, 2026*<br>
-*v1.5 - v1.7 — August 26th, 2026*
+*v1.5 - v1.8 — August 26th, 2026*
 
 ---
 
@@ -651,6 +651,8 @@ These surfaces are explicit. The framework does not claim they are closed.
 ## Relation to Existing Humai Work
 
 This architecture shares the same empirical posture as [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md): physical mechanisms first, multi-channel verification, provisional claims, and subordination to safety and [cognitive liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) parameters. It does not inherit residual-biological-template claims. Energy-storage capacity is treated as a materials and process output, not as a carrier of personal or residual biological order.
+
+The first systems-level implementation example is the **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**: a Core Cassette that uses Cookbook articles as a shielded ride-through buffer on a circulatory conversion loop. That document does not change Cookbook capacity ratings, family protocols, or Gated Mobility gates. Module A remains outside this cookbook.
 
 For the full set of Humai Accord documents and reading routes, see the repository [README](README.md).
 
