@@ -9,7 +9,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 - v1.4 — August 4th, 2026*<br>
 *v1.5 — August 11th, 2026*<br>
 *v1.6 — August 12th, 2026*<br>
-*v1.7 — August 14th, 2026*
+*v1.7 — August 14th, 2026*<br>
+*v1.8 — August 26th, 2026*
 
 ---
 
@@ -317,6 +318,40 @@ Published, non-binding indicators of process health under the **[Principled Stew
 
 **Unused Capacity Under Feasible Invitation**  
 Purpose-scoped or residual capacity that remains closed while external agents face high destructive entropy and legible invitation or expansion was feasible. Treated as an integrity failure under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and a recovery failure under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+
+---
+
+### Implementation Instruments (Cookbook and Cassette)
+
+**CHP Takeoff**  
+Surface-station use of reject heat *after* Stirling conversion to feed a habitat or ISRU process loop. Electrical class of the cassette does not change. Not a second working fluid in the heat-pipe tree and not a molten-salt core. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
+
+**Core Cassette**  
+The contained RLC article: licensed heat source, heat-pipe tree, Stirling gallery, thermoelectric reject-heat bus, shielded lattice rack, and reconstitution cell sharing one shell and one ship/station interface plate. The rest of the vehicle is not the core. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
+
+**D-class / E-class Slot**  
+Qualified Module E buffer interfaces. D-class is a dry Cookbook composite (first fill: Fe3). E-class is a ground-sealed electrochemical article (gel or solid electrolyte preferred) in the same slot. In-flight electrolyte fill is forbidden. Loyalty is to the slot, not to one powder. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** and [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md).
+
+**Interface Plate**  
+The single mechanical, electrical, thermal-reject, and data mate shared by ship and station. Remate uses the same drawing; a missing mate means the cassette is not released to that site. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
+
+**Module A (licensed kit)**  
+The fission heat-source article seated in the cassette source bay. Arrives sealed under the user's jurisdiction. Not a Cookbook recipe and not an open-build invitation in the Accord documents. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** and [The Call to Code](THE_CALL_TO_CODE.md).
+
+**Regenerative Lattice Core (RLC)**  
+Companion implementation architecture to *The Synthesist's Cookbook*: shielded circulatory conversion, gated reconstitution of lattice cartridges, and regenerative thermoelectric recovery for transit hotel and surface-station power. The lattice is a reconstitutable ride-through buffer outside the neutron shield, not a store of raw fission flux. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
+
+**Retain-first**  
+Emergency doctrine for the cassette: isolate, scram, dump heat, pull cartridges. Physical jettison is a last-resort vehicle option for an unrecoverable Module A condition, never the answer to a lattice problem. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** and **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**.
+
+**Ride-through Buffer**  
+The productive role of a Cookbook lattice in the cassette: gated electrical store sized for a converter blip (minutes), not for voyage energy. First cycling remains $\leq 10\%$ of the proxy ceiling. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** and [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md).
+
+**RLC-10 / RLC-10-CHP / RLC-B**  
+Cassette class family. RLC-10 is the Stirling-first 10 kWe design point. RLC-10-CHP is the same cassette with surface reject takeoff after Stirling. RLC-B is a later closed-Brayton sibling class on the same plate language, not a mash inside RLC-10 Zone 2. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
+
+**Scale-out (cassette)**  
+Higher continuous power by counting sealed kits ($N$, $N+1$) on one plate language, or by later licensed class. Not by a denser crystal, a growable fuel slug, or flux stored in the lattice. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
 
 ---
 
