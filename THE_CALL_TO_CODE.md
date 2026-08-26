@@ -9,7 +9,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 31st, 2026*<br>
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 — August 4th, 2026*<br>
-*v1.4 — August 12th, 2026*
+*v1.4 — August 12th, 2026*<br>
+*v1.5 — August 26th, 2026*
 
 ---
 
@@ -80,6 +81,7 @@ Builders new to the repository may first consult the *[Layered Onboarding Guide]
 - Interface sketches or minimal viable modules that enforce binding parameters from the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, *[Necessary Entropy](NECESSARY_ENTROPY.md)*, and the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — especially generative entropy floors, capability-scaled transparency, reversible modular commitments, and interruption/consent rights.
 - Experimental modules exercising **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** standards.
 - Experimental dashboards that surface local efficiency, waste-reduction, or harmony differentials in ways that remain voluntary and non-coercive.
+- Hardware implementation example: **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** (companion to [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md)). The invitation is the Cookbook-side cassette — plate, gallery, TE bus, lattice rack, reconstitution cell, travelers, and GM-1/GM-H1 campaigns. Module A is a licensed kit, not an open-build target. Do not treat flux-in-lattice, salt-in-tree, or in-flight electrolyte fill as Call-to-Code work.
 
 Full production systems are welcome. Small, well-documented reference implementations that test specific mechanisms — including failure under adversarial assumptions — are more valuable in the near term.
 
