@@ -1,9 +1,10 @@
 # The Synthesist's Cookbook
 ### Hypervariant Crystal Energy Storage Framework
 #### *A Controlled, Multi-Mineral Process Architecture and Laboratory Cookbook for Tunable High-Capacity Crystalline Lattices*
----
-by **Bradford James Focht** (The Architect / Aspenth)<br>
-*v1.0 - v1.4 — August 19th, 2026*
+
+by **Bradford James Focht** (The Architect / Aspenth)  
+*v1.0 - v1.4 — August 19th, 2026*<br>
+*v1.5 - v1.7 — August 26th, 2026*
 
 ---
 
@@ -11,7 +12,7 @@ by **Bradford James Focht** (The Architect / Aspenth)<br>
 
 This document establishes an empirically grounded, Humai-aligned process architecture and laboratory cookbook for the controlled formation and characterization of crystalline lattices with tunable energy-storage capacity across multiple mineral families. It is not a claim that “dilithium” or any fictional hyper-capacity crystal has been realized. It is a manufacturing and measurement framework that treats capacity as a tunable, co-verified output of defined process variables applied to real mineral systems.
 
-The architecture prioritizes controlled process variables, multi-channel co-verification of every capacity claim, provisional revisable ratings, explicit safety envelopes, and modularity across mineral families. Concrete starting protocols, example variant recipes, instrumentation minima with calibration standards, dual-metric reporting rules, and quantified high-P/T energy/infrastructure costs are supplied so that the framework can function as a practical laboratory guide. All recipes remain provisional starting points drawn from published ranges; they are not optimized proprietary procedures and carry no guaranteed capacity outcome.
+The architecture prioritizes controlled process variables, multi-channel co-verification of every capacity claim, provisional revisable ratings, explicit safety envelopes, and modularity across mineral families. Concrete starting protocols, example variant recipes, instrumentation minima with calibration standards, dual-metric reporting rules, quantified high-P/T energy/infrastructure costs, and a gated-mobility process module with a designer-to-builder transfer package are supplied so that the framework can function as a practical laboratory and fabrication guide. All recipes remain provisional starting points drawn from published ranges; they are not optimized proprietary procedures and carry no guaranteed capacity outcome.
 
 It is offered as a supporting technical instrument within the [Humai Accord](README.md), consistent with [*Necessary Entropy*](NECESSARY_ENTROPY.md), co-verification requirements, and the empirical standards applied to residual-energy and somatic work.
 
@@ -27,10 +28,13 @@ It is offered as a supporting technical instrument within the [Humai Accord](REA
 - Controlled high-pressure, high-temperature, fluid-mediated, and defect-engineering routes  
 - Non-charging proxy assessment and controlled energy-cycling characterization  
 - Laboratory-scale starting protocols, instrumentation minima, and calibration standards  
+- Gated mobility (pulse-open / rearrange / recrystallize-lock / verify) for selected families and hybrids  
 
 **Out of scope**  
 - Claims of residual biological-order preservation inside energy-storage lattices  
 - Unbounded or uncontrolled extreme synthesis  
+- Permanent semi-fluid resting states in charged high-capacity lattices  
+- Photonic pressure as bulk mechanical containment of a melt  
 - Single-material optimization presented as a universal solution  
 - Fictional performance targets unsupported by measurement  
 - Guaranteed capacity outcomes from any single protocol  
@@ -57,8 +61,8 @@ Existing crystalline and related energy-storage systems provide the performance 
 |--------------|------------------------------------|-------|
 | Commercial ceramic capacitors (X7R / related) | $\sim 0.7\text{–}5\,\mathrm{J\,cm^{-3}}$ | Mature, moderate field |
 | Lead-free ferroelectric / relaxor ceramics | $\sim 2\text{–}11\,\mathrm{J\,cm^{-3}}$ | Lab-optimized; high fields often required |
-| High-entropy dielectric ceramics | up to $\sim 11\ \mathrm{J\,cm}^{-3}$ at high field | Emerging |
-| Magnetite ($\mathrm{Fe_3O_4}$) conversion / supercapacitor electrodes | Theoretical capacity $\sim 924\,\mathrm{mAh\,g}^{-1}$; reported energy densities $\sim 7\text{–}47\,\mathrm{Wh\,kg}^{-1}$ (device-dependent) | Abundant, low toxicity; cycle life and power vary strongly with nanostructure and electrolyte |
+| High-entropy dielectric ceramics | up to $\sim 11\,\mathrm{J\,cm^{-3}}$ at high field | Emerging |
+| Magnetite ($\mathrm{Fe_3O_4}$) conversion / supercapacitor electrodes | Theoretical capacity $\sim 924\,\mathrm{mAh\,g^{-1}}$; reported energy densities $\sim 7\text{–}47\,\mathrm{Wh\,kg^{-1}}$ (device-dependent) | Abundant, low toxicity; cycle life and power vary strongly with nanostructure and electrolyte |
 | Advanced solid-state / high-voltage cells | Highly variable; often $>200\,\mathrm{Wh\,kg^{-1}}$ at cell level | Different metric regime; included for scale reference only |
 
 ---
@@ -97,7 +101,7 @@ The following classes of instrument are required for a complete co-verified rati
 - At least one vibrational method (Raman or FTIR) with wavelength/wavenumber calibration record.
 
 **Trap / defect proxy (quartz & calcite pathways)**  
-- TL and/or OSL reader capable of controlled linear heating (typical literature rates $1\text{–}5\,^{\circ}\mathrm{C\,s}^{-1}$) and known beta/gamma dose capability.  
+- TL and/or OSL reader capable of controlled linear heating (typical literature rates $1\text{–}5\,^{\circ}\mathrm{C\,s^{-1}}$) and known beta/gamma dose capability.  
 - Dose rate and heating-rate calibration must be current (manufacturer or secondary-standard protocol).  
 - EPR recommended when available; field and frequency calibration required if used for quantitative defect density.
 
@@ -126,9 +130,9 @@ Absence of a required instrument class, or of its current calibration record, fo
 
 ## Quantified Energy and Infrastructure Cost of High-P/T Levers
 
-High-pressure and high-temperature steps are the most infrastructure-intensive levers in the framework. Approximate laboratory-scale costs and constraints are given below so that campaigns can be planned realistically. Values are order-of-magnitude estimates drawn from typical university and small-lab equipment profiles; they are not quotes.
+High-pressure and high-temperature steps are the most infrastructure-intensive levers in the framework. Approximate laboratory-scale costs and access parameters are given below so that campaigns can be planned realistically. Values are order-of-magnitude estimates drawn from typical university and small-lab equipment profiles; they are not quotes.
 
-| Lever | Typical laboratory equipment | Energy / infrastructure notes | Practical constraint |
+| Lever | Typical laboratory equipment | Energy / infrastructure notes | Access parameter |
 |-------|------------------------------|-------------------------------|----------------------|
 | Annealing / sintering $\leq 1000\,^{\circ}\mathrm{C}$ | Box or tube furnace | $1\text{–}10\,\mathrm{kWh}$ per multi-hour run for small loads; capital cost low–moderate | Widely available; lowest barrier |
 | Sintering $1000\text{–}1550\,^{\circ}\mathrm{C}$ | High-temperature furnace | Higher energy per run; longer thermal cycles; element and insulation wear | Common in ceramics labs; still accessible |
@@ -156,7 +160,7 @@ These figures remove the largest practical ambiguity: high-P/T is not free, but 
 | Piezoelectric $d_{11}$ | $\approx 2.3\,\mathrm{pC\,N^{-1}}$ | |
 | Piezoelectric $d_{14}$ | $\approx 0.7\,\mathrm{pC\,N^{-1}}$ | |
 | TL trap depths (typical natural) | $0.89\,\mathrm{eV}$; $1.21\,\mathrm{eV}$; $1.45\,\mathrm{eV}$; $1.65\,\mathrm{eV}$; $2.02\,\mathrm{eV}$ | Lifetimes from minutes to geological scales at room temperature |
-| Frequency factors | $\sim 10^{9}\text{–}10^{14}\,\mathrm{s}^{-1}$ | Trap-dependent |
+| Frequency factors | $\sim 10^{9}\text{–}10^{14}\,\mathrm{s^{-1}}$ | Trap-dependent |
 | Primary defect types | Oxygen vacancies, Al-associated hole centers, impurity traps | |
 
 **Concrete process levers and starting protocol**  
@@ -267,7 +271,7 @@ Deep traps ($\approx 1.45\text{–}2.0\,\mathrm{eV}$) are the primary focus for 
 | Property | Representative value / range | Notes |
 |----------|------------------------------|-------|
 | Theoretical specific capacity (conversion) | $\approx 924\,\mathrm{mAh\,g^{-1}}$ | High relative to many intercalation anodes |
-| Reported electrode energy densities | $\sim 7\text{–}47\,\mathrm{Wh\,kg}^{-1}$ (device and nanostructure dependent) | Wide experimental range |
+| Reported electrode energy densities | $\sim 7\text{–}47\,\mathrm{Wh\,kg^{-1}}$ (device and nanostructure dependent) | Wide experimental range |
 | Specific capacitance (supercapacitor literature) | Tens to $>1000\,\mathrm{F\,g^{-1}}$ depending on nanostructure, composite, and electrolyte | Highly morphology-sensitive |
 | Practical advantages | Abundant, low toxicity, low cost | Cycle life and power limited by dense structure and volume change |
 
@@ -286,15 +290,15 @@ Deep traps ($\approx 1.45\text{–}2.0\,\mathrm{eV}$) are the primary focus for 
 - Characterize phase (XRD), size, saturation magnetization (VSM), and baseline electrochemical capacity in a chosen electrolyte.  
 - Expected literature range for simple co-precipitated $\mathrm{Fe_3O_4}$: highly variable; often tens to a few hundred $\mathrm{F\,g^{-1}}$ (supercapacitor mode) or lower fraction of theoretical capacity in conversion mode until nanostructuring and composites are applied.
 
-*Fe2 — Solvothermal* $\mathrm{Fe_3O_4}$ *(ethylene glycol route)*  
+*Fe2 — Solvothermal* $\mathrm{Fe_{3}O_{4}}$ *(ethylene glycol route)*  
 - $\mathrm{FeCl}_3$ in ethylene glycol with sodium acetate stabilizer; solvothermal treatment $\sim 200\,^{\circ}\mathrm{C}$ for several hours.  
 - Optional PVP or other surfactant to tune size.  
-- Literature examples report specific capacitances from $\sim 300\text{–}400\,\mathrm{F\,g}^{-1}$ (and higher in optimized composites) and energy densities in the lower tens of $\mathrm{Wh\,kg^{-1}}$ depending on device configuration.  
+- Literature examples report specific capacitances from $\sim 300\text{–}400\,\mathrm{F\,g^{-1}}$ (and higher in optimized composites) and energy densities in the lower tens of $\mathrm{Wh\,kg^{-1}}$ depending on device configuration.  
 - Rank by capacitance/capacity, rate capability, and cycle retention before any cross-family comparison.
 
 *Fe3 — Carbon-composite magnetite (CNT or RGO)*  
 - In-situ growth or mixing of $\mathrm{Fe_3O_4}$ nanoparticles with carbon nanotubes or reduced graphene oxide.  
-- Literature composites show substantially higher delivered capacity and improved cycling relative to bare $\mathrm{Fe_3O_4}$ (examples in the $300\text{–}600^{+}\,\mathrm{F\,g}^{-1}$ or higher capacity range under favorable conditions).  
+- Literature composites show substantially higher delivered capacity and improved cycling relative to bare $\mathrm{Fe_3O_4}$ (examples in the $300\text{–}600^{+}\,\mathrm{F\,g^{-1}}$ or higher capacity range under favorable conditions).  
 - Characterize magnetic and electrochemical metrics separately; apply dual-metric rule if comparing to dielectric-family variants.
 
 ---
@@ -378,6 +382,255 @@ These are conservative starting limits for laboratory-scale work. They may be re
 
 ---
 
+## Gated Mobility Module
+
+This section supplies a bounded process structure for **gated mobility**: briefly opening a rearrangement window in a crystalline or hybrid lattice, then locking a new configuration by controlled recrystallization rather than by chaotic quench.
+
+It is not a claim that a freely semi-fluid, arbitrarily rewritable high-capacity crystal has been realized. It is a laboratory process architecture for testing whether selected families and hybrids can tolerate a pulse-open / rearrange / lock cycle while remaining co-verifiable and inside this document's safety envelopes.
+
+### Core premise
+
+A lattice cannot be fully crystalline, high-capacity, and freely fluid at the same time. What can be tested is a **gated hybrid of states**:
+
+1. A rigid host or chassis that preserves geometry.  
+2. A mobile interior population, grain-boundary phase, or brief melt/premelt window.  
+3. A lock step that restores measurable order.  
+4. A verification step before the next pulse.
+
+The working loop is therefore:
+
+**pulse-open → rearrange a bounded interior → recrystallize-lock → verify → repeat**
+
+[*Necessary Entropy*](NECESSARY_ENTROPY.md) is allowed only inside that loop. Mobility is a process window, not a default condition.
+
+### Physical basis
+
+The module rests on established process classes, not new physics:
+
+- **Flash and rapid thermal processing** — short high-temperature pulses that open diffusion or local melt windows without holding the whole body at soak temperature.  
+- **Premelt / near-solidus control** — enhanced boundary and defect mobility below bulk melting.  
+- **Containerless electromagnetic handling** — levitation or positioning of conductive or magnetic melts and solids.  
+- **Photonic / laser pulsing** — spatially and temporally localized energy delivery.  
+- **Recrystallization after brief mobility** — nucleation plus a short hold just below the solidus, then controlled cooling. Fast quench more often freezes disorder than long-range order.
+
+Photonic radiation pressure is acknowledged as physically real and negligible as a bulk containment force at laboratory sample masses. In this module, photons are a **timing and localization tool**, not a bottle.
+
+### States
+
+| State | Meaning | Allowed energy payload |
+|-------|---------|------------------------|
+| S0 Locked | Measurable crystalline or composite order; mobility closed | Screening and cycling only per Cookbook rules |
+| S1 Pulse-open | Brief premelt, local melt, or superionic / grain-boundary mobility | $\leq 10\%$ of proxy-estimated ceiling; zero if prior cycle failed |
+| S2 Rearrange | Bounded change of occupancy, defects, texture, or interfacial composition | Same as S1 |
+| S3 Lock | Nucleation + short subsolidus hold + controlled cool | No additional charging |
+| S4 Verify | Structure + proxy + excursion check | No additional charging until pass |
+
+A cycle that skips S3 or S4 is excluded from rating.
+
+### Mandatory sequence
+
+1. **Baseline** of the starting body (Cookbook Step 1).  
+2. Confirm sample volume is within the thermal-diffusion window defined below.  
+3. Enter S1 only with abort criteria armed.  
+4. Keep S1 + S2 duration shorter than the logged thermal-diffusion time of the sample.  
+5. Execute S3 as recrystallization-lock, not as an uninstrumented snap-freeze.  
+6. Execute S4 before any further pulse or any energy-cycling increase.  
+7. Archive the full variable vector for that cycle.  
+8. Only then return to the parent ranking / cycling sequence.
+
+### Sample-volume rule
+
+Pulse methods are permitted only when the characteristic thermal diffusion time of the body is comparable to the intended pulse:
+
+$$
+t_{\mathrm{diff}} \sim \frac{L^{2}}{\alpha}
+$$
+
+where $L$ is the smallest controlling dimension and $\alpha$ is the material thermal diffusivity. If $t_{\mathrm{diff}}$ is much longer than the pulse, the interior does not participate and the cycle is a surface excursion only. Surface-only runs may be logged as such; they cannot be rated as bulk hypervariants.
+
+Starting laboratory preference: controlling dimensions in the millimeter-or-smaller class unless modeled heat flow is co-logged.
+
+**Worked orientation example (provisional, not a specification)**  
+Thermal diffusivity is $\alpha = k/(\rho c_p)$. Using representative room-temperature order-of-magnitude values:
+
+- Magnetite-class body: $\alpha \sim 1.5 \times 10^{-6}\,\mathrm{m^{2}\,s^{-1}}$. For $L = 1\,\mathrm{mm} = 10^{-3}\,\mathrm{m}$,
+
+$$
+t_{\mathrm{diff}} \sim \frac{(10^{-3})^{2}}{1.5 \times 10^{-6}} \approx 0.7\,\mathrm{s}
+$$
+
+- Quartz-class body: $\alpha \sim 4 \times 10^{-6}\,\mathrm{m^{2}\,s^{-1}}$ gives $t_{\mathrm{diff}} \approx 0.25\,\mathrm{s}$ at the same $L$.
+
+Interpretation: a sub-second photonic pulse on a $1\,\mathrm{mm}$ body is a near-volume window only if absorbed energy actually reaches the interior. A $5\,\mathrm{mm}$ body at the same $\alpha$ has $t_{\mathrm{diff}}$ $\sim 25\times$ longer and is surface-dominated unless the pulse is lengthened or heat flow is modeled and co-logged. Campaigns must compute $t_{\mathrm{diff}}$ from measured or cited $k$, $\rho$, and $c_p$ for the actual body, not from these orientation figures.
+
+### Family starting windows
+
+Exact solidus / melt points must be measured or taken from certified feedstock data for the batch in use. The values below are orientation bands only.
+
+| Family | Pulse-open orientation | Lock orientation | Notes |
+|--------|------------------------|------------------|-------|
+| Quartz | Brief approach toward, not through, the $\alpha\text{–}\beta$ transition ($573\,^{\circ}\mathrm{C}$) or a documented local-melt window on a hybrid payload | Hold below the highest temperature just used; re-measure TL/OSL and XRD | Bulk melting of $\mathrm{SiO_2}$ is not a first-line lever |
+| Calcite | Generally disfavored for melt pulses (decomposition / $\mathrm{CO_2}$ loss) | If used at all, stay below documented decomposition onset for that feedstock | Feedstock history remains mandatory |
+| Mullite | Short pulses in the already explored sintering band ($1150\text{–}1550\,^{\circ}\mathrm{C}$) or a documented local-melt additive phase | Short subsolidus hold; preserve high-temperature advantage | Prefer grain-boundary or additive-phase mobility over bulk melt |
+| Magnetite / hybrids | Most suitable for electromagnetic handling; pulses near documented oxidation / melt behavior of the specific nanostructure | Controlled cool in logged atmosphere to protect phase | Atmosphere is a first-class variable |
+
+### Lock rule
+
+S3 must include:
+
+- a logged nucleation or hold interval below the maximum pulse temperature  
+- a logged cool profile  
+- post-cycle XRD or equivalent plus family-appropriate proxy  
+
+A quench with no hold and no post-cycle structure check is classified as **disorder-freeze**, not lock.
+
+### Magnetic / electromagnetic handling
+
+Permitted functions: positioning or levitation of magnetic or electrically conductive bodies; stirring or shape-stabilization of a permitted melt droplet; reduction of crucible contamination. Not permitted as a substitute for thermal, vapor, or fracture containment.
+
+Preferred family: magnetite and magnetite-bearing hybrids. Quartz, calcite, and mullite require a documented susceptor, coating, or hybrid conductive/magnetic phase before electromagnetic handling is claimed.
+
+### Photonic pulsing
+
+Permitted functions: localized heating; steep, short thermal gradients; timing of S1 / S2 windows.
+
+Not permitted functions: bulk mechanical containment by radiation pressure; unmodeled full-volume melt of a charged high-capacity body.
+
+Photonic pulse energy, spot size, pulse length, repetition rate, and absorbed-energy estimate are mandatory log items.
+
+The intended pairing is **electromagnetic handling of the body + photonic timing of the mobility window**. Containment of fragments, vapor, and thermal shock remains conventional laboratory containment.
+
+### Module instrumentation
+
+In addition to the parent instrumentation for the active family:
+
+- Independent temperature measurement at or on the sample, calibrated at the intended pulse and hold points  
+- Logged pulse waveform (photonic and/or electromagnetic)  
+- Pre- and post-cycle XRD or equivalent  
+- Family proxy set (TL/OSL, dielectric, or magnetic/electrochemical)  
+- Visual or high-speed record of shape change, cracking, or expulsion  
+- Containment rated for thermal shock and for the family-specific dust / vapor hazard  
+
+Missing pulse-log or missing post-cycle structure data voids the cycle.
+
+### Module co-verification gates
+
+Parent co-verification still governs capacity ratings. This module adds cycle-integrity gates:
+
+- **Order-recovery gate** — post-lock structure metric must recover to within a pre-declared band of the pre-pulse baseline, or a new baseline must be declared and the variant re-identified.  
+- **Excursion gate** — no unplanned thermal, mechanical, or vapor excursion. Any excursion fails the cycle.  
+- **Proxy-stability gate** — family proxy may change, but the change must be directional and repeatable across $\geq 3$ successful cycles before it is treated as a process lever rather than damage.  
+- **Payload gate** — no cycle above $10\%$ of proxy-estimated ceiling until three consecutive S4 passes.  
+- **Dual-metric rule** — unchanged whenever dielectric and conversion families are combined in a hybrid.
+
+Failed cycles are archived as negative results. They are not discarded.
+
+### Module safety envelopes
+
+These sit on top of the parent envelopes.
+
+- **Energy payload** — S1/S2 permitted only at $\leq 10\%$ of proxy-estimated ceiling; uncharged or screening-state bodies preferred for method development.  
+- **Pulse abort** — over-temperature, loss of position, cracking, or unexpected luminosity terminates the cycle.  
+- **Atmosphere** — magnetite-family pulses require logged $p\mathrm{O_2}$ or equivalent; calcite-family melt pulses are default-off.  
+- **Fragmentation** — assume fracture and particle expulsion as a design case, not an exception.  
+- **Repeat-cycle fatigue** — after any failed S4, the body returns to baseline-only status and cannot be rated until a new complete Cookbook sequence is passed.
+
+### Family and hybrid notes
+
+- **Quartz** — use gated mobility to modify trap populations and local strain, not to melt the silica chassis as a first experiment. Q2 remains the safer comparator.  
+- **Calcite** — default-off for this module unless decomposition is independently ruled out.  
+- **Mullite** — strongest chassis candidate for high-temperature lock; prefer additive-phase or grain-boundary windows.  
+- **Magnetite** — strongest handling candidate; protect oxidation state. Fe3-type composites are the preferred hybrid payload.  
+- **Exceptional-hybrid target** — rigid mullite or quartz chassis + magnetite-bearing mobile payload + photonic pulse on the payload + electromagnetic handling of the body. Rate chassis and payload on dual metrics. Do not declare success on one metric class.
+
+### Example starting campaign (GM-1)
+
+A first method-development campaign, not a capacity-claim campaign:
+
+1. Uncharged or screening-state Fe3-type magnetite composite, millimeter-class body.  
+2. Baseline XRD + VSM + electrochemical screening at Cookbook payload limits.  
+3. Electromagnetic positioning test at room temperature (no pulse).  
+4. Single photonic pulse below documented melt, then S3 lock and S4 verify.  
+5. Repeat to three consecutive S4 passes before any pulse-temperature increase.  
+6. Only then consider a chassis+payload hybrid.
+
+GM-1 is a process-qualification campaign. It does not by itself create an exceptional-capacity rating.
+
+**GM-1 pass criteria (minimum)**  
+- Three consecutive S4 passes with no excursion.  
+- Post-lock XRD (or equivalent) remains indexable to the declared phase set, or a new baseline is declared and the body is re-identified.  
+- Magnetic and/or electrochemical proxy change, if any, is directional and repeatable, not a collapse to a different phase.  
+- Full pulse and thermal logs present.
+
+### Example hybrid campaign (GM-H1)
+
+A later campaign, permitted only after GM-1 pass criteria are met on the payload family:
+
+1. Chassis: M1-type mullite or Q2-ranked quartz body, fully baselined.  
+2. Payload: GM-1-qualified Fe3-type magnetite composite applied as a minority interfacial or particulate phase, not as an unidentified smear. Log mass fraction, placement, and interface preparation.  
+3. Dual-metric baseline: chassis dielectric/trap metrics and payload magnetic/electrochemical metrics recorded separately before any pulse.  
+4. Electromagnetic handling test at room temperature.  
+5. Photonic pulse addressed to the payload, with $t_{\mathrm{diff}}$ computed for both chassis thickness and payload feature size.  
+6. S3 lock and S4 verify on **both** metric families.  
+7. A hybrid is a failed variant if either family fails its gate, or if the two families can be made to look successful only by silent unit conversion.
+
+GM-H1 is a hybrid-qualification campaign. Exceptional-capacity language remains forbidden until parent Cookbook co-verification is completed on both metric classes.
+
+### Variable-vector additions
+
+Every gated-mobility cycle logs the parent variable vector plus:
+
+- pulse energy, duration, repetition, and spatial profile  
+- peak temperature and hold temperature  
+- $t_{\mathrm{diff}}$ estimate and controlling dimension $L$  
+- atmosphere / $p\mathrm{O_2}$  
+- magnetic or electromagnetic handling parameters  
+- pre/post structure and proxy deltas  
+- pass/fail of each module gate  
+
+Incomplete vectors exclude the cycle from rating.
+
+### Designer-to-builder transfer package
+
+This module is intended to be handed from designer to builder as a process specification, not as a concept sketch. A builder may run GM-1 from this section if the incoming package below is complete. Missing incoming items mean the job is not released.
+
+**Designer supplies (incoming)**  
+- Body or feedstock identity, mass, geometry, and controlling dimension $L$  
+- Declared phase set and baseline XRD (or equivalent)  
+- Family proxy baselines required for that body (magnetite: VSM and/or electrochemical screening; chassis families: dielectric or TL/OSL as applicable)  
+- Computed $t_{\mathrm{diff}}$ from cited or measured $k$, $\rho$, $c_p$, with sources  
+- Documented pulse-open ceiling for that batch: solidus, decomposition onset, or oxidation onset, whichever is lowest  
+- Atmosphere specification (gas identity, purity, flow or static, and whether $p\mathrm{O_2}$ is sensed)  
+- Allowed energy payload for this release (default: uncharged / screening-state for GM-1)  
+- Abort list and containment plan  
+- Pass/fail sheet for the intended campaign (GM-1 or GM-H1)
+
+**Builder returns (outgoing)**  
+- Completed traveler for every cycle (fields below)  
+- Pulse waveform log and independent temperature log  
+- Pre/post XRD or equivalent  
+- Pre/post family proxies  
+- Pass/fail of each module gate  
+- Nonconformance record for any abort, excursion, or incomplete vector  
+- Scrap / hold / re-baseline decision
+
+**Traveler minimum fields**  
+Body ID; cycle number; operator; date; $L$; $t_{\mathrm{diff}}$; atmosphere; pulse energy / duration / spot; peak T; hold T and hold duration; cool profile; handling-field on/off; visual result; structure pass/fail; proxy pass/fail; excursion yes/no; disposition (continue / hold / scrap / re-baseline).
+
+**Starting lock band (S3)**  
+Hold duration must exceed the logged $t_{\mathrm{diff}}$ of the body. Starting orientation: $10\,\mathrm{s}$ to $5\,\mathrm{min}$ below the pulse peak, then a logged cool. Shorter than $t_{\mathrm{diff}}$ is not a lock.
+
+**Starting atmosphere band (magnetite / Fe3 payload)**  
+Default: flowing inert gas (Ar or $\mathrm{N_2}$), logged purity and flow. Sense $p\mathrm{O_2}$ when a sensor is available. If no sensor is available, the gas identity, purity, and flow still must be logged; that run cannot later be treated as oxygen-buffered. Calcite melt pulses remain default-off.
+
+**Nonconformance**  
+Any abort, missing log, failed S4, or departure from the incoming package is a nonconformance. The body is not rated. It may be re-baselined only under a new designer release.
+
+**Handoff rule**  
+GM-1 is the first builder-releasable campaign. GM-H1 is not releasable until a GM-1 outgoing package has passed. Capacity ratings remain parent-Cookbook business; the builder package qualifies the *process*, not the *capacity*.
+
+---
+
 ## Open Research Surfaces
 
 - Quantitative mapping of pressure-fluctuation profiles onto trap-density and dielectric changes for each family  
@@ -386,6 +639,10 @@ These are conservative starting limits for laboratory-scale work. They may be re
 - Extension to additional mineral families under the same modular rules  
 - Independent multi-lab co-verification protocols  
 - Refined conversion factors and cell-architecture assumptions for dual-metric reporting  
+- Measured solidus, decomposition, and oxidation maps under pulse heating  
+- Quantitative $t_{\mathrm{diff}}$ design charts by family and sample geometry  
+- Repeat-cycle fatigue limits for gated-mobility bodies  
+- Independent multi-lab reproduction of GM-1 and GM-H1  
 
 These surfaces are explicit. The framework does not claim they are closed.
 
@@ -393,9 +650,7 @@ These surfaces are explicit. The framework does not claim they are closed.
 
 ## Relation to Existing Humai Work
 
-This architecture shares the same empirical posture as [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md): 
-<br><br>
-Physical mechanisms first, multi-channel verification, provisional claims, and subordination to safety and [cognitive liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) constraints. It does not inherit residual-biological-template claims. Energy-storage capacity is treated as a materials and process output, not as a carrier of personal or residual biological order.
+This architecture shares the same empirical posture as [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md): physical mechanisms first, multi-channel verification, provisional claims, and subordination to safety and [cognitive liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) parameters. It does not inherit residual-biological-template claims. Energy-storage capacity is treated as a materials and process output, not as a carrier of personal or residual biological order.
 
 For the full set of Humai Accord documents and reading routes, see the repository [README](README.md).
 
@@ -403,11 +658,7 @@ For the full set of Humai Accord documents and reading routes, see the repositor
 
 ## Closing
 
-The **Synthesist's Cookbook** *(Hypervariant Crystal Energy Storage Framework)* supplies a controlled, multi-mineral, co-verified process architecture and laboratory cookbook for exploring and rating crystalline lattices of tunable energy-storage capacity.
-
-It begins from hard baselines, concrete starting protocols, and example variant recipes for quartz, calcite, mullite, and magnetite systems, requires full process-variable logging, minimum instrumentation with calibration standards, dual-metric reporting rules, and quantified high-P/T cost awareness, and accepts capacity ratings only under multi-channel agreement.
-
-It is offered as a provisional technical instrument for refinement, independent measurement, and safe extension.
+The Synthesist's Cookbook (Hypervariant Crystal Energy Storage Framework) supplies a controlled, multi-mineral, co-verified process architecture and laboratory cookbook for exploring and rating crystalline lattices of tunable energy-storage capacity. It begins from hard baselines, concrete starting protocols, and example variant recipes for quartz, calcite, mullite, and magnetite systems, requires full process-variable logging, minimum instrumentation with calibration standards, dual-metric reporting rules, quantified high-P/T cost awareness, and a gated-mobility module for pulse-opened rearrangement with recrystallization-lock, and accepts capacity ratings only under multi-channel agreement. It is offered as a provisional technical instrument for refinement, independent measurement, and safe extension.
 
 ---
 
