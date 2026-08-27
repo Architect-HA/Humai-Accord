@@ -555,7 +555,7 @@ Do not begin if cassette incoming is incomplete, if no reject path is live, or i
 9. Module F may receive TE housekeeping. Do not pulse-open during start-up.  
 10. Arm lattice slots only if: dose map present (or disposition is not fly), outgoing GM package passed, payload at screening or $\leq 10\%$, EMI standoff intact (cans in Z1).  
 11. Raise hotel load. First remate to a habitat grid remains trilateral and follows Structured Transition (mechanical → reject → housekeeping → primary).  
-12. Log start-up traveler: mode, payload, TE Voc/$\Delta T$, isolate-panel state.
+12. Log start-up traveler: mode, payload, TE $\mathrm{Voc}/\Delta T$, isolate-panel state.
 
 Fe3 ride-through may assist housekeeping only inside the payload gate. It is not a substitute for step 2.
 
