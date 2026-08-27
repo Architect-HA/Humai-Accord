@@ -681,9 +681,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Restructured the README slightly for better organizational flow.
 
 **[August 26th, 2026]**
-- Updated **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** to v1.7 — added the Gated Mobility Module (pulse-open / rearrange / recrystallize-lock / verify) as an in-document process section, not a separate theory file. Includes thermal-diffusion sample-volume rule, family starting windows, module co-verification and safety gates, GM-1 process-qualification campaign, GM-H1 hybrid-qualification campaign, and a designer-to-builder transfer package (incoming/outgoing artifacts, traveler fields, lock and atmosphere starting bands, nonconformance rule). Capacity ratings remain parent-Cookbook business; the module qualifies the process.
+- Updated **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** to v1.7/v1.8 — added the Gated Mobility Module (pulse-open / rearrange / recrystallize-lock / verify) as an in-document process section, not a separate theory file. Includes thermal-diffusion sample-volume rule, family starting windows, module co-verification and safety gates, GM-1 process-qualification campaign, GM-H1 hybrid-qualification campaign, and a designer-to-builder transfer package (incoming/outgoing artifacts, traveler fields, lock and atmosphere starting bands, nonconformance rule). Capacity ratings remain parent-Cookbook business; the module qualifies the process.
 - Added **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** (*A Companion Architecture to The Synthesist's Cookbook*) — a Core Cassette architecture for shielded circulatory conversion, gated reconstitution, and regenerative thermoelectric recovery.
-- Updated **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** to v1.8 — Continuity Floors at the Cassette (travelers as knowledge object; plate, kit, and off-cassette spares as material pathways).
+- Updated **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** to v1.8/v1.9 — Continuity Floors at the Cassette (travelers as knowledge object; plate, kit, and off-cassette spares as material pathways).
 - Added corresponding Table of Contents entry and document section immediately after *The Synthesist's Cookbook*.
 
 **[August 25th, 2026]**  
