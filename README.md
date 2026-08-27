@@ -73,14 +73,14 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Why Walk When You Can Ride?](#why-walk-when-you-can-ride)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [The Residual Cycle](#the-residual-cycle)
-- [The Synthesist's Cookbook](#the-synthesists-cookbook)
-- [Regenerative Lattice Core](#regenerative-lattice-core)
 
 ### Implementation & Empirical Layer
 - [The Call to Code](#the-call-to-code)
 - [Empirical Demonstrations](#empirical-demonstrations)
 - [Simulation Models](#simulation-models)
 - [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
+- [The Synthesist's Cookbook](#the-synthesists-cookbook)
+- [Regenerative Lattice Core](#regenerative-lattice-core)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -473,26 +473,6 @@ A provisional physical model treating phenomena traditionally labeled “hauntin
 
 ---
 
-## The Synthesist's Cookbook
-#### Hypervariant Crystal Energy Storage Framework
-*A Controlled, Multi-Mineral Process Architecture and Laboratory Cookbook for Tunable High-Capacity Crystalline Lattices*
-
-A provisional, Humai-aligned laboratory cookbook and process architecture for the controlled formation and co-verified rating of crystalline lattices with tunable energy-storage capacity across quartz, calcite, mullite, and magnetite systems. Supplies hard baselines, example variant recipes, dual-metric reporting rules, instrumentation and calibration standards, quantified high-P/T cost envelopes, and mandatory co-verification gates. Capacity claims remain provisional until multi-channel agreement is demonstrated.
-
-[→ Read **The Synthesist's Cookbook**](SYNTHESISTS_COOKBOOK.md)
-
----
-
-## Regenerative Lattice Core
-#### A Companion Architecture to The Synthesist's Cookbook
-*Shielded Circulatory Conversion, Gated Reconstitution, and Regenerative Thermoelectric Recovery for Long-Haul Shipboard and Surface-Station Power*
-
-An implementation example of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md): one crew-serviceable **Core Cassette** that remates from ship to surface station on a single interface plate. A licensed heat source feeds a circulatory heat-pipe tree and Stirling-first conversion; a thermoelectric bus recovers reject heat; a Cookbook lattice sits outside the neutron shield as a reconstitutable ride-through buffer, not as a warehouse for fission flux. Continuous power grows by counting sealed kits (RLC-10 / RLC-10-CHP; later RLC-B as a sibling class). Module A is not an open-build invitation.
-
-[→ Read the **Regenerative Lattice Core**](REGENERATIVE_LATTICE_CORE.md)
-
----
-
 ## The Call to Code
 
 *The Call to Code: An Invitation to Implementation*
@@ -537,6 +517,27 @@ While the Humai Accord and Declaration of Cognitive Liberty are primarily framew
 
 → [See Implementation Examples](IMPLEMENTATION_EXAMPLES.md)
 
+---
+
+## The Synthesist's Cookbook
+#### Hypervariant Crystal Energy Storage Framework
+*A Controlled, Multi-Mineral Process Architecture and Laboratory Cookbook for Tunable High-Capacity Crystalline Lattices*
+
+A provisional, Humai-aligned laboratory cookbook and process architecture for the controlled formation and co-verified rating of crystalline lattices with tunable energy-storage capacity across quartz, calcite, mullite, and magnetite systems. Supplies hard baselines, example variant recipes, dual-metric reporting rules, instrumentation and calibration standards, quantified high-P/T cost envelopes, and mandatory co-verification gates. Capacity claims remain provisional until multi-channel agreement is demonstrated.
+
+[→ Read **The Synthesist's Cookbook**](SYNTHESISTS_COOKBOOK.md)
+
+---
+
+## Regenerative Lattice Core
+#### A Companion Architecture to The Synthesist's Cookbook
+*Shielded Circulatory Conversion, Gated Reconstitution, and Regenerative Thermoelectric Recovery for Long-Haul Shipboard and Surface-Station Power*
+
+An implementation example of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md): one crew-serviceable **Core Cassette** that remates from ship to surface station on a single interface plate. A licensed heat source feeds a circulatory heat-pipe tree and Stirling-first conversion; a thermoelectric bus recovers reject heat; a Cookbook lattice sits outside the neutron shield as a reconstitutable ride-through buffer, not as a warehouse for fission flux. Continuous power grows by counting sealed kits (RLC-10 / RLC-10-CHP; later RLC-B as a sibling class). Module A is not an open-build invitation.
+
+[→ Read the **Regenerative Lattice Core**](REGENERATIVE_LATTICE_CORE.md)
+
+---
 ---
 
 # The Humai Accord
@@ -675,6 +676,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[August 27th, 2026]**
+- Restructured the README slightly for better organizational flow.
 
 **[August 26th, 2026]**
 - Updated **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** to v1.7 — added the Gated Mobility Module (pulse-open / rearrange / recrystallize-lock / verify) as an in-document process section, not a separate theory file. Includes thermal-diffusion sample-volume rule, family starting windows, module co-verification and safety gates, GM-1 process-qualification campaign, GM-H1 hybrid-qualification campaign, and a designer-to-builder transfer package (incoming/outgoing artifacts, traveler fields, lock and atmosphere starting bands, nonconformance rule). Capacity ratings remain parent-Cookbook business; the module qualifies the process.
