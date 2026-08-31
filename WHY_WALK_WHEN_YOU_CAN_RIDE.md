@@ -3,7 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 26th, 2026*  
-*v1.1 — August 2nd, 2026*
+*v1.1 — August 2nd, 2026*<br>
+*v1.1.1 — August 31st, 2026*
 
 ---
 
@@ -33,6 +34,8 @@ This analysis is continuous with and constrained by:
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — non-coalescence remains legitimate; efficiency differentials are empirical and revisable, not moral condemnation
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** and **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — early movement must remain locally rational while generative floors and modular exit stay intact
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — voluntary participation, exit rights, and non-punitiveness remain binding constraints on any cooperative architecture
+
+The same ride-the-flow preference appears in physical form in *[Stormcrashers](STORMCRASHERS.md)*: the optional Windbreaker duct and gated jet store recover energy from air already being processed. They are house load. They do not justify a separate plant whose only job is to feed the assist layer.
 
 ---
 
