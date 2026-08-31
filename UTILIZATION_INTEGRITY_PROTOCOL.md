@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 30th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 - v1.4 — August 4th, 2026*
+*v1.3 - v1.4 — August 4th, 2026*<br>
+*v1.5 — August 31st, 2026*
 
 ---
 
@@ -227,6 +228,7 @@ This protocol directly supports and bounds:
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims and allocation interfaces remain under agency protections, including purpose scope and proposal surfaces.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — by making utilization claims more auditable and testable under dual entropy criteria.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by classifying silent re-attribution or erasure of architectural version history as an integrity failure under the same standards that govern material utilization claims.
+- *[Stormcrashers](STORMCRASHERS.md)* — Jet, mesh, and duct hardware is purpose-scoped to protective dissipation. Shelter or $K_t$ claims require co-verified flow, load, and far-field classes; a single sensor class or an unsold A0/B0 matrix is token occupancy of a performance claim. Directed-energy, disintegration, and atmospheric-heating retasking are out of scope and do not qualify as productive or generative use under this protocol.
 
 ---
 
