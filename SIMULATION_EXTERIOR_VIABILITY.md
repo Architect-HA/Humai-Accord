@@ -6,6 +6,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 3rd, 2026*<br>
 *v1.1 - v1.2 — August 4th, 2026*
+*v1.2.1 — August 31st, 2026*
 
 ---
 
@@ -360,6 +361,7 @@ This simulation model operationalizes and stress-tests requirements in:
 - *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* — this model is a concrete demonstration pathway under the simulation-integrity rule.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — indicators, thresholds, and adversarial-suite requirements remain standing design surfaces.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — superior capability increases protective obligations rather than granting domination rights; reflected in escalation above $\kappa$ and in $\theta_i$ heterogeneity.
+- *[Stormcrashers](STORMCRASHERS.md)* — a Stormcrasher line or harbor gate is an exterior protective intervention. It does not replace restoration allocation or local-global feedback. Siting that shelters one pad by starving a downwind community or a fishery is an Exterior Viability failure even if $C_D$ or $K_t$ looks elegant.
 
 ---
 
