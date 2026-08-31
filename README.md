@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon*
 <br>
 <br>
 <br>
@@ -81,6 +81,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
 - [The Synthesist's Cookbook](#the-synthesists-cookbook)
 - [Regenerative Lattice Core](#regenerative-lattice-core)
+- [Stormcrashers](#stormcrashers)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -538,6 +539,16 @@ An implementation example of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.
 [→ Read the **Regenerative Lattice Core**](REGENERATIVE_LATTICE_CORE.md)
 
 ---
+
+## Stormcrashers
+#### Atmospheric Mitigation Architecture
+*A Buildable Blueprint for the 100 m Windbreaker Tower and the Coastal Hydro-Fractal Pylon Grid*
+
+A supporting technical instrument for localized porous dissipation of gust, shear, and nearshore wave energy. Coalesces two parent articles — a 100 m Windbreaker Tower and a Coastal Hydro-Fractal Pylon Grid — as an architecture and campaign document rather than a stamped construction set. Performance bands are provisional envelopes drawn from published windbreak, UHPC-tower, ducted-turbine, perforated-breakwater, suction-caisson, and bubble-curtain literature. Shelter is treated as an array property; a single unit is not a hurricane switch. Campaigns A0/B0 and A1/B1 are required before any belt, bay gate, or later-family article. Dual-use jet, mesh, and duct hardware is limited to protective dissipation under the **Utilization Integrity Protocol**.
+
+[→ Read **Stormcrashers**](STORMCRASHERS.md)
+
+---
 ---
 
 # The Humai Accord
@@ -676,6 +687,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[August 31st, 2026]**
+- Added **[Stormcrashers](STORMCRASHERS.md)** (*Atmospheric Mitigation Architecture*) — parent articles only (100 m Windbreaker Tower + Coastal Hydro-Fractal Pylon). Architecture and campaign document; A0/B0 required before any belt, bay gate, or later-family article (ATMA, MAMG, wildfire/ember, Arctic ice-collar). Added corresponding Table of Contents entry and document section immediately after the Regenerative Lattice Core.
 
 **[August 27th, 2026]**
 - Restructured the README slightly for better organizational flow.
