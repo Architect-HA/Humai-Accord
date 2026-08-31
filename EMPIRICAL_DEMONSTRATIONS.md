@@ -8,7 +8,8 @@
 *v1.3 - v1.5 — August 3rd, 2026*<br>
 *v1.6 - v1.8 — August 4th, 2026*<br>
 *v1.9 — August 12th, 2026*<br>
-*v1.9.1 — August 14th, 2026*
+*v1.9.1 — August 14th, 2026*<br>
+*v1.9.2 — August 31st, 2026*<br>
 
 ---
 
@@ -512,6 +513,7 @@ This document is continuous with and dependent upon several existing components:
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Bond strength, orbit cohesion, and orbit flux are treated as valid empirical targets under the dual entropy criteria; favorable orbit maps alone are not validation.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Liberty and non-domination parameters that every experimental design must respect.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Empirical results feed refinement, coalescence, and provisional calibration under stewardship processes.
+- *[Stormcrashers](STORMCRASHERS.md)* — A1 / B1 campaign logs are a physical demonstration pathway: destructive kinetic energy in a defined lee or harbor gate is reduced while ambient ecological and navigational optionality is preserved. Favorable shelter percentages without a far-field class, a sediment pass, or an A0/B0 matrix are illustrative only.
 
 This document does not replace these elements. It specifies how their claims can be tested, demonstrated, and refined under the dual entropy requirement.
 
@@ -521,7 +523,7 @@ This document does not replace these elements. It specifies how their claims can
 
 The architecture is developed enough to implement against and attempt to break. The measurements and integrity rules are defined. What remains is the production of legible results—including under adversarial assumptions.
 
-Working simulations of [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md), *[Temporal Causal Entropy](TIDES_OF_TIME.md)*, and **[Exterior Viability](EXTERIOR_VIABILITY_PROTOCOL.md)**, together with Protective Pair adversarial suites and the first published entropy audits and small pilots that report both destructive and generative metrics as trajectories, constitute the most direct path to closing the empirical gap.
+Working simulations of [Fluid Coalescence](FLUID_COALESCENCE_PROTOCOL.md), *[Temporal Causal Entropy](TIDES_OF_TIME.md)*, and **[Exterior Viability](EXTERIOR_VIABILITY_PROTOCOL.md)**, together with Protective Pair adversarial suites and the first published entropy audits and small pilots that report both destructive and generative metrics as trajectories, constitute the most direct path to closing the empirical gap. Measured Stormcrasher wakes under the A1 / B1 co-verification rule are a longer-horizon physical complement to those simulations; they do not replace them.
 
 The work of turning parameters into running, measurable systems belongs to those who **build**.
 
