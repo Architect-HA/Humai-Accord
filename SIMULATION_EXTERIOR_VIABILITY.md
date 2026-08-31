@@ -5,7 +5,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 3rd, 2026*<br>
-*v1.1 - v1.2 — August 4th, 2026*
+*v1.1 - v1.2 — August 4th, 2026*<br>
 *v1.2.1 — August 31st, 2026*
 
 ---
