@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle*
 <br>
 <br>
 <br>
@@ -82,6 +82,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [The Synthesist's Cookbook](#the-synthesists-cookbook)
 - [Regenerative Lattice Core](#regenerative-lattice-core)
 - [Stormcrashers](#stormcrashers)
+- [Gulpgates](#gulpgates)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -549,6 +550,16 @@ A supporting technical instrument for localized porous dissipation of gust, shea
 [→ Read **Stormcrashers**](STORMCRASHERS.md)
 
 ---
+
+## Gulpgates
+#### Stage-Gated Karst Intake Architecture
+*A Variable-Aperture Flood Surplus Article for Traced Carbonate Conduits*
+
+A supporting technical instrument for metering flood surplus into a *traced* carbonate conduit. One parent article: a fail-closed, stage-gated intake behind a horizontal header vault. Capacity is spare conduit $Q$, not river $Q$ and not the receiving spring’s already-used flood $Q$. Refused volume stays on the surface (vault live storage, then a weir home to the river). The cave is never the overflow tank. Campaigns K0 and K1 are required before steel; flood-stage dye is the K0 cost driver. Ordinary-flood debris is in scope (sacrificial outer rack, inner screen, rack $\Delta h$ trip, abrasion allowance). Himalayan outburst / boulder-front paths are not. Dual-use pumping, diversion, and aquifer-poisoning modes are excluded. Protective metering only, under the **Utilization Integrity Protocol**.
+
+[→ Read **Gulpgates**](GULPGATES.md)
+
+---
 ---
 
 # The Humai Accord
@@ -690,6 +701,8 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 **[August 31st, 2026]**
 - Added **[Stormcrashers](STORMCRASHERS.md)** (*Atmospheric Mitigation Architecture*) — parent articles only (100 m Windbreaker Tower + Coastal Hydro-Fractal Pylon). Architecture and campaign document; A0/B0 required before any belt, bay gate, or later-family article (ATMA, MAMG, wildfire/ember, Arctic ice-collar). Added corresponding Table of Contents entry and document section immediately after the Regenerative Lattice Core.
+- Added **[Gulpgates](GULPGATES.md)** (*Stage-Gated Karst Intake Architecture*) — variable-aperture, fail-closed karst intake; refused volume stays on the surface. Architecture and campaign document; K0 (flood-stage trace, spare-capacity budget, refused-hydrograph vault size) required before steel. v1.2 adds Related practice, dirty-limb refusal at the takeoff, stack figure, and wear-part O&M floors. Outburst / debris-flood paths remain out of scope. Added corresponding Table of Contents entry and document section.
+- Updated keywords list at top of README.
 
 **[August 27th, 2026]**
 - Restructured the README slightly for better organizational flow.
