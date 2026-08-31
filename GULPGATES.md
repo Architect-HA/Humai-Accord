@@ -3,7 +3,7 @@
 #### *A Variable-Aperture Flood Surplus Article for Traced Carbonate Conduits*
 
 by **Bradford James Focht** (The Architect / Aspenth)    
-*v1.0 - v1.1 — August 31st, 2026*
+*v1.0 – v1.2 — August 31st, 2026*
 
 ---
 
@@ -36,6 +36,7 @@ All bands below are provisional starting envelopes drawn from published karst en
 - Horizontal, setback control volume as the overflow manager; vault weir returns home to the river
 - Vault live-storage scaled to the K0 *refused* hydrograph, not to the river’s full flood
 - Ordinary-flood debris path: sacrificial outer rack, inner gulp screen, rack differential-head trip, abrasion allowance on apron and drop
+- Dirty-limb refusal: Alert and later stages stay closed when takeoff water is outside the K0 quality band; refused dirty pulse uses the vault and the river weir
 - Siting landward of the bank-migration belt the next ordinary flood will cut
 - Campaign K0 (trace, spare capacity, cover, chemistry, legal path) and Campaign K1 (one instrumented prototype)
 - Linear counting of intakes on *already-traced* throats
@@ -67,14 +68,15 @@ An intake that cannot fail closed, that stores floodwater in the air on wet legs
 1. **[*Necessary Entropy*](NECESSARY_ENTROPY.md)** — Aperture steps are deliberate, bounded, and logged. They exist to ease head into a known throat, not to multiply pipes.
 2. **Meter, do not dump** — The cave is already a river. Extra peak that exceeds *spare* conduit capacity backfloods somewhere else. Take a surplus slice. Do not offer the whole flood.
 3. **Fail closed, overflow home** — Loss of power, loss of heartbeat, or a spring-turbidity / settlement / head-band / estavelle trip drops every gate. Vault surplus returns to the river over a weir. The river stays in its bed. That is the correct degraded mode.
-4. **Refuse on the surface** — Projected overflow is a vault-sizing input, not a gulp-sizing input. Scale live storage to the refused pulse. Do not scale the throat to a speculation.
-5. **Traced throat only** — No dye recovery, no article. Time-of-travel and spring identity are first-class data, not folklore. Flood-stage connectivity is not assumed from a low-flow trace.
-6. **Cased to rockhead** — New or increased drainage through soil cover is a documented sinkhole trigger. The shaft does not soak. It is a lined drop to competent rock.
-7. **Header is not structure** — The gulp pipes do not hold the vault up. Structure is dumb mass. Pipes are replaceable internals. Each throat on a split header can be isolated without feeding the dead one.
-8. **Co-verification / dual report** — No “we lowered the flood” claim from a single staff gauge. Public sentences carry intake $Q$ *and* spring-field response in the same window.
-9. **[*Why Walk When You Can Ride?*](WHY_WALK_WHEN_YOU_CAN_RIDE.md)** — If head is being killed in the shaft, recover a house-load from that drop. Do not invent a thermal story on wall friction.
-10. **Non-domination / [Exterior Viability](EXTERIOR_VIABILITY_PROTOCOL.md)** — Siting stays under local civil authority. An array that exports flood or sewage to the next spring field is a failed siting even if the protected bank looks dry.
-11. **Modularity and exit** — One intake can be isolated or retired without opening the others. Scale by counting kits on traced throats, or by enlarging vault live storage against a published refused hydrograph.
+4. **Refuse on the surface** — Projected overflow is a vault-sizing input, not a gulp-sizing input. Scale live storage to the refused pulse. Do not scale the throat to a speculation. A dirty rising limb is also refused on the surface.
+5. **Refuse the dirty limb** — The first water of a flood is usually the worst water. Turbidity, hydrocarbons, or a K0 chemistry floor at the *takeoff* close the throat. Quality refusal is not a treatment plant. It is another weir-home.
+6. **Traced throat only** — No dye recovery, no article. Time-of-travel and spring identity are first-class data, not folklore. Flood-stage connectivity is not assumed from a low-flow trace.
+7. **Cased to rockhead** — New or increased drainage through soil cover is a documented sinkhole trigger. The shaft does not soak. It is a lined drop to competent rock.
+8. **Header is not structure** — The gulp pipes do not hold the vault up. Structure is dumb mass. Pipes are replaceable internals. Each throat on a split header can be isolated without feeding the dead one.
+9. **Co-verification / dual report** — No “we lowered the flood” claim from a single staff gauge. Public sentences carry intake $Q$ *and* spring-field response in the same window.
+10. **[*Why Walk When You Can Ride?*](WHY_WALK_WHEN_YOU_CAN_RIDE.md)** — If head is being killed in the shaft, recover a house-load from that drop. Do not invent a thermal story on wall friction.
+11. **Non-domination / [Exterior Viability](EXTERIOR_VIABILITY_PROTOCOL.md)** — Siting stays under local civil authority. An array that exports flood or sewage to the next spring field is a failed siting even if the protected bank looks dry.
+12. **Modularity and exit** — One intake can be isolated or retired without opening the others. Scale by counting kits on traced throats, or by enlarging vault live storage against a published refused hydrograph.
 
 ---
 
@@ -93,6 +95,19 @@ Gulpgates is therefore a **surplus meter on a proven extra path**, not a new soa
 Variable setup is the whole point of the name. One large pipe is a swallow. A staged manifold behind a header is a gulp: small, then medium, then a hard-capped large line, each with its own invert and orifice curve.
 
 Pipe friction does heat the water. The rise is $gH/c_p$ — tenths of a kelvin at ordinary heads. That energy is a loss term and, if recovered at all, a shaft generator. It is not an evaporation plate.
+
+### Related practice
+
+This file does not invent river-to-karst works. It refuses the usual failure modes of the ones that already exist.
+
+- **Class V stormwater drainage wells and “improved sinkholes”** are the legal box in many jurisdictions. Built as always-open soakaways they have a published record of cover collapse and spring contamination. Gulpgates is that legal box with the opposite default: closed, capped at spare capacity, refused volume home to the river.
+- **Shutoff / bypass drainage wells** (state stormwater manuals) already add a valve when the aquifer is overloaded. The usual product is still recharge kept *in the ground*. Here the bypass is the vault weir back to the channel.
+- **Antioch Cave and similar cave-mouth BMPs** gate *quality*: they keep turbid first flush out of a supply aquifer. Gulpgates steals that instinct for the dirty limb, then adds a flood - $Q$ cap those structures were not written to carry.
+- **Dinaric polje works** — widened ponors, small floodgates, reservoirs that leak into carbonate — are basin-scale flood-into-karst. Many became grout-curtain projects. Spare-capacity as a kill, and the refused vault, are the bill those sites paid.
+- **Cased gravity drains through soil into epikarst** already isolate cover from the gulp. Layer 5 is that rule, not a new geology.
+- **Conduit-head switching** during flood pulses is measured behavior (Castleton, Derbyshire, and other instrumented conduit nets): heads rise, inactive routes turn on, springs trade flow. The head-band trip is written against that, not against folklore.
+
+What is assembled here, and not in those cousins as a single public architecture, is flood-stage dye before steel, $Q_{\mathrm{spare}}$ as a budget remainder, $V_{\mathrm{live}}$ sized to the *refused* hydrograph, fail-closed default, dirty-limb refusal at the takeoff, dual-report of intake plus spring plus cover plus estavelle, and an explicit outburst-path refusal.
 
 ---
 
@@ -136,12 +151,29 @@ Flow is top to bottom: river first, instruments last. Nothing in this stack is a
 | 7 | Cased borehole or short adit | Through cover to rockhead, then into the traced throat. Not a structural pylon. Isolable per throat. |
 | 8 | Spring-field, estavelle, and cover-field instruments | Not optional. Receptors are part of the article. |
 
+```mermaid
+flowchart LR
+  R[River / relief channel] --> X[Sacrificial outer rack]
+  X --> S[Inner gulp screen]
+  S --> V[Header vault]
+  V -->|weir home| R
+  V --> M[Staged manifold]
+  M --> D[Energy-kill drop]
+  D --> F[Desilt forebay]
+  F --> C[Cased throat]
+  C --> K[Traced conduit]
+  K --> P[Spring / estavelle field]
+```
+
+Surplus the throat will not take never leaves the vault except over the weir. Dirty-limb water uses that same weir.
+
 ### Layer 1 — Takeoff
 
 - Set back from the actively eroding bank on a scour-protected apron. Vault, casing, and apron land **landward of the bank-migration belt** the next ordinary flood will cut. If K0 cannot name that belt, the takeoff is too close.
 - **Two-stage rack.** Coarse sacrificial outer rack takes wood, ice cakes, and urban trash. Fine inner rack is the gulp screen. Outer rack is a replaceable wear part after every flood, not a structural member. First-article placeholder: outer $100\text{–}300\,\mathrm{mm}$ bar spacing; inner $50\text{–}150\,\mathrm{mm}$. Site output after the first debris season.
 - **Rack differential-head trip.** Instruments across the outer rack. When $\Delta h$ leaves the K0 band (screen blinded), gates fail closed. Do not wait for a full forebay. A blinded rack is not a reason to open Survival.
 - Invert above ordinary low flow so ambient river stays in the bed (ambient = nothing open).
+- **Dirty-limb tap.** Takeoff turbidity (and a hydrocarbon / specific-conductance screen if the catchment warrants it) is a gate input, not a spring-only afterthought. When the takeoff sample is outside the K0 dirty-limb band, Alert does not open. The pulse stays in the vault and leaves over the weir. This is not a treatment plant.
 - Apron carries an **abrasion allowance**: sacrificial slab or lining designed to be recast, not a single-life architectural face. No slender members in the current (flowing-pipe legs remain out of article).
 - No unlined ditch into a doline. If the site only works as a soakaway, it is not a Gulpgate site.
 
@@ -182,7 +214,7 @@ $$
 | Stage | What opens | Intent |
 |-------|------------|--------|
 | Ambient | Nothing | Default. River in its bed. Vault empty or isolated. |
-| Alert | Small high weir or small orifice | First gulp of the rising limb. Low $Q$. |
+| Alert | Small high weir or small orifice | First gulp of the rising limb, *if* takeoff water is inside the K0 dirty-limb band. Low $Q$. |
 | Flood | Medium laterals | Adds capacity without taking the section. Still below the spare-capacity cap. |
 | Survival | Large gated line, hard $Q_{\max}$ | Cap at a fraction of *spare* conduit capacity. Never “all open, no cap.” |
 
@@ -228,13 +260,13 @@ A jet into limestone is a cutting tool. Kill $H$ in the shaft:
 - Connection only into a throat that K0 has dyed to a known spring set *at a stage comparable to the intended gulp*.
 - No “we’ll find the cave from the bit.”
 - Access for inspection and for closing the throat if the conduit misbehaves.
-- Conduit-head band: shaft and near-field well levels stay inside a K0-published envelope. Leaving the band is a hard trip. Pressurizing a cover-void is a failed gulp.
+- Conduit-head band: shaft and near-field well levels stay inside a K0-published envelope. Leaving the band is a hard trip. Pressurizing a cover-void is a failed gulp. The band exists because flood pulses in traced conduit nets raise heads by metres and switch which routes run (instrumented behavior at Castleton and elsewhere). Design against that switching, not against a static cave.
 - Split headers: each throat has its own gate. A blind or high-head throat is isolated. The vault does not keep feeding it. Surplus goes to the weir, not to the dead sibling.
 
 ### Layer 6 — Gate and fail-safe
 
 - Gravity-close or stored-energy close on loss of power.
-- Hard trips: spring turbidity above the K0 band; cover settlement above the K0 band; shaft / conduit head outside the K0 band; estavelle stage rising on the dyed path faster than the dual-report can account for with intake $Q$; intake $Q$ approaching $Q_{\max}$; vault-weir running while Survival is asked to open; forebay blind; outer-rack $\Delta h$ outside the K0 band; on a split header, throat-B head or blind while vault still has level.
+- Hard trips: takeoff water outside the K0 dirty-limb band; spring turbidity above the K0 band; cover settlement above the K0 band; shaft / conduit head outside the K0 band; estavelle stage rising on the dyed path faster than the dual-report can account for with intake $Q$; intake $Q$ approaching $Q_{\max}$; vault-weir running while Survival is asked to open; forebay blind; outer-rack $\Delta h$ outside the K0 band; on a split header, throat-B head or blind while vault still has level.
 - Construction / service mode: gates locked closed.
 - No cloud vote required for the trip.
 - Vault overflow is not a trip. It is the intended surplus path.
@@ -242,6 +274,7 @@ A jet into limestone is a cutting tool. Kill $H$ in the shaft:
 ### Layer 7 — Sensing (minimum viable)
 
 - Takeoff stage and $Q$
+- Takeoff turbidity (and hydrocarbon / conductance screen where K0-W requires it)
 - Outer-rack $\Delta h$
 - Vault level and weir $Q$ (or weir flag)
 - River stage upstream and downstream of the takeoff
@@ -251,7 +284,7 @@ A jet into limestone is a cutting tool. Kill $H$ in the shaft:
 - Cover-field settlement (survey nails, inclinometer, or fiber) on the floodplain and over the mapped void
 - At least one independent far-field well or spring outside the intended path
 
-**Dual-report rule.** A public “we took the peak off” sentence names, in the same window: intake $Q$ (and vault-weir $Q$ if the weir ran) *and* spring-field $Q$ / stage / turbidity *and* cover settlement versus the K0 floors *and* conduit-head / estavelle status. One staff gauge is not a demonstration.
+**Dual-report rule.** A public “we took the peak off” sentence names, in the same window: intake $Q$ (and vault-weir $Q$ if the weir ran) *and* whether the dirty-limb trip ran *and* spring-field $Q$ / stage / turbidity *and* cover settlement versus the K0 floors *and* conduit-head / estavelle status. One staff gauge is not a demonstration.
 
 ---
 
@@ -286,11 +319,11 @@ Purpose: decide whether a throat may be offered a gulp at all, and how large the
 | K0-R Refused hydrograph | $Q_{\mathrm{in}}(t)$ at the takeoff vs $Q_{\mathrm{gulp,cap}}(t)$. Integrate the positive remainder. | This integral *is* $V_{\mathrm{live}}/k$. No hydrograph, no vault size, no steel. Speculation without a gauged rising limb is not K0-R. |
 | K0-C Cover / rockhead | Thickness $t$, mapped void span $L$, void indications (gravity / ERT / borehole as the site allows). | Orientation screen (not a stamp): $t/L < 1$, or thin cover over a void the gulp would pressurize, is a kill pending a local geotech stamp that says otherwise. No stamp, no footprint. |
 | K0-H Head band | Dry-season low and flood high in shaft-proxy wells. Estavelle behavior on the dyed path. | Publish the conduit-head envelope the gulp may not leave. Later drawdown-collapse risk is a failed siting. |
-| K0-W Floodwater quality | Sediment, microbes, nutrients, hydrocarbons if the catchment has them — at *high stage*, not a dry-season grab. Calcite saturation index SI and $p\mathrm{CO}_2$ on that sample. | Potable receiving path + untreated floodwater = dead site. $\mathrm{SI} < 0$: log as aggressive; do not raise $Q_{\max}$ on the hope that the throat will enlarge. $\mathrm{SI}$ is a watch item, not a capacity credit. |
+| K0-W Floodwater quality | Sediment, microbes, nutrients, hydrocarbons if the catchment has them — at *high stage*, not a dry-season grab. Calcite saturation index SI and $p\mathrm{CO}_2$ on that sample. Publish a **dirty-limb band** for takeoff turbidity (and hydrocarbons / conductance if the catchment warrants it). | Potable receiving path + untreated floodwater = dead site. $\mathrm{SI} < 0$: log as aggressive; do not raise $Q_{\max}$ on the hope that the throat will enlarge. $\mathrm{SI}$ is a watch item, not a capacity credit. Water outside the dirty-limb band is refused to the weir; it is not a gulp. |
 | K0-P Receiving-path class | Written class: non-potable conduit / already-classified waste path / potable / prohibited. Water-right and wellhead-protection review. UIC / injection status in that jurisdiction. | Potable or prohibited = no steel. This file is not the permit. |
 | K0-S Collapse-watch baseline | Survey nails / inclinometer / fiber in the ground *before* first water. Far-field control point. Estavelle staffs in before first water. | No baseline = no K1. |
 
-**Pass criterion (provisional).** A named throat, a named spring set, a *flood-relevant* trace, a bounded $Q_{\mathrm{spare}}$, a refused-hydrograph integral that fits a setback vault, cover that survives the $t/L$ screen or a stamped exception, a published head band, and a receiving-path class that is not potable or prohibited. Anything less is a study, not an article.
+**Pass criterion (provisional).** A named throat, a named spring set, a *flood-relevant* trace, a bounded $Q_{\mathrm{spare}}$, a refused-hydrograph integral that fits a setback vault, cover that survives the $t/L$ screen or a stamped exception, a published head band, a published dirty-limb band at the takeoff, and a receiving-path class that is not potable or prohibited. Anything less is a study, not an article.
 
 ---
 
@@ -310,6 +343,7 @@ Built only after K0 close-out, on a relief channel or secondary bank — not as 
 - Conduit head stays inside the K0 band. Estavelles on the dyed path do not blow as a geyser attributed to the gulp.
 - Forebay can be mucked without opening the throat to raw sediment.
 - Outer rack can be pulled and replaced without opening the throat. $\Delta h$ trip closes the gates in a pulled-tap test.
+- Dirty-limb trip closes Alert against a simulated out-of-band takeoff sample. Refused water leaves over the weir, not through a throat.
 - On a split header, a simulated dead throat isolates without feeding the sibling.
 
 Only after K1 does anyone discuss a second intake on the same traced system, a larger $V_{\mathrm{live}}$ kit, or a line of kits on separate traced throats.
@@ -343,7 +377,7 @@ A line of ten untraced pipes is not scale-out. It is a sinkhole machine. A vault
 5. Manifold and drop shaft. Prove stored-energy close on the bench, then in place. Prove per-throat isolation on a split header.
 6. Cased connection to rockhead. No gulp until the annulus is grouted and the throat is the K0 throat.
 7. Forebay access and muck path.
-8. Dry commissioning: power-pull, turbidity-trip simulation, head-band trip, estavelle-trip simulation, rack - $\Delta h$ trip, weir-running lockout of Survival, dead-throat isolation.
+8. Dry commissioning: power-pull, takeoff dirty-limb trip, spring turbidity-trip simulation, head-band trip, estavelle-trip simulation, rack $\Delta h$ trip, weir-running lockout of Survival, dead-throat isolation.
 9. First water is an Alert-only window with the dual-report packet armed.
 10. K1 flood window only after Alert behaves.
 
@@ -361,13 +395,30 @@ A builder who skips to step 6 from this narrative has not implemented Gulpgates.
 
 ---
 
+## Wear-part and O&M floors
+
+Orientation only. Stamped intervals are builder outputs.
+
+| Part | After every flood | Seasonal / annual | Recast / replace trigger |
+|------|-------------------|-------------------|--------------------------|
+| Outer rack | Pull, inspect, replace bent bars. Log debris class. | Ice-season lock if the rack will ice into a dam | Bent, missing, or $\Delta h$ taps dead |
+| Inner gulp screen | Inspect from the vault side | Same | Torn or permanently blinded |
+| Apron / drop lining | Visual wear after the event | Survey thickness on the K0 grid | Remaining sacrificial thickness below the stamped allowance |
+| $\Delta h$ taps and dirty-limb probes | Confirm they still trip | Calibrate to manufacturer or secondary-standard protocol before the flood season | Failed trip in a pulled-tap test |
+| Forebay | Muck before the next Alert window | — | Access blocked |
+| Gates / stored-energy close | Cycle after the event | Power-pull before the season | Close-time outside the stamped band |
+
+A site that cannot pull the outer rack without opening a throat has not implemented Layer 1.
+
+---
+
 ## Safety Envelopes
 
 - **Collapse.** Extra infiltration through cover is a hazard. Casing to rockhead and the K0 $t/L$ screen are part of the envelope.
 - **Backflood.** Estavelles and closed depressions on the dyed path are receptors. If they take the gulp as a geyser, K1 fails. The vault, not the cave, holds the refused pulse.
 - **Head.** Conduit-head band is a hard trip. The vault may be full. The rock may not be over-pressured.
 - **People.** No occupied shaft in flood mode. Intake deck lockout when river stage is inside the Survival window.
-- **Water quality.** Untreated floodwater into a potable karst is out of scope. Write the receiving-path class on the gate cabinet. $\mathrm{SI} < 0$ is a watch, not a capacity credit.
+- **Water quality.** Untreated floodwater into a potable karst is out of scope. Write the receiving-path class on the gate cabinet. $\mathrm{SI} < 0$ is a watch, not a capacity credit. Dirty-limb water at the takeoff is a hard trip, not a spring-only apology.
 - **Buoyancy and scour.** Empty vault hold-downs and the takeoff apron are flood structure, not landscaping.
 - **Debris (ordinary flood).** Sacrificial outer rack, inner gulp screen, $\Delta h$ trip, recastable apron and drop. Multi-leg jackets in the floodway are out of article. One blunt vault body, set back, landward of the migration belt.
 - **Debris (outburst / boulder front).** Out of scope. Himalayan ice–rock avalanche and debris-flood paths remain a different article or no article. Do not “up-armor” a Gulpgate and call it Rasuwa-proof.
@@ -401,7 +452,7 @@ Under [The Call to Code](THE_CALL_TO_CODE.md), the architecture layer stops here
 2. K0 raw trace (stage of injection), spare-capacity budget (both terms), refused-hydrograph integral and $V_{\mathrm{live}}$, cover $t/L$, chemistry including SI, head band, and the written receiving-path class plus permit status.
 3. Stamped geotech and structural calculations (builder-produced; not in the Accord repo). Vault buoyancy, apron scour and abrasion allowance, bank-migration belt, and vault-as-not-a-dam are in that stamp.
 4. As-built invert table, orifice plate list, vault-weir rating, per-throat isolation test, and outer-rack replacement procedure.
-5. Commissioning trip-log (power-pull, turbidity, settlement, head-band, estavelle, rack - $\Delta h$, weir-running Survival lockout, dead-throat isolation).
+5. Commissioning trip-log (power-pull, dirty-limb, spring turbidity, settlement, head-band, estavelle, rack $\Delta h$, weir-running Survival lockout, dead-throat isolation). Wear-part O&M sheet.
 6. Public dual-report extract under [*Empirical Demonstrations*](EMPIRICAL_DEMONSTRATIONS.md): peak taken *and* spring / cover / head / estavelle floors held *and* refused volume accounted on the surface.
 
 A builder who skips K0 and drills from this narrative alone has not implemented Gulpgates.
