@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 6th, 2026 (unpublished)*  
-*v1.1 - v1.2 — August 31st, 2026*  
+*v1.1 - v1.3 — August 31st, 2026*  
 
 ---
 
@@ -233,6 +233,11 @@ Ambient-mode energy is for house load, accumulators, and de-ice. It is not the e
 Use wind-turbine practice as the starting screen, then measure.
 
 - Night lockout for jets and ducted rotors unless the measured receptor $L_{\mathrm{eq}}$ stays inside the local ordinance. Treat valve chatter as a design load, not a surprise.
+- **Impulse and property-line lock (jets).** The first-article Coandă duty is a short pulse (5–15 s), not a drone. Low-frequency thump at the nearest dwelling or workplace is a siting parameter, not an after-the-fact complaint. Until a site ordinance says otherwise:
+  - Default the jet layer **off** when a dwelling, school, hospital, or night-work berth sits inside the planned acoustic contour.
+  - Log unweighted or C-weighted peak and 10-minute $L_{\mathrm{eq}}$ at the property line for every pulse train, not only A-weighted $L_{\mathrm{eq}}$.
+  - Cap first-article pulse trains at the placeholder event budget. A community veto on night or weekend pulses is a valid G3 fail; raise $\phi$ or drop sectors rather than argue the blast is “only circulation control.”
+  - If A0 shows the passive tip already meets the $5H$ / $15H$ pass criterion, do not commission jets at a semi-urban site just because the slots were built.
 - Ice-throw and mesh-fragment setback: plan as for a 100 m turbine of similar top diameter until a site-specific trajectory study exists. De-ice before a forecast icing event rather than throwing ice on purpose.
 - These are siting parameters for A1, not A0 tunnel products.
 
@@ -298,7 +303,7 @@ Shelter is an array property. Scale by counting sealed articles, the same way th
 | Pattern | Units | Intended product | Notes |
 |---------|-------|------------------|-------|
 | Point | 1 | Instrument + short wake; protect a pad or crane | First article. Do not sell city-scale shelter. |
-| Line | 3–12 | Leeward belt for a runway, tank farm, or town edge | Spacing $2H$ to $6H$ **pending A0**; stagger if yaw varies. |
+| Line | 3–12 | Leeward belt for a runway, tank farm, or town edge | Spacing $2H$ to $6H$ **pending A0**; stagger if yaw varies. Skewed inflow ($\pm 30^{\circ}$ to $\pm 40^{\circ}$) and downstream vortex lock-in are A0 outputs, not slide-deck assumptions. See Campaign A0, skewed-inflow screen. |
 | Staggered belt | 2–3 rows | Longer, more uniform lee | Porosity of the *belt* matters more than porosity of one tip. |
 | Perimeter | site-specific | Facility wrap | Leave upwind gaps so you do not create a solid-wall horseshoe vortex. |
 
@@ -416,6 +421,14 @@ $$
 $$
 
 Add $\pm 15^{\circ}$ and $\pm 25^{\circ}$ only if the $C_D$ curve is non-monotonic between the required points.
+
+**Skewed-inflow and lock-in screen (required).** The yaw set above is not a courtesy. Do not freeze line spacing, stagger, or working $\phi$ from the $\alpha = 0^{\circ}$ column alone.
+
+- Run the full $(\phi,\alpha,V)$ matrix. Treat $\pm 30^{\circ}$ and $\pm 40^{\circ}$ as first-class cells, not sensitivity footnotes.
+- For every yaw cell, log the unsteady base-moment spectrum and the tip / 60 m-ring acceleration if the model can carry those channels. Flag lock-in if a shedding peak sits on a structural mode or if the peak grows rather than wanders with $V$.
+- Two- and three-tower line models, when the tunnel can take them: at least $\alpha = 0^{\circ}$, $\pm 20^{\circ}$, and $\pm 40^{\circ}$ at working $\phi$. Record whether a downstream unit sits in a persistent vortex street from the upstream unit.
+- **Do not publish a $2H$ – $6H$ spacing as an A0 result** unless the skewed-inflow cells were run. On-axis lee maps are ranking tools. Off-axis cells decide whether a line is a belt or a set of isolated wakes.
+- Tensegrity upper-truss implication: if lock-in appears on the model, A1 must carry a tuned-mass or damping provision at the 60 m ring *or* the working $\phi$ must be opened until the peak drops. Do not “stiffen the sculpture” on paper.
 
 **Speed set.** At least three tunnel speeds spanning the scaled service and survival windows. One run per $(\phi,\alpha,V)$ cell.
 
@@ -568,6 +581,12 @@ These are orientation bands so a municipality or port can decide whether to fund
 | Coastal prototype (B1) | One pylon + marine spread + cable | Dominated by the marine campaign; do not reuse a land-crane leftover |
 | Short line / dual gate | Counted kits plus collection | Scales like a small wind plant electrically; civil/marine still dominates |
 
+**What actually moves the band.** UHPC masts, suction caissons, and marine spread are the familiar costs. The premiums that break a “low-double-digit million USD” reading of B1 are the *wet-face* choices: duplex or super-austenitic collar plate, superelastic NiTi carriers, and any non-canonical (“fractal”) perforation that cannot be punched or water-jetted as a repeating coupon.
+
+Those alloys and toolpaths are permitted. They are not required to *be* the article. The substitution grades in the bill of materials exist so a builder can keep $\phi$ and the scour rule while leaving NiTi and five-axis wet milling on the shore. Quote the wet-face package as its own line. Do not bury it inside the prototype band and then treat the band as a procurement number.
+
+A1 land articles do not inherit this premium. Do not use a B1 marine quote to scare off an onshore pad study, and do not use an A1 land quote to green-light a shelf pylon.
+
 Insurance credits are negotiated after a measured wake exists. Ambient duct energy is for house load, not a power-station pro forma.
 
 ---
@@ -623,6 +642,7 @@ At $C_{P,\mathrm{device}} = 0.40$, electrical order 6 kW before losses — house
 - Bird / bat: treat the tip as a structure with small-gap mesh; follow local wind-energy siting screens. Night lighting is navigation-minimum.
 - Shadow flicker and ice throw: same screens as a 100 m turbine tower until a site trajectory study exists.
 - Noise: ducted rotors and jets are intermittent; night lockout unless G3 clears the receptor.
+- Jet impulse: property-line peak and $L_{\mathrm{eq}}$ as specified under Acoustic planning parameters. Semi-urban default is jets locked out; porosity carries the article.
 - Coastal sediment: B0+ pass/fail, then a first-season survey. Porous is better than a wall; it is not invisible.
 - Public realm: the article is infrastructure. Publish the co-verified logs.
 - Exterior viability: an array that shelters one pad by starving a downwind community of wind or by closing a fishery is a failed siting, even if $C_D$ looks elegant. Use the local-global reading in the [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) model before a multi-unit permit.
