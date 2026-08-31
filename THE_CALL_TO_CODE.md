@@ -10,7 +10,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 — August 4th, 2026*<br>
 *v1.4 — August 12th, 2026*<br>
-*v1.5 — August 26th, 2026*
+*v1.5 — August 26th, 2026*<br>
+*v1.6 — August 31st, 2026*
 
 ---
 
@@ -82,6 +83,7 @@ Builders new to the repository may first consult the *[Layered Onboarding Guide]
 - Experimental modules exercising **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** standards.
 - Experimental dashboards that surface local efficiency, waste-reduction, or harmony differentials in ways that remain voluntary and non-coercive.
 - Hardware implementation example: **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** (companion to [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md)). The invitation is the Cookbook-side cassette — plate, gallery, TE bus, lattice rack, reconstitution cell, travelers, and GM-1/GM-H1 campaigns. Module A is a licensed kit, not an open-build target. Do not treat flux-in-lattice, salt-in-tree, or in-flight electrolyte fill as Call-to-Code work.
+- Hardware implementation example: *[Stormcrashers](STORMCRASHERS.md)* (Atmospheric Mitigation Architecture). The invitation is the two parent articles — the 100 m Windbreaker Tower and the Coastal Hydro-Fractal Pylon — plus Campaigns A0/B0 and the designer-to-builder transfer package. This is an open-build civil / marine article. The architecture layer stops at A0/B0; stamped calculations, permits, and measured wakes are builder work. Do not treat ATMA, MAMG, wildfire/ember, or Arctic ice-collar horizons as Call-to-Code work. Do not treat directed-energy, disintegration, or atmospheric-heating modes as Call-to-Code work.
 
 Full production systems are welcome. Small, well-documented reference implementations that test specific mechanisms — including failure under adversarial assumptions — are more valuable in the near term.
 
