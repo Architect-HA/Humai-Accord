@@ -658,6 +658,8 @@ At $C_{P,\mathrm{device}} = 0.40$, electrical order 6 kW before losses — house
 
 ATMA, MAMG, wildfire/ember, and Arctic ice-collar are horizon names on the scalability ladder, not articles of this file.
 
+[Gulpgates](GULPGATES.md) is the hydrologic sibling: same dissipate-don’t-dam and kit-count doctrines; different fluid and different failure mode (backflood, not coherent gust).
+
 ---
 
 ## License
