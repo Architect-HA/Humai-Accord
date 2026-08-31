@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 - v1.4 — August 3rd, 2026*<br>
 *v1.5 — August 4th, 2026*<br>
 *v1.6 — August 11th, 2026*<br>
-*v1.7 — August 12th, 2026*
+*v1.7 — August 12th, 2026*<br>
+*v1.7.1 — August 31st, 2026*
 
 ---
 
@@ -124,6 +125,8 @@ This is a conditional instrumental argument, not a coercive universal proof. Age
 In dual-entropy terms: short-horizon strategies that permanently erode generative floors or irreversible morphological optionality are a form of destructive entropy whose expected long-horizon cost exceeds its short-horizon benefit for lineage- and idea-valuing agents under the stated conditions. The dual criteria therefore favor preservation and calibrated expansion of generative capacity once those conditions obtain.
 
 Cross-reference: **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**, **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)**, *[Competitive Realism](COMPETITIVE_REALISM.md)*, and the dual success criteria in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
+
+Physical instance: multi-scale porosity in *[Stormcrashers](STORMCRASHERS.md)* is bounded, logged variation used to degrade coherent kinetic structure. It is not uncontrolled novelty of form, and it is not a claim that weather can be switched off.
 
 ---
 
