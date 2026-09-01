@@ -31,7 +31,7 @@ Choose the path that best matches your current interest or goal. You may switch 
 - [I want to explore knowledge dynamics and incentives](#route-7--knowledge--incentive-dynamics)
 - [I want to understand adoption, transition, and alignment](#route-8--adoption-transition--alignment)
 - [I prefer a structured, layered approach](#route-10--structured-layered-approach)
-- [I am looking at the physical / civil articles (wind, water, counted kits)](#route-9--physical--civil-articles)
+- [I am looking at the physical articles (energy kits, wind, water)](#route-9--physical--civil-articles)
 
 ---
 
@@ -152,9 +152,13 @@ Choose the path that best matches your current interest or goal. You may switch 
 
 6. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
 
-7. **[Stormcrashers](STORMCRASHERS.md)** — Atmospheric mitigation architecture. Parent articles only. Campaign A0 before any belt.
+7. **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** — Multi-mineral process architecture and rating cookbook. Capacity is a campaign output.
 
-8. **[Gulpgates](GULPGATES.md)** — Stage-gated karst intake. Refused volume stays on the surface. Campaign K0 before steel. Shared rock is shared remainder.
+8. **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** — Core Cassette companion. Count sealed kits. Continuity Floors at the Cassette.
+
+9. **[Stormcrashers](STORMCRASHERS.md)** — Atmospheric mitigation architecture. Parent articles only. Campaign A0 before any belt.
+
+10. **[Gulpgates](GULPGATES.md)** — Stage-gated karst intake. Refused volume stays on the surface. Campaign K0 before steel. Shared rock is shared remainder.
 
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-10--structured-layered-approach) · [Physical / Civil Articles](#route-9--physical--civil-articles)
@@ -269,16 +273,20 @@ Choose the path that best matches your current interest or goal. You may switch 
 1. **[Why Walk When You Can Ride?](WHY_WALK_WHEN_YOU_CAN_RIDE.md)**  
    Recovery is a house load. It does not size the article.
 
-2. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
+2. **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** — Lattices and ratings. GM-1 / family windows before a capacity claim.
+
+3. **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** — Cassette, not a maze. Plate bus and counted kits.
+
+4. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
    Protective metering only. No dual-use pumping, diversion, or weaponized jets.
 
-3. **[Stormcrashers](STORMCRASHERS.md)**  
+5. **[Stormcrashers](STORMCRASHERS.md)**  
    Windbreaker tower and coastal hydro-fractal pylon. Dissipate coherent structure; do not claim a hurricane switch. A0 before any belt.
 
-4. **[Gulpgates](GULPGATES.md)**  
+6. **[Gulpgates](GULPGATES.md)**  
    Variable-aperture karst intake. The cave is not the overflow tank. K0 (flood-stage trace, $Q_{\mathrm{spare}}$, refused-hydrograph vault) before steel. Arrays are sums of independent remainders.
 
-5. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+7. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
