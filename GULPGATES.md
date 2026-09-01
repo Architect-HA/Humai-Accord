@@ -3,7 +3,7 @@
 #### *A Variable-Aperture Flood Surplus Article for Traced Carbonate Conduits*
 
 by **Bradford James Focht** (The Architect / Aspenth)    
-*v1.0 – v1.2 — August 31st, 2026*
+*v1.0 – v1.3 — August 31st, 2026*
 
 ---
 
@@ -40,6 +40,7 @@ All bands below are provisional starting envelopes drawn from published karst en
 - Siting landward of the bank-migration belt the next ordinary flood will cut
 - Campaign K0 (trace, spare capacity, cover, chemistry, legal path) and Campaign K1 (one instrumented prototype)
 - Linear counting of intakes on *already-traced* throats
+- Array of independent kits on *separate* traced receptors; shared rock is shared remainder
 - Passive-closed default; powered open only inside a published stage window
 - Optional micro-recovery in the drop under [*Why Walk When You Can Ride?*](WHY_WALK_WHEN_YOU_CAN_RIDE.md)
 - Open-build civil and hydrogeologic article using commercially available gates, liners, vaults, and racks
@@ -58,6 +59,8 @@ All bands below are provisional starting envelopes drawn from published karst en
 - Weaponized diversion, aquifer contamination, or dewatering a neighbor’s spring on purpose
 - Ghost Glass, Multi-Emitter, or residual-flux work on the shaft
 - A bid, stamp, UIC / injection permit, or water-right issued from this file alone
+- A synchronized Survival grid, or many intakes booked against one $Q_{\mathrm{spare}}$
+- Sky jets, boil loops, paddy-covered modules, or pipe-network lakes used as $V_{\mathrm{live}}$
 
 An intake that cannot fail closed, that stores floodwater in the air on wet legs, that connects through soil cover instead of cased rockhead, or that treats the cave as the overflow tank, is not a Gulpgate article.
 
@@ -220,6 +223,8 @@ $$
 
 Stagger invert elevations so the small lines run first and the large line only sees head after they are already flowing. That is the eased gulp.
 
+**Optional Alert path — air-admit siphon.** One small Alert line may be a siphon with a vacuum break at a published deck elevation. It runs with no power and dies when air is admitted or the deck is drowned. It is not the Flood or Survival stack. It will not hold a throat open against a running weir.
+
 **Spare-capacity method (K0-Q, boxed).** $Q_{\mathrm{spare}}$ is a budget remainder, not a gauge nailed to the spring.
 
 $$
@@ -237,6 +242,8 @@ Estimate the two terms from the same flood-relevant window:
 
 If either term cannot be bounded, there is no first article. Do not substitute receiving-spring flood $Q$ for $Q_{\mathrm{spare}}$.
 
+**Phase window (K0-H polarity).** Level is not enough. Estavelles reverse. Alert and later stages open only while the receiving spring or estavelle is still *accepting* (falling or steady-out) in the same window the river is rising. If the receptor limb turns around, that *is* the backflood signal: Survival stays locked. If K0 shows the river crest and the receptor crest in phase, $Q_{\mathrm{spare}}$ for that window is treated as zero. Most intakes are “river high → open.” A Gulpgate is “river high *and* receptor still accepting.”
+
 **First-article $Q_{\max}$ placeholder.** Until K1 exists:
 
 $$
@@ -251,6 +258,7 @@ A jet into limestone is a cutting tool. Kill $H$ in the shaft:
 
 - Vortex drop, helical wall-cling, stepped cascade, or stilling basin before the rock throat. A spiral here is an energy-kill geometry, not a heater. Drop walls and the energy-kill floor carry the same abrasion allowance as the apron: a sacrificial lining or recastable thickness, not a hope that first-article steel lasts the life of the site.
 - Optional house-load turbine or recovered drop generator under [*Why Walk When You Can Ride?*](WHY_WALK_WHEN_YOU_CAN_RIDE.md). Duty: gates, instruments, trip batteries. Not a thermal evaporator. Friction $\Delta T \approx gH/c_p$ stays a loss term.
+- Optional weir-home runner, ram, or trompe may charge the fail-close store or a house battery. Duty is the closer and the instruments. The array and the solar park do not command a gate.
 - Forebay that a machine can muck after the flood. Design for the *flood* sediment load, not the pretty dry-season river.
 - If the forebay blinds, the gates close. Do not blow sediment into the conduit to “keep up.”
 
@@ -265,8 +273,19 @@ A jet into limestone is a cutting tool. Kill $H$ in the shaft:
 
 ### Layer 6 — Gate and fail-safe
 
-- Gravity-close or stored-energy close on loss of power.
-- Hard trips: takeoff water outside the K0 dirty-limb band; spring turbidity above the K0 band; cover settlement above the K0 band; shaft / conduit head outside the K0 band; estavelle stage rising on the dyed path faster than the dual-report can account for with intake $Q$; intake $Q$ approaching $Q_{\max}$; vault-weir running while Survival is asked to open; forebay blind; outer-rack $\Delta h$ outside the K0 band; on a split header, throat-B head or blind while vault still has level.
+- Gravity-close or stored-energy close on loss of power. **Prefer event-charged close:** the rising river or the weir-home charges a weight pocket, a hydraulic ram, or a trompe (falling-water air bottle) so the same limb that wanted in has already cocked the closer. Grid and diesel are backups, not the safety case. The event does not get a vote to keep the throat open.
+- Hard trips:
+  - takeoff water outside the K0 dirty-limb band
+  - spring turbidity above the K0 band
+  - cover settlement above the K0 band
+  - shaft / conduit head outside the K0 band
+  - estavelle stage rising on the dyed path faster than the dual-report can account for with intake $Q$
+  - intake $Q$ approaching $Q_{\max}$
+  - vault-weir running while Survival is asked to open
+  - forebay blind
+  - outer-rack $\Delta h$ outside the K0 band
+  - on a split header, throat-B head or blind while vault still has level
+  - receptor polarity reversed (estavelle or spring limb turning around while the river is still rising)
 - Construction / service mode: gates locked closed.
 - No cloud vote required for the trip.
 - Vault overflow is not a trip. It is the intended surplus path.
@@ -319,11 +338,24 @@ Purpose: decide whether a throat may be offered a gulp at all, and how large the
 | K0-R Refused hydrograph | $Q_{\mathrm{in}}(t)$ at the takeoff vs $Q_{\mathrm{gulp,cap}}(t)$. Integrate the positive remainder. | This integral *is* $V_{\mathrm{live}}/k$. No hydrograph, no vault size, no steel. Speculation without a gauged rising limb is not K0-R. |
 | K0-C Cover / rockhead | Thickness $t$, mapped void span $L$, void indications (gravity / ERT / borehole as the site allows). | Orientation screen (not a stamp): $t/L < 1$, or thin cover over a void the gulp would pressurize, is a kill pending a local geotech stamp that says otherwise. No stamp, no footprint. |
 | K0-H Head band | Dry-season low and flood high in shaft-proxy wells. Estavelle behavior on the dyed path. | Publish the conduit-head envelope the gulp may not leave. Later drawdown-collapse risk is a failed siting. |
+| K0-E Phase window | Simultaneous river-rising and receptor-falling (or steady-out) records on the dyed path. Estavelle polarity through at least one real rising limb. | In-phase crests in the design window $\Rightarrow$ $Q_{\mathrm{spare}} \approx 0$ for that window. No polarity record = study, not an article. |
 | K0-W Floodwater quality | Sediment, microbes, nutrients, hydrocarbons if the catchment has them — at *high stage*, not a dry-season grab. Calcite saturation index SI and $p\mathrm{CO}_2$ on that sample. Publish a **dirty-limb band** for takeoff turbidity (and hydrocarbons / conductance if the catchment warrants it). | Potable receiving path + untreated floodwater = dead site. $\mathrm{SI} < 0$: log as aggressive; do not raise $Q_{\max}$ on the hope that the throat will enlarge. $\mathrm{SI}$ is a watch item, not a capacity credit. Water outside the dirty-limb band is refused to the weir; it is not a gulp. |
 | K0-P Receiving-path class | Written class: non-potable conduit / already-classified waste path / potable / prohibited. Water-right and wellhead-protection review. UIC / injection status in that jurisdiction. | Potable or prohibited = no steel. This file is not the permit. |
 | K0-S Collapse-watch baseline | Survey nails / inclinometer / fiber in the ground *before* first water. Far-field control point. Estavelle staffs in before first water. | No baseline = no K1. |
 
-**Pass criterion (provisional).** A named throat, a named spring set, a *flood-relevant* trace, a bounded $Q_{\mathrm{spare}}$, a refused-hydrograph integral that fits a setback vault, cover that survives the $t/L$ screen or a stamped exception, a published head band, a published dirty-limb band at the takeoff, and a receiving-path class that is not potable or prohibited. Anything less is a study, not an article.
+**Pass criterion (provisional).** 
+- A named throat
+- a named spring set
+- a *flood-relevant* trace
+- a bounded $Q_{\mathrm{spare}}$
+- a refused-hydrograph integral that fits a setback vault
+- cover that survives the $t/L$ screen or a stamped exception
+- a published head band
+- a published dirty-limb band at the takeoff
+- a published phase window (K0-E)
+- and a receiving-path class that is not potable or prohibited.
+
+Anything less is a study, not an article.
 
 ---
 
@@ -352,7 +384,7 @@ Only after K1 does anyone discuss a second intake on the same traced system, a l
 
 ## Array Doctrine and Scalability
 
-Peak shaving is an array property only after each throat is known. Overflow management is a *vault* property sized from K0-R.
+Peak shaving is an array property only after each throat is known. Overflow management is a *vault* property sized from K0-R. A large event is handled as a **sum of independent remainders**, not as a bigger gulp.
 
 | Pattern | Units | Intended product | Notes |
 |---------|-------|------------------|-------|
@@ -360,11 +392,17 @@ Peak shaving is an array property only after each throat is known. Overflow mana
 | Vault scale | 1 throat, larger $V_{\mathrm{live}}$ | Same gulp cap, more refused-pulse home | Legal scale-out of overflow. Not a license to raise $Q_{\max}$. |
 | Header split | 1 vault, 2 throats | Shared takeoff, separate traced throats | Each throat isolable. Dead throat $\Rightarrow$ weir, not sibling. Only if K0 shows the throats do not fight. |
 | Parallel kits | 2–4 | Shared river, separate traced throats | Separate vaults or a sized header. Still fail-closed per kit. |
-| Staged campus | site-specific | Alert / flood / survival split across kits | Weir home on every vault. |
+| River array | many | Staggered refusal along a stem | Many K0s, many receptors. The belt is the river-plus-weirs. The cave is never the belt. |
 
-Do not space intakes like Stormcrasher towers. Spacing is a hydrogeologic output: throat identity and spring interference, not a $2H$ rule.
+**Shared rock is shared remainder.** Ten intakes booked against one $Q_{\mathrm{spare}}$ are one intake with nine lies. If two sites can dye to the same spring set, they split one budget in writing before either manifold is cut.
 
-A line of ten untraced pipes is not scale-out. It is a sinkhole machine. A vault that has become a dam is not scale-out. It is a different article.
+**Do not synchronize Survival.** A grid that opens every last stage at once is how you write a new flood underground. In a large event the array’s job is staggered refusal: most of the crest never left the channel. The gulps are peak-shave. The weirs are the mitigation.
+
+**What “disaster-scale” is allowed to mean.** Useful is shaving dangerous hours on tributaries and upper mainstems where K0 is real, so a downstream peak arrives lower and later. Not useful is promising to park a basin-scale flood in rock. If a region has $N$ documented spare budgets, the array cap is $\sum Q_{\max,i}$ — disaster-relevant on a tributary, often invisible on a continental stem. Publish that sum. Do not invent the stem.
+
+Do not space intakes like Stormcrasher towers. Spacing is a hydrogeologic output: throat identity, phase window, and spring interference — not a $2H$ rule.
+
+A line of ten untraced pipes is not scale-out. It is a sinkhole machine. A vault that has become a dam is not scale-out. It is a different article. A synchronized Survival grid is not scale-out. It is the failure mode with more gates.
 
 ---
 
@@ -503,7 +541,8 @@ That is a setback box, not a tower and not a basin dam. If K0-R returns tens of 
 **Gulpgates** is the family name.  
 **Stage-Gated Karst Intake Architecture** is the serious handle if the family name is too loud for a given page.  
 **Gulpgate Intake** is the parent article.  
-**Header vault** is the connecting horizontal control volume and the refused-volume home. It is not a water tower.
+**Header vault** is the connecting horizontal control volume and the refused-volume home. It is not a water tower.<br>
+**Scale-out** is counting independent K0 remainders along a river, not stacking Survival on one throat.
 
 Stormcrashers remains the air / nearshore-wave sibling. ATMA, MAMG, wildfire/ember, and Arctic ice-collar stay on the Stormcrashers horizon list.
 
