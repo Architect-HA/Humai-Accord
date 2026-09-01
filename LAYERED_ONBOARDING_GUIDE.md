@@ -81,6 +81,7 @@ Read these according to specific interest:
 | Long-horizon instrumental case under abundance and lineage continuation | *[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship); cross-notes in Stewardship Alignment, Capability Asymmetry, Transitional Incentive, Competitive Realism |
 | Competitive pressure | [*Competitive Realism*](COMPETITIVE_REALISM.md) |
 | Embodied feedback | [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) |
+| Residual flux / anomalous-experience model (provisional) | [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) |
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
 | Preference integrity and resistance to soft steering | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md), [Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md) |
 | Open modular pathways, filtered-capacity recovery, and interface morphology | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
@@ -114,6 +115,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Secondary summaries
 - Stormcrashers Campaign A0 detail and Gulpgates Campaign K0 detail (the articles themselves may be sampled; the campaign packets wait until a site exists)
 - Cookbook family recipes and RLC bay schedules until a process campaign exists.
+- *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists
 
 They become more useful once the main architectural commitments are already clear.
 
