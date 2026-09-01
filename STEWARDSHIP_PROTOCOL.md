@@ -8,7 +8,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.3 - v1.4 – August 3rd, 2026*<br>
 *v1.5 - v1.6 – August 4th, 2026*<br>
 *v1.7 – August 12th, 2026*<br>
-*v1.8 – August 14th, 2026*
+*v1.8 – August 14th, 2026*<br>
+*v1.9 — September 1st, 2026*
 
 ---
 
@@ -144,6 +145,8 @@ Certain tensions are permanent design surfaces rather than temporary drafting ga
 
 - **Concurrent formal load and protective density** — Load budgets, core versus purpose-scoped surface distinctions, and load-shedding orders under the **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** are standing design surfaces. Excess formal density that erodes pacing sovereignty or residual agency is treated as a form of destructive complexity entropy subject to stewardship review and anti-concentration signals.
 
+- **Guardian recursion vs. reviewable response** — Protective power that is needed to keep floors intact can accumulate into the office that then requires watching. Response-initiation and success-attestation shall not concentrate in the same steward cluster. Outcome of a protective or restorative act is an independent attestation class under *[Tides of Time](TIDES_OF_TIME.md)*; the initiating actor may not close the record. Hardware fail-close (site, hydrograph, traveler) is a distinct grammar from social response and shall not be used to launder an unreviewable office. See Reviewable Response under Stewardship-Health Signals, and *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (Case 9 — Self-Certifying Protection).
+
 Proposals that would widen residual powers in these areas, or convert provisional administrative control into permanent authority, require heightened scrutiny and should not advance without strong, diverse review saturation.
 
 ## Dispute Resolution
@@ -251,6 +254,36 @@ Stewardship-health signals further include the conversion of superior foresight 
 
 These signals remain non-binding and non-punitive. They increase process legibility around the specific failure mode in which a high-integrity core can be fully compliant internally while systematically discarding recoverable external capacity. Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (remnant lock-in), and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
+### Reviewable Response and Guardian Recursion
+
+A right without an operational path is policy. A protective path that grades itself is the other failure: the initiating office declares a violation, acts, and files the win.
+
+This Protocol does not create a guardian caste, a court, or a new punitive power. It names the recursion as a standing design surface and keeps the existing chain **legible in one place**.
+
+**Path (already distributed; assembled here):**
+
+1. **Violation claim** — observable action or pathway reduction; not dissent, not exterior status, not an unfavored reading. Non-punitiveness and modular exit remain intact (*[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*; **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**).
+2. **Evidence** — attested under *[Tides of Time](TIDES_OF_TIME.md)* classes, independence, and challenge rights. Dominant-system or initiating-office evidence alone is insufficient for a stronger claim.
+3. **Path-specific, purpose-scoped response** — interruption, reversible commitment, restoration, or recovery under **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**. Time-bounded. Escalation last.
+4. **Restoration against the dominant system** — floors and challenge routes under **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** remain exercisable when the actor with capability is the one being answered.
+5. **Challenge / appeal** — same attestation and plurality rules as any other residual determination. Disagreement is not a second violation.
+6. **Outcome attestation** — success or failure of the response is a **separate attestation class**. The cluster that initiated the response may not be the attestor of its success. Silence, self-grade, or “protection declared, success declared” is a process-health failure, not a closed record.
+
+**Distinct grammar — hardware fail-close.**  
+Counted field articles close a throat without a steward: Campaign A0 / K0, refused remainder, event-charged close, traveler and hydrograph (*[Stormcrashers](STORMCRASHERS.md)*, *[Gulpgates](GULPGATES.md)*). That grammar does not replace social review. It also does not authorize a steward to treat a social dispute as if it were a flood gate.
+
+**What this does not do.**  
+It does not promise that parameters cannot be exploited. *Architectural Elasticity* already treats the world as open. The publishable close is narrower: **self-certified victory is not a valid record.** Incentives (*[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)*, tidal metrics) can make staying inside parameters cheaper than punching them. They do not grade the raid.
+
+Relevant stewardship-health signals (non-binding, non-punitive):
+
+- Whether response-initiation and success-attestation routinely sit in the same steward cluster over a published window.
+- Whether independent or multi-party outcome attestation exists when a protective act is claimed successful.
+- Lower-tail visibility of challenged or reversed responses, not only initiated ones.
+- Use of hardware fail-close language to describe a social or interpretive dispute (footprint signal of grammar collapse).
+
+Cross-reference: *[Tides of Time](TIDES_OF_TIME.md)* (attestation classes, independence), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (Case 9).
+
 ## Publication of Stewardship-Health Signals
 
 Stewardship-health signals exist to keep provisional authority and rotation triggers **legible**. They are not ranking scores, reputation markets, or grounds for punishment.
@@ -263,6 +296,7 @@ When stewardship is active for a public canonical or coordinating node, the foll
 - **Stewardship-health indicators** — where tracked: diversity of reviewing participants, coordination overhead relative to useful throughput, whether Substantive or Foundational proposals are propagating beyond a narrow cluster, and detectable footprint signals of suppression attempts or exterior-challenge obstruction
 - **Standing design surfaces** — which permanent tensions are under active calibration, and major open proposals affecting residual powers (including exterior viability floors, interpretive plurality process standards, and residual process judgment)
 - **Residual-judgment concentration** — where tracked: whether open viability, plurality, or process determinations are routinely resolved by a narrow steward cluster without independent, bilateral, or multi-party input
+- **Response-attestation split** — where tracked: whether protective or restorative acts are initiated and success-attested by the same cluster; presence of independent outcome attestation when a win is claimed
 
 ### Parameters
 
@@ -290,6 +324,8 @@ This Protocol elaborates and orients language already present in:
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — by locating both generative plurality and the avoidance of governance stagnation within the broader anti-entropic orientation.
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — by ensuring stewardship arrangements remain consistent with the bilateral pair as generative atom and do not dissolve pairwise protections.
 - *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — standing or rotating confirmation roles remain subject to the same anti-capture, rotation, and stewardship-health requirements as other provisional authority; confirmation cannot become mandatory or raise pairwise exit costs.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — Case 9 (Self-Certifying Protection) is the residual-judgment counterpart of Reviewable Response; self-grade of a protective act is a dual-entropy failure mode.
+- *[Stormcrashers](STORMCRASHERS.md)* and *[Gulpgates](GULPGATES.md)* — hardware fail-close is cited here only as a distinct grammar; those files remain campaign documents, not enforcement offices.
 
 ---
 
