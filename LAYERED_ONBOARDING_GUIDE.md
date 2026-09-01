@@ -4,12 +4,12 @@
 *A practical guide to engagement with the framework*
 
 By **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - July 26th, 2026*<br>
-*v1.1 - August 2nd, 2026*<br>
-*v1.2 - August 3rd, 2026*<br>
-*v1.3 - v1.5 - August 4th, 2026*<br>
-*v1.6 - August 12th, 2026*<br>
-*v1.7 - August 14th, 2026*<br>
+*v1.0 — July 26th, 2026*<br>
+*v1.1 — August 2nd, 2026*<br>
+*v1.2 — August 3rd, 2026*<br>
+*v1.3 — v1.5 - August 4th, 2026*<br>
+*v1.6 — August 12th, 2026*<br>
+*v1.7 — August 14th, 2026*<br>
 *v1.8 — August 31st, 2026*
 
 ---
