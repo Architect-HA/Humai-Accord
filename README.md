@@ -699,6 +699,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 ## Recent Updates
 
+**[September 1st, 2026]**
+- Updated [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) to v1.9 and [Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md) to v1.9.3 — Reviewable Response / guardian recursion named as a standing surface; Case 9 (Self-Certifying Protection). Outcome of a protective act cannot be self-attested. Hardware fail-close remains a distinct grammar. Thanks to @AssembleUtopia for flagging the enforcement / self-certifying-protection gap.
+
 **[August 31st, 2026]**
 - Added **[Stormcrashers](STORMCRASHERS.md)** (*Atmospheric Mitigation Architecture*) — parent articles only (100 m Windbreaker Tower + Coastal Hydro-Fractal Pylon). Architecture and campaign document; A0/B0 required before any belt, bay gate, or later-family article (ATMA, MAMG, wildfire/ember, Arctic ice-collar). Added corresponding Table of Contents entry and document section immediately after the Regenerative Lattice Core.
 - Added **[Gulpgates](GULPGATES.md)** (*Stage-Gated Karst Intake Architecture*) — variable-aperture, fail-closed karst intake; refused volume stays on the surface. Architecture and campaign document; K0 (flood-stage trace, spare-capacity budget, refused-hydrograph vault size) required before steel. v1.2 adds Related practice, dirty-limb refusal at the takeoff, stack figure, and wear-part O&M floors. Outburst / debris-flood paths remain out of scope. Added corresponding Table of Contents entry and document section.
