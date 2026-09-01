@@ -98,6 +98,8 @@ Read these according to specific interest:
 | Implementation | [Implementation Guide](IMPLEMENTATION_GUIDE.md), [Implementation Examples](IMPLEMENTATION_EXAMPLES.md) |
 | Atmospheric / nearshore kinetic dissipation | [Stormcrashers](STORMCRASHERS.md) |
 | Stage-gated karst intake (refused volume on the surface) | [Gulpgates](GULPGATES.md) |
+| Hypervariant lattice process / rating cookbook | [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) |
+| Core Cassette / counted energy kits | [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
 
 ---
@@ -111,6 +113,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Full implementation examples
 - Secondary summaries
 - Stormcrashers Campaign A0 detail and Gulpgates Campaign K0 detail (the articles themselves may be sampled; the campaign packets wait until a site exists)
+- Cookbook family recipes and RLC bay schedules until a process campaign exists.
 
 They become more useful once the main architectural commitments are already clear.
 
@@ -134,7 +137,7 @@ Predictive Harmony Metrics → Somatic Resonance Theory → Declaration of Cogni
 Implementation Guide → Implementation Examples → relevant Protocols above → Entropy Audit Methodology
 
 **“I want the physical / civil articles”**  
-[Why Walk When You Can Ride?](WHY_WALK_WHEN_YOU_CAN_RIDE.md) → [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) → [Stormcrashers](STORMCRASHERS.md) → [Gulpgates](GULPGATES.md) → [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)
+[Why Walk When You Can Ride?](WHY_WALK_WHEN_YOU_CAN_RIDE.md) → [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) → [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) → [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) → [Stormcrashers](STORMCRASHERS.md) → [Gulpgates](GULPGATES.md) → [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)
 
 **“I want to understand how generative capacity is lost through ordinary selection and structure-building”**  
 *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case) → [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10) → [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md) + [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) → [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) (signal-monoculture regime) → [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) → *[Necessary Entropy](NECESSARY_ENTROPY.md)*
@@ -159,6 +162,7 @@ If your goal is to move from architecture into concrete testing and demonstratio
 3. Proceed to the **Simulation Models** ([Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*, [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md)). The Exterior Viability simulation now includes a signal-monoculture / concentrated-feed adversarial regime that should be treated as required countermodel work.
 4. When building interface, recovery, or assessment modules, consult the open-pathway and filtered-capacity language in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 5. Field articles are optional and late. If the work is wind or nearshore water, read **[Stormcrashers](STORMCRASHERS.md)** and treat Campaign A0 as required before any belt. If the work is a traced carbonate surplus intake, read **[Gulpgates](GULPGATES.md)** and treat Campaign K0 as required before steel. Neither file is a stamp, a bid, or a disaster switch.
+6. Energy-kit work reads [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) and [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) first. Capacity ratings stay Cookbook business. Count sealed kits. Module A remains licensed, not open-build.
 
 This path is designed for builders, researchers, and anyone who wants to begin producing legible empirical results under the dual requirement of reducing destructive entropy while protecting generative capacity — including the newly explicit requirements around open modular pathways, lower-tail visibility, and template revisability.
 
