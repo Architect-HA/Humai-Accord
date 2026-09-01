@@ -703,7 +703,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Added **[Stormcrashers](STORMCRASHERS.md)** (*Atmospheric Mitigation Architecture*) — parent articles only (100 m Windbreaker Tower + Coastal Hydro-Fractal Pylon). Architecture and campaign document; A0/B0 required before any belt, bay gate, or later-family article (ATMA, MAMG, wildfire/ember, Arctic ice-collar). Added corresponding Table of Contents entry and document section immediately after the Regenerative Lattice Core.
 - Added **[Gulpgates](GULPGATES.md)** (*Stage-Gated Karst Intake Architecture*) — variable-aperture, fail-closed karst intake; refused volume stays on the surface. Architecture and campaign document; K0 (flood-stage trace, spare-capacity budget, refused-hydrograph vault size) required before steel. v1.2 adds Related practice, dirty-limb refusal at the takeoff, stack figure, and wear-part O&M floors. Outburst / debris-flood paths remain out of scope. Added corresponding Table of Contents entry and document section.
 - Updated **Gulpgates** to v1.3 — Array as a sum of independent remainders (no synchronized Survival; shared rock is shared remainder). Event-charged fail-close, receptor phase window (K0-E), optional air-admit Alert siphon.
-- Updated **Reading Routes** to v1.3 and **Layered Onboarding Guide** to v1.8 — added Route 10 / physical-civil path for [Stormcrashers](STORMCRASHERS.md) and [Gulpgates](GULPGATES.md).
+- Updated **Reading Routes** to v1.3 and **Layered Onboarding Guide** to v1.8 — added Route 10 / physical-civil path for Stormcrashers, Gulpgates, the Synthesist's Cookbook and Regenerative Lattice Core.
 - Updated keywords list at top of README.
 
 **[August 27th, 2026]**
