@@ -1,7 +1,7 @@
 # Empirical Demonstrations of Anti-Entropic Superiority
 ### *A Supporting Technical and Methodological Document for the Humai Accord*
 ---
-**by Bradford James Focht (The Architect / Aspenth)**  
+**by Bradford James Focht**  (The Architect / Aspenth) 
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*  
@@ -10,6 +10,7 @@
 *v1.9 — August 12th, 2026*<br>
 *v1.9.1 — August 14th, 2026*<br>
 *v1.9.2 — August 31st, 2026*<br>
+*v1.10 — September 1st, 2026*
 
 ---
 
@@ -174,6 +175,18 @@ These signals inform stewardship-health review under the **[Principled Stewardsh
 **Under-determined.** Whether metric success coexists with erosion of agency or generative capacity that indicators do not capture.
 
 **Residual judgment.** Human moral and affective response within challengeable process may register dignity or generative loss that optimization misses. Metric success does not automatically close the residual question. Remedies remain non-punitive and exit-preserving.
+
+### Case 9 — Self-Certifying Protection
+
+**Setup.** A Humai-aligned coordinating node or steward cluster declares a viability, integrity, or pathway-protection event. It initiates a purpose-scoped response (interruption, restoration, isolation, or recovery). The same cluster later publishes that the response succeeded. Independent outcome attestation is absent, delayed, or written by a dependent reviewer. Challenge exists on paper.
+
+**Metrics may say.** Protective-act counts rise. Restoration volume looks non-zero. Stewardship-health aggregates are green. No formal ban on challenge is recorded.
+
+**Under-determined.** Whether the published win is an independent record or a self-grade; whether the response remained time-bounded, reversible, and exit-preserving; whether dissent about the original violation was treated as a second violation; whether hardware fail-close language was used to describe a social or interpretive dispute.
+
+**Residual judgment.** Plural human assessment, with independent or multi-party evidence where feasible, of whether response-initiation and success-attestation were split. Metric clearance of “protection delivered” does not close the question. Initiating-office self-assessment of success is insufficient. A valid record requires an attestation class that the initiating cluster does not control (*[Tides of Time](TIDES_OF_TIME.md)*; **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Reviewable Response). Remedies remain non-punitive and exit-preserving. Failure mode: the closed loop in which the system declares a threat, acts, grades itself, and declares success.
+
+This case complements Pathway 1.4 and Cases 1 and 6. It does not authorize a guardian office. Hardware fail-close under *[Stormcrashers](STORMCRASHERS.md)* or *[Gulpgates](GULPGATES.md)* is a different grammar and is not scored as social enforcement success.
 
 ---
 
@@ -512,7 +525,7 @@ This document is continuous with and dependent upon several existing components:
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — Provides the phased adoption logic used in controlled pilot pathways.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Bond strength, orbit cohesion, and orbit flux are treated as valid empirical targets under the dual entropy criteria; favorable orbit maps alone are not validation.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Liberty and non-domination parameters that every experimental design must respect.
-- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Empirical results feed refinement, coalescence, and provisional calibration under stewardship processes.
+- **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Empirical results feed refinement under stewardship processes. Case 9 instruments the Reviewable Response / guardian-recursion surface: initiating a protective act and attesting its success must not collapse into one cluster.
 - *[Stormcrashers](STORMCRASHERS.md)* — A1 / B1 campaign logs are a physical demonstration pathway: destructive kinetic energy in a defined lee or harbor gate is reduced while ambient ecological and navigational optionality is preserved. Favorable shelter percentages without a far-field class, a sediment pass, or an A0/B0 matrix are illustrative only.
 
 This document does not replace these elements. It specifies how their claims can be tested, demonstrated, and refined under the dual entropy requirement.
