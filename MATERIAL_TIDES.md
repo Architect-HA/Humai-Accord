@@ -2,8 +2,8 @@
 ### *Material Degradation and Under-Utilization as a Dynamic Incentive Mechanism*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - July 29th, 2026*<br>
-*v1.1 - August 3rd, 2026*<br>
+*v1.0 — July 29th, 2026*<br>
+*v1.1 — August 3rd, 2026*<br>
 *v1.2 — September 14th, 2026*
 
 ---
