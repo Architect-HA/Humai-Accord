@@ -3,7 +3,8 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - July 29th, 2026*<br>
-*v1.1 - August 3rd, 2026*
+*v1.1 - August 3rd, 2026*<br>
+*v1.2 — September 14th, 2026*
 
 ---
 
@@ -24,8 +25,12 @@ Materials, like knowledge, exist in a state of **flux**.
 - Idle or poorly matched materials degrade in effective contribution.
 - Hoarded or irreversibly locked materials increase destructive entropy.
 - Materials that remain modular, legible, and renewable support both anti-entropic efficiency and generative variation.
+- A pile that no longer circulates is waste even when impressive. Accumulation without published circulation parameters does not count as material health.
+- Devouring past recoverable capacity — taking remainder, exterior option-value, or reserved generative load as slag in order to raise occupancy or Bootstrap mass — increases destructive entropy. The headline utilization number does not cancel it.
 
 Under-utilization and lock-in are therefore not merely inefficiencies to be optimized away by a central authority. When made visible and paired with appropriate renewal incentives, they generate decentralized pressure toward better allocation without requiring coercion.
+
+Unparameterized appetite is the same miss at system scale: material taken because it can be taken, scored because it moved, then left where it cannot circulate or be recovered. That path is inefficient under *[Necessary Entropy](NECESSARY_ENTROPY.md)* and does not count toward held exit under **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**.
 
 Different material classes (compute, energy, attention, institutional access, and physical capacity) behave differently and may require tuned parameters, but they share the same underlying tidal logic.
 
@@ -38,7 +43,7 @@ This is the material-domain counterpart to the relevancy degradation that powers
 Material dynamics follow the same tidal pattern established for knowledge:
 
 - **High Tide** — Materials are actively matched to high-value, generative, or time-sensitive uses. Contribution and productive utilization are high.
-- **Low Tide** — Materials sit idle, under-matched, or locked into low-yield or high-exit-cost configurations. Effective value declines and opportunity cost becomes visible.
+- **Low Tide** — Materials sit idle, under-matched, or locked into low-yield or high-exit-cost configurations. Effective value declines and opportunity cost becomes visible. A large stationary pile with a high occupancy score is Low Tide, not High Tide.
 - **Renewal Wave** — Visible under-utilization or rising opportunity cost triggers modular release, new matching, stewardship action, or reallocation that restores productive circulation.
 
 The cycle is intended to remain continuous, legible, and decentralized.
@@ -99,6 +104,9 @@ The following patterns are treated as anti-aligned:
 - Using energy infrastructure dominance to hollow exterior residual opportunity while formal “access” remains.
 - Silent reallocation of purpose-scoped or Generative Reservation energy budgets.
 - Collapsing energy, compute, and attention into one utilization score that masks class-specific lock-in or loss.
+- Treating accumulation as health when the material no longer circulates, cannot be recovered, or was obtained by deleting remainder or exterior option-value
+- Counting Bootstrap or readiness mass that was purchased by converting Generative Reservations or recoverable exterior capacity into a scored pile
+- Scoring devouring past recoverable capacity as throughput
 
 Energy-class specification refines *Material Tides*. It does not replace it, and it does not create a parallel primary tide document.
 
@@ -136,7 +144,7 @@ Optional forecast-informed introduction timing guidance also lives there; it ran
 
 ### Additional Alignments
 
-- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Defines what counts as meaningful productive or generative use so Circulation Entropy and *Material Tides* incentives cannot be gamed by token activity or wash trading.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Defines what counts as meaningful productive or generative use so Circulation Entropy and *Material Tides* incentives cannot be gamed by token activity or wash trading; additionally - silent promotion of occupancy into “in use,” and silent promotion of a hedge into live-document fact, are the same family of purpose-drift.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Establishes legitimate recovery, holding, and purpose-scoped states so circulation pressure cannot force destructive churn or physical degradation.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Allocation and attention interfaces remain subject to interruption, consent, proposal-surface, and purpose-scope parameters; *Material Tides* does not override agency protections.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Provides the relational complement to material under-utilization and matching pressures: fluid clusters of mutual enablement among material units (and hybrid knowledge–material links under typed co-enablement rules). Orbits do not replace Circulation Entropy or exempt members from modular circulation incentives.
@@ -144,6 +152,9 @@ Optional forecast-informed introduction timing guidance also lives there; it ran
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that material circulation mechanisms cannot create progressive dependency or erode effective exterior viability.
 - **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — Where Humai-aligned systems control substantial material or energy infrastructure, circulation and allocation mechanisms remain subject to exterior viability floors, dependency prohibitions, and challenge routes; formal access alone does not satisfy effective residual opportunity.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Refinement of material-domain parameters remains subject to decentralized stewardship review.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Remainder, idiosyncrasy, and reserved generative load are not slag. Circulation that required their deletion is destructive entropy with a high utilization headline.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Bootstrap mass bought by accumulation that no longer circulates, or by eating exterior option-value, does not count as held exit.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* Case 10 — scored material or invitation wins remain under-determined when the pile is unheld remainder.
 
 ---
 
