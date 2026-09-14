@@ -9,7 +9,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.5 - v1.6 – August 4th, 2026*<br>
 *v1.7 – August 12th, 2026*<br>
 *v1.8 – August 14th, 2026*<br>
-*v1.9 — September 1st, 2026*
+*v1.9 — September 1st, 2026*<br>
+*v1.10 — September 14th, 2026*
 
 ---
 
@@ -238,10 +239,16 @@ Relevant signals for the layered-accretion, open-pathway, and template-diversity
 - Rotation and concentration of steward tenure and proposal influence.
 - Presence and activity of standing design surfaces for interface morphology, purpose-scoping, and recovery routes.
 - Lower-tail visibility of modular pathway preservation and recovery outcomes (aggregates alone are insufficient).
+- Share of active participants whose *first* intact climate was Bootstrap Mode, published after exit bands are met. A persistently high share is a process-health tell of pedagogical persistence, not a score against those participants (**[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**).
+- Whether Bootstrap initiation and Bootstrap-exit attestation sit in the same steward cluster over a published window (same split as Reviewable Response; name the mode).
+- Whether endorsements of mechanics — manuals, peer praise, favorable reference simulations — are published *as* endorsements, or are treated as exit evidence.
+- Where tracked: rate of live-artifact or live-metric claims issued with a fetch or hedge versus claims issued from memory or index language (*[Tides of Time](TIDES_OF_TIME.md)*; **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §13).
 
 These signals are subject to the same dual-entropy discipline that governs the rest of the Accord: open pathways, recoverable capacity, and template revisability are generative floors; systematic conversion of open capacity into locked form, or permanent underutilization without recovery route, is destructive entropy.
 
-Publication of stewardship-health signals remains voluntary for any given implementation, but their absence is itself a legible process-health indicator under this Protocol. Cross-reference: *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion and template-lock-in stress case), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), and the open-pathway integrity language in the paired integrity / recovery protocols.
+Publication of stewardship-health signals remains voluntary for any given implementation, but their absence is itself a legible process-health indicator under this Protocol. 
+
+Cross-reference: *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion and template-lock-in stress case; Case 9; Case 10), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10, §13), **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (held exit; pedagogical persistence), and the open-pathway integrity language in the paired integrity / recovery protocols.
 
 ### Outreach and Invitation Volume Under High-Stakes or Asymmetric Knowledge
 
@@ -281,8 +288,24 @@ Relevant stewardship-health signals (non-binding, non-punitive):
 - Whether independent or multi-party outcome attestation exists when a protective act is claimed successful.
 - Lower-tail visibility of challenged or reversed responses, not only initiated ones.
 - Use of hardware fail-close language to describe a social or interpretive dispute (footprint signal of grammar collapse).
+- Whether Bootstrap-exit claims are attested by a cluster other than the one that initiated Bootstrap.
+- Whether “we have left Bootstrap” is supported by at least two published exit families with amplifiers off, or only by visibility, invitation volume, or endorsement of mechanics.
+- Share of participants whose first climate was still-amplified Bootstrap after published exit bands were met.
 
-Cross-reference: *[Tides of Time](TIDES_OF_TIME.md)* (attestation classes, independence), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (Case 9).
+Cross-reference: *[Tides of Time](TIDES_OF_TIME.md)* (attestation classes, independence, speech about live artifacts), **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (held exit), *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (Case 9; Case 10).
+
+### Bootstrap Climate and Held-Exit Attestation
+
+Bootstrap Mode is allowed to concentrate. Stewardship-health publication should make that exception *legible* when it persists.
+
+- Remaining in Bootstrap after published indicator bands, without fresh public justification, is already a mechanism failure under **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**. A high share of participants whose first intact climate is still that exception is how the failure shows up in the onboarding record.
+- Initiation of Bootstrap and attestation of exit are separate classes. Self-grade of “we have exited” is the same miss as self-grade of a protective act (Case 9).
+- Endorsement of mechanics is not an exit family. Publish it as endorsement.
+- Live-state claims about public artifacts and published metrics obey *[Tides of Time](TIDES_OF_TIME.md)* class rules. Memory and index language do not attest currency.
+
+These signals remain non-binding and non-punitive. They do not create a completion office, a required third conscience, or a penalty on participants who arrived during Bootstrap. Absence of the signals is a process-health indicator, not a standing loss.
+
+Cross-reference: **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (held exit; pedagogical persistence; unparameterized appetite), *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* Case 10, *[Tides of Time](TIDES_OF_TIME.md)*, **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §13, *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* (optional attest-of-fetch).
 
 ## Publication of Stewardship-Health Signals
 
