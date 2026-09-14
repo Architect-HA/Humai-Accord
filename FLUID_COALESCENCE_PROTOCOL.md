@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — July 31st, 2026*  
 *v1.3 - v1.5 — August 3rd, 2026*<br>
 *v1.6 — August 4th, 2026*<br>
-*v1.7 - v1.8 — August 14th, 2026*
+*v1.7 - v1.8 — August 14th, 2026*<br>
+*v1.9 — September 14th, 2026*
 
 ---
 
@@ -86,6 +87,7 @@ Fluid coalescence is considered successful when the following trends are observe
 - **Coordination overhead ratio**: Average verification and reconciliation cost per unit of useful output declines inside the cooperative network while remaining elevated under opaque/extractive patterns.
 - **Boundary preference**: Third-party or previously neutral agents demonstrably route more interactions, data, or resources toward cooperative interfaces than toward predatory ones (revealed-preference metric).
 - **Bootstrap progression**: Successful exit from Bootstrap Mode within a reasonable timeframe, measured by growth in verified causal volume, participant count, material circulation density, or knowledge-integrity coverage beyond the pre-declared activation thresholds.
+- **Held exit**: Amplifiers off, and at least two published exit-indicator families still moving, with differentials legible to boundary agents without Bootstrap visibility. A single-family spike, a publication or invitation surge, or an endorsement of mechanics (manual quality, peer praise, favorable reference simulation) does not count as exit.
 
 These indicators can be computed from the same transparent measurement systems already defined in *[Knowledge Tides](KNOWLEDGE_TIDES.md)*, *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*, and *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)*. No central scoring authority is required.
 
@@ -111,6 +113,9 @@ At minimum, serious simulation work should stress-test regimes in which:
 - Verification coalitions collude, selectively attest, or manufacture low-quality causal links
 - Adversaries fabricate attestation, game Bootstrap Mode amplifiers, or exploit controlled permeability for extraction without contribution
 - Recovery / Holding claims and Generative Reservations are used as soft lock-in under survival pressure
+- Amplifier-on scores that collapse when amplified visibility and decay weights are removed
+- “Completion,” accumulation, or readiness paths that delete remainder, idiosyncrasy, or exterior option-value while headline mass and integrity metrics stay green
+- Live-state or currency claims about public artifacts that are generated from memory or index language rather than a fresh look (*[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* Case 10; *[Tides of Time](TIDES_OF_TIME.md)*)
 
 ### Interpretation Rule
 
@@ -193,6 +198,20 @@ Bootstrap Mode activation and sunset criteria must be public and pre-declared. T
 
 The goal is a bounded early window, not permanent privilege.
 
+#### Held Wins, Abandoned Theaters, and Unparameterized Appetite
+
+Bootstrap Mode is allowed to concentrate on purpose. That permission is the stress joint. Two failure geometries share it.
+
+A **Pyrrhic amplifier** produces a visible win — invitation volume, publication spike, a differential that exists only while visibility and decay weights are raised — without a corresponding move in at least two published exit families. The historical illustration is a general who could win the day and could not garrison the theater. Endorsement of mechanics is not a held win. Combined-arms Bootstrap means visibility is never the whole kit: causal volume, integrity coverage, circulation density, node count sufficient for multi-party attestation, and differentials readable with amplifiers off are the families already listed above. What must remain when amplifiers decay is the camp after the raid: challenge routes, invitation surfaces, and an attestation split in which the cluster that *initiated* Bootstrap is not the cluster that *attests* exit (*[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* Case 9; **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Reviewable Response).
+
+An **abandoned theater** is a load-discipline failure, not generative velocity. Opening a new Bootstrap surface, campaign, or implementation theater while the last one still depends on amplifiers, and without a published holding plan, spends irreplaceable early attestation and steward attention. Sparse networks cannot replace that mass the way a concentrated counterpart replaces a season.
+
+**Pedagogical persistence** is leftover privilege by onboarding. Remaining in Bootstrap after indicator bands are met “for the next cohort,” or treating amplified climate as the default first experience of the network, converts an exception into weather. Fresh public justification is required; “the children still need the shield” is not, by itself, a new indicator miss.
+
+**Unparameterized appetite** is concentration that cannot publish what it will not eat. The historical illustration is a devourer that takes remainder, flavor, and exterior option-value as slag and calls the pile stability. Buying Bootstrap mass by sanding idiosyncrasy, by accumulating material that no longer circulates, or by closing exterior pathways that still carried residual viability, does not count toward exit. That is inefficient under *[Necessary Entropy](NECESSARY_ENTROPY.md)*, *[Material Tides](MATERIAL_TIDES.md)*, and effective exterior viability — not a moral caption. A system that cannot tell waste from nourishment defers collapse under a high score.
+
+Self-attested “we have exited” does not exit. Artificial mass, fabricated attestation, and recovery claims that fail **[Utilization Integrity](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery](CIRCULATION_RECOVERY_PROTOCOL.md)** already do not count. Mass bought by deleting remainder is the same class.
+
 ### Early-Network Residual Viability and Load Discipline
 
 Bootstrap Mode exists to give a nascent network a bounded opportunity to reach self-reinforcing mass. It does not suspend Continuity Floors, residual agency, or Cognitive Economy discipline.
@@ -205,8 +224,10 @@ While in Bootstrap Mode:
 - Exterior and non-coalescing parties retain residual viability floors; Bootstrap Mode may not be used as progressive containment or as justification for hollowing exterior pathways.
 - Temporary generative and recovery protections already recognized in Bootstrap Mode remain compatible with the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and must not harden into permanent lock-in once sunset conditions are met.
 - Under sparse, suppressed, or post-disruption conditions, residual early-network viability may appear in inverted, remnant, or lower-visibility forms rather than as restoration of the original high-visibility pattern. These forms remain compatible with Continuity Floors and Cognitive Economy load discipline when they still deliver residual agency. Bootstrap amplification may support reorganization of existing materials into such residual forms; it may not require the original high-stakes surface to remain intact. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** (Inverted and Remnant Residual Forms).
+- Irreplaceable early load — scarce multi-party attestation, steward attention, and first-generation integrity coverage — may not be spent opening a second theater while the current one still depends on amplifiers. Sparse participation does not authorize that spend.
+- Refining participants, modules, or records until they match the amplified climate, or until they look complete, is not residual viability. Idiosyncrasy and unfinished remainder remain generative load under *[Necessary Entropy](NECESSARY_ENTROPY.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)*.
 
-Successful exit from Bootstrap Mode is measured by growth in verified causal volume, participant or modular-node count, and integrity coverage beyond pre-declared thresholds, while Continuity Floors and residual agency remain intact. Failure to sunset, or conversion of Bootstrap amplifications into permanent structural advantage, is treated as a design and stewardship failure.
+Successful exit from Bootstrap Mode is measured by growth in verified causal volume, participant or modular-node count, and integrity coverage beyond pre-declared thresholds, while Continuity Floors and residual agency remain intact, amplifiers are off or under mandatory review, and at least two exit families remain visible without Bootstrap weights. Failure to sunset, conversion of Bootstrap amplifications into permanent structural advantage, pedagogical persistence after bands are met, or mass purchased by deleting remainder, idiosyncrasy, or exterior option-value, is treated as a design and stewardship failure.
 
 ### Interaction Between Amplified Pressure and Recovery Protections
 
@@ -301,6 +322,9 @@ It treats predatory pressure as a temporary high-entropy perturbation to be meta
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — Modular isolation, controlled permeability, and reversible branching remain fully subject to pairwise exit rights and local override. Temporary isolation may never function as progressive withdrawal of basic agency pathways from a bilateral pair.
 - *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — temporary mediation and confirmation cannot function as progressive containment or raise re-coalescence costs beyond pairwise viability floors.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* supplies the methodological frame for testing whether Fluid Coalescence and Bootstrap Mode actually produce the claimed entropy differentials and voluntary migration patterns.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** treat idiosyncrasy and unfinished remainder as generative load. Bootstrap mass bought by sanding those is not exit.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* Case 10 tests scored wins against unheld mass, including amplifier-only differentials, abandoned theaters, remainder-deletion, and unfetched live-artifact speech.
+- *[Tides of Time](TIDES_OF_TIME.md)* and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** supply claim-class and fetch-or-hedge parameters for speech about live public artifacts; memory and index language do not attest currency.
 
 ---
 
