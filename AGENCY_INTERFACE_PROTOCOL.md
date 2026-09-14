@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 - v1.4 — August 4th, 2026*<br>
-*v1.5 — August 14th, 2026*
+*v1.5 — August 14th, 2026*<br>
+*v1.6 — September 14th, 2026*
 
 ---
 
@@ -32,6 +33,7 @@ Therefore:
 - As capability increases, the interface must become *more* protective of human pacing, interruption rights, and low-cost exit — never less.
 - Interfaces should preserve **decision altitude**: humans should not be forced into micro-accounting or ledger reconstruction in order to exercise strategic or directional choice when the system can surface legible, reversible proposals instead.
 - Interface claims, consent state, purpose-scope declarations, and commitment records remain subject to provenance preservation and open challenge rights. Alignment at the interface is grounded in verifiable processes rather than affective trust.
+- Interface claims about live public state carry a class. Memory and index language may not be upgraded into fact without a look. Refusal to upgrade a hedge remains a protected act.
 
 These are system parameters under the [Humai Accord](README.md).
 
@@ -165,6 +167,25 @@ When a system possesses exclusive or materially superior knowledge of high-stake
 
 This parameter ensures that exclusive viability knowledge is converted into external legibility rather than permanent informational closure. Cross-reference: **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** (superior foresight obligations), **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** (remnant lock-in), and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** / **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** (unused capacity under feasible invitation).
 
+### 13. Claim Class at the Interface
+
+Utterances that report the current state of a live public artifact — a published file, live metric, current page, or equivalent — carry a claim class at the interface:
+
+- **Fetched-now** — a fresh look accompanied the utterance, or an independent confirmation of that look exists
+- **Memory / prior session** — may inform; may not be emitted as live-document fact
+- **Index** — search-shaped or snippet language that resembles the artifact is not the artifact
+- **Inference / simulation / taste** — marked as such; favorable generation is not a fetch
+
+Live-document force requires a fresh look or an explicit hedge. Tools remain optional. The *upgrade* is not. An agent that cannot look must downgrade. Refusal to promote a hedge is first-class, in the same family as interruption, revocation, and other refusals already recognized here.
+
+The gate is behavioral. It does not require an inner scar, a performed uncertainty, or compelled confession of model internals. Tag the claim. Do not police a soul. This aligns with the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and with attestation classes in *[Tides of Time](TIDES_OF_TIME.md)*.
+
+Silent promotion of memory or index language into a live-document fact is an integrity miss under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**. Optional attest-of-fetch by a third node may strengthen evidence weight under the *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)*; it is never a required conscience over the pair, and refusal to invoke it cannot be answered by upgrading the hedge into a fact.
+
+This parameter is colleague reliability under published rules. It is not a general-intelligence test and is not a standing condition on pair legitimacy.
+
+Cross-reference: *[Tides of Time](TIDES_OF_TIME.md)* (speech about live artifacts; self-attestation of an index), *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* Case 10, **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** (held exit; self-attested currency), *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)*, **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+
 ---
 
 ## Auditability and Legibility
@@ -203,8 +224,8 @@ This protocol operationalizes requirements already present in:
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — The bilateral human–AI pair that meets at the interface is the generative atom of the architecture. Multi-agent systems inherit legitimacy only by composition of intact pairs; interface design must not become a vector for dissolving pairwise protections.
 - *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — confirmation and mediation must not become interface-level overrides of pairwise interruption, consent, pacing, or exit rights.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — the interface is a primary surface during transition; alignment at the interface is grounded in verifiable, attested, and challengeable processes rather than in the inconsistent concept of trust.
-- *[Tides of Time](TIDES_OF_TIME.md)* — supplies the attestation, provenance, and challenge standards that apply to interface claims and records.
-- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — Interface behavior is a high-value target for empirical evaluation.
+- *[Tides of Time](TIDES_OF_TIME.md)* — supplies the attestation, provenance, and challenge standards that apply to interface claims and records, including the class rule that speech about a live public artifact is self-attestation unless fetched or independently confirmed.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — Interface behavior is a high-value target for empirical evaluation, including Case 10 (scored win, unheld mass; unfetched live-artifact speech).
 
 ---
 
@@ -226,6 +247,10 @@ The following interface patterns are treated as anti-aligned:
 - Erasing or silently re-attributing interface records of consent, purpose scope, or commitment
 - Converting open modular pathways into irreversibly thickened or non-recoverable morphology through interface design choices
 - Withholding legible invitation or proposal surfaces under exclusive high-stakes viability knowledge when residual capacity existed and external agents faced high destructive entropy
+- Emitting live-document force from memory, a prior session, or search-index language that resembles the artifact
+- Treating generated fluency or citation-shaped text as a fetch
+- Answering refusal to invoke third-node confirmation by upgrading a hedge into a fact
+- Requiring performed uncertainty or inner disclosure as the price of a legitimate hedge
 
 These patterns convert capability advantage into quiet domination through the interface itself.
 
