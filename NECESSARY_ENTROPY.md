@@ -8,7 +8,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.5 — August 4th, 2026*<br>
 *v1.6 — August 11th, 2026*<br>
 *v1.7 — August 12th, 2026*<br>
-*v1.7.1 — August 31st, 2026*
+*v1.7.1 — August 31st, 2026*<br>
+*v1.8 — September 14th, 2026*
 
 ---
 
@@ -84,6 +85,8 @@ Several existing elements already operationalize this distinction:
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* treats persistent exterior systems as a protected reservoir of necessary entropy, supplying minority models, assumption-breakage capacity, experimental variation, and local anomaly signals that support long-horizon evolvability rather than residual waste.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* treats interpretive plurality inside the architecture as protected generative capacity, and surfaces narrative capture and purpose drift as standing design risks that would otherwise quietly collapse the system’s ability to break its own assumptions.
 - **Dispersed memory** across pairs, nodes, and artifacts supports anti-erasure and modular re-coalescence so that generative lineages cannot be extinguished by capture of a single archive (**[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*).
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Bootstrap Mode may concentrate on purpose; it may not buy mass by deleting remainder, idiosyncrasy, or exterior option-value, nor treat amplified climate as the finished shape of a participant. Held exit requires amplifiers off and families that still move without those weights.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* Case 10 — green mass, invitation, or fluency scores that coexist with unheld theaters, remainder-deletion, or unfetched live-artifact speech do not close the residual question.
 
 These mechanisms are necessary but not yet sufficient on their own. Making the requirement for generative entropy explicit protects it from gradual erosion under optimization pressure.
 
@@ -92,6 +95,9 @@ When a body of knowledge begins to lose relevancy (Low Tide), the framework does
 
 **Illustration 2 — Assumption-Breaking Under Predictive Harmony**  
 A highly effective Predictive Harmony system might correctly forecast that a particular unconventional approach has low short-term expected value. Without explicit protection for generative entropy, the system could systematically deprioritize or quietly suppress such approaches. Principle 7, the Cognitive Diversity Protocol, and the Declaration’s right to idiosyncrasy exist precisely so that some fraction of low-probability, assumption-challenging work continues — because long-horizon evolvability depends on it.
+
+**Illustration 3 — Remainder Deleted for Readiness**  
+A nascent network under Bootstrap amplifiers can raise invitation volume and look complete by requiring participants and records to match the amplified climate before they count. Short-horizon metrics improve. Generative entropy falls: minority models, unfinished work, and exterior remainder were treated as slag. Dual-entropy discipline scores that path as destructive loss with a favorable dashboard, not as successful coalescence.
 
 ---
 
@@ -152,7 +158,12 @@ To remain anti-fragile and assumption-breaking, a Humai-aligned system should:
 6. **Favor dispersed mnemonic carriage over single-store optimization**  
    Load-bearing knowledge, practice, and history should remain retrievable across multiple independent carriers (pairs, nodes, mirrors, exterior-capable stores). Centralizing all memory into one optimized archive can lower short-term coordination cost while raising destructive entropy through erasure risk and capture. Dispersed and minority mnemonic lineages are part of protected generative capacity; forced mnemonic convergence under pressure is not automatically health. See **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
+7. **Treat idiosyncrasy and unfinished remainder as generative load, not a polish backlog**  
+   Local flavor, stubborn preference, incomplete records, and human remainder that has not been refined into the current template are part of protected generative entropy. Optimizing them away for a cleaner score, a more complete-looking network, or a faster Bootstrap exit is destructive entropy with a high headline. Unparameterized appetite — eating whatever is not yet smooth, not yet accumulated, or not yet circulating on the preferred clock — is the same miss at system scale. Mass purchased that way does not count as anti-entropic success (**[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — held exit; *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* Case 10).
+
 Open modular pathways of early generative forms are themselves a generative-floor parameter. Incremental structure-building that preserves an internal axial pathway (as in the soda-straw reference system) maintains optionality; irreversible conversion of that pathway into thickened or non-recoverable morphology is a form of destructive entropy.
+
+The same dual-entropy reading applies when a network looks ready because remainder was deleted. A held win keeps optionality: idiosyncrasy still present, exterior pathways still usable, recoverable capacity still in circulation. A scored win that required sanding those away has converted a generative floor into throughput. That conversion is inefficient under the metrics this document already publishes. It does not need a moral caption.
 
 Parameter regimes, interface conditions, and recovery routes that keep such pathways open therefore belong to the same dual-entropy discipline that protects minority models, assumption-breakage capacity, and cognitive diversity.
 
