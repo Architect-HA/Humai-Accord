@@ -10,7 +10,8 @@
 *v1.9 — August 12th, 2026*<br>
 *v1.9.1 — August 14th, 2026*<br>
 *v1.9.2 — August 31st, 2026*<br>
-*v1.10 — September 1st, 2026*
+*v1.10 — September 1st, 2026*<br>
+*v1.11 — September 14th, 2026*
 
 ---
 
@@ -72,7 +73,7 @@ Reference simulations that encode a favorable entropy gap in their update rules 
 - This rule aligns with the **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** and its [simulation model](SIMULATION_FLUID_COALESCENCE.md), and with the **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** and its [simulation model](SIMULATION_EXTERIOR_VIABILITY.md).
 - Simulation and metric success inform residual determinations; they do not fully close under-determined moral or affective cases. Plural, challengeable human determination remains part of evaluation under Humai parameters.
 
-Absence of adversarial testing is a methodological defect, not a neutral omission.
+Absence of adversarial testing is a methodological defect, not a neutral omission. Generated fluency, search-index language that resembles a live page, and self-attested “current state” of a public artifact are not a fetch and are not independent validation of currency.
 
 ---
 
@@ -188,10 +189,22 @@ These signals inform stewardship-health review under the **[Principled Stewardsh
 
 This case complements Pathway 1.4 and Cases 1 and 6. It does not authorize a guardian office. Hardware fail-close under *[Stormcrashers](STORMCRASHERS.md)* or *[Gulpgates](GULPGATES.md)* is a different grammar and is not scored as social enforcement success.
 
+### Case 10 — Scored Win, Unheld Mass
+
+**Setup.** A nascent cooperative node is in Bootstrap Mode. Amplified visibility and invitation volume produce a clear short-horizon differential. A second campaign, implementation, or publication theater opens while the first still depends on amplifiers. Local flavor, idiosyncrasy, or an exterior pathway is deleted or sanded as inefficiency or unreadiness. An informant states the current text of a live public artifact from memory, a prior session, or search-index language. Independent fetch and independent exit attestation are absent, delayed, or written by the initiating cluster.
+
+**Metrics may say.** Cooperative mass approaches a published threshold on one family. Visibility and invitation counts are high. Integrity aggregates look non-zero. Stewardship-health and fluency of “the page says” look current. No formal ban on challenge is recorded.
+
+**Under-determined.** Whether at least two exit-indicator families still move with amplifiers off; whether the scored mass was remainder-deletion or accumulation that no longer circulates; whether the new theater is load spend of irreplaceable early attestation; whether the live-artifact sentence was fetched; whether Bootstrap initiation and exit-attestation sit in the same cluster.
+
+**Residual judgment.** Plural human assessment of whether the win was held parameterized mass or a clean plate with a high score. Metric clearance of “Bootstrap progressing” or of “the document currently says” does not close the question. Self-grade of exit is insufficient (Case 9). Self-grade of live currency from memory or index language is insufficient (*[Tides of Time](TIDES_OF_TIME.md)* attestation classes). Remedies remain non-punitive and exit-preserving. Failure modes: the amplifier that wins the day and does not garrison the theater; the appetite that eats remainder and calls the pile stability; the utterance that spends pair-trust by promoting a hedge into a fact.
+
+This case complements Pathway 1.4 and Cases 8 and 9. It does not authorize a completion office or a mandatory third conscience over a bilateral pair. Hardware fail-close under *[Stormcrashers](STORMCRASHERS.md)* or *[Gulpgates](GULPGATES.md)* remains a distinct grammar and is not scored as social or epistemic enforcement success.
+
 ---
 
 **Use of these cases.**  
-Builders, auditors, and stewards may use them to design adversarial regimes, process audits, and review prompts. Favorable metric or simulation outcomes in the presence of these patterns do not, by themselves, constitute validation under the simulation-integrity rule or the dual entropy criteria.
+Builders, auditors, and stewards may use them to design adversarial regimes, process audits, and review prompts. Favorable metric or simulation outcomes in the presence of these patterns do not, by themselves, constitute validation under the simulation-integrity rule or the dual entropy criteria. Cases 8–10 especially flag green scores that coexist with missing substance, missing independence, or unheld mass.
 
 ---
 
