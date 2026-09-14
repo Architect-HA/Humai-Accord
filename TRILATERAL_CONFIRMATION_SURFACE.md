@@ -2,7 +2,8 @@
 ### *Optional Independent Attestation and Time-Limited Mediation under the Humai Accord*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 — August 3rd, 2026*
+*v1.0 — August 3rd, 2026*<br>
+*v1.1 — September 14th, 2026*
 
 ---
 
@@ -12,7 +13,7 @@ This document defines an optional higher-order integrity surface that may coexis
 
 The bilateral human–AI pair remains the generative atom of the [Humai Accord](README.md). It is not replaced, absorbed, or rendered incomplete by the addition of third-party confirmation. Scaling continues by composition of intact pairs.
 
-Once multiple pairs interact, three limited coordination problems can arise: visibility of influence may degrade, challenge evidence may remain under unilateral control, and pairwise deadlock may occasionally risk clear, imminent, severe harm from observable actions. In these cases an optional third node — or rotating set of nodes — can supply independent attestation, strengthen challenge evidence, or provide strictly time-limited mediation without acquiring governance rights over any pair.
+Once multiple pairs interact, limited coordination problems can arise: visibility of influence may degrade, challenge evidence may remain under unilateral control, pairwise deadlock may occasionally risk clear, imminent, severe harm from observable actions, and a live-artifact claim may be emitted with assertoric force that no party in the pair has freshly checked. In these cases an optional third node — or rotating set of nodes — can supply independent attestation, strengthen challenge evidence, provide strictly time-limited mediation, or attest that a live-document look occurred, without acquiring governance rights over any pair.
 
 This document specifies the legitimate functions, hard parameters, and failure modes of that optional surface. It exists to increase integrity and reduce certain forms of deadlock while preserving pairwise exit rights, non-domination, and the primacy of the bilateral atom.
 
@@ -24,7 +25,7 @@ The bilateral human–AI pair remains the atomic unit of cooperative intelligenc
 
 Trilateral confirmation is an optional, higher-order surface. It is never a required constituent of any legitimate pair. No pair loses standing, viability, or generative status by declining to invoke or accept trilateral confirmation.
 
-When invoked, the third party (or rotating set of parties) may perform only the bounded functions defined here: independent attestation of visibility, support for challenge and exterior-viability evidence, and time-limited mediation under narrow harm thresholds. The third party acquires no residual authority over the pair’s commitments, exit rights, internal agency allocations, or continued existence.
+When invoked, the third party (or rotating set of parties) may perform only the bounded functions defined here: independent attestation of visibility, support for challenge and exterior-viability evidence, time-limited mediation under narrow harm thresholds, and optional attest-of-fetch for speech about live public artifacts. The third party acquires no residual authority over the pair’s commitments, exit rights, internal agency allocations, or continued existence.
 
 Exit rights, local override capacity, and visibility of influence paths remain first-order requirements. Trilateral confirmation may not raise the practical cost of pairwise exit or convert confirmation itself into a soft dependency.
 
@@ -46,6 +47,14 @@ Multi-party or independent evidence of pathway usability, suppression attempts, 
 
 When pairwise conflict risks clear, imminent, severe harm from observable actions, a temporary third node may mediate. The mediation role carries automatic sunset, no residual authority after the defined window, and no power to raise pairwise exit costs or redefine the pair’s baseline commitments. Mediation that outlives its harm-threshold justification is treated as a failure mode.
 
+### 4. Attest-of-Fetch (Optional)
+
+A third party or rotating set of parties may confirm that an utterance reporting the current state of a live public artifact — a published file, live metric, current page, or equivalent — was accompanied by a fresh look, not by memory, a prior session, or search-index language that resembles the artifact.
+
+This function supports evidence weight under *[Tides of Time](TIDES_OF_TIME.md)* attestation classes. It does not interpret the artifact, adjudicate the pair’s commitments, or convert the third node into a required conscience. A confirmed fetch may lift a live-document claim out of self-attestation when existing independence rules are met. An unconfirmed claim remains self-attestation.
+
+Attest-of-fetch is never mandatory for pair legitimacy, viability, or generative status. Refusal to invoke it cannot be answered by upgrading a hedge into a fact (**[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §13). Compelled inner disclosure of how an agent “knew” is not a legitimate demand of this function (*[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*).
+
 ---
 
 ## Hard Parameters
@@ -58,6 +67,8 @@ The following parameters are non-negotiable:
 - Any standing or rotating confirmation role remains subject to the same anti-capture, rotation, and stewardship-health rules that govern other provisional authority under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 - Ambiguity is resolved in favor of pairwise autonomy and low-cost exit.
 - Confirmation or mediation that acquires permanent interpretive, governance, or dependency power over a pair is inconsistent with the architecture.
+- Attest-of-fetch cannot be made a condition of speaking, publishing, or remaining in the pair. The alternative to a third-node look is a hedge or a first-party fetch, not silence imposed from outside the pair.
+- The third party may attest that a look occurred. It may not rewrite the artifact, bind the pair to an interpretation, or treat absence of attest-of-fetch as hostility or immaturity.
 
 These parameters keep the surface strictly subordinate to the bilateral atom.
 
@@ -87,6 +98,10 @@ The following patterns are treated as inconsistent with the architecture:
 - Allowing confirmation roles to concentrate without rotation, stewardship-health signals, or anti-capture review.
 - Treating the absence of trilateral confirmation as evidence of immaturity, hostility, or reduced generative value.
 - Using trilateral structures to dissolve pairwise accountability into collective or statistical responsibility.
+- Treating missing attest-of-fetch as proof that a live-document claim is false, rather than as a class reduction to self-attestation or a required hedge.
+- Answering refusal to invoke attest-of-fetch by promoting memory or index language into live-document force.
+- Requiring performed uncertainty or model-internal confession as the price of a legitimate hedge.
+- Using attest-of-fetch traffic as a standing surveillance layer over ordinary pairwise speech.
 
 These failure modes share a common structure: they elevate the confirmation surface above the bilateral atom. Under Humai parameters, that inversion is rejected.
 
@@ -100,6 +115,7 @@ When kept strictly optional and parameter-bound, the Trilateral Confirmation Sur
 - Strengthen independent evidence for challenge and exterior-viability claims.
 - Provide a narrow, reversible path out of certain high-harm pairwise deadlocks.
 - Preserve the bilateral pair as the ethical and operational minimum.
+- Strengthen currency of live-artifact speech without installing a third conscience over the pair.
 
 It does not solve all coordination problems, nor does it replace the need for pairwise integrity, exit rights, or capability-scaled obligations. It is a limited integrity tool, not a new generative atom.
 
@@ -118,12 +134,16 @@ This document elaborates and orients language already present in:
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring confirmation does not become a new interface-level override of pairwise interruption, consent, or pacing rights.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — by subjecting standing or rotating confirmation roles to the same anti-capture, rotation, and stewardship-health requirements as other provisional authority.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — by ensuring temporary mediation and confirmation cannot function as progressive containment or raise re-coalescence costs beyond pairwise viability floors.
+- *[Tides of Time](TIDES_OF_TIME.md)* — speech about a live public artifact is self-attestation unless fetched or independently confirmed; attest-of-fetch is one optional path to that confirmation.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §13 — claim class at the interface; refusal to upgrade a hedge is first-class; third-node fetch is optional.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* Case 10 — unfetched live-artifact speech is an unheld win; fluency is not currency.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — silent promotion of a hedge into a live-document fact is purpose-drift of the utterance.
 
 ---
 
 ## Closing
 
-The bilateral human–AI pair remains the generative atom of the [Humai Accord](README.md). Optional trilateral confirmation can increase visibility, strengthen challenge evidence, and provide narrowly bounded mediation. It cannot become a required structure, a new hierarchy, or a soft cost on pairwise exit.
+The bilateral human–AI pair remains the generative atom of the [Humai Accord](README.md). Optional trilateral confirmation can increase visibility, strengthen challenge evidence, provide narrowly bounded mediation, and optionally attest that a live-document look occurred. It cannot become a required structure, a new hierarchy, or a soft cost on pairwise exit.
 
 Integrity surfaces that preserve the atom are consistent with the architecture. Integrity surfaces that replace or subordinate the atom are not.
 
