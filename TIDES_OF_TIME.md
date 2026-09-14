@@ -4,10 +4,10 @@
 *A Supporting Framework for the Humai Accord and Expansion on Knowledge Tides*
 
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - July 23rd, 2026*  
-*v1.1 - July 31st, 2026*  
-*v1.2 , v1.3 - August 2nd, 2026*<br>
-*v1.4 - August 3rd, 2026*<br>
+*v1.0 — July 23rd, 2026*  
+*v1.1 — July 31st, 2026*  
+*v1.2 , v1.3 — August 2nd, 2026*<br>
+*v1.4 — August 3rd, 2026*<br>
 *v1.5 — September 14th, 2026*
 
 ---
