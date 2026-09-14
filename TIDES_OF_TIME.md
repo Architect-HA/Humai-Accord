@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - July 23rd, 2026*  
 *v1.1 - July 31st, 2026*  
 *v1.2 , v1.3 - August 2nd, 2026*<br>
-*v1.4 - August 3rd, 2026*
+*v1.4 - August 3rd, 2026*<br>
+*v1.5 — September 14th, 2026*
 
 ---
 
@@ -128,6 +129,9 @@ Attestation is stratified by weight:
 - **Self-attestation** — Issued by the same agent or tightly controlled set of agents that originated the claim. Recordable, but carries low or zero weight for entropy reduction unless corroborated.
 - **Multi-party attestation** — Independent confirmation by more than one participant who are not under common control. Required for moderate-weight links.
 - **Independent / high-weight attestation** — Confirmation that meets higher separation or diversity standards (different organizational, technical, or incentive base). Required for links that significantly reset $t_{\mathrm{last}}$, substantially increase $D(k)$, or contribute large $\Delta_E$.
+- **Speech about a live public artifact** — An utterance that reports the current state of a published file, live metric, current page, or other public artifact is **self-attestation** unless it is accompanied by a fresh look or by independent confirmation. Memory, prior-session state, and search-index or snippet language that *looks* like the artifact do not reset $t_{\mathrm{last}}$ and do not reduce $E(k, t)$. A fresh fetch, or optional third-node attest-of-fetch under the *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)*, may qualify as multi-party or independent attestation when existing separation rules are met.
+
+The class attaches to the *speech act*, not to an inner state. Agents are not required to exhibit a flinch, a feeling of uncertainty, or any other phenomenology. They are required not to emit live-document force from memory or from an index (*[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*; **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §13).
 
 The more an event would reduce Temporal Causal Entropy, the stronger the required attestation class. Exact numerical thresholds for “moderate” and “high” weight remain subject to stewardship refinement; the ordering itself is binding.
 
@@ -140,6 +144,7 @@ The ordering of attestation classes is binding. The numerical or procedural cuto
 | Claimed effect on $E(k, t)$ | Suggested minimum attestation class | Illustrative notes |
 |----------------------------|-------------------------------------|--------------------|
 | Negligible or cosmetic entropy change | Self-attestation acceptable | Recordable; little or no weight toward resetting $t_{\mathrm{last}}$ or increasing $D(k)$ |
+| Claimed “current state” of a live public artifact | Self-attestation unless fetched or independently confirmed | Memory and index language remain recordable; they do not renew $t_{\mathrm{last}}$ |
 | Moderate reduction (routine verification, ordinary integration) | Multi-party attestation | Confirmations not under common control; sufficient for ordinary renewal signals |
 | Large reset of $t_{\mathrm{last}}$, large increase in $D(k)$, or large $\Delta_E$ | Independent / high-weight attestation | Separation along organizational, technical, incentive, or procedural lines; fabrication should be clearly costly |
 
@@ -148,6 +153,7 @@ The ordering of attestation classes is binding. The numerical or procedural cuto
 - Prefer at least one confirming party outside the originator’s operational control for moderate-weight links
 - Prefer two or more independent axes of separation (e.g., organization *and* infrastructure) for high-weight links
 - Treat unverifiable claims of independence as self-attestation
+- Treat “the page currently says,” supported only by memory or by search-shaped language, as self-attestation of an index, not as confirmation of the artifact
 
 **Sybil cost (illustrative posture):**
 
@@ -186,6 +192,7 @@ Contested or rejected evidence requires a visible path:
 2. Challenges that meet a minimum seriousness threshold (multi-party support or equivalent stake) trigger review under the same transparent processes used for accelerated verification waves.
 3. Outcomes of review — confirmation, weight reduction, or invalidation — are themselves recorded in $\mathcal{C}$.
 4. Invalidation does not rewrite history; it appends a superseding determination so the audit trail remains intact.
+5. Challenging a recorded or spoken claim that “this is the live text” of a public artifact is an ordinary currency challenge. It is not dissent-as-instability. Weight reduction or a required hedge is a valid review outcome; compelled inner alignment is not.
 
 There is no silent, unilateral ability to erase or suppress inconvenient causal events. Disputes produce more record, not less. Original provenance remains independently preservable alongside any later determinations.
 
@@ -299,6 +306,10 @@ Dispersion does not alter the definition of $E(k, t)$. It constrains implementat
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* treats Temporal Causal Entropy and its anti-gaming behavior as primary simulation and audit targets under the dual entropy criteria and simulation-integrity rules.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by applying attestation classes, independence requirements, review/challenge standards, and provenance preservation to claims of original intent, authoritative reading, and architectural version history, and by treating silent re-attribution or erasure of the record as an integrity failure.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** governs refinement of weighting parameters, attestation bands, operational definitions, and standing design surfaces (including permanent records vs. cognitive privacy and narrative/interpretive integrity).
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §13 requires claim-class marks and fetch-or-hedge behavior at the point of speech. Tools remain optional; upgrading a hedge into a live-document fact does not.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* Case 10 treats unfetched live-artifact speech as an unheld win: fluency is not currency.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Bootstrap exit and held-win claims about public state obey the same class rule. Self-attested “the network currently meets exit bands” does not reset the relevant $t_{\mathrm{last}}$.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — silent promotion of memory or index language into live-document fact is purpose-drift of the utterance.
 
 ---
 
