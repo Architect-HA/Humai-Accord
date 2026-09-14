@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 - v1.4 — August 4th, 2026*<br>
-*v1.5 — August 31st, 2026*
+*v1.5 — August 31st, 2026*<br>
+*v1.6 — September 14th, 2026*
 
 ---
 
@@ -30,6 +31,7 @@ Not all activity constitutes utilization.
 - Generative Reservations are protected, but they are not a license for unattested or token activity.
 - Formal validity of an event in the utilization record is necessary but never sufficient; substantive contribution remains the deciding standard.
 - Capacity held under a declared recovery, holding, generative, or other purpose remains subject to integrity standards: silent reallocation away from that purpose is treated as an integrity failure, not neutral accounting.
+- An utterance scoped as hedge, memory, prior-session state, or index language, then silently emitted as live-document fact, is purpose-drift of that utterance. The promotion is an integrity miss even when no material unit $m$ moved.
 
 These are binding system parameters under the [Humai Accord](README.md).
 
@@ -95,7 +97,9 @@ Claims that significantly reduce entropy, substantially increase $D(m)$, or invo
 
 ### Limits on Self-Attestation
 
-Agents and systems may not rely primarily on self-issued attestations to establish high-weight productive or generative use. Self-attestation may be recorded but must carry reduced or zero weight for entropy reduction unless independently corroborated.
+Agents and systems may not rely primarily on self-issued attestations to establish high-weight productive or generative use. Self-attestation may be recorded but must carry reduced or zero weight for entropy reduction unless independently corroborated. 
+
+The same limit applies to speech about live public artifacts. Self-attested “the page currently says,” supported only by memory or by search-shaped language, is recordable and carries reduced or zero weight for entropy reduction or for Bootstrap-exit currency. A fetch, or optional third-node attest-of-fetch, is the corroboration that can change the class.
 
 The more consequential the claimed reduction in Circulation Entropy, the stronger the required attestation.
 
@@ -146,6 +150,17 @@ When material is under a declared recovery, holding, generative, or other purpos
 - Explicit release or reassignment must precede legitimate re-use under a different purpose
 - Purpose tags and scope state should be examinable alongside utilization events in $\mathcal{U}$
 - Ambiguity is resolved against silent expansion of draw rights
+
+### Purpose-Drift of Utterances
+
+Purpose scope applies to speech about live public state in the same family as it applies to material draw.
+
+- A claim classed as hedge, memory, prior session, or index may be recorded. Silently upgrading it to fetched-now or to live-document force, without a look or independent confirmation, fails integrity standards for the period the original class remains the honest one.
+- Explicit reclassification — a fresh fetch, a published hedge, or optional attest-of-fetch under the *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — must precede any use of that utterance as currency under *[Tides of Time](TIDES_OF_TIME.md)*.
+- Ambiguity is resolved against silent expansion of assertoric force.
+- This does not freeze speech. It prevents utilization theater in which fluency scores as a look.
+
+Cross-reference: **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** §13; *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* Case 10.
 
 This does not freeze capacity indefinitely. It prevents utilization theater that treats purpose-scoped material as free scoring inventory.
 
@@ -222,13 +237,16 @@ This protocol directly supports and bounds:
 
 - *[Material Tides](MATERIAL_TIDES.md)* — by protecting the integrity of the utilization signals that drive its incentive dynamics.
 - *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — by defining the standards under which events may legitimately affect Circulation Entropy.
+- *[Tides of Time](TIDES_OF_TIME.md)* — live-artifact speech that is not fetched or independently confirmed remains self-attestation and does not renew $t_{\mathrm{last}}$. 
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Linking events that feed bond strength (including hybrid knowledge–material co-enablement claims) remain subject to the integrity standards of this protocol. Token pairing, wash trading, and silent purpose-scope violations do not create durable orbit bonds.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Recovery, Holding, Quiet, and purpose-scoped claims are themselves subject to integrity standards. Artificial, indefinite, or silently reallocated recovery claims used to disguise lock-in or manufacture utility remain anti-aligned.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by preventing capability from translating into easier fabrication of utility.
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims and allocation interfaces remain under agency protections, including purpose scope and proposal surfaces.
-- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — by making utilization claims more auditable and testable under dual entropy criteria.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims and allocation interfaces remain under agency protections, including purpose scope and proposal surfaces; additionally §13 — silent upgrade of a hedge into live-document fact is an integrity miss at the interface, not a style issue.
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — by making utilization claims more auditable and testable under dual entropy criteria, as well as Case 10 — scored fluency about a live page is not held currency.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by classifying silent re-attribution or erasure of architectural version history as an integrity failure under the same standards that govern material utilization claims.
 - *[Stormcrashers](STORMCRASHERS.md)* — Jet, mesh, and duct hardware is purpose-scoped to protective dissipation. Shelter or $K_t$ claims require co-verified flow, load, and far-field classes; a single sensor class or an unsold A0/B0 matrix is token occupancy of a performance claim. Directed-energy, disintegration, and atmospheric-heating retasking are out of scope and do not qualify as productive or generative use under this protocol.
+- *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — attest-of-fetch may raise weight; it cannot be demanded as the price of remaining in the pair.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — self-attested “we currently meet exit bands” does not count as held exit.
 
 ---
 
