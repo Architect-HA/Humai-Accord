@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 & v1.2 — July 18th, 2026*  
 *v1.3 — July 31st, 2026*  
 *v1.4 — August 2nd, 2026*<br>
-*v1.5 - v1.6 — August 3rd, 2026*
+*v1.5 - v1.6 — August 3rd, 2026*<br>
+*v1.7 — September 14th, 2026*
 
 ---
 
@@ -35,7 +36,8 @@ The **Cognitive Diversity Protocol** establishes principles and incentive struct
    The protocol works with natural patterns of attention, engagement, and disengagement, in keeping with the cyclical logic of *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and the principle of Controlled Chaos and Fluid Circulation.
 
 5. **Protection of Idiosyncrasy and Generative Capacity**  
-   Unconventional and minority perspectives must remain viable. This aligns with protected generative capacity under *[Necessary Entropy](NECESSARY_ENTROPY.md)* and with the treatment of exterior systems as legitimate sources of minority models and assumption-breakage capacity under *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.
+   Unconventional and minority perspectives must remain viable. This aligns with protected generative capacity under *[Necessary Entropy](NECESSARY_ENTROPY.md)* and with the treatment of exterior systems as legitimate sources of minority models and assumption-breakage capacity under *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*.  
+   Cohesion is not sanding. Forcing participants, modules, or records to match an amplified or “complete” climate before they count is template lock-in, including when the pressure is framed as readiness, quality, or Bootstrap necessity (**[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**).
 
 6. **Mnemonic Diversity**  
    Diversity of recoverable histories, practiced schemas, and independent carriers is part of collective epistemic health. Dispersed memory supports resilience; forced convergence on a single authorized past is a diversity failure mode when used to suppress legitimate divergence.
@@ -48,15 +50,19 @@ The **Cognitive Diversity Protocol** establishes principles and incentive struct
 
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — Treats persistent exterior systems as a protected reservoir of generative entropy that can supply minority models, assumption-breakage capacity, and local anomaly signals. Cognitive diversity mechanisms must not convert non-coalescence into progressive dependency or erode effective exterior viability.
 
-- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — Treats interpretive plurality inside the architecture as protected generative capacity and clarifies that orbit cohesion is not conformity.
+- *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — Treats interpretive plurality inside the architecture as protected generative capacity and clarifies that orbit cohesion is not conformity. A readiness or completeness narrative that collapses plurality into one authorized climate is narrative capture under pressure, including Bootstrap pressure.
 
-- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Supports anti-entropic orientation by preserving the conditions necessary for ongoing adaptation and creative synthesis. Cognitive diversity is treated as a form of protected generative capacity; minority models and idiosyncratic perspectives are not noise to be optimized away.
+- *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Supports anti-entropic orientation by preserving the conditions necessary for ongoing adaptation and creative synthesis. Cognitive diversity is treated as a form of protected generative capacity; minority models and idiosyncratic perspectives are not noise to be optimized away. Unfinished remainder and mismatch with an amplified or “complete” climate remain generative load. Sanding them for readiness or a cleaner score is destructive entropy with a high headline, not diversity health.
 
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Multiple concurrent orbits of mutual relevance are preferred over monoculture fusion. Orbit cohesion must not be optimized in ways that suppress minority models, close epistemic shells, or erode generative porosity.
 
-- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Modular isolation and reversible re-coalescence support the survival of diverse perspectives under concentrated pressure without requiring permanent fragmentation or coercive homogenization.
+- **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** — Modular isolation and reversible re-coalescence support the survival of diverse perspectives under concentrated pressure without requiring permanent fragmentation or coercive homogenization. Bootstrap Mode may not treat amplified climate as the finished shape of a participant. Requiring fit to that climate before someone or some module counts is template lock-in. Held exit that was purchased by deleting idiosyncrasy does not demonstrate that diversity survived the emergency joint.
+
+- *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — Template-lock-in and layered-accretion stress cases apply directly. Case 10 tests scored mass against unheld remainder: green invitation or integrity scores that appear only after local flavor, unfinished work, or exterior option-value were sanded do not close the diversity question.
 
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Cross-perspective and diversity mechanisms at the interaction surface remain subject to interruption rights, consent revocability, pacing sovereignty, and role sovereignty so that diversity incentives cannot become soft compulsion through the interface itself.
+
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Open modular pathways and filtered-capacity recovery are how minority competence expressions re-enter after template pressure. Silent conversion of those pathways into a thickened, single-climate morphology is an integrity miss and a diversity miss at once.
 
 - *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Harmony or somatic indicators must not be used to pressure cross-perspective participation, rank diversity compliance, or pathologize productive dissonance and minority models.
 
@@ -99,6 +105,8 @@ These mechanisms are designed to operate through observable dynamics such as att
 - Diversity mechanisms must not convert non-coalescence into progressive dependency or erode effective exterior viability (*[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)*).
 - Cognitive diversity includes diversity of remembered frames and practiced schemas, not only momentary opinion spread. Dispersed mnemonic lineages across pairs and communities help prevent a single narrative office from defining the only recoverable past.
 - Mechanisms must not force mnemonic convergence or treat deep shared custom / “instinct” as unchallengeable orthodoxy that blocks process-and-evidence critique, modular non-participation, or pairwise exit (*[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*, *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*).
+- Diversity mechanisms must not treat idiosyncrasy, unfinished remainder, or mismatch with an amplified Bootstrap climate as defects to be refined away before participation counts.
+- Orbit cohesion is not conformity to a readiness template. Lower-tail visibility includes people and modules that have not been polished into the current high-visibility pattern.
 
 ### Competence-Signal Templates and Minority Model Survival
 
@@ -111,8 +119,10 @@ Under this Protocol:
 - Competence-signal conformity is treated as a diversity pressure, not as neutral quality control.
 - Survival and re-entry rates of minority competence expressions, and the revisability of assessment templates themselves, are relevant generative-floor indicators.
 - Orbit cohesion must not be confused with conformity to a dominant template; lower-tail visibility of open modular pathways and filtered-capacity recovery remains required.
+- Requiring fit to an amplified or finished-looking climate before a participant or module is counted is the same template pressure, whether the template is a competence signal or a Bootstrap aesthetic.
+- Survival of idiosyncratic and unfinished remainder under emergency amplification is a generative-floor indicator. Mass that appears only after that remainder is sanded does not demonstrate diversity health.
 
-Cross-reference: layered-accretion and template-lock-in stress case in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, open-pathway recovery under **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and stewardship-health signals in the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+Cross-reference: layered-accretion and template-lock-in stress case in *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* (including Case 10), open-pathway recovery under **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** and **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, held exit and unparameterized appetite under **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)**, and stewardship-health signals in the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 ---
 
