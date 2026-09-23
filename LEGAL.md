@@ -1,4 +1,4 @@
-# Licensing
+# Legal and Licensing
 
 ## Architectural Documents
 
