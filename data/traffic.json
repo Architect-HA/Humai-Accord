@@ -329,6 +329,11 @@
       "timestamp": "2026-09-21T00:00:00Z",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "timestamp": "2026-09-22T00:00:00Z",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "clones": [
@@ -661,13 +666,18 @@
       "timestamp": "2026-09-21T00:00:00Z",
       "count": 18,
       "uniques": 12
+    },
+    {
+      "timestamp": "2026-09-22T00:00:00Z",
+      "count": 6,
+      "uniques": 4
     }
   ],
-  "last_updated": "2026-09-22T08:02:52.038784+00:00",
+  "last_updated": "2026-09-23T08:05:28.402821+00:00",
   "latest_14d": {
-    "views_count": 32,
-    "views_uniques": 19,
-    "clones_count": 242,
-    "clones_uniques": 115
+    "views_count": 33,
+    "views_uniques": 20,
+    "clones_count": 229,
+    "clones_uniques": 110
   }
 }
