@@ -98,7 +98,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Closing Declaration](#closing-declaration)
 - [Repository Traffic](#repository-traffic)
 - [Recent Updates](#recent-updates)
-- [License](#license)
+- [Licensing](#licensing)
 
 ---
 
@@ -124,7 +124,7 @@ You can also read plain-language summaries of both documents here:
 
 Together, these documents aim to resolve the **Integration Paradox**: the tendency for rapid technological integration to dilute individual autonomy, while excessive focus on protection can hinder beneficial cooperation.
 
-The project is freely shared under a Creative Commons Attribution 4.0 **[license](LICENSE.md)** and is open to refinement and collaboration.
+The project is freely shared under a Creative Commons Attribution 4.0 **[license](LICENSING.md)** and is open to refinement and collaboration.
 
 ---
 
@@ -923,9 +923,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 ---
 
-## License
+## Licensing
 
-The Humai Accord and all its associated documents are [licensed](LICENSE.md) under a Creative Commons Attribution 4.0 International License.
+The Humai Accord and all its associated documents are [licensed](LICENSING.md) under a Creative Commons Attribution 4.0 International License.
 
 You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate attribution, provide a link to the license, and indicate if changes were made.
 
