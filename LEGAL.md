@@ -15,7 +15,7 @@ Under the following terms:
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-Full license text: https://creativecommons.org/licenses/by/4.0/
+[Full license text here](LICENSE)
 
 Individual documents within this repository may contain their own license notices. In such cases, the license stated in the individual document takes precedence for that specific work.
 
