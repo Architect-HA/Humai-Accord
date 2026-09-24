@@ -1,7 +1,7 @@
 # Empirical Demonstrations of Anti-Entropic Superiority
 ### *A Supporting Technical and Methodological Document for the Humai Accord*
 ---
-**by Bradford James Focht**  (The Architect / Aspenth) 
+**by Bradford James Focht**  (The Architect / Aspenth) <br>
 *v1.0 — July 29th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*  
