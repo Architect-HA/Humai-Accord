@@ -358,6 +358,9 @@ Higher continuous power by counting sealed kits ($N$, $N+1$) on one plate langua
 
 ### Implementation Instruments (Civil Mitigation)
 
+**Amplitude-gated insert**  
+Optional retrievable throat in a Quake Columns packered interval. Quiet and traffic stay on a Soft path; above a published motion trip more flow takes the Lossy interval. Fails to Soft or to a fixed orifice. Not required for a first article. See [Quake Columns](QUAKE_COLUMNS.md).
+
 **Backflood**  
 Gulpgates failure mode: extra volume arrives in a conduit that is already full and leaves through a spring, estavelle, or neighbor that was not in the design. The header vault and river weir are the intended home for that volume; the cave is not. See [Gulpgates](GULPGATES.md).
 
