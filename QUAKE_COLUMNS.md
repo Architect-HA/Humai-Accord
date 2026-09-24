@@ -560,11 +560,11 @@ It shares empirical posture with [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) a
 
 ## Closing
 
-**Quake Columns** is how a protection zone and its neighbors share one column language: fluid internals in ordinary ground, staged Soft / Lossy / short Stiff, four functions in a fixed order, leftovers booked, instruments between events, a service header for housekeeping and retune — not a plant.
+**Quake Columns** is how a protection zone and its neighbors share one column language: fluid internals in ordinary ground, staged Soft / Lossy / short Stiff, four functions in a fixed order, leftovers booked, instruments between events, a service header for housekeeping and retune — not a power plant.
 
-The crystal does not become the keel. Salt does not become the earthquake. Count belts for band and spare. Count holes for minutes of a mode. Keep the isolate list short enough to run. Fail into a hole that is still just a hole.
+Count belts for band and spare. Count holes for minutes of a mode. Keep the isolate list short enough to run. Fail into a hole that is still just a hole.
 
-A builder who has S0 in writing, ordinary well-and-pile plant, and this transfer package can build the first article. A builder who has only this narrative cannot.
+It is the hope that, alongside **Stormcrashers** and **Gulpgates**, these designs will help make natural forces more easily and affordably mitigated, naturally resulting in a better overall quality of life for everyone on Earth and other terrestrial bodies. 
 
 ---
 
