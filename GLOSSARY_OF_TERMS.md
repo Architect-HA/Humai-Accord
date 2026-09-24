@@ -10,7 +10,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.5 — August 11th, 2026*<br>
 *v1.6 — August 12th, 2026*<br>
 *v1.7 — August 14th, 2026*<br>
-*v1.8 — August 26th, 2026*
+*v1.8 — August 26th, 2026*<br>
+*v1.9 — September 24th, 2026*
 
 ---
 
@@ -355,9 +356,46 @@ Higher continuous power by counting sealed kits ($N$, $N+1$) on one plate langua
 
 ---
 
+### Implementation Instruments (Civil Mitigation)
+
+**Backflood**  
+Gulpgates failure mode: extra volume arrives in a conduit that is already full and leaves through a spring, estavelle, or neighbor that was not in the design. The header vault and river weir are the intended home for that volume; the cave is not. See [Gulpgates](GULPGATES.md).
+
+**Campaign floor (civil)**  
+Required site packet before steel or a first belt. Stormcrashers: A0 (wind) / B0 (flume), then A1 / B1. Gulpgates: K0 then K1. Quake Columns: S0 then S1. A favorable model run is not a campaign floor. See [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), and [Quake Columns](QUAKE_COLUMNS.md).
+
+**Dual-report (civil)**  
+A public performance sentence must name the protected side and the neighbor / receptor side in the same window. One quiet gauge is not a demonstration. See *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* and the three civil articles.
+
+**Export (surface-wave)**  
+Quake Columns failure mode: leftover shaking reflects, focuses, or rides a weak layer into a district that was not part of the design. Design for that first. See [Quake Columns](QUAKE_COLUMNS.md).
+
+**Fail-closed (civil)**  
+Loss of power, heartbeat, or a trip returns the article to a safe default: porous tower without jets, intake gates shut, Quake Columns Soft or Lossy. A mode that only works while powered is not the parent article. See [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), and [Quake Columns](QUAKE_COLUMNS.md).
+
+**Gulpgates**  
+Parent civil article: a fail-closed, stage-gated intake that takes a measured surplus off a rising river, parks it in a header vault, and hands a capped flow to a traced carbonate conduit. Leftover volume stays on the surface. Not a cave used as a tank. See [Gulpgates](GULPGATES.md).
+
+**Independent remainder**  
+Two kits that share a weak layer, one aquifer, or one traced throat count as one remainder, not two. Scale-out is counting remainders, not stacking commands on shared rock or shared soil. See [Gulpgates](GULPGATES.md) and [Quake Columns](QUAKE_COLUMNS.md).
+
+**Quake Columns**  
+Parent civil article: a fail-closed belt of fluid-filled boreholes that takes a measured share of surface-wave motion (Rayleigh and Love waves in a published band) around a defined zone. Not an earthquake sink and not a fault switch. See [Quake Columns](QUAKE_COLUMNS.md).
+
+**Scale-out (civil)**  
+More protection by adding independent kits or belts after the relevant campaign floor, not by a hotter fill, a larger gulp, or a single growable maze. Parallel to Scale-out (cassette). See [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), [Quake Columns](QUAKE_COLUMNS.md), and [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md).
+
+**Stormcrashers**  
+Parent civil articles: a 100 m porous Windbreaker Tower and a Coastal Hydro-Fractal Pylon Grid for local dissipation of gust, shear, and nearshore wave energy. Shelter is an array property. Not a hurricane switch. See [Stormcrashers](STORMCRASHERS.md).
+
+**Surface waves (Rayleigh / Love)**  
+The shaking Quake Columns is written to argue with: motion that travels near the ground surface in a published frequency band. Deep body-wave arrival and a near-fault pulse stay outside that article’s guarantee. See [Quake Columns](QUAKE_COLUMNS.md).
+
+---
+
 ### Closing Note
 
-This **Glossary** is a living reference (Version 1.0). Definitions will be refined as implementation experience accumulates and as the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) requires. Primary source documents always govern in case of conflict.
+This **Glossary** is a living reference. Definitions will be refined as implementation experience accumulates and as the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) requires. Primary source documents always govern in case of conflict.
 
 ---
 
