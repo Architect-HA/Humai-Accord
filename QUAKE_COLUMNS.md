@@ -5,7 +5,7 @@
 ---
 
 by **Bradford James Focht (The Architect / Aspenth)**  
-*v1.3 — September 24th, 2026*
+*v1.0 - v1.4 — September 24th, 2026*
 
 ---
 
@@ -213,6 +213,70 @@ Each limb is a cased hole, replaceable internals, and a one-card isolate list.
 | Stiff | Short impedance / loss spike at the collar | Rare, logged window | Returns to Lossy or Soft |
 
 Tune the band with geometry across $n$. Do not give each hole a different exotic chemistry.
+
+---
+
+## Fill Classes
+
+The column needs a **class of fill matched to a published state and a published sequence**, not one soup that claims every knob. Density, viscosity, and yield change impedance and loss. They also change leak risk, freeze behavior, settling, and what reaches an aquifer if a casing fails. That is why S0-W and an SDS sit on the card before steel.
+
+Specialization is real. A live blender in the hole is not. Change class **between events** at the header, or confine a rate-dependent or field-dependent fluid to a packered interval or a retrievable collar. Power death must leave Soft or Lossy. A recipe that is only useful while pumped or stirred is not a parent fill.
+
+All examples below are **orientation families** drawn from published damper, drilling-fluid, and shear-thickening practice. They are not mix cards, not warranties, and not a license to pour an unlabeled drum. The S0 packet names the actual product, batch, SDS, freeze band, and settling test.
+
+### What each class is for
+
+| Class | Typical place | What it changes | Sequence it serves | Fail if power dies |
+|-------|---------------|-----------------|--------------------|-------------------|
+| Water | Full column | Head, weak viscosity, low density contrast | Soft; off-band; traffic; leak-home baseline | Stays water |
+| Water–gel | Full column or upper interval | Steady viscosity; slight density | Soft → Lossy without a collar | Stays gel |
+| Dense brine or weighted water | Full column only where S0-W allows | Density / impedance | Rare impedance match when geometry cannot | Stays dense; leak is worse |
+| Shear-thickening interval | Between packers only | Viscosity rises with strain *rate* | Design-band Lossy, passive | Stays STF (still Lossy) |
+| Viscous oil packer | Between packers only | High steady loss | Design-band Lossy where water path forbids gel | Stays oil |
+| Magnetorheological collar | Retrievable neck, metres | Yield / apparent viscosity under field | Short Stiff window on a rare packet | Field off → viscous neck (Lossy) |
+| Air-over-water or empty | Logged gas cap or retired probe | Resonance tuner or zero fill | Soft tuner; or a hole taken out of service | Stays as logged |
+| Set grout | Full column | Retirement | Limb withdrawn | Permanent |
+
+Do not stack four specialty fluids in one hole “so every knob is live.” One default column fill, at most one packered interval, at most one collar.
+
+### Example families (illustration only)
+
+**Water (Soft default).** Ordinary potable-class water. Density $\rho \approx 1000\,\mathrm{kg\,m^{-3}}$, viscosity $\mu \approx 1\,\mathrm{mPa\,s}$ near $20^{\circ}\mathrm{C}$. Honest product: head control and a leak that is still water. Not a design-band damper.
+
+**Water–gel (Soft / Lossy).** Water plus a published polymer gel (cellulose, xanthan, or polyacrylamide families used in civil and well practice). Orientation: $\mu$ from a few $\mathrm{mPa\,s}$ to tens or hundreds of $\mathrm{mPa\,s}$ at low shear, density still near water unless a published weighting agent is added. Use when the design band needs steady viscous loss and S0-W still allows a water-path fluid. Cross-link or dose is an S0 output. Unlogged “thick water” is not a class.
+
+**Weighted water or brine (impedance, restricted).** Sodium-chloride or calcium-chloride brine, or a published barite-weighted water, only if S0-W and the leak-home class allow that density to spill. Orientation: $\rho$ from about $1050$ to $1300+\,\mathrm{kg\,m^{-3}}$ before the recipe becomes a drilling mud this article does not want in a city belt. Use when geometry cannot supply enough impedance and the refuse envelope can stand the reflection. A dense fill is a louder mirror if Cap is ignored.
+
+**Shear-thickening interval (passive Lossy).** Published discontinuous shear-thickening suspensions — for example fumed-silica or cornstarch-class particles in polyethylene glycol or water, used in damper literature. Orientation: low $\mu$ at rest or slow traffic; a sharp rise in apparent viscosity above a published shear-rate band that S1 must measure in *this* packer geometry. Lives **between packers**, not in the whole hole, unless a settling test in S0 says the column stays mixed through freeze–thaw and quiet weeks. This is rate-triggered, not electrically triggered.
+
+**Viscous oil packer (Lossy where water path is tight).** Published damper oils or silicone fluids with a viscosity band on the data sheet. Use when S0-W refuses a gel to the aquifer but still allows a sealed packered interval. Leak-home must treat oil as oil.
+
+**Magnetorheological collar (short Stiff).** Commercial carbonyl-iron MR fluid in a short retrievable insert, same class as building MR dampers (ten-to-twenty-ton units at modest watts). Orientation: off-state is a viscous oil; on-state raises yield stress for a logged window of seconds to minutes. Coils on the insert. Field does not run the full hundred metres of hole. Particles settle — that is why the collar pulls to the header bay.
+
+**Air-over-water cap.** A logged gas volume at the head to tune column resonance (knob 3) between events. Unlogged air is a defect.
+
+**Retirement grout.** Cement or plastic grout when the limb is withdrawn. Not a working fill.
+
+### Sequence, not a cocktail
+
+A first article uses one default (water or water–gel), then adds complexity only when S0 names the gap:
+
+1. **Everyday / off-band** — water or light gel (Soft).  
+2. **Design-band packet** — packered STF or viscous interval already in place (Lossy). No header command required.  
+3. **Rare short packet inside the published window** — MR collar on, then off (Stiff).  
+4. **Wrong band, leak, or refuse-side cap** — drop to Soft; do not mix a new drum during shaking.
+
+That is the necessity: a *light* fluid cannot buy design-band loss; a *full-hole* MR slurry cannot fail closed and will not stay mixed; a *dense* fill without a refuse envelope exports. Specialized classes exist so each of those jobs has a bounded fluid. They do not exist so the belt can become a chemistry plant.
+
+### What this subsection does not do
+
+- Name a house wt% or a secret polymer.  
+- Authorize electrorheological or reactive fills advertised as reusable storage.  
+- Authorize molten salt, crystalline slurry, or a full-column magnetized mud.  
+- Replace the S0 SDS, freeze band, settling test, or leak-home class.  
+- Let geometry-tuning be skipped because “the gel will handle the band.”
+
+If two classes would work, pick the dumber one that still fails to Soft or Lossy.
 
 ---
 
