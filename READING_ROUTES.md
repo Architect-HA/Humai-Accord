@@ -214,7 +214,8 @@ Choose the path that best matches your current interest or goal. You may switch 
 4. **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**  
    How superior capability is bound to heightened obligations rather than domination rights.
 
-5. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
+5. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**<br>
+   Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
 
 **Next options:**  
 [Return to Start](#start-here) · [Big Picture](#route-5--big-picture--why-now) · [Power & Capability](#route-2--power-capability--non-domination)
