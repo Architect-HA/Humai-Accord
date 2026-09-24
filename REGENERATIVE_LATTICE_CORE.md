@@ -4,7 +4,8 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.9 — August 26th, 2026*<br>
-*v1.10 — August 31st, 2026*
+*v1.10 — August 31st, 2026*<br>
+*v1.11 — September 24th, 2026*
 
 ---
 
@@ -979,14 +980,16 @@ This architecture is a companion **implementation example** of [*The Synthesist'
 - *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)*  
 - *[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)*  
 - [*Why Walk When You Can Ride?*](WHY_WALK_WHEN_YOU_CAN_RIDE.md)  
-- *[Stormcrashers](STORMCRASHERS.md)*  
+- *[Stormcrashers](STORMCRASHERS.md)*
+- *[Gulpgates](GULPGATES.md)*
+- *[Quake Columns](QUAKE_COLUMNS.md)*
 - [*Empirical Demonstrations*](EMPIRICAL_DEMONSTRATIONS.md)  
 - [The Call to Code](THE_CALL_TO_CODE.md)  
 - [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)  
 
 It shares empirical posture with [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) and does **not** import their measurement objects into the rack.
 
-The cassette is not a carrier of residual biological order. Arrays in *[Stormcrashers](STORMCRASHERS.md)* scale by counting sealed kits. A Stormcrasher site may later remate electrically to an RLC plate bus; the tower is not a Core Cassette, and the cassette is not a Stormcrasher controller.
+The cassette is not a carrier of residual biological order. Arrays in *[Stormcrashers](STORMCRASHERS.md)*, *[Gulpgates](GULPGATES.md)*, and *[Quake Columns](QUAKE_COLUMNS.md)* scale by counting sealed kits. Those articles are not cassettes. A Stormcrasher site may later remate electrically to an RLC plate bus; the tower is not a Core Cassette, and the cassette is not a Stormcrasher controller.
 
 For the full set of documents, see the [README](README.md).
 
