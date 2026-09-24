@@ -5,7 +5,8 @@
 *v1.0 — July 29th, 2026*  
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 — August 12th, 2026*<br>
-*v1.3 — August 31st, 2026*
+*v1.3 — August 31st, 2026*<br>
+*v1.4 — September 24th, 2026*
 
 ---
 
@@ -144,21 +145,29 @@ Choose the path that best matches your current interest or goal. You may switch 
 3. **Simulation Models**  
    The models ready for implementation and stress-testing: [Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*, [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md)
 
-4. **[Implementation Guide](IMPLEMENTATION_GUIDE.md)** and **[Implementation Examples](IMPLEMENTATION_EXAMPLES.md)**  
+4. **[Implementation Guide](IMPLEMENTATION_GUIDE.md)** and **[Implementation Examples](IMPLEMENTATION_EXAMPLES.md)**<br>
    Practical guidance for applying the architecture in real systems.
 
-5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** & **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
+5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** & **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**<br>
    Integrity standards and legitimate recovery states that any material-domain implementation must respect.
 
-6. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
+6. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**<br>
+   Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
 
-7. **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** — Multi-mineral process architecture and rating cookbook. Capacity is a campaign output.
+7. **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)**<br>
+   Multi-mineral process architecture and rating cookbook. Capacity is a campaign output.
 
-8. **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** — Core Cassette companion. Count sealed kits. Continuity Floors at the Cassette.
+8. **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**<br>
+   Core Cassette companion. Count sealed kits. Continuity Floors at the Cassette.
 
-9. **[Stormcrashers](STORMCRASHERS.md)** — Atmospheric mitigation architecture. Parent articles only. Campaign A0 before any belt.
+9. **[Stormcrashers](STORMCRASHERS.md)**<br>
+   Atmospheric mitigation architecture. Parent articles only. Campaign A0 before any belt.
 
-10. **[Gulpgates](GULPGATES.md)** — Stage-gated karst intake. Refused volume stays on the surface. Campaign K0 before steel. Shared rock is shared remainder.
+10. **[Gulpgates](GULPGATES.md)**<br>
+   Stage-gated karst intake. Refused volume stays on the surface. Campaign K0 before steel. Shared rock is shared remainder.
+
+11. **[Quake Columns](QUAKE_COLUMNS.md)**<br>
+   Fluid borehole belt for surface-wave motion in a published band. Campaign S0 before steel. Not an earthquake sink.
 
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-10--structured-layered-approach) · [Physical / Civil Articles](#route-9--physical--civil-articles)
@@ -273,9 +282,11 @@ Choose the path that best matches your current interest or goal. You may switch 
 1. **[Why Walk When You Can Ride?](WHY_WALK_WHEN_YOU_CAN_RIDE.md)**  
    Recovery is a house load. It does not size the article.
 
-2. **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** — Lattices and ratings. GM-1 / family windows before a capacity claim.
+2. **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)**<br>
+   Lattices and ratings. GM-1 / family windows before a capacity claim.
 
-3. **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** — Cassette, not a maze. Plate bus and counted kits.
+3. **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**<br>
+   Cassette, not a maze. Plate bus and counted kits.
 
 4. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
    Protective metering only. No dual-use pumping, diversion, or weaponized jets.
@@ -286,7 +297,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 6. **[Gulpgates](GULPGATES.md)**  
    Variable-aperture karst intake. The cave is not the overflow tank. K0 (flood-stage trace, $Q_{\mathrm{spare}}$, refused-hydrograph vault) before steel. Arrays are sums of independent remainders.
 
-7. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+7. **[Quake Columns](QUAKE_COLUMNS.md)**<br>
+   Fluid borehole belt for surface-wave motion in a published band. Campaign S0 before steel. Not an earthquake sink.
+
+9. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
