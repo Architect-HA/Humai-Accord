@@ -5,7 +5,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.9 — August 26th, 2026*<br>
 *v1.10 — August 31st, 2026*<br>
-*v1.11 — September 24th, 2026*
+*v1.11 - v1.12 — September 24th, 2026*<br>
 
 ---
 
@@ -45,7 +45,8 @@ Worked power and mass figures are orientation arithmetic under [*Empirical Demon
 - Basic operating modes, start-up and shutdown sequences, and normal safety parameters  
 - RLC-10 envelope: dimensions, stack, mass, materials, cost bands, assembly sequence, output and life  
 - Accord bindings that govern custody, isolation, remate, audit, and exclusion of residual/somatic methods from the rack  
-- Scale-out doctrine, cassette class family (RLC-10 / RLC-10-CHP / later RLC-B), and chemistry-agnostic buffer slots  
+- Scale-out doctrine, cassette class family (RLC-10 / RLC-10-CHP / later RLC-B), and chemistry-agnostic buffer slots
+- Surface-station alternate source kit: closed-loop geothermal coupler in the source bay (RLC-10-G configuration)
 
 **Out of scope**  
 - Warp drive, antimatter, or fictional spacetime propulsion  
@@ -60,6 +61,7 @@ Worked power and mass figures are orientation arithmetic under [*Empirical Demon
 - In-flight electrolyte fill of a rack cartridge
 - A single growable fuel slug as the scale path; fuel modularity is **more sealed kits** or a later licensed class
 - Reframing fission physics so a crystal stores raw flux
+- Downhole thermoelectric modules as the primary converter; seismic fill and a geothermal loop in one casing
 
 This document is not an authorization to possess, fabricate, or operate special nuclear material. Module A is a licensed article under the user's jurisdiction. Builders fabricate only the Cookbook-side cassette.
 
@@ -298,6 +300,46 @@ If a mate is missing, the cassette is not released to that site.
 Public Kilopower / KRUSTY-class solid-fuel heat source with passive heat pipes. Published thermal band near $800\text{–}880\,^{\circ}\mathrm{C}$. Electrical class $1\text{–}10\,\mathrm{kWe}$ continuous per cassette; more power is more cassettes or a later Brayton fork, not a larger crystal.
 
 Licensed article. Not a Cookbook recipe. Not opened on the ship or station except under that article’s own rules. Custody follows Capability Asymmetry.
+
+### Alternate source kit — closed-loop geothermal (surface)
+
+On a surface station the source bay may accept a **closed-loop geothermal heat kit** in place of a fission Module A. The rest of the cassette does not change: shield language as required by the hot-side temperature, Module B tree, Stirling first, thermoelectric bus second, lattice rack as ride-through only.
+
+This is a source-bay variant, not a new core and not a thermoelectric well that skips the Stirling.
+
+**What seats in the bay**
+
+A permitted closed loop: fluid stays in pipe. Heat moves through the pipe wall from rock. The formation is not a tank and is not an injection well. Typical hardware is a coaxial string or a U-tube that returns to a wellhead skid. The skid presents the same thermal interface the fission kit would present to the tree — a hot coupler the cassette is already written to accept.
+
+Depth and gradient are site outputs. A shallow hole with a few degrees of span is not this kit. This kit exists where a survey shows enough heat and flow for the Stirling class you intend to seat.
+
+**Order of conversion (fixed)**
+
+1. Closed loop brings heat to the coupler.  
+2. Tree carries heat to the Stirling gallery.  
+3. Stirling makes the main DC.  
+4. Thermoelectric bus takes reject heat only.  
+5. Lattice covers minutes of ride-through, not the well.
+
+Do not hang modules on the tubing and call that the cassette. Downhole TE as the primary converter is a different plant and is out of this section.
+
+**Rules**
+
+- One job per hole. A Quake Columns belt, if present on the same pad, is a separate shallow class with its own campaign. Do not put seismic fill and a geothermal loop in one casing.
+- Leak-home and isolate stay first-class. Escaped loop fluid has a named sump. Circulation stop is fail-closed: watts die; the hole is still a hole.
+- Scale-out is more sealed loops and more cassettes, not a hotter slurry in the same pipe and not a growable well.
+- TE watts stay on the logged house-load channel. They are not a lattice rating and not a reason the station cannot leave.
+- The geothermal kit is permitted well work under local law, the same way Module A is a licensed article. This file is not that permit and not an open-build of deep wells.
+- Custody of the hot coupler does not become station government.
+
+**What this section does not do**
+
+- Replace RLC-10 transit mode. A geothermal loop is a surface-station source.
+- Authorize open-hole exchange with an aquifer, fracking for heat, or molten salt in the tree.
+- Authorize using earthquake heat or Quake Columns wall friction as the hot side.
+- Quote a kilowatt rating from a gradient-on-paper.
+
+A station may publish “RLC-10-G” as the same cassette with this source kit seated. That name is a configuration, not a new Cookbook family.
 
 ### Module B — Circulatory tree
 
