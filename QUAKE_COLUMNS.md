@@ -572,3 +572,7 @@ It is the hope that, alongside **Stormcrashers** and **Gulpgates**, these design
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 You are free to share and adapt this material for any purpose, even commercially, provided appropriate attribution is given, a link to the license is provided, and any changes are indicated.
+
+This license covers the architectural description. It does not grant rights in third-party standards, mill data, or anyone else’s patents on specific wells, fills, packers, inserts, or barriers. Builders remain responsible for permits, well and geotechnical stamps, water-path class, and freedom to operate in their jurisdiction.
+
+No warranty of merchantability, fitness, magnitude reduction, neighbor quiet, or insurance credit is offered. The first honest product of a Quake Columns belt is a measured change in the published band with a measured record outside the zone.
