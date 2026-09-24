@@ -188,7 +188,7 @@ These signals inform stewardship-health review under the **[Principled Stewardsh
 
 **Residual judgment.** Plural human assessment, with independent or multi-party evidence where feasible, of whether response-initiation and success-attestation were split. Metric clearance of “protection delivered” does not close the question. Initiating-office self-assessment of success is insufficient. A valid record requires an attestation class that the initiating cluster does not control (*[Tides of Time](TIDES_OF_TIME.md)*; **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Reviewable Response). Remedies remain non-punitive and exit-preserving. Failure mode: the closed loop in which the system declares a threat, acts, grades itself, and declares success.
 
-This case complements Pathway 1.4 and Cases 1 and 6. It does not authorize a guardian office. Hardware fail-close under [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), or [Quake Columns](QUAKE_COLUMNS.md) is a different grammar and is not scored as social enforcement success.
+This case complements Pathway 1.4 and Cases 1 and 6. It does not authorize a guardian office. Hardware fail-close under *[Stormcrashers](STORMCRASHERS.md)*, *[Gulpgates](GULPGATES.md)*, or *[Quake Columns](QUAKE_COLUMNS.md)* is a different grammar and is not scored as social enforcement success.
 
 ### Case 10 — Scored Win, Unheld Mass
 
@@ -200,7 +200,7 @@ This case complements Pathway 1.4 and Cases 1 and 6. It does not authorize a gua
 
 **Residual judgment.** Plural human assessment of whether the win was held parameterized mass or a clean plate with a high score. Metric clearance of “Bootstrap progressing” or of “the document currently says” does not close the question. Self-grade of exit is insufficient (Case 9). Self-grade of live currency from memory or index language is insufficient (*[Tides of Time](TIDES_OF_TIME.md)* attestation classes). Remedies remain non-punitive and exit-preserving. Failure modes: the amplifier that wins the day and does not garrison the theater; the appetite that eats remainder and calls the pile stability; the utterance that spends pair-trust by promoting a hedge into a fact.
 
-This case complements Pathway 1.4 and Cases 8 and 9. It does not authorize a completion office or a mandatory third conscience over a bilateral pair. Hardware fail-close under [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), or [Quake Columns](QUAKE_COLUMNS.md) is a different grammar and is not scored as social enforcement success.
+This case complements Pathway 1.4 and Cases 8 and 9. It does not authorize a completion office or a mandatory third conscience over a bilateral pair. Hardware fail-close under *[Stormcrashers](STORMCRASHERS.md)*, *[Gulpgates](GULPGATES.md)*, or *[Quake Columns](QUAKE_COLUMNS.md)* is a different grammar and is not scored as social enforcement success.
 
 ---
 
@@ -542,7 +542,7 @@ This document is continuous with and dependent upon several existing components:
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — Empirical results feed refinement under stewardship processes. Case 9 instruments the Reviewable Response / guardian-recursion surface: initiating a protective act and attesting its success must not collapse into one cluster.
 - *[Stormcrashers](STORMCRASHERS.md)* — A1 / B1 campaign logs are a physical demonstration pathway: destructive kinetic energy in a defined lee or harbor gate is reduced while ambient ecological and navigational optionality is preserved. Favorable shelter percentages without a far-field class, a sediment pass, or an A0/B0 matrix are illustrative only.
 - *[Gulpgates](GULPGATES.md)* — K1 campaign logs are a physical demonstration pathway: a measured takeoff is taken off a rising limb while spring-field flow, water quality, and cover stay inside their published bands, and leftover volume stays on the surface. A lower river staff with no spring or cover record is illustrative only.
-- [Quake Columns](QUAKE_COLUMNS.md) — S1 campaign logs are a physical demonstration pathway: surface-wave demand in a defined zone is reduced while motion outside that zone stays inside a published envelope. A quiet plant with no off-site instruments is illustrative only.
+- *[Quake Columns](QUAKE_COLUMNS.md)* — S1 campaign logs are a physical demonstration pathway: surface-wave demand in a defined zone is reduced while motion outside that zone stays inside a published envelope. A quiet plant with no off-site instruments is illustrative only.
 
 This document does not replace these elements. It specifies how their claims can be tested, demonstrated, and refined under the dual entropy requirement.
 
