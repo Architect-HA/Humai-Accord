@@ -660,6 +660,8 @@ ATMA, MAMG, wildfire/ember, and Arctic ice-collar are horizon names on the scala
 
 [Gulpgates](GULPGATES.md) is the hydrologic sibling: same dissipate-don’t-dam and kit-count doctrines; different fluid and different failure mode (backflood, not coherent gust).
 
+[Quake Columns](QUAKE_COLUMNS.md) is the ground sibling: same fail-closed, kit-count approach; different medium and different failure mode (leftover shaking sent into the next block, not a coherent gust).
+
 ---
 
 ## License
