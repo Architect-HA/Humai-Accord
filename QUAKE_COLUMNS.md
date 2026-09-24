@@ -5,7 +5,7 @@
 ---
 
 by **Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 - v1.4 — September 24th, 2026*
+*v1.0 - v1.5 — September 24th, 2026*
 
 ---
 
@@ -277,6 +277,32 @@ That is the necessity: a *light* fluid cannot buy design-band loss; a *full-hole
 - Let geometry-tuning be skipped because “the gel will handle the band.”
 
 If two classes would work, pick the dumber one that still fails to Soft or Lossy.
+
+---
+
+## Amplitude-Gated Insert
+
+An optional retrievable insert sits in the packered interval and changes how much fluid takes the Lossy path as motion grows. It is neither a motor nor magnetic spike and thus not required for a first article.
+
+Quiet and traffic stay on a Soft path: water or light gel through an open throat. When particle motion in the published band passes a trip you name in S0, a reed, sleeve, or elastomer throat sends more flow through the Lossy interval (shear-thickening or viscous packer). When the packet ends, or the insert fails, the throat returns to the open path or to a fixed orifice published on the isolate card.
+
+The wave moves the fluid. The insert only shapes that motion. A gentle helix on the same tube can turn slosh into a slow spiral and raise viscous loss. Nothing has to spin under power during shaking. A surface turn of the insert is allowed only between events, to check settlement.
+
+**Rules**
+
+- One insert per limb, in the packered span — not the whole hole.
+- Trip amplitude and fail path are S0 outputs. If you cannot name them, do not run a gated insert.
+- Fail-closed: stuck, torn, or unpowered means Soft or a published fixed orifice. Never a tighter throat than the card.
+- Do not stack a gated insert, a full-column specialty fill, and a live collar “so every knob is live.” Default fill + one packered interval + this insert is enough. The short magnetorheological collar remains a later kit.
+- Geometry still sets the band across the row. The insert does not replace spacing, depth, or head.
+
+**What this section does not do**
+
+- Authorize a pump on the formation, a wellhead emitter, or poles around the casing.
+- Authorize extreme spin, electroactive slurry, or a temperature story on the hole.
+- Turn a quiet plant into a rating without refuse-side instruments.
+
+A first article may omit this insert and still be Quake Columns. Add it when S0 shows that Soft water and a static Lossy interval leave a gap only an amplitude trip can fill.
 
 ---
 
