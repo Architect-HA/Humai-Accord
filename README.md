@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial*
 <br>
 <br>
 <br>
@@ -83,6 +83,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Regenerative Lattice Core](#regenerative-lattice-core)
 - [Stormcrashers](#stormcrashers)
 - [Gulpgates](#gulpgates)
+- [Quake Columns](#quake-columns)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -560,6 +561,16 @@ A supporting technical instrument for metering flood surplus into a *traced* car
 [→ Read **Gulpgates**](GULPGATES.md)
 
 ---
+
+## Quake Columns
+#### Stage-Gated Fluid Columns for Surface-Wave Refusal
+*A Borehole Belt for Rayleigh–Love Dissipation — Not an Earthquake Sink*
+
+A supporting technical instrument for metering surplus surface-wave motion (Rayleigh and Love waves in a published band) into a fail-closed belt of fluid-filled boreholes. One parent article: cased limbs on a service header, staged Soft / Lossy / short Stiff, leftover motion booked on a published refuse path. Capacity is spare dissipation in that band, not the earthquake’s total energy and not the neighbor block’s already-used quiet. The crust is never the overflow tank. Campaigns S0 and S1 are required before steel; a measured $V_s$ profile and refuse envelope are the S0 cost drivers. Dual-use steering, focusing, and directed export are excluded. Protective dissipation only, under the **Utilization Integrity Protocol**. Crustal sibling of [Stormcrashers](STORMCRASHERS.md) and [Gulpgates](GULPGATES.md).
+
+[→ Read **Quake Columns**](QUAKE_COLUMNS.md)
+
+---
 ---
 
 # The Humai Accord
@@ -699,6 +710,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[September 24th, 2026]**
+- Added **[Quake Columns](QUAKE_COLUMNS.md)** (*Stage-Gated Fluid Columns for Surface-Wave Refusal*) — fail-closed fluid borehole belt for Rayleigh and Love demand in a published band. Architecture and campaign document; S0 (site $V_s$, refuse envelope, aquifer / liquefaction remainder, leak-home) required before steel. Not an earthquake sink and not a fault switch. Completes the air / water / ground mitigation trio with Stormcrashers and Gulpgates. Added corresponding Table of Contents entry and document section immediately after Gulpgates. Updated keywords list at top of README.
 
 **[September 14th, 2026]**
 - Hardened the Bootstrap / remainder / speech-currency joint across the architecture. Held exit, unparameterized appetite, and claim class at live artifacts are now named where the metrics already live.
