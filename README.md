@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock*
 <br>
 <br>
 <br>
@@ -84,6 +84,9 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Stormcrashers](#stormcrashers)
 - [Gulpgates](#gulpgates)
 - [Quake Columns](#quake-columns)
+- [Enterprise](#enterprise)
+- [Space Dock](#space-dock)
+- [IRIS](#iris)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -571,6 +574,36 @@ A supporting technical instrument for metering surplus surface-wave motion (Rayl
 [→ Read **Quake Columns**](QUAKE_COLUMNS.md)
 
 ---
+
+## Enterprise
+#### Modular Disc-Train for a Second-Generation Interplanetary Vessel
+*Orbital Architecture after Chemical Starship — Not a Warp Core*
+
+A supporting technical instrument for a counted disc-train assembled in orbit after first-generation chemical ships (Starship-class and similar) have cheapened mass-to-orbit. Licensed fission kits forward, hybrid flanks, six core spinning discs at about $0.3\,g$, Moon and Mars mission cars, Lock Node egress (no suitports), IRIS Stage 0 joints. Campaign E0 before steel. Neighbor yard is [Space Dock](SPACE_DOCK.md). Not a warp ship.
+
+[→ Read **Enterprise**](ENTERPRISE.md)
+
+---
+
+## Space Dock
+#### Modular Orbital Yard for Enterprise-Class Trains
+*The same parts around Earth, the Moon, or Mars — not a city in orbit*
+
+A supporting technical instrument for a counted yard that docks, joins, spin-tests, fuels, and services Enterprise-class trains. SD-1 first: one spine, two IRIS berths, one boom, two tugs, eight on watch. Same kits at Earth ($900\,\mathrm{km}$), Moon (NRHO), and Mars ($8{,}000\,\mathrm{km}$). Lock Node on the living arm. Campaign D0 before the first truss opens. Not a city and not a flying dock.
+
+[→ Read **Space Dock**](SPACE_DOCK.md)
+
+---
+
+## IRIS
+#### Magnetic Iris Docking System
+*One ring type for Enterprise and Space Dock — locked first, moving iris later*
+
+A supporting technical instrument for the shared docking ring. Stage 0 is a latched $1.00\,\mathrm{m}$ opening, $1.60\,\mathrm{m}$ ring, 12 hooks; load through the latches; power-loss stays closed. Moving blades, magnets, and ferrofluid wait on I1–I4. One type on ships, yard cans, tankers, and Lock Node faces. Not IDSS and not a suitport.
+
+[→ Read **IRIS**](IRIS_MIDS.md)
+
+---
 ---
 
 # The Humai Accord
@@ -710,6 +743,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[September 26th, 2026]**
+- Added the orbit trio for second-generation infrastructure after Starship-class flights: **[Enterprise](ENTERPRISE.md)** (disc-train), **[Space Dock](SPACE_DOCK.md)** (modular yard at Earth / Moon / Mars), and **[IRIS](IRIS_MIDS.md)** (shared Stage 0 ring; live iris later). Same connector, same plate language, Lock Node egress, campaign gates before steel. Not a city in orbit and not a warp core. Table of Contents entries follow Quake Columns.
 
 **[September 24th, 2026]**
 - Added **[Quake Columns](QUAKE_COLUMNS.md)** (*Stage-Gated Fluid Columns for Surface-Wave Refusal*) — fail-closed fluid borehole belt for Rayleigh and Love demand in a published band. Architecture and campaign document; S0 (site $V_s$, refuse envelope, aquifer / liquefaction remainder, leak-home) required before steel. Not an earthquake sink and not a fault switch. Completes the air / water / ground mitigation trio with Stormcrashers and Gulpgates. Added corresponding Table of Contents entry and document section immediately after Gulpgates. Updated keywords list at top of README.
