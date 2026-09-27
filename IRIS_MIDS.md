@@ -299,6 +299,8 @@ flowchart TB
 
 **Lock Node (six faces).** Same Stage 0 ring six times on one short can: fore (train), aft (cap or reverse-prop), four waist (each lander or space door). No new type.
 
+![IRIS Stage 0 lock node (I0)](iris_i0/IRIS_I0_lock_node.jpg)
+
 ```mermaid
 flowchart LR
   Crew[Crew train] --> F[Fore]
