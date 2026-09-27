@@ -90,7 +90,7 @@ This file is not a flight manual, not a bid, and not a launch license. Figures b
 
 A single rigid hull that holds the reactor, the crew, and the lander in one can puts dose, vibration, and blast-radius in the same room. A train lets the hot and loud end live forward. Crew discs sit behind a published tether length. If a tether or a disc fails, you isolate that car.
 
-Each habitat car is a **circular disc**. The hub is a near-zero-$g$ crossing. The rim is the floor. Climb a spoke ladder down; at the rim you stand at about $0.3\,g$.
+Each habitat car is a **circular disc**. The hub is a near-zero- $g$ crossing. The rim is the floor. Climb a spoke ladder down; at the rim you stand at about $0.3\,g$.
 
 | Rim radius | Spin for $0.3\,g$ | Floor if ring width $4\,\mathrm{m}$ | Role |
 |------------|-------------------|--------------------------------------|------|
