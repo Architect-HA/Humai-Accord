@@ -81,12 +81,12 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
 - [The Synthesist's Cookbook](#the-synthesists-cookbook)
 - [Regenerative Lattice Core](#regenerative-lattice-core)
-- [Stormcrashers](#stormcrashers)
-- [Gulpgates](#gulpgates)
-- [Quake Columns](#quake-columns)
 - [Enterprise](#enterprise)
 - [Space Dock](#space-dock)
 - [IRIS](#iris)
+- [Stormcrashers](#stormcrashers)
+- [Gulpgates](#gulpgates)
+- [Quake Columns](#quake-columns)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -545,36 +545,6 @@ An implementation example of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.
 
 ---
 
-## Stormcrashers
-#### Atmospheric Mitigation Architecture
-*A Buildable Blueprint for the 100 m Windbreaker Tower and the Coastal Hydro-Fractal Pylon Grid*
-
-A supporting technical instrument for localized porous dissipation of gust, shear, and nearshore wave energy. Coalesces two parent articles — a 100 m Windbreaker Tower and a Coastal Hydro-Fractal Pylon Grid — as an architecture and campaign document rather than a stamped construction set. Performance bands are provisional envelopes drawn from published windbreak, UHPC-tower, ducted-turbine, perforated-breakwater, suction-caisson, and bubble-curtain literature. Shelter is treated as an array property; a single unit is not a hurricane switch. Campaigns A0/B0 and A1/B1 are required before any belt, bay gate, or later-family article. Dual-use jet, mesh, and duct hardware is limited to protective dissipation under the **Utilization Integrity Protocol**.
-
-[→ Read **Stormcrashers**](STORMCRASHERS.md)
-
----
-
-## Gulpgates
-#### Stage-Gated Karst Intake Architecture
-*A Variable-Aperture Flood Surplus Article for Traced Carbonate Conduits*
-
-A supporting technical instrument for metering flood surplus into a *traced* carbonate conduit. One parent article: a fail-closed, stage-gated intake behind a horizontal header vault. Capacity is spare conduit $Q$, not river $Q$ and not the receiving spring’s already-used flood $Q$. Refused volume stays on the surface (vault live storage, then a weir home to the river). The cave is never the overflow tank. Campaigns K0 and K1 are required before steel; flood-stage dye is the K0 cost driver. Ordinary-flood debris is in scope (sacrificial outer rack, inner screen, rack $\Delta h$ trip, abrasion allowance). Himalayan outburst / boulder-front paths are not. Dual-use pumping, diversion, and aquifer-poisoning modes are excluded. Protective metering only, under the **Utilization Integrity Protocol**.
-
-[→ Read **Gulpgates**](GULPGATES.md)
-
----
-
-## Quake Columns
-#### Stage-Gated Fluid Columns for Surface-Wave Refusal
-*A Borehole Belt for Rayleigh–Love Dissipation — Not an Earthquake Sink*
-
-A supporting technical instrument for metering surplus surface-wave motion (Rayleigh and Love waves in a published band) into a fail-closed belt of fluid-filled boreholes. One parent article: cased limbs on a service header, staged Soft / Lossy / short Stiff, leftover motion booked on a published refuse path. Capacity is spare dissipation in that band, not the earthquake’s total energy and not the neighbor block’s already-used quiet. The crust is never the overflow tank. Campaigns S0 and S1 are required before steel; a measured $V_s$ profile and refuse envelope are the S0 cost drivers. Dual-use steering, focusing, and directed export are excluded. Protective dissipation only, under the **Utilization Integrity Protocol**. Crustal sibling of [Stormcrashers](STORMCRASHERS.md) and [Gulpgates](GULPGATES.md).
-
-[→ Read **Quake Columns**](QUAKE_COLUMNS.md)
-
----
-
 ## Enterprise
 #### Modular Disc-Train for a Second-Generation Interplanetary Vessel
 *Orbital Architecture after Chemical Starship — Not a Warp Core*
@@ -602,6 +572,36 @@ A supporting technical instrument for a counted yard that docks, joins, spin-tes
 A supporting technical instrument for the shared docking ring. Stage 0 is a latched $1.00\,\mathrm{m}$ opening, $1.60\,\mathrm{m}$ ring, 12 hooks; load through the latches; power-loss stays closed. Moving blades, magnets, and ferrofluid wait on I1–I4. One type on ships, yard cans, tankers, and Lock Node faces. Not IDSS and not a suitport.
 
 [→ Read **IRIS**](IRIS_MIDS.md)
+
+---
+
+## Stormcrashers
+#### Atmospheric Mitigation Architecture
+*A Buildable Blueprint for the 100 m Windbreaker Tower and the Coastal Hydro-Fractal Pylon Grid*
+
+A supporting technical instrument for localized porous dissipation of gust, shear, and nearshore wave energy. Coalesces two parent articles — a 100 m Windbreaker Tower and a Coastal Hydro-Fractal Pylon Grid — as an architecture and campaign document rather than a stamped construction set. Performance bands are provisional envelopes drawn from published windbreak, UHPC-tower, ducted-turbine, perforated-breakwater, suction-caisson, and bubble-curtain literature. Shelter is treated as an array property; a single unit is not a hurricane switch. Campaigns A0/B0 and A1/B1 are required before any belt, bay gate, or later-family article. Dual-use jet, mesh, and duct hardware is limited to protective dissipation under the **Utilization Integrity Protocol**.
+
+[→ Read **Stormcrashers**](STORMCRASHERS.md)
+
+---
+
+## Gulpgates
+#### Stage-Gated Karst Intake Architecture
+*A Variable-Aperture Flood Surplus Article for Traced Carbonate Conduits*
+
+A supporting technical instrument for metering flood surplus into a *traced* carbonate conduit. One parent article: a fail-closed, stage-gated intake behind a horizontal header vault. Capacity is spare conduit $Q$, not river $Q$ and not the receiving spring’s already-used flood $Q$. Refused volume stays on the surface (vault live storage, then a weir home to the river). The cave is never the overflow tank. Campaigns K0 and K1 are required before steel; flood-stage dye is the K0 cost driver. Ordinary-flood debris is in scope (sacrificial outer rack, inner screen, rack $\Delta h$ trip, abrasion allowance). Himalayan outburst / boulder-front paths are not. Dual-use pumping, diversion, and aquifer-poisoning modes are excluded. Protective metering only, under the **Utilization Integrity Protocol**.
+
+[→ Read **Gulpgates**](GULPGATES.md)
+
+---
+
+## Quake Columns
+#### Stage-Gated Fluid Columns for Surface-Wave Refusal
+*A Borehole Belt for Rayleigh–Love Dissipation — Not an Earthquake Sink*
+
+A supporting technical instrument for metering surplus surface-wave motion (Rayleigh and Love waves in a published band) into a fail-closed belt of fluid-filled boreholes. One parent article: cased limbs on a service header, staged Soft / Lossy / short Stiff, leftover motion booked on a published refuse path. Capacity is spare dissipation in that band, not the earthquake’s total energy and not the neighbor block’s already-used quiet. The crust is never the overflow tank. Campaigns S0 and S1 are required before steel; a measured $V_s$ profile and refuse envelope are the S0 cost drivers. Dual-use steering, focusing, and directed export are excluded. Protective dissipation only, under the **Utilization Integrity Protocol**. Crustal sibling of [Stormcrashers](STORMCRASHERS.md) and [Gulpgates](GULPGATES.md).
+
+[→ Read **Quake Columns**](QUAKE_COLUMNS.md)
 
 ---
 ---
@@ -746,6 +746,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 
 **[September 26th, 2026]**
 - Added the orbit trio for second-generation infrastructure after Starship-class flights: **[Enterprise](ENTERPRISE.md)** (disc-train), **[Space Dock](SPACE_DOCK.md)** (modular yard at Earth / Moon / Mars), and **[IRIS](IRIS_MIDS.md)** (shared Stage 0 ring; live iris later). Same connector, same plate language, Lock Node egress, campaign gates before steel. Not a city in orbit and not a warp core. Table of Contents entries follow Quake Columns.
+- Reordered the README to better group the newest documents.
 
 **[September 24th, 2026]**
 - Added **[Quake Columns](QUAKE_COLUMNS.md)** (*Stage-Gated Fluid Columns for Surface-Wave Refusal*) — fail-closed fluid borehole belt for Rayleigh and Love demand in a published band. Architecture and campaign document; S0 (site $V_s$, refuse envelope, aquifer / liquefaction remainder, leak-home) required before steel. Not an earthquake sink and not a fault switch. Completes the air / water / ground mitigation trio with Stormcrashers and Gulpgates. Added corresponding Table of Contents entry and document section immediately after Gulpgates. Updated keywords list at top of README.
