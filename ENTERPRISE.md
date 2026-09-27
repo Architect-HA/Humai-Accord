@@ -7,7 +7,7 @@
 by **Bradford James Focht (The Architect / Aspenth)**  
 *v0.1 - v1.0 — September 24th, 2026*   
 *v1.1 - v1.9 — September 26th, 2026*  
-*v1.10 - v1.14 — September 27th, 2026*  
+*v1.10 - v1.15 — September 27th, 2026*  
 
 ---
 
@@ -542,6 +542,35 @@ Numbers are ISS-class rates for **12 people**. They size tanks and loops. They a
 **Loops.** Each crew disc has a wet stub that can isolate. The life-support disc holds the processors. One dead disc must not dry the train. One dead cassette must not stop electrolysis if the backup bottles and a second power path are up.
 
 **Plants.** Hydroponics count as a buffer and a morale loop. Do not subtract plant O₂ from the electrolysis sizing until a measured campaign says so.
+
+### Wet cell (from the booth kit)
+
+A phone-booth centrifuge that spins one sleeper to $0.3\,g$ is **refused on this train**. At booth radius that rate is about $12\text{–}26\,\mathrm{rpm}$. The disc already gives $0.3\,g$ at $3.3\,\mathrm{rpm}$. Do not stack a second spin inside the first.
+
+What is kept from that kit:
+
+| Piece | Use on the rim |
+|-------|----------------|
+| Air in at the hub-side ("top"), out at the floor ("feet") | Carries mist and odor to the drain, not into the cabin |
+| Porous wall liner | Catches splash and condensate; wrings to the water loop |
+| Sealed booth envelope | One shower / one toilet per lockable cell, not an open rim wet wall |
+| Isolate hatch | A flooded cell does not wet the quarters air |
+
+**Shower.** Stand on the rim floor. Water and air go to the floor drain. No spinning drum. Planning one cell per six people (two on quarters, one on commons as the spare).
+
+**Toilet.** Same cell family or a smaller stall on the same air path. Bowl airflow toward the waste line. Solids to the dry/store path already in Waste. Do not vent the booth to space as the daily flush.
+
+**Not a sleeper.** Cabins stay cabins. The medical disc may keep **one** short-radius chair later for tests when a disc is stopped. That is a clinic tool, not twelve booths.
+
+### Hub bearing — mechanical first, maglev later
+
+The old booth used magnetic levitation to turn a sealed can. On Enterprise that idea belongs at the **hub bearing**, not around a bed.
+
+**First article (C04).** Mechanical bearing and motors, as already written. Isolators, damping layers, one disc at a time.
+
+**Later card.** A magnetic bearing at the still hub / turning rim split: less wear, active damping of a measured whirl. Same keep-out from an RLC plate as IRIS ($1.0\,\mathrm{m}$ or a map). Power-loss: the mechanical brake still grabs. Maglev does not fly the train and does not replace wheels.
+
+Do not magnetically spin the whole disc as one levitated room. Do not put maglev coils in the rim floor under people's feet.
 
 **Refuse.** Venting cabin air as the daily CO₂ plan. Sharing the water loop with ferrofluid, gel, or RLC salt. Putting the only O₂ bottles on the lander.
 
