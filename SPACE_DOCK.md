@@ -8,7 +8,7 @@ by **Bradford James Focht (The Architect / Aspenth)**
 *v1.0 - v1.1 — September 24th, 2026*    
 *v1.2 - v1.4 — September 25th, 2026*    
 *v1.5 - v1.13 — September 26th, 2026*  
-*v1.14 - v1.17 — September 27th, 2026*    
+*v1.14 - v1.18 — September 27th, 2026*    
 
 ---
 
@@ -319,6 +319,10 @@ The spin boom is the hardest part of the yard.
 It must hold a disc at the published radius, spin it to about $0.3\,g$ (about $3.3\,\mathrm{rpm}$ at $25\,\mathrm{m}$), measure bearing heat and balance, then **stop the spin** before anyone attaches that disc to a ship.
 
 How the disc itself spins (still hub core, turning rim, motors and brakes) lives in [Enterprise](ENTERPRISE.md). The boom is the first place that motion is proven. Do not invent a second spin story here.
+
+**Boom bearing.** First article is mechanical, same as ship C04. A magnetic bearing on the boom (the old sleep-pod levitation, scaled) is a later D-gate after D0-S measures heat and whirl on the mechanical set. Power-loss still slams the brake. Maglev does not hold a spinning disc if the brake is the safety.
+
+**No booth hotel.** The living can does not spin. Do not fill it with phone-booth centrifuges for sleep or showers. Watch wash is air-and-liner wet cells in $0\,g$, or a docked disc that is **stopped**. A single short-radius chair in storage is optional, not eight sleepers.
 
 A $25\,\mathrm{m}$ disc at that speed has a lot of stored spin. Gate D0-S must state:
 
