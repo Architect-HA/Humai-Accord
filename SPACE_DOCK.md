@@ -8,7 +8,7 @@ by **Bradford James Focht (The Architect / Aspenth)**
 *v1.0 - v1.1 — September 24th, 2026*    
 *v1.2 - v1.4 — September 25th, 2026*    
 *v1.5 - v1.13 — September 26th, 2026*  
-*v1.14 - v1.18 — September 27th, 2026*    
+*v1.14 - v1.19 — September 27th, 2026*    
 
 ---
 
@@ -271,6 +271,10 @@ Slice count: a $25\,\mathrm{m}$ disc into pieces that fit an $8\,\mathrm{m}$ fai
 ---
 
 The living-arm **Lock Node (SD-H04)** is the same six-face article as the ship: fore to the living can, four waist rings that can be a lander or a space door, aft capped unless a later module sits there. Unused faces stay capped. A lander parks on a waist face. Reverse-prop (RP-1) may sit on a berth or a stub. It does not fire at the yard.
+
+**Mag-path.** Same MP-1 strips as the ship: living-can interior, Lock Node clean side, **exterior truss and boom-root walk lines** (not on live cells, not on a spinning disc). 0 g cling only. Not gravity. Power-loss releases.
+
+**Dust cycle.** Same Lock Node dirty-face cycle as [Enterprise](ENTERPRISE.md): magnetic probe, optional short N₂ puff, working pulse, filter into **sealed cans** on that face. Do not blow cuttings down the truss.
 
 ---
 
