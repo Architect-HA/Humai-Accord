@@ -7,7 +7,7 @@
 by **Bradford James Focht (The Architect / Aspenth)**  
 *v0.1 - v1.0 — September 24th, 2026*   
 *v1.1 - v1.9 — September 26th, 2026*  
-*v1.10 - v1.15 — September 27th, 2026*  
+*v1.10 - v1.16 — September 27th, 2026*  
 
 ---
 
@@ -273,6 +273,22 @@ This is ordinary rotating-habitat practice: still axis, turning floor, motors an
 
 **Moving between cars.** Daily traffic is hub → tether → hub, not rim to rim. You climb the spoke to the still hub, float or handrail the tether (about $15\text{–}25\,\mathrm{m}$, $2\,\mathrm{m}$ class tunnel), and enter the next still hub. The Lock Node and the fore stack are already still; you do not cross a bearing to reach them. Cargo uses the same path, or an IRIS face and a tug at the yard. Do not cut a door in the rim skin as a shortcut between discs.
 
+### Mag-path (0 g spine and outer skin)
+
+This is not gravity plating and not $1\,g$. The spinning rim already has $0.3\,g$. **No strips on the cabin floor.**
+
+**Inside.** The still spine only: hub cores, tether pylon, fore-stack gallery, Lock Node clean side.
+
+**Outside.** Narrow walk lines on the hull for EVA: along the fore stack, tether restraint webbing, Lock Node barrel, lander waist. Laid between gel bumper tiles. **Not** under live solar cells. Not across a spinning rim skin.
+
+**How.** Boots carry a thin ferromagnetic plate. The strip sees the boot and softens or firms the field so the cling is loose. You can lift a foot. You are not locked to the ship.
+
+**Power-loss.** Field dies to a weak residual or to off. A dead strip does not trap a boot. Burns and launch use straps, not the path.
+
+**Keep-out.** **$1.0\,\mathrm{m}$** from an RLC plate. Not under a later maglev hub bearing. Strips do not share a driver with IRIS coils.
+
+Kit: MP-1 (interior lots + exterior lots + boot plates). Same article on the yard truss and boom root.
+
 **Living with $3.3\,\mathrm{rpm}$.** At the rim you feel about $0.3\,g$ toward the floor. Turn your head fast or drop a tool and it will drift in a curve (Coriolis). That is expected. Cabins keep the head toward the hub or along the rim, not a mix that fights the inner ear. First weeks use short rim shifts. If E0-G cannot show a crew can work at this rate, drop the first discs to $20\,\mathrm{m}$ (faster spin, worse Coriolis) only as a mass save — or keep $25\,\mathrm{m}$ and accept the floor area. Do not claim Earth-normal $g$ on a $15\,\mathrm{m}$ rim.
 
 **Spin-up and spin-down (planning).** On the dock boom: minutes, per D0-S. On the train: **$15\text{–}30\,\mathrm{min}$** to $3.3\,\mathrm{rpm}$, one disc at a time. Remate: full stop first. Abort spin-down: same order, brakes on if power dies.
@@ -465,6 +481,18 @@ Suitports are refused. The ship’s door is a **Lock Node**: a short, non-spinni
 Six faces, one ring type. Every waist and the aft face is **universal**: lander berth or space door. You do not machine a second hatch family. Cap any face you are not using.
 
 **Inside.** One clean vestibule from the train. Each used face has its own pump-down lock (four suited on a lander/EVA face; two minimum). Dirty / dust volume stays on that face. Quarters air never shares it. Cycle **10–20 min**. Power-loss: hatches stay closed.
+
+**Dust cycle (Moon, Mars, cuttings).** After EVA or lander return, the dirty face runs a named cycle. Dust goes into **sealed cans** on that face. It does not go into the truss, the water loop, or the clean vestibule.
+
+1. Hatch in. Suit stays on. Dirty face already under vacuum.  
+2. **Magnetic probe** (low field). See what actually leaves the fabric. That chooses among a few stored pulse recipes. Mars dust often barely moves; do not pretend one waveform fits every body.  
+3. Optional **short N₂ puff** from the isolate tanks — enough for an acoustic/size listen, not a roomful of air. Same nitrogen you already fly. It will touch the grains; it will not be a reagent. Argon is a later coupon card, not first article.  
+4. Working magnetic pulse onto a collector.  
+5. Vacuum / air-knife pass.  
+6. Collector dumps through a filter into a **sealed can**. Cap it on the dirty side. Label body and date. Store with solids/trash, not with food or O₂.  
+7. Then undress.
+
+Do not pulse the clean vestibule. Do not run coils while a neighbor IRIS face is live. Power-loss: pulse off, puff valves closed, hatch closed, cans stay shut. Acoustic listen is a helper. The probe and the can are the job. This does not replace bag-down of what is still on the suit.
 
 **Landers.** They remate on a waist face, not behind the node on the train axis. Two waist faces can hold two landers (Mars option). Leaving a lander does not block the two space doors.
 
