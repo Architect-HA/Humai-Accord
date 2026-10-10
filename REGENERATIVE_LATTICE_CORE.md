@@ -1031,7 +1031,7 @@ This architecture is a companion **implementation example** of [*The Synthesist'
 
 It shares empirical posture with [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) and does **not** import their measurement objects into the rack.
 
-The cassette is not a carrier of residual biological order. Arrays in *[Stormcrashers](STORMCRASHERS.md)*, *[Gulpgates](GULPGATES.md)*, and *[Quake Columns](QUAKE_COLUMNS.md)* scale by counting sealed kits. Those articles are not cassettes. A Stormcrasher site may later remate electrically to an RLC plate bus; the tower is not a Core Cassette, and the cassette is not a Stormcrasher controller.
+The cassette is not a carrier of residual biological order. Arrays in [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), [Quake Columns](QUAKE_COLUMNS.md), and [Hydrofilaments](HYDROFILAMENTS.md) scale by counting sealed kits. Those articles are not cassettes. A Stormcrasher site may later remate electrically to an RLC plate bus; the tower is not a Core Cassette, and the cassette is not a Stormcrasher controller. A Hydrofilament array may later remate its thermoelectric return as a named bay on that same plate. The array is not a Core Cassette, the bus is not a skipped Stirling, and the cassette is not an emitter controller.
 
 For the full set of documents, see the [README](README.md).
 
