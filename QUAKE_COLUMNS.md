@@ -568,6 +568,8 @@ Ordinary insulation around header wiring is allowed. It is insulation, not a pow
 
 **Quake Columns** is the crustal sibling of [Stormcrashers](STORMCRASHERS.md) and [Gulpgates](GULPGATES.md). It is not a foundation protocol. File it in the Implementation layer after [Gulpgates](GULPGATES.md).
 
+[Hydrofilaments](HYDROFILAMENTS.md) may sit as a sight-glass on the leak-home sump or as a lab cell inside the protection zone. Failure to stand says the sump is not rating water. It says nothing about the belt.
+
 Ghost Glass is named only to bound it. This file does not describe that article.
 
 ---
