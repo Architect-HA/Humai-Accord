@@ -548,6 +548,8 @@ That is a setback box, not a tower and not a basin dam. If K0-R returns tens of 
 
 [Quake Columns](QUAKE_COLUMNS.md) is the ground sibling: leftover surface-wave motion stays on a named path; the crust is not the overflow tank.
 
+[Hydrofilaments](HYDROFILAMENTS.md) is the water-class witness for a vault sample loop, not a throat. A Gap Bridge that will not stand supports the dirty-limb refusal. It does not meter $Q$.
+
 ---
 
 ## License
