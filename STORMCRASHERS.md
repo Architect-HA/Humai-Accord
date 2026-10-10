@@ -662,6 +662,8 @@ ATMA, MAMG, wildfire/ember, and Arctic ice-collar are horizon names on the scala
 
 [Quake Columns](QUAKE_COLUMNS.md) is the ground sibling: same fail-closed, kit-count approach; different medium and different failure mode (leftover shaking sent into the next block, not a coherent gust).
 
+[Hydrofilaments](HYDROFILAMENTS.md) may log a stilling basin or a B0 flume lane at the article foot. It does not add $K_t$ and it is not a jet curtain. Article T inherits this file’s bubble-curtain limit: a density modifier, not a surge-killer.
+
 ---
 
 ## License
