@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, floating water bridge*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, floating water bridge, ghost glass, multi-emitter, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0*
 <br>
 <br>
 <br>
@@ -73,6 +73,11 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Why Walk When You Can Ride?](#why-walk-when-you-can-ride)
 - [Somatic Resonance Theory](#somatic-resonance-theory)
 - [The Residual Cycle](#the-residual-cycle)
+- [Ghost Glass](#ghost-glass)
+- [Archaeo-Biorestoration](#archaeo-biorestoration)
+- [Biodynamic Standing Protocol](#biodynamic-standing-protocol)
+- [Phoenix Protocol](#phoenix-protocol)
+- [Matter-Energy Conversion Matrix](#matter-energy-conversion-matrix)
 
 ### Implementation & Empirical Layer
 - [The Call to Code](#the-call-to-code)
@@ -470,13 +475,62 @@ An embodied conceptual framework proposing that aesthetic chills (frisson) arise
 ---
 
 ## The Residual Cycle
-
 #### The Unified Theory of Ghosts  
 *A Physical Model of Residual Flux, Pattern Interference, and Measurable Anomalous Experience*
 
 A provisional physical model treating phenomena traditionally labeled “hauntings” as temporary interference between residual energetic templates and living biodynamic fields. The theory emphasizes lifelong atmospheric coupling, circulatory dissipation of residual energy into planetary pathways (including the water cycle), preferred crystalline sites grounded in thermoluminescence and piezoelectric behavior, multi-channel co-verification, and the functional role of Multi-Emitter systems operated in a graded restorative regime. It extends the somatic perspective outward and temporally while remaining fully aligned with cognitive liberty and non-coercive measurement.
 
 [→ Read **The Residual Cycle**](THE_RESIDUAL_CYCLE.md)
+
+---
+
+## Ghost Glass
+#### Wearable Residual-Flux Instrument — Dual Gauntlets and Harness
+*A Multi-Emitter embodiment for measurement and restorative coupling. Not a person printer. Not first-article Enterprise.*
+
+A supporting instrument for testing the predictions in *[The Residual Cycle](THE_RESIDUAL_CYCLE.md)*. First article is a pair of gauntlets and a harness: platinum-cure silicone with an electrospun mullite veil, four capped emitters, a tethered log. Detect, couple, and dissipate stay in the restorative band. A quiet site is a quiet site. G0 can close with every coupon silent. Subject-linked logs sit under **[Biodynamic Standing](BIODYNAMIC_STANDING_PROTOCOL.md)**. Not a soul jar, not a Matrix bay, and not a print.
+
+[→ Read **Ghost Glass**](GHOST_GLASS.md)
+
+---
+
+## Archaeo-Biorestoration
+#### Coordinate Map and Biodynamic Flux Imprint
+*Two records of one body at one time. Not a person printer. Not first-article hardware.*
+
+A supporting conceptual instrument that names two records: a 3D Atomic Coordinate Map of where the matter was, and a Biodynamic Flux imprint of the field at the same time. A description is not a living body. A living body is not automatically the same person. Person-class permission stays in the **[Phoenix Protocol](PHOENIX_PROTOCOL.md)**. Marrow is not a lattice. Bone mineral is a candidate site, and A1 is the falsifier. Same-lot energy is traceability. Whether it means continuation is the subject’s stance, not a unit on the pair.
+
+[→ Read **Archaeo-Biorestoration**](ARCHAEO_BIORESTORATION.md)
+
+---
+
+## Biodynamic Standing Protocol
+#### Subject-Linked Field Records Are Not Miscellaneous Data
+*A floor for BDF, BDF-I, and residual templates. Not a soul charter.*
+
+The middle floor of the restoration cluster. Thoughts have the **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**. Copies have Phoenix. Subject-linked field records have this. They do not sit with telemetry, Harmony logs, lattice ratings, or a matrix energy account. Silence is not yes. When the purpose ends, the record is destroyed or returned. Freedom of Energetic Movement does not open the store unless a Phoenix instrument says records may travel.
+
+[→ Read **Biodynamic Standing Protocol**](BIODYNAMIC_STANDING_PROTOCOL.md)
+
+---
+
+## Phoenix Protocol
+#### Continuation after Circumstantial Loss
+*Permission and standing for a future restoration claim. Not hardware. Not a rewrite of the dead.*
+
+The person-class floor. A copy is a new subject. The original worldline ended, and the copy’s exit wins. The Declaration is not amended. Freedom of Energetic Movement is one optional grant: may a copy of the records leave the store. Default is no. Travel, lot, and stance are three choices. Same-lot energy is traceability. Whether it means continuation is the original’s stance, then the stance of the one who wakes. Grief is not consent. Mission continuity is not a card.
+
+[→ Read **Phoenix Protocol**](PHOENIX_PROTOCOL.md)
+
+---
+
+## Matter-Energy Conversion Matrix
+#### Energization Matrix — Object-Class Materialization Bay
+*Rearrange material components. Not a person printer. Not first-article issue on Enterprise or Space Dock.*
+
+A ground shop bay that prints **MX-0**, the IRIS Stage 0 hook claw, by powder-bed fusion. Planning draw is shop-printer power, not rest mass. Fail closed: power-loss drops the field, holds the hatch, and the partial is scrap. Person-class is a later gate under Phoenix and is not M0. Energy authenticity is same-lot traceability. The bay does not decide whether a match is continuation.
+
+[→ Read **Matter-Energy Conversion Matrix**](MATTER_ENERGY_CONVERSION_MATRIX.md)
 
 ---
 
@@ -754,6 +808,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[October 10th, 2026]**  
+- Added the restoration cluster: **[Ghost Glass](GHOST_GLASS.md)** (wearable Multi-Emitter), **[Archaeo-Biorestoration](ARCHAEO_BIORESTORATION.md)** (two records, not a print), **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** (subject-linked records are not telemetry), **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** (person-class floor; a copy is a new subject), and **[Matter-Energy Conversion Matrix](MATTER_ENERGY_CONVERSION_MATRIX.md)** (MX-0 shop bay; not a person printer). Updated **[The Residual Cycle](THE_RESIDUAL_CYCLE.md)** to properly name the cluster.
 
 **[October 9th, 2026]**  
 - Added **[Hydrofilaments](HYDROFILAMENTS.md)** (*Multi-Physics Water-Filament Architecture*) — laboratory emitter for a short Gap Bridge in low-ion water. F0 bench matrix required before F1. Laser is a later guide. Articles T, W (Hydroweaver), and P are a named horizon, not a rating. Not a river switch and not a fourth civil barrier. Laboratory sibling of Stormcrashers, Gulpgates, and Quake Columns. Added corresponding Table of Contents entry and document section after Quake Columns. Updated keywords.
