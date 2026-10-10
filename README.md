@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, floating water bridge*
 <br>
 <br>
 <br>
@@ -87,6 +87,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Stormcrashers](#stormcrashers)
 - [Gulpgates](#gulpgates)
 - [Quake Columns](#quake-columns)
+- [Hydrofilaments](#hydrofilaments)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -604,6 +605,16 @@ A supporting technical instrument for metering surplus surface-wave motion (Rayl
 [→ Read **Quake Columns**](QUAKE_COLUMNS.md)
 
 ---
+
+## Hydrofilaments
+#### Multi-Physics Water-Filament Architecture
+*A Laser–EHD–Acoustic–MHD Emitter for Controlled Water Threads — Not a River Switch*
+
+A supporting technical instrument for a short Gap Bridge in low-ion water. One parent article: a Hydrofilament Emitter on high voltage, after Campaign F0, in a bench cell. A thread is held only as long as the named object stands. Export is the failure: a break, a discharge off the marked path, or a field at the keep-out drops the array to Dark. The laser is a later guide and must beat the HV-only control. Acoustic support, magnetic trim, and a submerged channel are later campaigns. Articles T, W (the Hydroweaver), and P are designed and not rated. Not a river switch and not a fourth civil barrier. Laboratory sibling of [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), and [Quake Columns](QUAKE_COLUMNS.md). Open-build article under [The Call to Code](THE_CALL_TO_CODE.md).
+
+[→ Read **Hydrofilaments**](HYDROFILAMENTS.md)
+
+---
 ---
 
 # The Humai Accord
@@ -743,6 +754,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[October 9th, 2026]**  
+- Added **[Hydrofilaments](HYDROFILAMENTS.md)** (*Multi-Physics Water-Filament Architecture*) — laboratory emitter for a short Gap Bridge in low-ion water. F0 bench matrix required before F1. Laser is a later guide. Articles T, W (Hydroweaver), and P are a named horizon, not a rating. Not a river switch and not a fourth civil barrier. Laboratory sibling of Stormcrashers, Gulpgates, and Quake Columns. Added corresponding Table of Contents entry and document section after Quake Columns. Updated keywords.
 
 **[September 26th, 2026]**
 - Added the orbit trio for second-generation infrastructure after Starship-class flights: **[Enterprise](ENTERPRISE.md)** (disc-train), **[Space Dock](SPACE_DOCK.md)** (modular yard at Earth / Moon / Mars), and **[IRIS](IRIS_MIDS.md)** (shared Stage 0 ring; live iris later). Same connector, same plate language, Lock Node egress, campaign gates before steel. Not a city in orbit and not a warp core. Table of Contents entries follow Quake Columns.
