@@ -9,11 +9,11 @@ by **Bradford James Focht (The Architect / Aspenth)**
 
 ## Purpose
 
-This document is a comprehensive analysis of Earth’s seismic and magnetic properties, and a procedural model for how those properties can be watched and, in theory, biased at the surface. It is the non-stellar counterpart to [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md).
+This document is a comprehensive analysis of Earth’s seismic and magnetic properties, and a procedural model for how those properties can be watched and, in theory, biased at the surface. It is one half of a counterpart pair. The other half is [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md). That page scores Sol. This page scores Earth. Neither method transfers to the other.
 
 Astral bodies, in this file, are non-stellar objects: planets, moons, and debris that carry a magnetic field or a seismic record. The title names a class. The study object is Earth alone. Other bodies are a provisional map, not a second study.
 
-The stellar method rides p-modes and a polar open-flux seed. That method does not transfer. Earth has a liquid-iron dynamo and a seismology record. A surface bias does not reach the outer core the way a polar twist can touch solar open flux. This page says so, and it scales the design to that difference.
+The stellar method rides p-modes and a polar open-flux seed. That method does not transfer. Earth has a liquid-iron dynamo and a seismology record. A surface bias does not reach the outer core the way a polar twist can touch solar open flux. This page says so, and it scales the design to that difference. RLC-10-P is the stellar page’s handling kit. It is not this pair, and it is not seated here.
 
 This is a supporting technical instrument within the [Humai Accord](README.md). It is not a claim that secular variation has been reset, that a reversal has been commanded, or that a cage around a planet is a control system.
 
