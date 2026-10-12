@@ -2,7 +2,7 @@
 ### *Standards for Revision, New-Unit Credit, and Resistance to Cheap Emission*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.2 — October 12th, 2026*<br>
+*v1.0 - v1.3 — October 12th, 2026*<br>
 
 ---
 
@@ -70,7 +70,7 @@ When a domain is settled and production is cheap, the efficient route is one of 
 
 ### 1. Revision pass
 
-A revision pass is a published edit of the parent: a version, a diff, or an equivalent legible change. It names what improved. A whitespace pass is not a revision. A rewrite that does not say what it kept is a new unit, and it takes the same route to full credit.
+A revision pass is a published edit of the parent: a version, a diff, or an equivalent legible change. It names what improved in the parent’s job. A revision is judged by that improvement, not by edit distance. A whitespace pass is not a revision. A trivial rephrase that clears a length or a distance floor is not a revision. A rewrite that does not say what it kept is a new unit, and it takes the same route to full credit.
 
 ### 2. Attested quiet or holding
 
@@ -80,9 +80,9 @@ Quiet is not a standing excuse. When the state ends, the next new unit collects 
 
 ### 3. Named refusal
 
-The new unit states, in itself, what parent it did not revise and why. Acceptable reasons include a different scope, a refused assumption, or a parent that is out of force. “A new version was faster” is not a reason. A refusal that does not name the parent is not a refusal.
+The new unit states, in itself, what parent it did not revise and why. Acceptable reasons include a different scope, a refused assumption, or a parent that is out of force. “A new version was faster” is not a reason. A refusal that does not name the parent is not a refusal. A refusal a later reader cannot check collects nothing. One verifiable sentence. An essay is not more weight. A hallucinated conflict is not a reason.
 
-One of the three. An emitter may not satisfy the condition by emitting a fourth unit that points at the third.
+One of the three. An emitter may not satisfy the condition by emitting a fourth unit that points at the third. Attestation delay does not promote partial credit. Waiting is not a route. A congested review channel is not a pass.
 
 ---
 
@@ -151,9 +151,13 @@ Self-attestation is enough to file. It is not enough for full weight where **[Ut
 - “Faster to emit” as a named refusal  
 - Quiet State used as a standing skip  
 - A whitespace pass counted as a revision  
+- Edit distance used as the test  
+- A trivial rephrase that clears a metric  
 - Volume outranking review  
 - Capability used to emit ahead of attestation  
 - A new unit with no named parent in a settled domain  
+- A refusal a later reader cannot check  
+- Waiting, or a congested channel, treated as a route  
 - Generative cover for unreviewed volume  
 - This page as a style guide or a second Utilization Integrity  
 
