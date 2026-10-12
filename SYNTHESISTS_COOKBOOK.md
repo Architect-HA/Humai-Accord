@@ -4,7 +4,8 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — August 19th, 2026*<br>
-*v1.5 - v1.8 — August 26th, 2026*
+*v1.5 - v1.8 — August 26th, 2026*<br>
+*v1.9 - v1.11 — October 11th, 2026*<br>
 
 ---
 
@@ -382,6 +383,177 @@ These are conservative starting limits for laboratory-scale work. They may be re
 
 ---
 
+## Extreme-Condition Pathways
+
+This section maps the edge conditions that, over geological time, produce specialized crystalline lattices, and the laboratory levers that can reproduce the useful part of those conditions without the damage that time and turbulence leave behind.
+
+It is not a claim that a hypervariant crystal of exceptional capacity has been realized. It is not a claim that a natural specimen is a rated Cookbook article. A natural body is a feedstock and a comparator. A laboratory body is rated only after the parent sequence, the dual-metric rule, and the safety envelopes are met.
+
+### What “extreme” means here
+
+An extreme pathway is a logged combination of pressure, temperature, composition, fluid, radiation, and time that is outside the ordinary annealing window and that is expected to change trap depth, defect density, permittivity, texture, or magnetic order in a named direction.
+
+Time is a variable, not a virtue. Geological time supplies diffusion and annealing that a lab cannot wait for. It also supplies fracture, oversaturation, fluid attack, and shock. The laboratory job is to keep the first and cut the second.
+
+### Natural edge conditions
+
+These are the field analogues. None is a recipe. Each is a starting map for a lab campaign.
+
+| Edge | Typical natural band | What it can leave in a lattice | What it also leaves |
+|------|----------------------|--------------------------------|---------------------|
+| Deep crust / upper mantle | $\sim 0.5\text{–}10\,\mathrm{GPa}$, $400\text{–}1200\,^{\circ}\mathrm{C}$, slow cool | Dense packing, healed defects, high-P polymorph memory | Fracture on exhumation, fluid inclusions, strain that fails in flexure |
+| Hydrothermal / vent | $\leq 400\,^{\circ}\mathrm{C}$, vapor or brine pressure, long residence | Clean growth faces, controlled doping, large single crystals (quartz, calcite) | Zoning, inclusions, late overgrowth that masks the core |
+| Shock / impact | Transient $\mathrm{GPa}$–tens of $\mathrm{GPa}$, microsecond pulse | Planar deformation features, high-P relics, dense defect fields | Cracking, amorphization, loss of piezoelectric order |
+| Volcanic / contact | $800\text{–}1200\,^{\circ}\mathrm{C}$, short to moderate hold | Mullite and high-fired aluminosilicate order, low expansion | Glass residue, porosity, thermal-shock microcrack |
+| Radiation over time | Low dose rate, $10^{6}\text{–}10^{8}\,\mathrm{yr}$ | Stable deep traps in quartz and calcite (TL/OSL) | Saturation, anomalous fading, mixed generations of traps |
+| Lightning / fulgurite | Extreme local $T$, millisecond | Fused silica, reduced iron, chaotic glass-crystal mix | Useless as a capacity article; useful only as a negative comparator |
+
+Preferred Cookbook families sit in more than one row. Quartz appears in hydrothermal, shock, and radiation. Calcite appears in hydrothermal and radiation, and decomposes if the thermal row is copied onto it. Mullite is a high-fired product, not a deep-mantle mineral. Magnetite is a hydrothermal and volcanic oxide, sensitive to oxygen.
+
+### Laboratory replication
+
+The lab does not copy the mountain. It copies the variable that did the work, on a sample that can be measured.
+
+| Natural edge | Lab lever | Starting window | What is optimized out |
+|--------------|-----------|-----------------|------------------------|
+| Deep crust pressure | Piston-cylinder or multi-anvil, then quench under load | Within apparatus rating; $>1\,\mathrm{GPa}$ only with a written containment plan | Exhumation fracture: unload on a logged ramp, not a snap |
+| Hydrothermal growth | PTFE-lined autoclave, logged $p$, $T$, fluid chemistry | $\leq 250\,^{\circ}\mathrm{C}$ for standard vessels; higher only in rated metal autoclaves | Zoning: one fluid batch, one seed, no mid-run recharge unless logged |
+| Shock defect field | Laser-driven or gas-gun recovery, or a photonic pulse under Gated Mobility | Screening payload; bulk rating only after S4 | Amorphization: stop at planar features, do not chase a glass |
+| Volcanic / contact fire | Conventional or flash sinter, sol-gel mullite route | $1150\text{–}1550\,^{\circ}\mathrm{C}$ as already written for M1–M2 | Glass residue and microcrack: controlled cool, not a water quench, unless the quench is the named variable |
+| Geological dose | Laboratory beta/gamma at a logged rate, then TL/OSL | Dose below saturation for the family | Oversaturation: stop at the linear or early-sublinear portion of the dose-response curve |
+| Lightning | Not replicated as a capacity path | — | Fulgurite is a refused feedstock for rating |
+
+Diamond-anvil work remains characterization. It does not produce a bulk variant.
+
+### Resonant and trap capacity
+
+“Resonant capacity” in this document means a lattice whose defect, dielectric, or magnetic response is peaked at a logged frequency, field, or trap depth, and whose energy-cycling result agrees with that peak under the dual-metric rule.
+
+It is not a claim of a resonant hyper-crystal. It is a measurement target.
+
+- **Quartz.** Deep traps ($\approx 1.45\text{–}2.0\,\mathrm{eV}$) are the retention target. Piezoelectric coefficients are covariates, not a capacity unit. A pressure history that raises the deep-trap fraction and keeps $d_{11}$ inside the baseline band is a candidate. A pressure history that kills piezoelectric order is a negative result.
+- **Calcite.** Carbonate traps only. A radiation or anneal series that stabilizes the $\sim 1.3\text{–}1.6\,\mathrm{eV}$ band without decomposition is a candidate. Decomposition is a fail, not a variant.
+- **Mullite.** Permittivity and loss across $10^{2}\text{–}10^{6}\,\mathrm{Hz}$, plus thermal stability. A doped or porous body that raises permittivity and keeps the high-temperature advantage is a candidate. A body that gains permittivity by becoming a glass is not.
+- **Magnetite.** Magnetic order and electrochemical capacity. Oxidation state is a logged variable. A nanostructure that raises delivered $\mathrm{Wh\,kg^{-1}}$ inside the $7\text{–}47$ literature band, without claiming the $924\,\mathrm{mAh\,g^{-1}}$ ceiling, is a candidate.
+
+No row above is a rating. Each is a direction for a campaign that still has to pass co-verification.
+
+### Failure modes the natural process does not remove
+
+These are the inefficiencies the laboratory is allowed to design out. Each has a named mitigation and a named fail.
+
+| Fault | Natural cause | Lab mitigation | Fail if |
+|-------|---------------|----------------|---------|
+| Brittleness | Exhumation unload, thermal shock, glass at boundaries | Logged unload ramp; cool slower than the thermal-shock limit of the family; keep a crystalline chassis | Fracture on the first flexure or thermal cycle after lock |
+| Oversaturation | Geological dose past the linear range; dopant past solubility | Stop the dose or the dopant at the logged solubility or dose-response knee | Proxy collapses or becomes non-repeatable across three aliquots |
+| Turbulence / shock damage | Impact, violent quench, unlogged fluid convection | Replace the shock with a photonic or pressure pulse of logged duration; replace convection with a still autoclave | XRD shows amorphization, or the body will not index to the declared phase |
+| Destabilized texture | Mixed generations of growth, late overgrowth | One seed, one fluid, one thermal profile | Zoning that cannot be assigned to a single logged step |
+| Oxidation (magnetite) | Open-air cool, unlogged $p\mathrm{O_2}$ | Inert or buffered atmosphere; $p\mathrm{O_2}$ on the log | Phase shifts off $\mathrm{Fe_3O_4}$ without a declared new baseline |
+| Decomposition (calcite) | Copied silica thermal window | Default-off above the logged decomposition onset for that feedstock | Mass loss or a new phase that is not calcite |
+
+A mitigation that is not logged is not a mitigation. A body that fails the right-hand column is archived as a negative result. It is not reclassified as a hypervariant.
+
+### Hyper-specified targets
+
+A hyper-specified lattice, in this document, is a body that meets all of the following on one traveler:
+
+1. One named edge (pressure, hydrothermal, sinter, or dose), not a stack of unnamed extremes.  
+2. A variable vector inside the family starting window, or an explicit justification for leaving it.  
+3. The natural damage mode for that edge designed out, with the mitigation on the log.  
+4. Proxy change in the named direction, repeatable on $\geq 3$ aliquots.  
+5. Co-verification against energy-cycling under the parent rule, at $\leq 10\%$ first payload.  
+6. Safety envelope attached. Absence voids the rating.
+
+Stacking every extreme on one sample is a refused path. Pressure plus melt plus dose plus quench, with no single named variable, is turbulence. It does not become a rating because the conditions were harsh.
+
+### Campaign shape
+
+**X-1 — one edge, one family.** Pick one row from the laboratory table. Run the parent Cookbook sequence. Archive negatives. Do not open a second edge until X-1 has a pass or a published fail.
+
+**X-H — hybrid edge.** Permitted only after X-1 passes on each constituent. A mullite chassis with a magnetite payload is the preferred hybrid, and only under GM-H1 rules if a pulse is used. Rate chassis and payload on dual metrics.
+
+X-1 does not by itself create an exceptional-capacity rating. It qualifies the edge.
+
+### Open surfaces added by this section
+
+- Measured solidus, decomposition, and oxidation onsets under the pulse and pressure windows named here  
+- Dose-response knees for quartz and calcite under the laboratory rates used  
+- Unload-ramp and cool-ramp limits that keep a high-P body from fracturing  
+- Whether a shock-recovery defect field can be locked without amorphization, on a millimeter body  
+
+These surfaces are explicit. The section does not claim they are closed.
+
+---
+
+## Extreme Environmental Variables, Other Bodies, and Stars
+
+This section names the environmental variables that can specialize a crystalline lattice, and it asks where those variables occur off Earth. It includes other rocky and icy bodies, and it includes stars only where ordered matter is actually expected.
+
+It is not a claim that an off-world crystal is a Cookbook article. It is not a claim that a star contains quartz, calcite, mullite, or magnetite. A body that cannot be sampled and co-verified is a map, not a rating.
+
+### Variable map
+
+An extreme environmental variable is one logged quantity, outside the ordinary annealing window, that is expected to move a named proxy. Stacking unnamed extremes is still refused.
+
+| Variable | Ordinary window | Extreme window | What it can change | Family note |
+|----------|-----------------|----------------|--------------------|-------------|
+| Pressure | Ambient to hot-press | $0.5\text{–}10\,\mathrm{GPa}$ crustal; higher only as characterization | Packing, polymorph memory, strain | Quartz and calcite record it; mullite is not a mantle mineral |
+| Temperature | $\leq 1000\,^{\circ}\mathrm{C}$ anneal | $1000\text{–}1550\,^{\circ}\mathrm{C}$ sinter; higher only under a named pulse | Phase, grain size, trap redistribution | Calcite decomposes if the silica window is copied onto it |
+| Fluid chemistry | Dry air or inert | Brine, vapor, buffered $p\mathrm{O_2}$ | Doping, zoning, oxidation state | Magnetite fails closed if $p\mathrm{O_2}$ is unlogged |
+| Dose | None | Laboratory beta/gamma below the response knee | Deep-trap population | Quartz and calcite only; stop before saturation |
+| Time | Hours | $10^{6}\text{–}10^{8}\,\mathrm{yr}$ in the field | Healed defects, stable traps | Lab compresses time with temperature or dose, and logs the substitution |
+| Shock duration | None | Microseconds to milliseconds | Planar defects, amorphization | Stop at planar features; glass is a negative |
+| Gravity / overburden | $1\,g$ | Low-$g$ regolith to super-Earth overburden | Compaction, melt migration | A covariate, not a capacity unit |
+
+Resonant response remains what the previous section defined: a peaked, logged proxy that still has to agree with energy-cycling. No row in this table is a rating.
+
+### Other astral bodies
+
+Underground or near-surface crystal growth off Earth is real where rock, fluid, and time coexist. The Cookbook families are the comparators. None of these bodies supplies a rated lattice.
+
+| Body class | What can grow | Cookbook relevance | Limit |
+|------------|---------------|--------------------|-------|
+| Moon | Anorthositic crust, shock-damaged silicates, limited ancient hydrothermal traces | Shock and radiation analogues for quartz-class traps | Dry. No long hydrothermal quartz or calcite industry |
+| Mars | Ancient groundwater, hydrothermal, carbonates, iron oxides, impact | Closest natural cousin for calcite and magnetite pathways | Sample return is the only path to a baseline. A photograph is not a feedstock |
+| Asteroids / meteorites | Chondrules, CAIs, aqueous alteration, shock | Pressure and shock comparators; some magnetite and carbonate | Most mass is not a Cookbook family. Shock damage is the default, not the exception |
+| Icy moons (Europa, Enceladus class) | Rock-water interface, possible hydrothermal precipitation | Fluid-chemistry analogue for oxide and carbonate growth | The ocean is not a lab. No sample, no rating |
+| Venus | Extreme surface $T$ and $P$, basaltic crust | A negative thermal comparator | Surface conditions destroy the carbonate and hydrate pathways this document uses |
+| Super-Earths (orientation) | Higher overburden, possible high-P silicates | Pressure-variable map only | No sample. Post-perovskite and kin are not Cookbook families |
+
+A returned specimen may enter the parent sequence as a feedstock. Until it is baselined, it is a rock. Low gravity does not improve capacity. It changes compaction and handling.
+
+### Stars
+
+Ordinary mineral lattices do not form inside a burning star.
+
+A main-sequence star is a plasma. Temperature and ionization leave no quartz, calcite, mullite, or magnetite lattice in the core or the envelope. Silicate and iron condensates can exist in cool stellar winds, debris disks, and brown-dwarf atmospheres. Those are dust and cloud particles, not underground crystalline bodies, and they are not Cookbook articles.
+
+Two ordered states are real and are not mineral lattices:
+
+- **White-dwarf crystallization.** As a carbon-oxygen white dwarf cools, its core can crystallize. The phase is an ordered C/O solid under degenerate-electron pressure, not a silica or ferrite lattice. It is established astrophysics. It is not a feedstock, not a capacity rating, and not a Gated Mobility body.
+- **Neutron-star crust.** The outer crust can be an ordered lattice of neutron-rich nuclei. That is nuclear matter at densities far above any mineral. It is not quartz, not magnetite, and not a shop article.
+
+No campaign in this document targets a stellar interior. White-dwarf and neutron-star order are named so they are not confused with a hypervariant crystal. A claim that a star grows a Cookbook lattice is a refused story.
+
+### What the laboratory may take from this map
+
+- Shock and dose variables already written for Earth edges cover the Moon and the asteroids.  
+- Hydrothermal and $p\mathrm{O_2}$ variables cover the Martian and icy-moon analogues, on Earth feedstocks.  
+- Super-Earth overburden is a pressure covariate for characterization, not a bulk-synthesis path.  
+- Stellar crystallization is a boundary. It tells the reader what this cookbook is not.
+
+X-1 still qualifies one named edge on one family. An off-world name on the traveler does not replace a baseline.
+
+### Open surfaces added by this section
+
+- Whether a returned Martian carbonate or iron oxide can pass a calcite or magnetite baseline without a new family  
+- Shock-defect comparability between meteoritic silicates and laboratory recovery quartz  
+- A written refusal card, already satisfied here, that stellar C/O crystallization is not a Cookbook pathway  
+
+These surfaces are explicit. The section does not claim they are closed.
+
+---
+
 ## Gated Mobility Module
 
 This section supplies a bounded process structure for **gated mobility**: briefly opening a rearrangement window in a crystalline or hybrid lattice, then locking a new configuration by controlled recrystallization rather than by chaotic quench.
@@ -643,6 +815,10 @@ GM-1 is the first builder-releasable campaign. GM-H1 is not releasable until a G
 - Quantitative $t_{\mathrm{diff}}$ design charts by family and sample geometry  
 - Repeat-cycle fatigue limits for gated-mobility bodies  
 - Independent multi-lab reproduction of GM-1 and GM-H1  
+- Dose-response knees for quartz and calcite under laboratory rates  
+- Unload-ramp and cool-ramp limits that keep a high-P body from fracturing  
+- Whether a shock-recovery defect field can be locked without amorphization on a millimeter body  
+- Independent reproduction of X-1 on one named edge  
 
 These surfaces are explicit. The framework does not claim they are closed.
 
@@ -652,7 +828,19 @@ These surfaces are explicit. The framework does not claim they are closed.
 
 This architecture shares the same empirical posture as [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md): physical mechanisms first, multi-channel verification, provisional claims, and subordination to safety and [cognitive liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md) parameters. It does not inherit residual-biological-template claims. Energy-storage capacity is treated as a materials and process output, not as a carrier of personal or residual biological order.
 
-The first systems-level implementation example is the **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**: a Core Cassette that uses Cookbook articles as a shielded ride-through buffer on a circulatory conversion loop. That document does not change Cookbook capacity ratings, family protocols, or Gated Mobility gates. Module A remains outside this cookbook.
+Quartz, calcite, and mullite are also named preferred sites in [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md). A capacity rating on this page is not a residual-flux rating. Bone mineral is a candidate preferred site there, not a family here. Marrow is not a lattice. [*Ghost Glass*](GHOST_GLASS.md) may use a mullite veil as contact skin. That use is not a capacity claim and does not change a family protocol.
+
+The first systems-level implementation example is the **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**: a Core Cassette that uses Cookbook articles as a shielded ride-through buffer on a circulatory conversion loop. Continuity Floors and plate remate live there. That document does not change Cookbook capacity ratings, family protocols, or Gated Mobility gates. Module A remains outside this cookbook. An RLC-10-P polar array, if seated, still uses the lattice as ride-through only. Dose at that rack is a Core release item. It is not a capacity rating.
+
+[Magnetic Acoustic Tuning](MAGNETIC_ACOUSTIC_TUNING.md) watches Sol and refuses a mineral lattice in the solar core. Stellar C/O crystallization remains not a Cookbook pathway. A Tuning score is not a lattice rating.
+
+Extreme-Condition Pathways names natural edges and laboratory levers. It does not rate a hypervariant. X-1 qualifies an edge. It does not create an exceptional-capacity rating. Off-world and stellar maps are comparators. A star does not grow a Cookbook lattice. A white-dwarf C/O solid is not a mineral.
+
+[*Hydrofilaments*](HYDROFILAMENTS.md) is a laboratory sibling. It may recover reject heat. It does not sit in a lattice and does not inherit a capacity rating.
+
+The [*Matter-Energy Conversion Matrix*](MATTER_ENERGY_CONVERSION_MATRIX.md) prints object-class parts by powder-bed fusion. MX-0 is a steel claw. It does not use a Cookbook lattice as feedstock, and it does not print a person.
+
+[*Archaeo-Biorestoration*](ARCHAEO_BIORESTORATION.md) names records. The **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** isolates a subject-linked record. The **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** is the person-class floor. None of those files is a capacity claim, and none rewrites a family protocol.
 
 For the full set of Humai Accord documents and reading routes, see the repository [README](README.md).
 
@@ -660,7 +848,7 @@ For the full set of Humai Accord documents and reading routes, see the repositor
 
 ## Closing
 
-The Synthesist's Cookbook (Hypervariant Crystal Energy Storage Framework) supplies a controlled, multi-mineral, co-verified process architecture and laboratory cookbook for exploring and rating crystalline lattices of tunable energy-storage capacity. It begins from hard baselines, concrete starting protocols, and example variant recipes for quartz, calcite, mullite, and magnetite systems, requires full process-variable logging, minimum instrumentation with calibration standards, dual-metric reporting rules, quantified high-P/T cost awareness, and a gated-mobility module for pulse-opened rearrangement with recrystallization-lock, and accepts capacity ratings only under multi-channel agreement. It is offered as a provisional technical instrument for refinement, independent measurement, and safe extension.
+The Synthesist's Cookbook (Hypervariant Crystal Energy Storage Framework) supplies a controlled, multi-mineral, co-verified process architecture and laboratory cookbook for exploring and rating crystalline lattices of tunable energy-storage capacity. It begins from hard baselines, concrete starting protocols, and example variant recipes for quartz, calcite, mullite, and magnetite systems, maps natural extreme edges onto laboratory levers that design out fracture, oversaturation, and shock damage, requires full process-variable logging, minimum instrumentation with calibration standards, dual-metric reporting rules, quantified high-P/T cost awareness, and a gated-mobility module for pulse-opened rearrangement with recrystallization-lock, and accepts capacity ratings only under multi-channel agreement. It is offered as a provisional technical instrument for refinement, independent measurement, and safe extension.
 
 ---
 
