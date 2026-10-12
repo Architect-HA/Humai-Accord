@@ -6,6 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - v1.9 — August 26th, 2026*<br>
 *v1.10 — August 31st, 2026*<br>
 *v1.11 - v1.12 — September 24th, 2026*<br>
+*v1.13 — October 11th, 2026*<br>
+*v1.14 — October 12th, 2026*<br>
 
 ---
 
@@ -47,6 +49,7 @@ Worked power and mass figures are orientation arithmetic under [*Empirical Demon
 - Accord bindings that govern custody, isolation, remate, audit, and exclusion of residual/somatic methods from the rack  
 - Scale-out doctrine, cassette class family (RLC-10 / RLC-10-CHP / later RLC-B), and chemistry-agnostic buffer slots
 - Surface-station alternate source kit: closed-loop geothermal coupler in the source bay (RLC-10-G configuration)
+- Polar-array alternate source kit: stellar-feed coupler at standoff, counted cassettes (RLC-10-P configuration)
 
 **Out of scope**  
 - Warp drive, antimatter, or fictional spacetime propulsion  
@@ -341,6 +344,74 @@ Do not hang modules on the tubing and call that the cassette. Downhole TE as the
 
 A station may publish “RLC-10-G” as the same cassette with this source kit seated. That name is a configuration, not a new Cookbook family.
 
+### Alternate source kit — polar array (standoff)
+
+A polar station may seat the same cassette in an **array at standoff** from Sol’s polar open flux. The source bay takes a stellar-feed coupler in place of Module A. The rest of the cassette does not change: shield as required by the hot-side temperature and by the local dose, Module B tree, Stirling first, thermoelectric bus second, lattice rack as ride-through only.
+
+This is a counted array of cassettes, not a crystalline ring around the pole, and not a cassette inside the star. The lattice is not the reactor. Sol plus the coupler is the source. The cassette handles the converted stream.
+
+**What seats in the bay**
+
+A coupler the polar plant presents to the tree: a hot interface in the same class the fission kit or the geothermal skid would present. The coupler is hardware on the platform. It is not the photosphere and not a lattice wrapped on the open flux. Dose at the rack is an incoming release item. If the standoff cannot keep the Cookbook families co-verifiable, the site is refused.
+
+The coupler is specified from published articles only. Multi-Emitter drawings and other provisional components are not in this file and are not required for this geometry.
+
+**Coupler geometry (published options)**
+
+| Face | Source | Rule |
+|------|--------|------|
+| Thermal | Module A / RLC-10-G hot coupler | Same tree interface. Closed heat path. Fluid or heat-pipe working fluid stays in its own volume. Heat crosses a wall. |
+| Mechanical | [IRIS](IRIS_MIDS.md) Stage 0 mate discipline, not an IRIS ring | Metal-to-metal land. Two independent latch sets. Load through the structure, not through a blade. Power-loss holds the latch. The cassette plate is still not an IRIS ring. |
+| Electrical | Cassette plate bosses | Separately breakered. The coupler does not replace the contactor or the E-stop. |
+| Data / scram | Second path, already required on the plate | Distinct from the power bosses. A crushed thermal mate does not silence scram. |
+
+Planning envelope for the thermal face: the same hot-coupler class the tree already accepts, nominally the $800\text{–}880\,^{\circ}\mathrm{C}$ band the Stirling gallery is written for, or a lower band if the coupler card says so. Do not resize the tree to a photospheric temperature. The collector that feeds the coupler is a closed take on the platform — heat pipe or closed loop from a polar receiver to the face. It is not a lattice, not a blade iris, and not a drawing from a held provisional.
+
+**Dose map (release card)**
+
+| Channel | What is logged | Fail |
+|---------|----------------|------|
+| Ionizing dose at the rack | Rate and spectrum class for the seated standoff | Proxies for the seated Cookbook family would not stay co-verifiable |
+| Thermal at the coupler face | Face temperature against the tree’s accept band | Above the tree rating, or unlogged |
+| Particle / wind load on the platform | Flux class, not a harvest claim | Structural or thermal excursion on the truss |
+| Standoff | The distance actually used, as a surveyed number | “Close enough” with no number |
+
+No cassette is released without this card. A missing channel is a hold, not a fly. The card does not quote a kilowatt rating and does not set a universal standoff. The site publishes its own number.
+
+**Order of conversion (fixed)**
+
+1. Coupler brings the stellar take to the tree.  
+2. Tree carries heat to the Stirling gallery.  
+3. Stirling makes the main DC.  
+4. Thermoelectric bus takes reject heat only.  
+5. Lattice covers ride-through, not the star.
+
+**Array**
+
+- One cassette, one plate, one blast-radius.  
+- The array is $N$ cassettes on a ring truss or a set of plates at the same standoff. Scale is more cassettes, not a larger crystal and not one lattice around the pole.  
+- $N+1$ still applies. A failed cassette is isolated. It does not black the array.  
+- Drawing power is not a polar-field bias. The watch, the null season, and any bias stay on [Magnetic Acoustic Tuning](MAGNETIC_ACOUSTIC_TUNING.md). This kit is not that page. Other stars are a provisional map on that page. They do not resize this cassette.
+
+**Rules**
+
+- Module A is omitted. Do not seat a fission kit “as well” and call the star a backup.  
+- Standoff is a release item. No cassette is released to a dose that voids the lattice proxies.  
+- The coupler does not replace the contactor or the E-stop.  
+- TE watts stay on the logged house-load channel.  
+- Custody of the coupler does not become station government, and it does not become a dynamo claim.  
+- A feed to a later Matrix forge does not raise a map grade. A finer map does not raise this cassette’s rating. The tree accept band stays the band on this page.
+
+**What this section does not do**
+
+- Authorize a lattice as the polar structure.  
+- Authorize a cassette in the convective zone, the corona, or on the photosphere.  
+- Authorize this kit as an S2 bias.  
+- Quote a kilowatt rating from open flux on paper.  
+- Publish a Multi-Emitter or other provisional as the collector. The published hot-coupler and IRIS mate discipline are the geometry. A held drawing is not required.
+
+A station may publish “RLC-10-P” as the same cassette with this source kit seated, in array. That name is a configuration, not a new Cookbook family and not a new core.
+
 ### Module B — Circulatory tree
 
 Branched heat pipes. Trunks leave the shield. Limbs feed independent Stirling heads. One limb failure does not kill the cassette. Circulation is thermal and closed. This is the primary Circulation Recovery path.
@@ -364,6 +435,9 @@ Rules:
 - Segment isolation; a shorted couple does not drag Stirling  
 - Face temperatures logged; abort a segment that exceeds couple rating  
 - TE watts logged separately; never folded into a lattice capacity claim  
+- Recovery is credited only after it is measured  
+- A bus that returns nothing does not fail the cassette  
+- A warm face with no logged return is a failed joint, not a scram  
 - Failed couple = cartridge swap  
 
 ### Module E — Lattice buffer rack
@@ -1031,7 +1105,15 @@ This architecture is a companion **implementation example** of [*The Synthesist'
 
 It shares empirical posture with [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md) and does **not** import their measurement objects into the rack.
 
-The cassette is not a carrier of residual biological order. Arrays in [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), [Quake Columns](QUAKE_COLUMNS.md), and [Hydrofilaments](HYDROFILAMENTS.md) scale by counting sealed kits. Those articles are not cassettes. A Stormcrasher site may later remate electrically to an RLC plate bus; the tower is not a Core Cassette, and the cassette is not a Stormcrasher controller. A Hydrofilament array may later remate its thermoelectric return as a named bay on that same plate. The array is not a Core Cassette, the bus is not a skipped Stirling, and the cassette is not an emitter controller.
+**Named electrical loads.** Arrays in [*Stormcrashers*](STORMCRASHERS.md), [*Gulpgates*](GULPGATES.md), [*Quake Columns*](QUAKE_COLUMNS.md), and [*Hydrofilaments*](HYDROFILAMENTS.md) scale by counting sealed kits and may remate electrically to the plate bus as named bays. They are not cassettes. A Stormcrasher site may remate electrically; the tower is not a Core Cassette, and the cassette is not a Stormcrasher controller. A Hydrofilament array may remate its thermoelectric return as a named bay. The array is not a Core Cassette, the bus is not a skipped Stirling, and the cassette is not an emitter controller. The [*Matter-Energy Conversion Matrix*](MATTER_ENERGY_CONVERSION_MATRIX.md) may draw from the plate bus as a shop load. The plate feed does not replace the bay’s contactor or its E-stop. The bay prints object-class parts. It does not warehouse flux, and it does not print a person.
+
+**Polar array.** RLC-10-P is this cassette with a stellar-feed coupler at standoff, Module A omitted, in a counted array. The watch, the null season, and any bias stay on [Magnetic Acoustic Tuning](MAGNETIC_ACOUSTIC_TUNING.md). Drawing power is not a bias. The lattice is not a ring around the pole.
+
+**Orbit.** [*Enterprise*](ENTERPRISE.md), [*Space Dock*](SPACE_DOCK.md), and [*IRIS*](IRIS_MIDS.md) share counting and remate discipline. The cassette plate is not an IRIS ring. This document is not first-article Enterprise.
+
+**Restoration cluster.** [*Archaeo-Biorestoration*](ARCHAEO_BIORESTORATION.md) names the records. [*Ghost Glass*](GHOST_GLASS.md) may read them. The **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** isolates a subject-linked record. The **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** is the person-class floor. None of those files rewrites the cassette, and none holds an energy account on this plate. A BDF-I is an Archaeo record, not an energy account. Bone mineral is a candidate preferred site in *The Residual Cycle*, not a lattice article. Marrow is not a crystal.
+
+The cassette is not a carrier of residual biological order.
 
 For the full set of documents, see the [README](README.md).
 
