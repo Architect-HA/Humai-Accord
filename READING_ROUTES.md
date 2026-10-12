@@ -7,7 +7,7 @@
 *v1.2 — August 12th, 2026*<br>
 *v1.3 — August 31st, 2026*<br>
 *v1.4 — September 24th, 2026*<br>
-*v1.5 — October 12th, 2026*
+*v1.5 - v1.6 — October 12th, 2026*
 
 ---
 
@@ -149,8 +149,8 @@ Choose the path that best matches your current interest or goal. You may switch 
 4. **[Implementation Guide](IMPLEMENTATION_GUIDE.md)** and **[Implementation Examples](IMPLEMENTATION_EXAMPLES.md)**<br>
    Practical guidance for applying the architecture in real systems.
 
-5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** & **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**<br>
-   Integrity standards and legitimate recovery states that any material-domain implementation must respect.
+5. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** & **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**<br>
+   Genuine use, legitimate rest, and new-unit credit beside a living parent. Skipping the revision route is legal. The credit stays partial.
 
 6. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**<br>
    Core versus purpose-scoped surfaces, concurrent-load budgets, and load-shedding under stress.
@@ -253,6 +253,9 @@ Choose the path that best matches your current interest or goal. You may switch 
 
 7. **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
    Legitimate rest, recovery, and quiet states so that circulation and relevancy pressure cannot become destructive.
+
+8. **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**  
+   New-unit credit beside a working parent. Revise, rest on purpose, or name the refusal.
 
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Builder Path](#route-4--builder--implementer-path)
