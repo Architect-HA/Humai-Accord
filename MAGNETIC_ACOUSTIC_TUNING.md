@@ -3,7 +3,7 @@
 #### *Study object: Sol. Not a claim that a stellar dynamo has been tuned. Not a harvest plant.*
 
 by **Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 - v1.9 — October 12th, 2026*<br>
+*v1.0 - v1.10 — October 12th, 2026*<br>
 
 ---
 
@@ -11,7 +11,9 @@ by **Bradford James Focht (The Architect / Aspenth)**
 
 This document is a comprehensive analysis of Sol’s internal acoustic properties and oscillations, and a procedural model for how those oscillations can be watched and, in theory, biased by using Sol’s own magnetic field at the poles. The title names a class. The study object is Sol alone. Other stars are a provisional map, not a second study.
 
-It is the study half of a pair. Handling is the **RLC-10-P** kit on the [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) page. This page does not restate that kit. Gating conduits and any later forge feed remain on hold until shared provisional components can be cleared.
+It is one half of a counterpart pair. The other half is [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md). That page scores Earth. This page scores Sol. Neither method transfers to the other.
+
+Handling, if a later plant is seated, is the **RLC-10-P** kit on the [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) page. That kit is not the pair. This page does not restate it. Gating conduits and any later forge feed remain on hold until shared provisional components can be cleared.
 
 This is a supporting technical instrument within the [Humai Accord](README.md). It is not a claim that differential rotation has been reset, that irradiance has been steered, or that a cage around a star is a control system.
 
@@ -395,6 +397,7 @@ This page shares empirical posture with [*Empirical Demonstrations*](EMPIRICAL_D
 
 **Named siblings.**
 
+- [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) — the non-stellar counterpart. Earth is scored there. The polar-twist method does not transfer.
 - [*The Synthesist's Cookbook*](THE_SYNTHESISTS_COOKBOOK.md) — stellar C/O crystallization is not a Cookbook pathway. This page does not rate a lattice.  
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — RLC-10-P is specified there, under Alternate source kit — polar array (standoff). This page does not restate the cassette, the coupler, or the dose map.  
 - [Matter-Energy Conversion Matrix](MATTER_ENERGY_CONVERSION_MATRIX.md) — a later forge may draw from a cleared RLC-10-P array. That feed does not replace the bay’s contactor or E-stop, does not raise a map grade, and does not make this model a print procedure. Power, grade, and lattice capacity stay separate accounts.  
