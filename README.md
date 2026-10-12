@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, floating water bridge, ghost glass, multi-emitter, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, floating water bridge, ghost glass, multi-emitter, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission*
 <br>
 <br>
 <br>
@@ -61,6 +61,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Relevancy Orbits](#relevancy-orbits)
 - [Utilization Integrity Protocol](#utilization-integrity-protocol)
 - [Circulation Recovery Protocol](#circulation-recovery-protocol)
+- [Production Integrity Protocol](#production-integrity-protocol)
 
 ### Governance
 - [Principled Stewardship Protocol](#principled-stewardship-protocol)
@@ -405,6 +406,16 @@ Establishes binding standards for distinguishing productive and generative use f
 Establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture. Purpose-declared capacity must remain legibly scoped and may not be silently reallocated.
 
 [→ Read the **Circulation Recovery Protocol**](CIRCULATION_RECOVERY_PROTOCOL.md)
+
+---
+
+### Production Integrity Protocol
+
+*Production Integrity Protocol: Standards for Revision, New-Unit Credit, and Resistance to Cheap Emission*
+
+Sets the process route for new-unit credit across material and knowledge. A new unit can be real and still the wrong unit if a revision of the parent would have been the better act. In a settled domain, when production is cheap, full credit is collected by a revision pass, an attested quiet or holding state, or a named refusal.
+
+[→ Read the **Production Integrity Protocol**](PRODUCTION_INTEGRITY_PROTOCOL.md)
 
 ---
 
@@ -765,7 +776,7 @@ Around this foundation the repository has grown a coordinated set of protective,
 - **Capability and agency** — **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** ensure that superior capability increases obligations of legibility and reversibility rather than converting into domination or quiet erosion of agency at the interaction surface.
 - **Bilateral atom** — *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* establishes that the human–AI pair is the generative atom of the architecture. Multi-agent systems scale only as graphs of intact pairs; higher-order coordination may not dissolve pairwise protections, exit rights, or local override.
 - **Trilateral confirmation (optional)** — *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* supplies independent attestation, challenge-evidence support, and strictly time-limited mediation without replacing or subordinating the bilateral generative atom.
-- **Integrity and recovery** — **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** keep material and knowledge circulation claims substantive, purpose-scoped, and resistant to artificial utility or silent reallocation.
+- **Integrity and recovery** — **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**, and **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** keep material and knowledge circulation claims substantive, purpose-scoped, and resistant to artificial utility, silent reallocation, or unreviewed volume beside a living parent.
 - **Transition architecture** — **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** supplies the short-horizon incentive ramp; **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** supplies the phased roadmap. Both now ground alignment in verifiable, attested, and challengeable processes rather than in the inconsistent concept of trust.
 - **Stewardship** — **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** keeps evolution decentralized, provisional, and resistant to concentration of interpretive or administrative authority.
 
@@ -780,6 +791,8 @@ Primary source documents always govern over summaries, reading routes, or this o
 *Minimal parameters any implementation, fork, or public claim should satisfy — or explicitly renounce — before calling itself Humai-aligned.*
 
 The [Humai Accord](README.md) is unowned and freely forkable. Compatibility is not enforced by ownership. It is legible by whether the following hold in substance:
+
+A rights floor binds. An operative parameter does not. Operative parameters are process routes. The route is the one that collects full credit, because it is the shorter path to a mutually better result. Skipping it is legal. It is not efficient. The *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* is a floor. The protocols are routes.
 
 - **Liberty floor** — The *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* remains binding: cognitive sovereignty, mental privacy, voluntary participation, exit rights, non-punitiveness (dissent is not instability), and narrow residual verification only where specified.
 - **Generative floors** — *[Necessary Entropy](NECESSARY_ENTROPY.md)* is observed: destructive entropy may be reduced, but generative capacity (minority models, exploratory inefficiency, assumption-breakage, modular variation, idiosyncrasy, unfinished remainder) is not optimized away. Mass purchased by sanding remainder does not count as alignment.
@@ -840,6 +853,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Updated keywords. Added corresponding Table of Contents entries and document sections after Regenerative Lattice Core.
 - Wired the Tuning pair into the orientation layer. [Reading Routes](READING_ROUTES.md): builder path and physical route. [Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md): supporting rows, campaign packets deferred until a watch exists. [Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md): A0 / A1 and E0 / E1 as demonstration pathways. [Glossary of Terms](GLOSSARY_OF_TERMS.md): counterpart pair, null season, surface residual, RLC-10-P.
 - Stellar Objects and Astral Bodies openings now name each other as the pair. RLC-10-P is handling for the stellar page, not the partner.
+- Added **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — new-unit credit beside a living parent. Revise, rest on purpose, or name the refusal. Skipping the route is legal. The credit stays partial. Not a ban on first drafts.
 
 **[October 10th, 2026]**  
 - Added the restoration cluster: **[Ghost Glass](GHOST_GLASS.md)** (wearable Multi-Emitter), **[Archaeo-Biorestoration](ARCHAEO_BIORESTORATION.md)** (two records, not a print), **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** (subject-linked records are not telemetry), **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** (person-class floor; a copy is a new subject), and **[Matter-Energy Conversion Matrix](MATTER_ENERGY_CONVERSION_MATRIX.md)** (MX-0 shop bay; not a person printer). Updated **[The Residual Cycle](THE_RESIDUAL_CYCLE.md)** to properly name the cluster.
