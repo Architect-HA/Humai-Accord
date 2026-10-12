@@ -7,7 +7,8 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v0.1 - v0.13 — September 28th, 2026*  
-*v1.0 - v1.1 — October 10th, 2026*
+*v1.0 - v1.1 — October 10th, 2026*<br>
+*v1.2 - v1.3 — October 12th, 2026*<br>
 
 ---
 
@@ -36,6 +37,7 @@ It is not a claim that mass-energy conversion of bulk objects, let alone persons
 - Campaign **M0**  
 - Theoretical process chain (later classes as gates only)  
 - Horizon: bulk transport; ship-side Energy Transport Pattern  
+- Horizon: particle-synthesis forge (late-stage variant; person-class still gated)  
 - Energy authenticity as same-lot E-mode (not a standalone protocol)  
 - Energy-scale honesty  
 
@@ -551,15 +553,52 @@ Ore → energy account → beam → matter at a far node is the same conservatio
 
 ---
 
+## Horizon: particle-synthesis forge
+
+A **particle-synthesis forge** is a late-stage variant of this bay, not M0 and not a rewrite of MX-0. It is the capability the shop builds toward once object-class campaigns have closed and the later gates have been met. It is not a license to print a person on this page.
+
+**What it is.** A counted bay that can arrange matter to a graded map at a finer grain than powder-bed fusion of a claw. Component stock in, energy in, a published Atomic Coordinate Map in, an object out — if the energy bound and the map grade are enough for that class. A cleared [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) **RLC-10-P** array may later feed the process island. That feed does not replace the contactor or the E-stop, and it does not make the forge a dynamo controller. The watch and any bias stay on [Magnetic Acoustic Tuning](MAGNETIC_ACOUSTIC_TUNING.md). Drawing power is not a score.
+
+**What it is not.**
+
+- Not first article  
+- Not a person printer because the map is finer  
+- Not rest-mass beamed as light  
+- Not a soul in the energy account  
+- Not a reason to skip Standing or Phoenix  
+
+**Object-class path.** The forge may print object-class parts beyond MX-0 once a later card names the part, the stock, the accept band, and the energy bound. Same fail-closed rule: power-loss scraps the partial. Same dual-metric honesty: the map grade and the built part must agree. A Cookbook lattice is not feedstock. A BDF-I is not required for an inert part.
+
+**Person-class path.** Person-class remains a named later gate. It opens only if all of the following are true, and this file still does not teach the gate:
+
+1. A graded Atomic Coordinate Map exists and has passed A0.  
+2. A BDF-I exists, is a Standing record, and has a destroy path.  
+3. The assembly processes for that class have been proven on object-class and organism-class cards. They are not proven here.  
+4. **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** permits the run. Travel of records is FoEM, default off.  
+5. Energy authenticity is available if the card demands it. Same-lot energy is traceability, the account tied to that body, not a substitute stock. It is not a soul-seal.  
+6. The original has published a stance, or declined to. The one who wakes holds their own. The bay does not decide whether the match is continuation.  
+7. In law the one who wakes is a new subject. Their exit wins.
+
+A forge that can arrange atoms to a map is still not a clinic. Absence of any line above refuses the run. An RLC-10-P feed, a finer emitter plane, or a complete leyline does not substitute for a missing grade, a missing Standing record, or a Phoenix refusal.
+
+**Accounts stay separate.** The cassette tree’s accept band is a Core parameter. A stellar feed must arrive inside that band by a closed take. The Matrix energy bound is a different account. A feed does not raise a map grade. A finer map does not raise a cassette rating or a Cookbook capacity. Power, grade, and lattice capacity are not interchangeable.
+
+**Build toward, do not skip.** MX-0 closes first. Object-class parts beyond the claw close next. Organism-class, if it is ever carded, closes before person-class. The forge is the bay those later cards would use. It is not a shortcut around them.
+
+---
+
+---
+
 ## Relation to existing work
 
-**Restoration cluster.** [*Archaeo-Biorestoration*](ARCHAEO_BIORESTORATION.md) names the records. [Ghost Glass](GHOST_GLASS.md) may read them. The **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** isolates a subject-linked record from telemetry. The **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** is the person-class floor: a copy is a new subject, the copy’s exit wins, and records may not travel unless that instrument says so. This file prints object-class parts. It does not print a person. None of the five is a soul charter or a first-article train.
+**Restoration cluster.** [*Archaeo-Biorestoration*](ARCHAEO_BIORESTORATION.md) names the records. [Ghost Glass](GHOST_GLASS.md) may read them. The **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** isolates a subject-linked record from telemetry. The **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** is the person-class floor: a copy is a new subject, the copy’s exit wins, and records may not travel unless that instrument says so. This file prints object-class parts. A later forge may arrange matter to a graded map. It does not print a person unless Phoenix, Standing, and energy authenticity all say the run may proceed, and even then the one who wakes is a new subject in law. None of the five is a soul charter or a first-article train.
 
 - [*Archaeo-Biorestoration*](ARCHAEO_BIORESTORATION.md) — pairs, grades, A0 / A1, Archaeo- path.  
 - **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** — person-class floor; FoEM default off; copy’s exit wins; instrument has a holder field.  
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — BDF; preferred sites; organism-linked storage in mineral remains open.  
-- [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — plate bus may feed the bay; the bay is not a cassette.  
-- [The Synthesist's Cookbook](THE_SYNTHESISTS_COOKBOOK.md) — lattices are not person storage.  
+- [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — plate bus may feed the bay; an RLC-10-P array may later feed the forge. The feed does not replace the contactor or the E-stop. The bay is not a cassette.  
+- [The Synthesist's Cookbook](THE_SYNTHESISTS_COOKBOOK.md) — lattices are not person storage and not feedstock.  
+- [Magnetic Acoustic Tuning](MAGNETIC_ACOUSTIC_TUNING.md) — owns the polar watch and the score. A feed is not a bias.  
 - **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** — person-class BDF-I is not M0 material.  
 - [IRIS](IRIS_MIDS.md) — MX-0 is the Stage 0 hook claw. Change claw numbers there first.  
 - [Enterprise](ENTERPRISE.md) / [Space Dock](SPACE_DOCK.md) — no matrix bay on first train or SD-1. Later printer module only.
@@ -596,7 +635,7 @@ Ore → energy account → beam → matter at a far node is the same conservatio
 
 ## Closing
 
-Build, if you build, the MX-0 bay and make one hook that matches the IRIS table. Keep the records honest. Keep Phoenix above any later living claim.
+Build, if you build, the MX-0 bay and make one hook that matches the IRIS table. Keep the records honest. Keep Phoenix above any later living claim. The forge is a horizon to build toward, not a first article and not a clinic.
 
 The theoretical chain is short on purpose. Lengthening it with scan steps does not make reconstruction real. It only hides the gates.
 
