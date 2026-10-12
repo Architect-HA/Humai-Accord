@@ -11,7 +11,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.6 — August 12th, 2026*<br>
 *v1.7 — August 14th, 2026*<br>
 *v1.8 — August 31st, 2026*<br>
-*v1.9 — September 24th, 2026*
+*v1.9 — September 24th, 2026*<br>
+*v1.10 — October 12th, 2026*
 
 ---
 
@@ -103,6 +104,8 @@ Read these according to specific interest:
 | Surface-wave borehole belt (leftover motion on a named path) | [Quake Columns](QUAKE_COLUMNS.md) |
 | Hypervariant lattice process / rating cookbook | [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) |
 | Core Cassette / counted energy kits | [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) |
+| Polar watch and scored bias (Sol) | [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md) |
+| Surface-field watch (Earth) | [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
 
 ---
@@ -119,6 +122,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Quake Columns Campaign S0 detail (the article may be sampled; the campaign packet waits until a site exists)
 - Cookbook family recipes and RLC bay schedules until a process campaign exists.
 - *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists
+- Magnetic Acoustic Tuning campaign packets (A0 / E0) until an archive reduction or a site watch exists. The articles may be sampled.
 
 They become more useful once the main architectural commitments are already clear.
 
