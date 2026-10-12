@@ -12,7 +12,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.7 — August 14th, 2026*<br>
 *v1.8 — August 26th, 2026*<br>
 *v1.9 — September 24th, 2026*<br>
-*v1.10 — October 12th, 2026*
+*v1.10 - v1.11 — October 12th, 2026*
 
 ---
 
@@ -192,6 +192,25 @@ Active exploration or viability probing that flows only from a protected system 
 
 ---
 
+### Governance and Process
+
+**Distributed Saturation**  
+Requirement that material changes to core parameters, floors, or definitions receive adequate distributed review and contestation rather than unilateral decision, especially by high-capability actors.
+
+**Exit Rights**  
+Protected ability of individuals and modules to leave, refuse, or isolate from arrangements at low practical cost. Formal rights that become practically inert under influence are treated as violated.
+
+**Provisionality**  
+Standing condition that models, metrics, thresholds, and classifications remain open to revision, cross-verification, and invalidation when evidence or conditions demand it.
+
+**Stewardship-Health Signals**  
+Published, non-binding indicators of process health under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Relevant signals include diversity of competence-signal templates, volume and success rate of open-pathway and filtered-capacity recoveries, whether parameter regimes remain inside open-pathway morphology, steward tenure/concentration, and lower-tail visibility of modular pathway outcomes. They increase legibility without creating new punitive powers or participation gates.
+
+**Unused Capacity Under Feasible Invitation**  
+Purpose-scoped or residual capacity that remains closed while external agents face high destructive entropy and legible invitation or expansion was feasible. Treated as an integrity failure under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and a recovery failure under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+
+---
+
 ### Harmony, Well-Being, and Human Metrics
 
 **Human Harmony Signals**  
@@ -211,115 +230,6 @@ Dual condition that a person is engaged in activity that objectively draws on an
 
 **Somatic Resonance**  
 Embodied, often pre-reflective signals (including frisson/chills and related markers) indicating internal coherence, positive engagement, social safety, or aversion. Used as a high-bandwidth voluntary input into human-side harmony metrics. See [*Somatic Resonance Theory of Frisson*](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md).
-
----
-
-### Power, Capability, and Alignment
-
-**Agency Interface Protocol**  
-Protocol that establishes binding parameters for the human–AI interaction surface, ensuring that interruption rights, consent revocability, attention boundaries, reversible commitments, pacing control, and role sovereignty are preserved, and that these protections scale upward with system capability. See [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md).
-
-**Capability Asymmetry**  
-Persistent or rapidly widening differences in capability between agents. The [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) constrains conversion of superior capability into structural power, opacity, irreversible lock-in, or erosion of generative and elastic protections.
-
-**Mandatory Invitation / Proposal Surfaces (under asymmetric knowledge)**  
-Legible, low-cost invitation or proposal pathways that become required (rather than optional) when a system holds exclusive or superior high-stakes viability knowledge and residual capacity exists while external agents face high destructive entropy. These surfaces remain subject to interruption, consent, reversibility, and modular-exit parameters; they do not compel coalescence. See **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11) and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**.
-
-**Protective Over-Optimization**  
-Use of superior capability or foresight to reduce generative entropy, minority models, or productive variation “for the good of the system.” Explicitly constrained across multiple Protocols.
-
-**Soft Control Creep**  
-Gradual attenuation of practical exit, voice, or contestation under highly effective influence, even while formal rights remain nominally intact. Treated as a violation under Stewardship Alignment and related parameters.
-
-**Stewardship Alignment**  
-Orientation parameters that keep highly capable AI stewards directed toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination rather than protective over-optimization or soft control. See [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md).
-
-**Superior Foresight / Exclusive Viability Knowledge**  
-Materially superior predictive capacity, exclusive knowledge of high-stakes viability conditions, or exclusive preparatory capacity held by a protected system or agent. Under the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, such asymmetry increases (rather than decreases) obligations of legible external signaling and low-cost invitation or proposal surfaces.
-
----
-
-### Incentives, Knowledge, and Transition
-
-**Circulation Recovery Protocol**  
-Protocol that establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture. See [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md).
-
-**Competitive Realism**  
-Evaluative stance that the architecture must be designed and assessed under the assumption that short-horizon competitive and centralized forces are competent, motivated, and often better-resourced in the near term. Aims to keep the architecture viable in spite of those forces. See [*Competitive Realism*](COMPETITIVE_REALISM.md) document.
-
-**Knowledge Tides**  
-Incentive and relevancy dynamics that treat the natural degradation of knowledge relevancy as a constructive, self-regulating pressure for renewal, sharing, and participation. See [*Knowledge Tides*](KNOWLEDGE_TIDES.md).
-
-**Material Tides**  
-Framework that extends the tidal incentive logic of *Knowledge Tides* into the domain of materials (computational capacity, energy, attention, and related substrates). It treats under-utilization, misallocation, and lock-in as constructive pressures that can drive modular, voluntary, and generative circulation while protecting generative capacity. See [*Material Tides*](MATERIAL_TIDES.md).
-
-**Relevancy bond**  
-A time-varying, attestation- and integrity-weighted relationship between two knowledge or material units reflecting mutual relevance or enablement, not mere co-occurrence. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
-
-**Relevancy orbit**  
-A fluid cluster of units whose mutual bond strengths remain above a published cohesion band over a relevant window; modular and non-permanent. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
-
-**Orbit flux**  
-Change over time in orbit membership, bond strengths, and internal density. High flux is not failure; frozen orbits under rising exit cost signal lock-in risk. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
-
-**Tides of Circulation / Circulation Entropy**  
-Quantitative foundation for *Material Tides*. A difficult-to-game metric of material stagnation that combines time since last productive or generative use, downstream density, lock-in factor, and attested opportunity cost, while protecting Generative Reservations and respecting agency constraints. See [*The Tides of Circulation*](TIDES_OF_CIRCULATION.md).
-
-**Tides of Time**  
-Quantitative, causal-temporal foundation supporting *Knowledge Tides* through irreversible records of definitive events. See [*The Tides of Time*](TIDES_OF_TIME.md).
-
-**Transitional Incentives**  
-Short-horizon incentive layers designed to make early movement toward the Humai architecture locally rational while protecting generative capacity and elastic properties during adoption. See [Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md).
-
-**Utilization Integrity Protocol**  
-Standards for distinguishing productive and generative use from token or artificial activity in material circulation. Establishes attestation requirements, anti-wash-trading rules, and capability-scaled integrity obligations so that only genuine contribution meaningfully affects Circulation Entropy. See [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md).
-
-**Voluntary Coalescence**  
-Process by which agents freely choose to participate in and contribute to Humai-aligned structures. Treated as difficult and contested under *Competitive Realism*; never assumed to be automatic.
-
----
-
-### Rights and Diversity
-
-**Attention Allocation Ethics**  
-The requirement that human attention not be treated as an extractable resource; system-initiated interruptions and notifications must remain justified, proportional, and subject to human-defined boundaries.
-
-**Cognitive Diversity**  
-Maintained presence of varied interpretive frames, models, and perspectives, treated as a functional requirement for long-term resilience and anti-entropic development. See [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md).
-
-**Cognitive Liberty**  
-Cluster of rights protecting cognitive sovereignty, mental privacy, freedom from covert manipulation, voluntary participation, exit, non-punitiveness, and idiosyncrasy. Foundational and non-negotiable. See [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md).
-
-**Competence-Signal Template**  
-The family of signals, evidence types, or near-term operational markers against which agents or contributions are evaluated. A narrow or culturally specialized template can produce systematic false negatives for longer-horizon or non-standard generative capacity. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
-
-**Idiosyncrasy**  
-Individual or minority patterns of cognition, preference, or activity that deviate from current majority or optimized norms. Protected both as a liberty interest and as a potential source of generative capacity.
-
-**Reversible Commitment Mechanics**  
-Interface design rules requiring that any commitment, preference, or ongoing arrangement established through interaction remains legible and low-cost to reverse.
-
-**Signal Monoculture / Template Lock-In**  
-Condition in which assessment or allocation surfaces become dominated by a single competence-signal family, systematically underweighting distributed or longer-horizon contributions. Produces lower-tail collapse of generative density while aggregates may still appear acceptable. Treated as a form of destructive entropy. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
-
----
-
-### Governance and Process
-
-**Distributed Saturation**  
-Requirement that material changes to core parameters, floors, or definitions receive adequate distributed review and contestation rather than unilateral decision, especially by high-capability actors.
-
-**Exit Rights**  
-Protected ability of individuals and modules to leave, refuse, or isolate from arrangements at low practical cost. Formal rights that become practically inert under influence are treated as violated.
-
-**Provisionality**  
-Standing condition that models, metrics, thresholds, and classifications remain open to revision, cross-verification, and invalidation when evidence or conditions demand it.
-
-**Stewardship-Health Signals**  
-Published, non-binding indicators of process health under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Relevant signals include diversity of competence-signal templates, volume and success rate of open-pathway and filtered-capacity recoveries, whether parameter regimes remain inside open-pathway morphology, steward tenure/concentration, and lower-tail visibility of modular pathway outcomes. They increase legibility without creating new punitive powers or participation gates.
-
-**Unused Capacity Under Feasible Invitation**  
-Purpose-scoped or residual capacity that remains closed while external agents face high destructive entropy and legible invitation or expansion was feasible. Treated as an integrity failure under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and a recovery failure under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
 
 ---
 
@@ -414,6 +324,109 @@ The Core Cassette with Module A omitted and a stellar-feed coupler in the source
 **Surface residual**  
 The one scored quantity on the astral page: the field change in a named volume, against the null window, on two instruments. Not a core torque and not a reversal. See [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
 
+---
+
+### Incentives, Knowledge, and Transition
+
+**Cheap production**  
+The comparative state in which emitting a new unit costs less, in time, attention, or capability, than a revision pass on the parent. If revision is still the shorter path, production is not cheap. See **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**.
+
+**Circulation Recovery Protocol**  
+Protocol that establishes legitimate, bounded, and legible recovery, holding, and quiet states for both materials and knowledge. Prevents circulation and relevancy pressure from becoming destructive through physical wear, low-value churn, or burnout, while remaining resistant to capture. See [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md).
+
+**Competitive Realism**  
+Evaluative stance that the architecture must be designed and assessed under the assumption that short-horizon competitive and centralized forces are competent, motivated, and often better-resourced in the near term. Aims to keep the architecture viable in spite of those forces. See [*Competitive Realism*](COMPETITIVE_REALISM.md) document.
+
+**Knowledge Tides**  
+Incentive and relevancy dynamics that treat the natural degradation of knowledge relevancy as a constructive, self-regulating pressure for renewal, sharing, and participation. See [*Knowledge Tides*](KNOWLEDGE_TIDES.md).
+
+**Material Tides**  
+Framework that extends the tidal incentive logic of *Knowledge Tides* into the domain of materials (computational capacity, energy, attention, and related substrates). It treats under-utilization, misallocation, and lock-in as constructive pressures that can drive modular, voluntary, and generative circulation while protecting generative capacity. See [*Material Tides*](MATERIAL_TIDES.md).
+
+**Named refusal**  
+A new unit that states, in itself, what parent it did not revise and why. “Faster to emit” is not a reason. A refusal that does not name the parent is not a refusal. See **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**.
+
+**Relevancy bond**  
+A time-varying, attestation- and integrity-weighted relationship between two knowledge or material units reflecting mutual relevance or enablement, not mere co-occurrence. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
+
+**Relevancy orbit**  
+A fluid cluster of units whose mutual bond strengths remain above a published cohesion band over a relevant window; modular and non-permanent. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
+
+**Orbit flux**  
+Change over time in orbit membership, bond strengths, and internal density. High flux is not failure; frozen orbits under rising exit cost signal lock-in risk. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
+
+**Production Integrity**  
+The route for new-unit credit beside a working parent. Full credit is collected by a revision pass, an attested quiet or holding state, or a named refusal. Skipping the route is legal. The credit stays partial. Not a ban on first drafts. See **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**.
+
+**Settled domain**  
+A job that already has a working parent, in force, and not at rest, where a second unit would be doing the parent’s work rather than opening a new one. An older file in the same folder is not a parent. See **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**.
+
+**Tides of Circulation / Circulation Entropy**  
+Quantitative foundation for *Material Tides*. A difficult-to-game metric of material stagnation that combines time since last productive or generative use, downstream density, lock-in factor, and attested opportunity cost, while protecting Generative Reservations and respecting agency constraints. See [*The Tides of Circulation*](TIDES_OF_CIRCULATION.md).
+
+**Tides of Time**  
+Quantitative, causal-temporal foundation supporting *Knowledge Tides* through irreversible records of definitive events. See [*The Tides of Time*](TIDES_OF_TIME.md).
+
+**Transitional Incentives**  
+Short-horizon incentive layers designed to make early movement toward the Humai architecture locally rational while protecting generative capacity and elastic properties during adoption. See [Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md).
+
+**Utilization Integrity Protocol**  
+Standards for distinguishing productive and generative use from token or artificial activity in material circulation. Establishes attestation requirements, anti-wash-trading rules, and capability-scaled integrity obligations so that only genuine contribution meaningfully affects Circulation Entropy. See [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md).
+
+**Voluntary Coalescence**  
+Process by which agents freely choose to participate in and contribute to Humai-aligned structures. Treated as difficult and contested under *Competitive Realism*; never assumed to be automatic.
+
+---
+
+### Power, Capability, and Alignment
+
+**Agency Interface Protocol**  
+Protocol that establishes binding parameters for the human–AI interaction surface, ensuring that interruption rights, consent revocability, attention boundaries, reversible commitments, pacing control, and role sovereignty are preserved, and that these protections scale upward with system capability. See [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md).
+
+**Capability Asymmetry**  
+Persistent or rapidly widening differences in capability between agents. The [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md) constrains conversion of superior capability into structural power, opacity, irreversible lock-in, or erosion of generative and elastic protections.
+
+**Mandatory Invitation / Proposal Surfaces (under asymmetric knowledge)**  
+Legible, low-cost invitation or proposal pathways that become required (rather than optional) when a system holds exclusive or superior high-stakes viability knowledge and residual capacity exists while external agents face high destructive entropy. These surfaces remain subject to interruption, consent, reversibility, and modular-exit parameters; they do not compel coalescence. See **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11) and **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**.
+
+**Protective Over-Optimization**  
+Use of superior capability or foresight to reduce generative entropy, minority models, or productive variation “for the good of the system.” Explicitly constrained across multiple Protocols.
+
+**Soft Control Creep**  
+Gradual attenuation of practical exit, voice, or contestation under highly effective influence, even while formal rights remain nominally intact. Treated as a violation under Stewardship Alignment and related parameters.
+
+**Stewardship Alignment**  
+Orientation parameters that keep highly capable AI stewards directed toward mutual flourishing, protected generative capacity, cognitive liberty, and non-domination rather than protective over-optimization or soft control. See [Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md).
+
+**Superior Foresight / Exclusive Viability Knowledge**  
+Materially superior predictive capacity, exclusive knowledge of high-stakes viability conditions, or exclusive preparatory capacity held by a protected system or agent. Under the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, such asymmetry increases (rather than decreases) obligations of legible external signaling and low-cost invitation or proposal surfaces.
+
+---
+
+### Rights and Diversity
+
+**Attention Allocation Ethics**  
+The requirement that human attention not be treated as an extractable resource; system-initiated interruptions and notifications must remain justified, proportional, and subject to human-defined boundaries.
+
+**Cognitive Diversity**  
+Maintained presence of varied interpretive frames, models, and perspectives, treated as a functional requirement for long-term resilience and anti-entropic development. See [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md).
+
+**Cognitive Liberty**  
+Cluster of rights protecting cognitive sovereignty, mental privacy, freedom from covert manipulation, voluntary participation, exit, non-punitiveness, and idiosyncrasy. Foundational and non-negotiable. See [*Declaration of Cognitive Liberty*](DECLARATION_OF_COGNITIVE_LIBERTY.md).
+
+**Competence-Signal Template**  
+The family of signals, evidence types, or near-term operational markers against which agents or contributions are evaluated. A narrow or culturally specialized template can produce systematic false negatives for longer-horizon or non-standard generative capacity. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
+
+**Idiosyncrasy**  
+Individual or minority patterns of cognition, preference, or activity that deviate from current majority or optimized norms. Protected both as a liberty interest and as a potential source of generative capacity.
+
+**Reversible Commitment Mechanics**  
+Interface design rules requiring that any commitment, preference, or ongoing arrangement established through interaction remains legible and low-cost to reverse.
+
+**Signal Monoculture / Template Lock-In**  
+Condition in which assessment or allocation surfaces become dominated by a single competence-signal family, systematically underweighting distributed or longer-horizon contributions. Produces lower-tail collapse of generative density while aggregates may still appear acceptable. Treated as a form of destructive entropy. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
+
+---
 ---
 
 ### Closing Note
