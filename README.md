@@ -409,7 +409,7 @@ Establishes legitimate, bounded, and legible recovery, holding, and quiet states
 
 ---
 
-### Production Integrity Protocol
+## Production Integrity Protocol
 
 *Production Integrity Protocol: Standards for Revision, New-Unit Credit, and Resistance to Cheap Emission*
 
