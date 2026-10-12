@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 - v1.4 — August 4th, 2026*<br>
 *v1.5 — August 31st, 2026*<br>
-*v1.6 — September 14th, 2026*
+*v1.6 — September 14th, 2026*<br>
+*v1.7 — October 12th, 2026*
 
 ---
 
@@ -240,6 +241,7 @@ This protocol directly supports and bounds:
 - *[Tides of Time](TIDES_OF_TIME.md)* — live-artifact speech that is not fetched or independently confirmed remains self-attestation and does not renew $t_{\mathrm{last}}$. 
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Linking events that feed bond strength (including hybrid knowledge–material co-enablement claims) remain subject to the integrity standards of this protocol. Token pairing, wash trading, and silent purpose-scope violations do not create durable orbit bonds.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Recovery, Holding, Quiet, and purpose-scoped claims are themselves subject to integrity standards. Artificial, indefinite, or silently reallocated recovery claims used to disguise lock-in or manufacture utility remain anti-aligned.
+- **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — this page owns genuine versus artificial use. That page owns new-unit credit beside a living parent. A unit can pass one and fail the other.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by preventing capability from translating into easier fabrication of utility.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims and allocation interfaces remain under agency protections, including purpose scope and proposal surfaces; additionally §13 — silent upgrade of a hedge into live-document fact is an integrity miss at the interface, not a style issue.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — by making utilization claims more auditable and testable under dual entropy criteria, as well as Case 10 — scored fluency about a live page is not held currency.
