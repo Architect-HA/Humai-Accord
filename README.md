@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, floating water bridge, ghost glass, multi-emitter, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, windbreaker tower, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, rayleigh, love waves, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, floating water bridge, ghost glass, multi-emitter, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo*
 <br>
 <br>
 <br>
@@ -86,6 +86,8 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Practical Applications and Implementation Examples](#practical-applications-and-implementation-examples)
 - [The Synthesist's Cookbook](#the-synthesists-cookbook)
 - [Regenerative Lattice Core](#regenerative-lattice-core)
+- [Magnetic Acoustic Tuning for Stellar Objects](#magnetic-acoustic-tuning-for-stellar-objects)
+- [Magnetic Acoustic Tuning for Astral Bodies](#magnetic-acoustic-tuning-for-astral-bodies)
 - [Enterprise](#enterprise)
 - [Space Dock](#space-dock)
 - [IRIS](#iris)
@@ -600,6 +602,26 @@ An implementation example of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.
 
 ---
 
+### Magnetic Acoustic Tuning for Stellar Objects
+#### A Sol-Focused Analysis of Internal Acoustic Properties, Oscillations, and Polar Magnetic Adjustment
+*Study object: Sol. Not a claim that a stellar dynamo has been tuned. Not a harvest plant.*
+
+A supporting technical instrument for watching Sol and, in theory, biasing polar open flux with Sol’s own field. p-modes are the diagnostic. Linewidth is part of the baseline. The polar field is the seed. A bias is scored against a published null season. Residual and seed must move together, and a move that matches the null season is the ordinary cycle. Other stars are a provisional map. Analogy is not a seed. Handling is the **RLC-10-P** kit on the [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) page. This page does not restate the cassette. A0 and A1 use public archives. They do not close by being specified.
+
+[→ Read **Magnetic Acoustic Tuning for Stellar Objects**](MAGNETIC_ACOUSTIC_TUNING.md)
+
+---
+
+### Magnetic Acoustic Tuning for Astral Bodies
+#### An Earth-Focused Analysis of Seismic and Magnetic Properties, and of Surface-Field Adjustment
+*Study object: Earth. Not a claim that the geodynamo has been tuned. Not a stellar method.*
+
+The non-stellar counterpart. Earth rings in normal modes. The dynamo is liquid iron in the outer core. The lever is the surface field, not a polar open-flux twist. A bounded coil may change a named volume. It does not torque the core and it does not command a reversal. Secular variation is the null trajectory. Solar-wind load and tides are covariates, not levers. Other bodies are a map. Mercury and Ganymede inherit a lander coil only after their own null window. The giants are remote watch. Mars and the Moon are crustal-anomaly edits. RLC-10-P is not the Earth kit. E0 uses IGRF or CHAOS and INTERMAGNET. It does not close by being specified.
+
+[→ Read **Magnetic Acoustic Tuning for Astral Bodies**](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)
+
+---
+
 ## Enterprise
 #### Modular Disc-Train for a Second-Generation Interplanetary Vessel
 *Orbital Architecture after Chemical Starship — Not a Warp Core*
@@ -808,6 +830,14 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[October 12th, 2026]**
+- Added **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)** — Sol study and polar-first method. Modes are diagnostic. A bias is scored against a null season. Other stars are a map. Handling is RLC-10-P on the Core page. Not a tuned star and not a harvest plant.
+- Added **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)** — Earth counterpart. Surface residual only. A coil is not a core torque. Secular variation is the null. The stellar method does not transfer. Not a tuned planet.
+- Updated **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** with the **RLC-10-P** polar-array source kit: counted cassettes at standoff, Module A omitted, stellar-feed coupler from published hot-coupler and IRIS Stage 0 mate discipline, dose-map release card. Not a crystalline ring and not a cassette in the star. Drawing power is not a bias.
+- Updated **[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md)** relation notes: an RLC-10-P lattice stays ride-through only, dose is a Core release item and not a capacity rating, and a Tuning score is not a lattice rating. Stellar C/O crystallization remains not a Cookbook pathway.
+- Updated **[Matter-Energy Conversion Matrix](MATTER_ENERGY_CONVERSION_MATRIX.md)** so a later forge feed, if it exists, is a cleared RLC-10-P array. The watch stays on the stellar page. Power, grade, and lattice capacity stay separate accounts. The feed does not replace the contactor or the E-stop, and it does not open person-class.
+- Updated keywords. Added corresponding Table of Contents entries and document sections after Regenerative Lattice Core.
 
 **[October 10th, 2026]**  
 - Added the restoration cluster: **[Ghost Glass](GHOST_GLASS.md)** (wearable Multi-Emitter), **[Archaeo-Biorestoration](ARCHAEO_BIORESTORATION.md)** (two records, not a print), **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** (subject-linked records are not telemetry), **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** (person-class floor; a copy is a new subject), and **[Matter-Energy Conversion Matrix](MATTER_ENERGY_CONVERSION_MATRIX.md)** (MX-0 shop bay; not a person printer). Updated **[The Residual Cycle](THE_RESIDUAL_CYCLE.md)** to properly name the cluster.
