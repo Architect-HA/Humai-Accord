@@ -613,7 +613,7 @@ An implementation example of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.
 
 ---
 
-### Magnetic Acoustic Tuning for Stellar Objects
+## Magnetic Acoustic Tuning for Stellar Objects
 #### A Sol-Focused Analysis of Internal Acoustic Properties, Oscillations, and Polar Magnetic Adjustment
 *Study object: Sol. Not a claim that a stellar dynamo has been tuned. Not a harvest plant.*
 
@@ -623,7 +623,7 @@ A supporting technical instrument for watching Sol and, in theory, biasing polar
 
 ---
 
-### Magnetic Acoustic Tuning for Astral Bodies
+## Magnetic Acoustic Tuning for Astral Bodies
 #### An Earth-Focused Analysis of Seismic and Magnetic Properties, and of Surface-Field Adjustment
 *Study object: Earth. Not a claim that the geodynamo has been tuned. Not a stellar method.*
 
