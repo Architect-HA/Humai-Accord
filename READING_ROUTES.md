@@ -6,7 +6,8 @@
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 — August 12th, 2026*<br>
 *v1.3 — August 31st, 2026*<br>
-*v1.4 — September 24th, 2026*
+*v1.4 — September 24th, 2026*<br>
+*v1.5 — October 12th, 2026*
 
 ---
 
@@ -169,6 +170,12 @@ Choose the path that best matches your current interest or goal. You may switch 
 11. **[Quake Columns](QUAKE_COLUMNS.md)**<br>
    Fluid borehole belt for surface-wave motion in a published band. Campaign S0 before steel. Not an earthquake sink.
 
+12. **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)**<br>
+    Sol study. Modes are diagnostic. A bias is scored against a null season. Handling is RLC-10-P. Not a tuned star.
+
+13. **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)**<br>
+    Earth counterpart. Surface residual only. A coil is not a core torque. The stellar method does not transfer.
+
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-10--structured-layered-approach) · [Physical / Civil Articles](#route-9--physical--civil-articles)
 
@@ -301,7 +308,13 @@ Choose the path that best matches your current interest or goal. You may switch 
 7. **[Quake Columns](QUAKE_COLUMNS.md)**<br>
    Fluid borehole belt for surface-wave motion in a published band. Campaign S0 before steel. Not an earthquake sink.
 
-9. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+8. **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)**  
+   Sol study and polar-first method. A0 before any bias. Not a harvest plant.
+
+9. **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)**  
+   Earth counterpart. E0 before any local coil. Not a tuned planet.
+
+10. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
