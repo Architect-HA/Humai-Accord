@@ -12,7 +12,8 @@
 *v1.9.2 — August 31st, 2026*<br>
 *v1.10 — September 1st, 2026*<br>
 *v1.11 — September 14th, 2026*<br>
-*v1.12 — September 24th, 2026*
+*v1.12 — September 24th, 2026*<br>
+*v1.13 — October 12th, 2026*
 
 ---
 
@@ -544,6 +545,8 @@ This document is continuous with and dependent upon several existing components:
 - *[Gulpgates](GULPGATES.md)* — K1 campaign logs are a physical demonstration pathway: a measured takeoff is taken off a rising limb while spring-field flow, water quality, and cover stay inside their published bands, and leftover volume stays on the surface. A lower river staff with no spring or cover record is illustrative only.
 - *[Quake Columns](QUAKE_COLUMNS.md)* — S1 campaign logs are a physical demonstration pathway: surface-wave demand in a defined zone is reduced while motion outside that zone stays inside a published envelope. A quiet plant with no off-site instruments is illustrative only.
 - *[Hydrofilaments](HYDROFILAMENTS.md)* — F1 campaign logs are a physical demonstration pathway: a Gap Bridge is held inside the starting length and lifetime band while export and water-class floors are held. A thread with no export log, no water-class sheet, or no F0 matrix is illustrative only.
+- *[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)* — A0 / A1 are a demonstration pathway: a polar mode-power and linewidth trajectory, and a null season, from public archives. A point reading or a single instrument is illustrative only. A bias with no null season is not a result.
+- *[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)* — E0 / E1 are a demonstration pathway: a surface-field residual against a published model, and a null window, from INTERMAGNET or an equivalent pair. A matched secular drift is ordinary. A coil with no null window is not a result.
 
 This document does not replace these elements. It specifies how their claims can be tested, demonstrated, and refined under the dual entropy requirement.
 
