@@ -11,7 +11,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.6 — August 12th, 2026*<br>
 *v1.7 — August 14th, 2026*<br>
 *v1.8 — August 26th, 2026*<br>
-*v1.9 — September 24th, 2026*
+*v1.9 — September 24th, 2026*<br>
+*v1.10 — October 12th, 2026*
 
 ---
 
@@ -348,8 +349,8 @@ Emergency doctrine for the cassette: isolate, scram, dump heat, pull cartridges.
 **Ride-through Buffer**  
 The productive role of a Cookbook lattice in the cassette: gated electrical store sized for a converter blip (minutes), not for voyage energy. First cycling remains $\leq 10\%$ of the proxy ceiling. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** and [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md).
 
-**RLC-10 / RLC-10-CHP / RLC-B**  
-Cassette class family. RLC-10 is the Stirling-first 10 kWe design point. RLC-10-CHP is the same cassette with surface reject takeoff after Stirling. RLC-B is a later closed-Brayton sibling class on the same plate language, not a mash inside RLC-10 Zone 2. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
+**RLC-10 / RLC-10-CHP / RLC-10-P / RLC-B**  
+Cassette class family. RLC-10 is the Stirling-first 10 kWe design point. RLC-10-CHP is the same cassette with surface reject takeoff after Stirling. RLC-10-P is the same cassette with Module A omitted and a stellar-feed coupler, in array at standoff. RLC-B is a later closed-Brayton sibling class on the same plate language, not a mash inside RLC-10 Zone 2. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
 
 **Scale-out (cassette)**  
 Higher continuous power by counting sealed kits ($N$, $N+1$) on one plate language, or by later licensed class. Not by a denser crystal, a growable fuel slug, or flux stored in the lattice. See **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)**.
@@ -393,6 +394,25 @@ Parent civil articles: a 100 m porous Windbreaker Tower and a Coastal Hydro-Frac
 
 **Surface waves (Rayleigh / Love)**  
 The shaking Quake Columns is written to argue with: motion that travels near the ground surface in a published frequency band. Deep body-wave arrival and a near-fault pulse stay outside that article’s guarantee. See [Quake Columns](QUAKE_COLUMNS.md).
+
+---
+
+### Implementation Instruments (Magnetic Acoustic Tuning)
+
+**Astral Bodies (this page)**  
+Non-stellar objects in the Tuning pair: planets, moons, and debris that carry a field or a seismic record. Earth is the scored object. See [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
+
+**Counterpart pair (Tuning)**  
+The two Tuning pages. Stellar Objects scores Sol. Astral Bodies scores Earth. Neither method transfers. RLC-10-P is handling for the stellar page. It is not the pair. See [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md) and [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
+
+**Null season / null window**  
+The published ordinary trajectory a later bias must beat. On Sol, the polar rebuild. On Earth, secular variation. A move that matches it is the ordinary cycle or the ordinary drift. See the two Tuning pages.
+
+**RLC-10-P**  
+The Core Cassette with Module A omitted and a stellar-feed coupler in the source bay, counted in array at standoff. Handling for the stellar Tuning page. Not a crystalline ring, not a cassette in the star, and not the Earth kit. See [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md).
+
+**Surface residual**  
+The one scored quantity on the astral page: the field change in a named volume, against the null window, on two instruments. Not a core torque and not a reversal. See [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
 
 ---
 
