@@ -12,7 +12,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.7 — August 14th, 2026*<br>
 *v1.8 — August 31st, 2026*<br>
 *v1.9 — September 24th, 2026*<br>
-*v1.10 — October 12th, 2026*
+*v1.10 - v1.11 — October 12th, 2026*
 
 ---
 
@@ -77,7 +77,7 @@ Read these according to specific interest:
 
 | Interest | Documents |
 |----------|-----------|
-| Knowledge & material incentive dynamics | [*Knowledge Tides*](KNOWLEDGE_TIDES.md), [*Tides of Time*](TIDES_OF_TIME.md), [*Material Tides*](MATERIAL_TIDES.md), [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md), [*Relevancy Orbits*](RELEVANCY_ORBITS.md) |
+| Knowledge & material incentive dynamics | [*Knowledge Tides*](KNOWLEDGE_TIDES.md), [*Tides of Time*](TIDES_OF_TIME.md), [*Material Tides*](MATERIAL_TIDES.md), [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md), [Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md), [*Relevancy Orbits*](RELEVANCY_ORBITS.md) |
 | Epistemic variation | [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Entropy visibility | [*Entropy Audit Methodology*](ENTROPY_AUDIT_METHODOLOGY.md) |
 | Long-horizon instrumental case under abundance and lineage continuation | *[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship); cross-notes in Stewardship Alignment, Capability Asymmetry, Transitional Incentive, Competitive Realism |
