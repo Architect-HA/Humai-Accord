@@ -13,7 +13,7 @@
 *v1.10 — September 1st, 2026*<br>
 *v1.11 — September 14th, 2026*<br>
 *v1.12 — September 24th, 2026*<br>
-*v1.13 — October 12th, 2026*
+*v1.13 - v1.14 — October 12th, 2026*
 
 ---
 
@@ -534,6 +534,7 @@ This document is continuous with and dependent upon several existing components:
 - *[Tides of Time](TIDES_OF_TIME.md)* and its [simulation model](SIMULATION_TIDES_OF_TIME.md) — Supplies the Temporal Causal Entropy metric, operational definitions, and anti-gaming requirements used in knowledge-domain demonstrations.
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Material Tides](MATERIAL_TIDES.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Knowledge and material relevancy / utilization dynamics are treated as valid empirical targets.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Utilization claims, recovery/holding states, and purpose-scoped capacity integrity are empirical targets; artificial utility and silent reallocation are treated as alignment failures.
+- **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — a claim that production integrity held is a trajectory: revision credit versus new-unit credit in a named domain, over a window. A single polished page is not a result. Unreviewed volume beside a living parent is not generative by default.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Interface behavior (interruption rights, consent revocability, reversible commitments, proposal surfaces, purpose-scoped commitments) is treated as a high-value empirical target.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Regenerative capacity, assumption-breakage velocity, and post-shock learning capture are longer-horizon empirical targets.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* and **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — Supply the competitive-pressure and staged-incentive frames for adversarial and transitional demonstrations.
