@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 - v1.4 — August 4th, 2026*<br>
-*v1.5 — August 11th, 2026*
+*v1.5 — August 11th, 2026*<br>
+*v1.6 — October 12th, 2026*
 
 ---
 
@@ -175,6 +176,7 @@ This protocol is shaped by and must remain consistent with:
 - *[Material Tides](MATERIAL_TIDES.md)* & *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Prevents circulation pressure from becoming physically or systemically destructive.
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* & *[Tides of Time](TIDES_OF_TIME.md)* — Prevents relevancy pressure from forcing low-value noise and burnout.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Ensures recovery and holding claims themselves remain attestable and non-abusive; silent reallocation of purpose-scoped capacity is treated as an integrity failure.
+- **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — quiet and holding are one of that page’s three routes to full new-unit credit. They are rest. They are not a skip.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Prevents recovery privileges from becoming a new form of structural advantage.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Especially relevant when recovery or holding involves human attention, human-maintained knowledge processes, proposal surfaces, or purpose-scoped commitments.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Supports regenerative capacity by allowing legitimate rest rather than brittle continuous operation.
