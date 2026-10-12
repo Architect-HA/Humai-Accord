@@ -9,7 +9,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.6 — August 11th, 2026*<br>
 *v1.7 — August 12th, 2026*<br>
 *v1.7.1 — August 31st, 2026*<br>
-*v1.8 — September 14th, 2026*
+*v1.8 — September 14th, 2026*<br>
+*v1.9 — October 12th, 2026*
 
 ---
 
@@ -176,6 +177,12 @@ A truly living system is not one that has eliminated entropy, but one that has l
 This differs from a pure maximization of disorder. The framework does not celebrate inefficiency for its own sake. It treats a calibrated measure of generative entropy as a functional requirement for long-horizon anti-entropic performance — the capacity to keep refining, adapting, and discovering rather than locking into an elegant but fragile local optimum.
 
 The precise calibration of these generative budgets remains an empirical and stewardship question. It cannot be settled once and for all by principle alone; it must be continually tested and adjusted under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+---
+
+### Relation to Production Integrity
+
+Unreviewed volume in a settled domain is not generative by default. Bounded new work stays protected. A flood of first drafts beside a living parent is the case **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** scores. This page does not.
 
 ---
 
