@@ -338,6 +338,9 @@ The two Tuning pages. Stellar Objects scores Sol. Astral Bodies scores Earth. Ne
 **Dynamo Reignition**  
 A heat-flow schedule for an extinguished core. Mars is the study object. The lever is the mantle valve, in a named belt. Not a Tuning method. A field claim stays on the astral page. See **[Dynamo Reignition](DYNAMO_REIGNITION.md)**.
 
+**Heat-Spine**  
+A staged deep-crustal drilling column. Leaves a counted conductive spine of tensegrity segments. The close seats the segment. Not a road. Not a dynamo. See **[Heat-Spine](HEAT_SPINE.md)**.
+
 **Mantle valve**  
 The rate at which the lower mantle takes heat from the core-mantle boundary. The lever on the reignition page. Not a coil, not a pierce past the crust, and not a field. See **[Dynamo Reignition](DYNAMO_REIGNITION.md)**.
 
@@ -346,6 +349,9 @@ The published ordinary trajectory a later bias must beat. On Sol, the polar rebu
 
 **RLC-10-P**  
 The Core Cassette with Module A omitted and a stellar-feed coupler in the source bay, counted in array at standoff. Handling for the stellar Tuning page. Not a crystalline ring, not a cassette in the star, and not the Earth kit. See [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md).
+
+**Seated spine**  
+The Heat-Spine article. A segment set under a pressure balance and clamped when that balance is drawn down. A close with no segment is a plug. See **[Heat-Spine](HEAT_SPINE.md)**.
 
 **Surface residual**  
 The one scored quantity on the astral page: the field change in a named volume, against the null window, on two instruments. Not a core torque and not a reversal. See [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
