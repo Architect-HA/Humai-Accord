@@ -4,6 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 12th, 2026*<br>
+*v1.5 — October 13th, 2026*
 
 ---
 
@@ -11,7 +12,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 
 This document is a heat-flow schedule for an extinguished dynamo, with Mars as the study object.
 
-[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) scores a surface residual and refuses dynamo language on Mars. This page owns the valve that page will not touch: how fast the core is allowed to lose heat.
+[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) scores a surface residual and refuses dynamo language on Mars. This page owns the valve that page will not touch: how fast the core is allowed to lose heat. [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) owns the air. A field is not a column. This page does not wait on that one, and that one does not wait on this.
 
 A dynamo needs a liquid, conducting core, rotation, and a heat flow through the core steep enough to drive convection.
 
@@ -46,6 +47,7 @@ This is a supporting technical instrument within the [Humai Accord](README.md). 
 - RLC-10-P seated as a planetary core heater  
 - Multi-Emitter drawings or other provisional components  
 - A drilling manual. The machine is out of this file.  
+- An atmosphere, a rain cycle, or a biosphere. Those are [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md).  
 - A claim that a regional heat-flow change is a planetary field  
 
 Figures below are orientation bands from published geophysics. They are not a rating of a restarted planet.
@@ -232,11 +234,11 @@ The belt does not run one act at full power for the whole clock. It runs the act
 | Tide | Efficient act | Why now |
 |------|----------------|---------|
 | Open | The pierce, held. Lid work. | The valve is the standing act. A pulse is not. |
-| Deliver | A controlled, location-optimized delivery of useful mass, ice first. | When the belt can use the mass twice: a shallow heat contribution beside the held pierce, and a volatile a later surface schedule also wants. |
+| Deliver | A controlled, location-optimized delivery of useful mass, ice first. | When the belt can use the mass twice: a shallow heat contribution beside the held pierce, and a volatile [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) also wants for the column. |
 | Rest | Quiet or holding on the belt. No new pierce. No delivery. | When covariates own the heat-flow signal, or when further actuation would be churn against a rise already being scored. |
 | Ask | M2 or M3, no new actuator. | When the question is whether the mantle or the boundary noticed. |
 
-A delivery is not an impact in the basin sense, and it is not a valve. It is a counted mass, aimed at the belt, sized so it does not excavate a new lid and does not couple into the core. Ice is the first useful mass because it can add a shallow heat contribution beside the pierce and leave a volatile for a later surface schedule. The pierce stays the standing act. A delivery that replaces it, that only makes a crater, or that is sized to reach the mantle, is not this tide. It is the refused impact.
+A delivery is not an impact in the basin sense, and it is not a valve. It is a counted mass, aimed at the belt, sized so it does not excavate a new lid and does not couple into the core. Ice is the first useful mass because it can add a shallow heat contribution beside the pierce and leave a volatile for [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md). The pierce stays the standing act. A delivery that replaces it, that only makes a crater, or that is sized to reach the mantle, is not this tide. It is the refused impact.
 
 The tide ebbs. Deliver when the dual use is real, under **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**: both uses named, neither a cover for the other. Rest when **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** would call continued actuation churn. Open the pierce again when the null says the lid has closed. Ask when the question is the mantle or the boundary, and add no actuator while the question is open. A schedule that runs every act at once is not efficient. It is the cost inversion, applied to a planet.
 
@@ -265,6 +267,7 @@ A planet-sized lid is not a scaled belt. It is a different article, and it is no
 This page is not the third Magnetic Acoustic Tuning document.
 
 - **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)** is the field sibling. It scores a residual and refuses dynamo language on Mars. This page owns the valve that page will not touch.  
+- **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** is the air sibling. It owns the column, the rain cycle, and the biosphere gate. Neither page waits on the other.  
 - **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)** is not a sibling method. Polar open flux does not transfer to a dead core.  
 
 A reader who arrives here for a coil is on the wrong page.
@@ -319,6 +322,7 @@ A seen remanent field is not a seen restart. These bodies do not inherit Mars’
 ## Relation to existing work
 
 - **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)** — owns the field score. A crustal edit is an anomaly edit. This page does not reopen dynamo language. A returned field, if one is ever claimed, is beaten against that page’s null.  
+- **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — owns the air. This page owns the valve. A shared ice delivery scores heat flow here and column mass there. Neither is the other’s prerequisite.  
 - **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)** — polar open flux does not transfer. There is no open flux from a dead core.  
 - **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** — RLC-10-P is a stellar source bay. It is not a planetary core heater, and it is not M4.  
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — a delivery counts when both uses are real. A crater with a volatile story is not dual use.  
