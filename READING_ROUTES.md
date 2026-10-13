@@ -7,7 +7,7 @@
 *v1.2 — August 12th, 2026*<br>
 *v1.3 — August 31st, 2026*<br>
 *v1.4 — September 24th, 2026*<br>
-*v1.5 - v1.6 — October 12th, 2026*
+*v1.5 - v1.7 — October 12th, 2026*
 
 ---
 
@@ -176,6 +176,9 @@ Choose the path that best matches your current interest or goal. You may switch 
 13. **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)**<br>
     Earth counterpart. Surface residual only. A coil is not a core torque. The stellar method does not transfer.
 
+14. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**<br>
+   Mars heat-flow schedule. Mantle valve, named belt, cased pierce. Not a Tuning method. A field claim stays on the astral page.
+
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-10--structured-layered-approach) · [Physical / Civil Articles](#route-9--physical--civil-articles)
 
@@ -317,7 +320,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 9. **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)**  
    Earth counterpart. E0 before any local coil. Not a tuned planet.
 
-10. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+10. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**  
+   Extinguished-core schedule. M0 before any pierce. Not a restarted dynamo.
+
+11. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
