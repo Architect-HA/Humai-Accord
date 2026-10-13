@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 12th, 2026*<br>
-*v1.5 - v1.11 — October 13th, 2026*<br>
+*v1.5 - v1.12 — October 13th, 2026*<br>
 
 ---
 
@@ -71,6 +71,16 @@ Mars had a field. It shut down about $3.8\text{–}4.0$ billion years ago, when 
 
 Rotation did not stop. The core did not vanish. The valve closed.
 
+### What the liquid is doing
+
+Liquid is not the same as flowing. A molten iron alloy can sit still and carry heat by conduction. Conduction is slow and orderly. It does not make a field. A dynamo needs convection: the liquid moving because the boundary is cool enough that the fluid against it becomes dense and sinks, and hotter fluid from below rises to take its place. That motion, in a rotating, conducting liquid, is the machine.
+
+Mars now is the depleted case. The core is still at least partly liquid. It still turns. A marsquake shakes it, and the motion dies. That jostling is not a circulation and not a dynamo waiting to be woken. The boundary is warm. The gradient is flat. There is no organized sink-and-rise left.
+
+The restored case, if it is ever reached, is not a hotter core. It is a cooler boundary. Fluid at the top cools, sinks, and is replaced. Rotation does not drive this. Rotation organizes it. In a spinning sphere the radial exchange is rolled into columns roughly parallel to the rotation axis, and into helical paths. A parcel rises or sinks, slides sideways, and twists. At core vigour that sideways motion is turbulent. The turbulence is not a third engine. It is what the driven, rotating flow looks like when it is strong.
+
+The field is that whole motion, sustained only while the heat loss continues. Cut the loss and the buoyancy dies. The columns stall. The spin remains. The dynamo does not. Nothing elsewhere in the repository changes this. A coil, a resonant driver, and a surface meter do not restore a sink-and-rise. The lever stays the boundary. The pierce, if it ever matters, is a way to let heat leave faster at the top of the mantle, so the boundary the core touches runs cooler. The core spends heat it already holds. That spend is the convection.
+
 ### What the crust remembers
 
 The remanent field is strong in places and absent in others. It is not a dipole of a living core. A local coil can edit an anomaly. That edit is an anomaly edit. The astral page already scores it that way, and this page does not reopen the word.
@@ -105,6 +115,7 @@ A successful valve spends the core’s remaining heat faster. That is the point,
 | A regional valve is a planetary field | A field, if it returns, is global or it is not a dynamo. A belt is a heat-flow result. |
 | Geologic time compressed into a season | The boundary adjusts on long clocks. A schedule can start. It cannot finish in a campaign window. |
 | RLC-10-P as a core heater | That kit is a stellar source bay. It is not seated in a planet. |
+| A hotter core as the lever | The dead state is a warm boundary. Heating the core makes that state more stable. The dynamo wants the boundary cooler. |
 | An empty shaft as a heat path | Still gas equilibrates and insulates. A path needs a working fluid or a conductive fill. |
 
 ---
