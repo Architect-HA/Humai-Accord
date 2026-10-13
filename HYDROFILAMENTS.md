@@ -605,6 +605,8 @@ Also binds to [*Necessary Entropy*](NECESSARY_ENTROPY.md), the **[Architectural 
 
 It shares empirical posture with [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) and does not import that file’s measurement objects onto the array. [Ghost Glass](GHOST_GLASS.md), the Phoenix Protocol, and the Biodynamic Standing Protocol are named only to exclude them. Person-class methods do not arm this article. The Matrix bay is not an emitter.
 
+[Dynamo Reignition](DYNAMO_REIGNITION.md) may use a path or wake to meter a loop at a surface plant, after that fluid has its own card. This page does not case a pierce, and it does not stir a shaft. A water log does not rate CO₂, brine, or oil.
+
 ---
 
 ## Closing
