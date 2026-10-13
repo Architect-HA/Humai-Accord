@@ -13,6 +13,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.8 — August 31st, 2026*<br>
 *v1.9 — September 24th, 2026*<br>
 *v1.10 - v1.12 — October 12th, 2026*
+*v1.13 — October 13th, 2026*
 
 ---
 
@@ -107,6 +108,7 @@ Read these according to specific interest:
 | Polar watch and scored bias (Sol) | [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md) |
 | Surface-field watch (Earth) | [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) |
 | Heat-flow valve (Mars) | [Dynamo Reignition](DYNAMO_REIGNITION.md) |
+| Seated spine (Mars) | [Heat-Spine](HEAT_SPINE.md) |
 | Air, water, biosphere (Mars) | [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
 
@@ -126,6 +128,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists
 - Magnetic Acoustic Tuning campaign packets (A0 / E0) until an archive reduction or a site watch exists. The articles may be sampled.
 - Atmospheric Restoration R3 detail until an R0 card and a life survey exist for a basin. The article may be sampled.
+- Heat-Spine P3 detail until a P0 segment has been seated. The article may be sampled.
 
 They become more useful once the main architectural commitments are already clear.
 
