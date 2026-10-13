@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 12th, 2026*<br>
-*v1.5 — October 13th, 2026*
+*v1.5 - v1.10 — October 13th, 2026*<br>
 
 ---
 
@@ -44,8 +44,7 @@ This is a supporting technical instrument within the [Humai Accord](README.md). 
 - A surface coil, a polar twist, or any Tuning method claimed as a core torque  
 - Acoustic resonance as a core heater  
 - An impact specified as a design  
-- RLC-10-P seated as a planetary core heater  
-- Multi-Emitter drawings or other provisional components  
+- RLC-10-P seated as a planetary core heater    
 - A drilling manual. The machine is out of this file.  
 - An atmosphere, a rain cycle, or a biosphere. Those are [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md).  
 - A claim that a regional heat-flow change is a planetary field  
@@ -106,6 +105,7 @@ A successful valve spends the core’s remaining heat faster. That is the point,
 | A regional valve is a planetary field | A field, if it returns, is global or it is not a dynamo. A belt is a heat-flow result. |
 | Geologic time compressed into a season | The boundary adjusts on long clocks. A schedule can start. It cannot finish in a campaign window. |
 | RLC-10-P as a core heater | That kit is a stellar source bay. It is not seated in a planet. |
+| An empty shaft as a heat path | Still gas equilibrates and insulates. A path needs a working fluid or a conductive fill. |
 
 ---
 
@@ -122,9 +122,66 @@ M1 needs a hand, not a verb. The first article is a named belt and a counted pie
 
 A belt wider than this is a second article. A pierce aimed past the base of the crust is not M1. Ten years is the M1 hold. M2 asks for the same belt, still open, long enough for an upper-mantle observable to move. That clock is longer, and it is named when the observable is chosen. It is not promised as a decade.
 
-### The pierce
+### Pressure, not a vacuum
+
+At depth the rock is not a rigid wall. Lithostatic load makes it macro-plastic. It flows. An opened hole wants to close. A vacuum makes that worse. The pressure outside is what is pushing in. Removing the pressure inside does not lock the shaft. It invites the collapse.
+
+The lock is a balance. While the path is being cut, a fluid column in the hole is held at a pressure that matches the rock at that depth. Oil-field practice calls this mud weight. The name does not matter. The balance does. The rock has nothing to flow toward. The hole stays a hole long enough to case it.
+
+| Step | What holds the hole |
+|------|---------------------|
+| Cutting | A pressure-balanced fluid column. Not a vacuum. Not an empty bore. |
+| Casing | The case, set before the balance fluid is drawn down. |
+| Heat path | The named fill, after the case is in. |
+
+A tensegrity of tethers and bridges is not forbidden as a case. It is not a way to skip the case. It still has to be gotten down the hole, and it still has to be there before the balance fluid comes out. Getting it there is the machine. The machine stays out of this file.
+
+The cut can be a bit, a thermal head, or a resonant driver. All three still make spoil, and all three still need the balance. Melted rock has to go somewhere. Aerosolized rock has to be lifted and collected, or it resettles and fills the path. A method that disintegrates the channel and leaves the mass in it has not made a pierce. It has made a plug.
+
+Spoil comes up. It stays inside the belt. A pile on a baseline instrument still fails M1. A resonant or thermal cut is allowed. It is not a substitute for the case, the balance, or the fill.
+
+The case-and-grout order is the one **[Quake Columns](QUAKE_COLUMNS.md)** already uses: case through to competent material, grout the annulus, refuse an uncased soak. That page does not drill to the base of a crust. What transfers is the rule. **[Hydrofilaments](HYDROFILAMENTS.md)** can write a path in water over millimetres. Its forces are trims. They are not a casing at depth. A resonant driver remains a cut. It does not hold the rock open.
 
 The path is cased, or it is not an article. A counted shaft or heat path to the base of the local crust, lined so it does not collapse into a filled hole. It stays open, or M1 fails. A collapse is a fail. It is not a quiet success and it is not a holding state. The path ends at the base of the crust. It does not continue toward the mantle as a bore. What the mantle does with the opened lid is M2’s question, not the pierce’s.
+
+A pierce is a heat path only if it carries heat. An empty shaft equilibrates. The gas in it becomes a blanket, not a radiator. The article is a cased path with a working fluid or a conductive fill, named on the card. A hole with neither is not M1. It is a note.
+
+| Fill | What it does | Bound |
+|------|----------------|-------|
+| Working fluid, closed loop | Carries heat from the base of the crust to the surface and returns | Named fluid. A leak into the belt is a fail. Not a bore into the mantle. |
+| Conductive fill | A solid or packed path that conducts. No circulation required | Must out-conduct the lid it replaced. A fill that insulates fails M1. |
+| Neither | An empty shaft | Not an article. Still gas is a blanket. |
+
+The fluid is the first option, because it can be metered. The conductive fill is the option when a loop cannot be kept. Both end at the base of the crust. Neither is a claim that the boundary has cooled. That is M3.
+
+### Named fills
+
+The card names the fill. These are the options. A mix not on the list is chosen when both the conductivity and the failure mode are written.
+
+| Fill | Kind | Why this one | Bound |
+|------|------|----------------|-------|
+| CO₂, compressed or liquid in the loop | Working fluid | Mars already has it. No import for the first article. | Closed loop. A leak is a CO₂ release, logged, not a column claim. |
+| Brine, water with a named salt | Working fluid | Stays liquid colder than pure water. Carries heat well. | Named salt. A leak into the belt is a fail. Not a seed. |
+| Heat-transfer oil | Working fluid | Wide liquid range. No freeze at the surface end. | Contained. A spill is a fail. |
+| Graphite or metal shot, packed | Conductive fill | Conducts. No circulation to keep. | Must out-conduct the lid. Settling that opens a gap fails M1. |
+| Conductive grout | Conductive fill | Stays put. No loop. | Permanent. Exchange means a new path, not a flush. |
+
+CO₂ is the first fluid, because the planet supplies it. Brine is the option when the loop must carry more heat than CO₂ will. Oil is the option when the surface end would freeze a water mix. Graphite or shot is the fill when a loop cannot be kept. Grout is the last option, because it cannot be exchanged.
+
+### Exchange and circulation
+
+A loop is not a set-and-forget. It is circulated, and the mix can be exchanged, against the gradient the belt is actually showing.
+
+| Trigger | Act |
+|---------|-----|
+| Shallow heat flow below the M1 band | Increase circulation, or exchange to a higher-capacity fluid. |
+| Heat flow above the band, or covariates owning the signal | Slow or rest the loop. Rest is a tide, not a fail. |
+| A named temperature at the base of the crust | Exchange the mix. The new mix is written before it is introduced. |
+| A leak, a freeze, or a fill that has settled open | Stop. Repair or replace. Do not call the pause a hold. |
+
+Precise means named. A mix, a threshold, and a rate go on the card before the exchange. An exchange that is not on the card is not metering. It is churn. The loop does not reach past the base of the crust, and a faster loop is not a cooler core-mantle boundary. That question is still M3.
+
+The ten-year hold scores shallow heat flow. It does not score the core-mantle boundary. Heat through a solid mantle moves on a geologic clock. A belt of $100\text{–}300\,\mathrm{km}$ is a survey. It is not a planetary valve, and it does not pull heat from ${\sim}1600\,\mathrm{km}$ down inside a campaign window. M2 and M3 ask whether anything moved. They are allowed to say no.
 
 ### Assembly card
 
@@ -133,11 +190,11 @@ M1 stands up on a card. The card is the site, not a drilling manual.
 | Step | What is true before the next |
 |------|-------------------------------|
 | Survey | The belt is already on an M0 card. Crust thickness, baseline, covariates, and instruments are written. |
-| Case | Each path is cased to the base of the local crust before it is opened. An opened, uncased path is not an article. |
+| Case | Each path is cased to the base of the local crust while the balance fluid still holds it. The balance fluid is drawn down only after the case is in. An uncased path with the balance drawn down is not an article. |
 | Open | The counted set is opened, spaced so the shallow heat-flow footprints can be told apart. |
 | Hold | Each path stays open. The ten-year clock starts when the set is open, not when the first shaft is begun. |
 
-Power and spoil stay inside the belt. A spoil pile that buries a baseline instrument fails M1. A path that continues past the base of the crust is not this assembly. Collapse, fill, or a path that will not stay open for the hold is a fail, not a rest.
+Power and spoil stay inside the belt. A spoil pile that buries a baseline instrument fails M1. A path that continues past the base of the crust is not this assembly. Collapse, or a path that closes on its own, is a fail, not a rest. A named fill is not a collapse. It is the heat path.
 
 The card says what must be standing. It does not say how to drill it. The machine is a later campaign, on this card.
 
@@ -202,8 +259,8 @@ Fail: a coil reading filed as the null. A single instrument. An M2 started witho
 
 Thin or breach the insulating crust in the named belt, on the assembly card. Score the change in shallow heat flow. Do not score a field.
 
-Pass: a measured rise in shallow heat flow inside the belt, against the M0 baseline, with the set cased before it was opened, the ten-year hold started when the set was open, and the field map unchanged or logged as an anomaly edit on the astral page.  
-Fail: a field claim. A heat-flow rise with no baseline. An opened, uncased path. A spoil pile on a baseline instrument. A hold clock started at the first shaft.
+Pass: a measured rise in shallow heat flow inside the belt, against the M0 baseline, with the set cased before the balance fluid was drawn down, the ten-year hold started when the set was open, and the field map unchanged or logged as an anomaly edit on the astral page.  
+Fail: a field claim. A heat-flow rise with no baseline. An uncased path with the balance drawn down. A spoil pile on a baseline instrument. A hold clock started at the first shaft. An empty shaft filed as a heat path. A vacuum claimed as a lock.
 
 ### M2 — Valve
 
@@ -283,7 +340,7 @@ Two surfaces stay open, and the page says how they close.
 | M3 phase | A boundary-sensitive seismic phase may not be in reach | Closes when a reachable phase is named and baselined, or stays open and M3 waits. Waiting is not a pass. |
 | M4 source | Channeled energy is a later option | Closes when a later page specifies a source. That page owns the hardware. This page keeps the score. |
 
-No other surface is quietly open. The pierce, the assembly card, the belt, the covariates, the two drivers, and the four tides are specified. A delivery mass beyond ice is chosen on the card when the dual use is real. It is not a fifth tide. The drilling machine is not an open surface. It is out of this file.
+No other surface is quietly open. The pierce, the assembly card, the named fills, the belt, the covariates, the two drivers, and the four tides are specified. A delivery mass beyond ice is chosen on the card when the dual use is real. It is not a fifth tide. The drilling machine is not an open surface. It is out of this file.
 
 ---
 
@@ -323,6 +380,8 @@ A seen remanent field is not a seen restart. These bodies do not inherit Mars’
 
 - **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)** — owns the field score. A crustal edit is an anomaly edit. This page does not reopen dynamo language. A returned field, if one is ever claimed, is beaten against that page’s null.  
 - **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — owns the air. This page owns the valve. A shared ice delivery scores heat flow here and column mass there. Neither is the other’s prerequisite.  
+- **[Quake Columns](QUAKE_COLUMNS.md)** — case through, grout the annulus, refuse an uncased soak. The rule transfers. The machine does not. This page does not inherit a column.  
+- **[Hydrofilaments](HYDROFILAMENTS.md)** — a path in water, over millimetres. Not a crustal casing.  
 - **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)** — polar open flux does not transfer. There is no open flux from a dead core.  
 - **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** — RLC-10-P is a stellar source bay. It is not a planetary core heater, and it is not M4.  
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — a delivery counts when both uses are real. A crater with a volatile story is not dual use.  
@@ -347,7 +406,9 @@ A seen remanent field is not a seen restart. These bodies do not inherit Mars’
 - A Tuning method imported as the lever  
 - Dynamo language on a crustal edit  
 - A supplement that is only a surface residual  
-- An opened, uncased path counted as an article  
+- An uncased path with the balance drawn down, counted as an article  
+- An empty shaft filed as a heat path  
+- A vacuum claimed as a lock  
 - A hold clock started at the first shaft  
 - A compositional restart credited to the pierce  
 - A pass declared because the observable was unavailable  
