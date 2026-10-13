@@ -3,7 +3,7 @@
 #### *Study object: Earth. Not a claim that the geodynamo has been tuned. Not a stellar method.*
 
 by **Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 - v1.2 — October 12th, 2026*<br>
+*v1.0 - v1.3 — October 12th, 2026*<br>
 
 ---
 
@@ -265,7 +265,8 @@ This page is the counterpart to [Magnetic Acoustic Tuning for Stellar Objects](M
 
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — RLC-10-P is a stellar-feed kit. It is not seated here.  
 - [*The Synthesist's Cookbook*](THE_SYNTHESISTS_COOKBOOK.md) — no lattice is rated by this page.  
-- [Quake Columns](QUAKE_COLUMNS.md) — seismic structure is a report. This page does not claim a column.  
+- [Quake Columns](QUAKE_COLUMNS.md) — seismic structure is a report. This page does not claim a column.
+- [Dynamo Reignition](DYNAMO_REIGNITION.md) — owns the mantle valve on an extinguished core. This page owns the field score. A crustal edit is not a dynamo. 
 
 ---
 
