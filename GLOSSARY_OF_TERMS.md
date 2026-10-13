@@ -12,7 +12,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.7 — August 14th, 2026*<br>
 *v1.8 — August 26th, 2026*<br>
 *v1.9 — September 24th, 2026*<br>
-*v1.10 - v1.11 — October 12th, 2026*
+*v1.10 - v1.12 — October 12th, 2026*
 
 ---
 
@@ -330,6 +330,12 @@ Non-stellar objects in the Tuning pair: planets, moons, and debris that carry a 
 
 **Counterpart pair (Tuning)**  
 The two Tuning pages. Stellar Objects scores Sol. Astral Bodies scores Earth. Neither method transfers. RLC-10-P is handling for the stellar page. It is not the pair. See [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md) and [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
+
+**Dynamo Reignition**  
+A heat-flow schedule for an extinguished core. Mars is the study object. The lever is the mantle valve, in a named belt. Not a Tuning method. A field claim stays on the astral page. See **[Dynamo Reignition](DYNAMO_REIGNITION.md)**.
+
+**Mantle valve**  
+The rate at which the lower mantle takes heat from the core-mantle boundary. The lever on the reignition page. Not a coil, not a pierce past the crust, and not a field. See **[Dynamo Reignition](DYNAMO_REIGNITION.md)**.
 
 **Null season / null window**  
 The published ordinary trajectory a later bias must beat. On Sol, the polar rebuild. On Earth, secular variation. A move that matches it is the ordinary cycle or the ordinary drift. See the two Tuning pages.
