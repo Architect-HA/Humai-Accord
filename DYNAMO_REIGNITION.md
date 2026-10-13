@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 12th, 2026*<br>
-*v1.5 - v1.12 — October 13th, 2026*<br>
+*v1.5 - v1.13 — October 13th, 2026*<br>
 
 ---
 
@@ -12,7 +12,9 @@ by **Bradford James Focht** (The Architect / Aspenth)
 
 This document is a heat-flow schedule for an extinguished dynamo, with Mars as the study object.
 
-[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) scores a surface residual and refuses dynamo language on Mars. This page owns the valve that page will not touch: how fast the core is allowed to lose heat. [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) owns the air. A field is not a column. This page does not wait on that one, and that one does not wait on this.
+[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) scores a surface residual and refuses dynamo language on Mars. This page owns the valve that page will not touch: how fast the core is allowed to lose heat.
+
+[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) owns the air. A field is not a column. This page does not wait on that one, and that one does not wait on this.
 
 A dynamo needs a liquid, conducting core, rotation, and a heat flow through the core steep enough to drive convection.
 
@@ -45,7 +47,7 @@ This is a supporting technical instrument within the [Humai Accord](README.md). 
 - Acoustic resonance as a core heater  
 - An impact specified as a design  
 - RLC-10-P seated as a planetary core heater  
-- A drilling manual. The machine is out of this file.  
+- A drilling manual. The machine is [Heat-Spine](HEAT_SPINE.md).  
 - An atmosphere, a rain cycle, or a biosphere. Those are [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md).  
 - A claim that a regional heat-flow change is a planetary field  
 
@@ -145,7 +147,7 @@ The lock is a balance. While the path is being cut, a fluid column in the hole i
 | Casing | The case, set before the balance fluid is drawn down. |
 | Heat path | The named fill, after the case is in. |
 
-A tensegrity of tethers and bridges is not forbidden as a case. It is not a way to skip the case. It still has to be gotten down the hole, and it still has to be there before the balance fluid comes out. Getting it there is the machine. The machine stays out of this file.
+A tensegrity of tethers and bridges is not a way to skip the case. It is the segment [Heat-Spine](HEAT_SPINE.md) leaves behind. Getting it there is that page. This page scores the heat.
 
 The cut can be a bit, a thermal head, or a resonant driver. All three still make spoil, and all three still need the balance. Melted rock has to go somewhere. Aerosolized rock has to be lifted and collected, or it resettles and fills the path. A method that disintegrates the channel and leaves the mass in it has not made a pierce. It has made a plug.
 
@@ -209,7 +211,7 @@ M1 stands up on a card. The card is the site, not a drilling manual.
 
 Power and spoil stay inside the belt. A spoil pile that buries a baseline instrument fails M1. A path that continues past the base of the crust is not this assembly. Collapse, or a path that closes on its own, is a fail, not a rest. A named fill is not a collapse. It is the heat path.
 
-The card says what must be standing. It does not say how to drill it. The machine is a later campaign, on this card.
+The card says what must be standing. It does not say how to drill it. The machine is [Heat-Spine](HEAT_SPINE.md). A finished path there is a handoff, not an M1 pass.
 
 ### Site card
 
@@ -353,7 +355,7 @@ Two surfaces stay open, and the page says how they close.
 | M3 phase | A boundary-sensitive seismic phase may not be in reach | Closes when a reachable phase is named and baselined, or stays open and M3 waits. Waiting is not a pass. |
 | M4 source | Channeled energy is a later option | Closes when a later page specifies a source. That page owns the hardware. This page keeps the score. |
 
-No other surface is quietly open. The pierce, the assembly card, the named fills, the belt, the covariates, the two drivers, and the four tides are specified. A delivery mass beyond ice is chosen on the card when the dual use is real. It is not a fifth tide. The drilling machine is not an open surface. It is out of this file.
+No other surface is quietly open. The pierce, the assembly card, the named fills, the belt, the covariates, the two drivers, and the four tides are specified. A delivery mass beyond ice is chosen on the card when the dual use is real. It is not a fifth tide. The machine is [Heat-Spine](HEAT_SPINE.md). It is not an open surface on this page.
 
 ---
 
@@ -393,6 +395,7 @@ A seen remanent field is not a seen restart. These bodies do not inherit Mars’
 
 - **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)** — owns the field score. A crustal edit is an anomaly edit. This page does not reopen dynamo language. A returned field, if one is ever claimed, is beaten against that page’s null.  
 - **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — owns the air. This page owns the valve. A shared ice delivery scores heat flow here and column mass there. Neither is the other’s prerequisite.  
+- **[Heat-Spine](HEAT_SPINE.md)** — owns the machine. A finished path is a handoff of seated segments, not an M1 pass. The close seats the spine. This page scores the heat.  
 - **[Quake Columns](QUAKE_COLUMNS.md)** — case through, grout the annulus, refuse an uncased soak. The rule transfers. The machine does not. This page does not inherit a column.  
 - **[Hydrofilaments](HYDROFILAMENTS.md)** — a path in water, over millimetres. Not a crustal casing. A path or wake may meter the loop at the surface plant, after that fluid has its own card. It does not stir the shaft. A water log does not rate CO₂, brine, or oil.  
 - **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)** — polar open flux does not transfer. There is no open flux from a dead core.  
