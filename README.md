@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column*
 <br>
 <br>
 <br>
@@ -90,6 +90,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Magnetic Acoustic Tuning for Stellar Objects](#magnetic-acoustic-tuning-for-stellar-objects)
 - [Magnetic Acoustic Tuning for Astral Bodies](#magnetic-acoustic-tuning-for-astral-bodies)
 - [Dynamo Reignition](#dynamo-reignition)
+- [Heat-Spine](#heat-spine)
 - [Atmospheric Restoration](#atmospheric-restoration)
 - [Enterprise](#enterprise)
 - [Space Dock](#space-dock)
@@ -639,9 +640,19 @@ The non-stellar counterpart. Earth rings in normal modes. The dynamo is liquid i
 #### A Mars-Focused Heat-Flow Schedule for an Extinguished Core
 *Study object: Mars. Not a claim that a dynamo has been restarted. Not a Tuning method.*
 
-A heat-flow schedule for an extinguished dynamo. The lever is the mantle valve: how fast the core is allowed to lose heat, in a named belt. A surface coil does not restart a dynamo. An acoustic drive does not either. M0 writes the null. M1 stands up a cased pierce on an assembly card. M2 and M3 may wait or fail. A field claim stays on the astral page. Compositional convection is watched, not credited to the pierce.
+A heat-flow schedule for an extinguished dynamo. The lever is the mantle valve: how fast the core is allowed to lose heat, in a named belt. A surface coil does not restart a dynamo. An acoustic drive does not either. M0 writes the null. M1 scores a seated spine handed off from Heat-Spine. M2 and M3 may wait or fail. A field claim stays on the astral page. Compositional convection is watched, not credited to the pierce.
 
 [→ Read **Dynamo Reignition**](DYNAMO_REIGNITION.md)
+
+---
+
+## Heat-Spine
+#### A Staged Deep-Crustal Drilling Column That Leaves a Seated Conductive Spine
+*Study object: the rig. Not a claim that a 40 km shaft has been drilled. Not a dynamo method.*
+
+The machine Dynamo Reignition left out of its file. The article is a counted spine of tensegrity segments, set under a pressure balance and clamped when that balance is drawn down. The close that ends every deep hole on the record is the assembly step. A close with no segment is a plug. Not Day 1. A finished path is a handoff, not an M1 pass.
+
+[→ Read **Heat-Spine**](HEAT_SPINE.md)
 
 ---
 
@@ -869,6 +880,8 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 **[October 13th, 2026]**
 - Added **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — Mars air, water, and biosphere schedule. Survey before seed. Occupied, reserved, and trial volumes. Shared ice delivery with Dynamo Reignition. Not a breathable sky and not a dynamo.
 - Updated **[Dynamo Reignition](DYNAMO_REIGNITION.md)** (v1.5) — names Atmospheric Restoration as the air sibling. Neither page waits on the other. The Deliver tide points at that page for the second use of the ice.
+- Added **[Heat-Spine](HEAT_SPINE.md)** — deep-crustal drilling column. Leaves a seated conductive spine. The close clamps the segment. Not a road. Not a dynamo. A finished path is a handoff to Dynamo Reignition.
+- Updated **[Dynamo Reignition](DYNAMO_REIGNITION.md)** (v1.13) — the machine is Heat-Spine. A finished path is a handoff of seated segments, not an M1 pass.
 
 **[October 12th, 2026]**
 - Added **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)** — Sol study and polar-first method. Modes are diagnostic. A bias is scored against a null season. Other stars are a map. Handling is RLC-10-P on the Core page. Not a tuned star and not a harvest plant.
