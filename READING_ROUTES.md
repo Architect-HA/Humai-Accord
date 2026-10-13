@@ -1,13 +1,14 @@
 # Reading Routes
 ### *A choose-your-path introduction to the Humai Accord*
 ---
-**by Bradford James Focht (The Architect / Aspenth)**  
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 29th, 2026*  
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 — August 12th, 2026*<br>
 *v1.3 — August 31st, 2026*<br>
 *v1.4 — September 24th, 2026*<br>
-*v1.5 - v1.7 — October 12th, 2026*
+*v1.5 - v1.7 — October 12th, 2026*<br>
+*v1.8 — October 13th, 2026*<br>
 
 ---
 
@@ -177,9 +178,12 @@ Choose the path that best matches your current interest or goal. You may switch 
     Earth counterpart. Surface residual only. A coil is not a core torque. The stellar method does not transfer.
 
 14. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**<br>
-   Mars heat-flow schedule. Mantle valve, named belt, cased pierce. Not a Tuning method. A field claim stays on the astral page.
+   Mars heat-flow schedule. Mantle valve, named belt. The machine is Heat-Spine. A field claim stays on the astral page.
 
-15. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**<br>
+15. **[Heat-Spine](HEAT_SPINE.md)**<br>
+   Deep-crustal drilling column. Leaves a seated conductive spine. The close clamps the segment. Not a road. Not a dynamo.
+
+16. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**<br>
    Mars air schedule. Column, rain cycle, biosphere gate. Survey before seed. Not a dynamo method. Neither page waits on the other.
 
 **Next options:**  
@@ -326,10 +330,13 @@ Choose the path that best matches your current interest or goal. You may switch 
 10. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**  
    Extinguished-core schedule. M0 before any pierce. Not a restarted dynamo.
 
-11. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**  
+11. **[Heat-Spine](HEAT_SPINE.md)**  
+   The machine for the pierce. A seated segment is the article. A finished path is a handoff, not an M1 pass.
+
+12. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**  
    Air half of the pair. R0 before any seeding. Not a breathable sky.
 
-12. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+13. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
