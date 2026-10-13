@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 12th, 2026*<br>
-*v1.5 - v1.10 — October 13th, 2026*<br>
+*v1.5 - v1.11 — October 13th, 2026*<br>
 
 ---
 
@@ -44,7 +44,7 @@ This is a supporting technical instrument within the [Humai Accord](README.md). 
 - A surface coil, a polar twist, or any Tuning method claimed as a core torque  
 - Acoustic resonance as a core heater  
 - An impact specified as a design  
-- RLC-10-P seated as a planetary core heater    
+- RLC-10-P seated as a planetary core heater  
 - A drilling manual. The machine is out of this file.  
 - An atmosphere, a rain cycle, or a biosphere. Those are [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md).  
 - A claim that a regional heat-flow change is a planetary field  
@@ -180,6 +180,8 @@ A loop is not a set-and-forget. It is circulated, and the mix can be exchanged, 
 | A leak, a freeze, or a fill that has settled open | Stop. Repair or replace. Do not call the pause a hold. |
 
 Precise means named. A mix, a threshold, and a rate go on the card before the exchange. An exchange that is not on the card is not metering. It is churn. The loop does not reach past the base of the crust, and a faster loop is not a cooler core-mantle boundary. That question is still M3.
+
+A **[Hydrofilaments](HYDROFILAMENTS.md)** path or wake may meter the loop at the surface plant, and only after that fluid has its own card. A short guided path in the named fluid, in a cell, to dose an exchange that is already on the card. That is the beneficial use. It is local. It is not the circulation. The forces on that page are trims. They do not drive a column 10–40 km deep, and they do not replace the pump. A Gap Bridge rating does not transfer. CO₂, brine, and oil are not that object. A water log does not rate them. A path that is asked to stir the shaft is not this article. It is the overclaim both pages refuse.
 
 The ten-year hold scores shallow heat flow. It does not score the core-mantle boundary. Heat through a solid mantle moves on a geologic clock. A belt of $100\text{–}300\,\mathrm{km}$ is a survey. It is not a planetary valve, and it does not pull heat from ${\sim}1600\,\mathrm{km}$ down inside a campaign window. M2 and M3 ask whether anything moved. They are allowed to say no.
 
@@ -381,7 +383,7 @@ A seen remanent field is not a seen restart. These bodies do not inherit Mars’
 - **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)** — owns the field score. A crustal edit is an anomaly edit. This page does not reopen dynamo language. A returned field, if one is ever claimed, is beaten against that page’s null.  
 - **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — owns the air. This page owns the valve. A shared ice delivery scores heat flow here and column mass there. Neither is the other’s prerequisite.  
 - **[Quake Columns](QUAKE_COLUMNS.md)** — case through, grout the annulus, refuse an uncased soak. The rule transfers. The machine does not. This page does not inherit a column.  
-- **[Hydrofilaments](HYDROFILAMENTS.md)** — a path in water, over millimetres. Not a crustal casing.  
+- **[Hydrofilaments](HYDROFILAMENTS.md)** — a path in water, over millimetres. Not a crustal casing. A path or wake may meter the loop at the surface plant, after that fluid has its own card. It does not stir the shaft. A water log does not rate CO₂, brine, or oil.  
 - **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)** — polar open flux does not transfer. There is no open flux from a dead core.  
 - **[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)** — RLC-10-P is a stellar source bay. It is not a planetary core heater, and it is not M4.  
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — a delivery counts when both uses are real. A crater with a volatile story is not dual use.  
