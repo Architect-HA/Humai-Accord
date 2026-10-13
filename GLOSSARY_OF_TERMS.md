@@ -12,7 +12,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.7 — August 14th, 2026*<br>
 *v1.8 — August 26th, 2026*<br>
 *v1.9 — September 24th, 2026*<br>
-*v1.10 - v1.12 — October 12th, 2026*
+*v1.10 - v1.12 — October 12th, 2026*<br>
+*v1.13 — October 13th, 2026*
 
 ---
 
@@ -328,6 +329,9 @@ The shaking Quake Columns is written to argue with: motion that travels near the
 **Astral Bodies (this page)**  
 Non-stellar objects in the Tuning pair: planets, moons, and debris that carry a field or a seismic record. Earth is the scored object. See [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
 
+**Atmospheric Restoration**  
+An air, water, and biosphere schedule for Mars. The surface half of the pair with Dynamo Reignition. Survey before seed. Not a dynamo method. See **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**.
+
 **Counterpart pair (Tuning)**  
 The two Tuning pages. Stellar Objects scores Sol. Astral Bodies scores Earth. Neither method transfers. RLC-10-P is handling for the stellar page. It is not the pair. See [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md) and [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
 
@@ -345,6 +349,9 @@ The Core Cassette with Module A omitted and a stellar-feed coupler in the source
 
 **Surface residual**  
 The one scored quantity on the astral page: the field change in a named volume, against the null window, on two instruments. Not a core torque and not a reversal. See [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
+
+**Survey before seed**  
+The restoration rule. A subsurface life survey reaches the depth of interest before any biosphere step. A survey that stopped short is not a clear bill. See **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**.
 
 ---
 
