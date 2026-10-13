@@ -107,6 +107,7 @@ Read these according to specific interest:
 | Polar watch and scored bias (Sol) | [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md) |
 | Surface-field watch (Earth) | [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) |
 | Heat-flow valve (Mars) | [Dynamo Reignition](DYNAMO_REIGNITION.md) |
+| Air, water, biosphere (Mars) | [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
 
 ---
@@ -124,7 +125,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Cookbook family recipes and RLC bay schedules until a process campaign exists.
 - *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists
 - Magnetic Acoustic Tuning campaign packets (A0 / E0) until an archive reduction or a site watch exists. The articles may be sampled.
-- Dynamo Reignition M1 assembly detail until an M0 card exists for a belt. The article may be sampled.
+- Atmospheric Restoration R3 detail until an R0 card and a life survey exist for a basin. The article may be sampled.
 
 They become more useful once the main architectural commitments are already clear.
 
