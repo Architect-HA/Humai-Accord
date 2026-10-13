@@ -179,6 +179,9 @@ Choose the path that best matches your current interest or goal. You may switch 
 14. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**<br>
    Mars heat-flow schedule. Mantle valve, named belt, cased pierce. Not a Tuning method. A field claim stays on the astral page.
 
+15. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**<br>
+   Mars air schedule. Column, rain cycle, biosphere gate. Survey before seed. Not a dynamo method. Neither page waits on the other.
+
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Structured Layered Approach](#route-10--structured-layered-approach) · [Physical / Civil Articles](#route-9--physical--civil-articles)
 
@@ -323,7 +326,10 @@ Choose the path that best matches your current interest or goal. You may switch 
 10. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**  
    Extinguished-core schedule. M0 before any pierce. Not a restarted dynamo.
 
-11. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+11. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**  
+   Air half of the pair. R0 before any seeding. Not a breathable sky.
+
+12. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
