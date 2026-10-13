@@ -549,6 +549,7 @@ This document is continuous with and dependent upon several existing components:
 - *[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)* — A0 / A1 are a demonstration pathway: a polar mode-power and linewidth trajectory, and a null season, from public archives. A point reading or a single instrument is illustrative only. A bias with no null season is not a result.
 - *[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)* — E0 / E1 are a demonstration pathway: a surface-field residual against a published model, and a null window, from INTERMAGNET or an equivalent pair. A matched secular drift is ordinary. A coil with no null window is not a result.
 - **[Dynamo Reignition](DYNAMO_REIGNITION.md)** — M0 / M1 are a demonstration pathway: a heat-flow trajectory in a named belt against a published null, with covariates logged. A thinned patch is not a result. A crustal field wiggle is an anomaly edit on the astral page, not a dynamo.
+- **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — R0 / R1 are a demonstration pathway: a column trajectory in a named basin against a published null, with a life survey on the card. A warmer afternoon is not a result. A seeding before the survey is not a result.
 
 This document does not replace these elements. It specifies how their claims can be tested, demonstrated, and refined under the dual entropy requirement.
 
