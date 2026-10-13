@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 13th, 2026*<br>
+*v1.5 - v1.6 — October 13th, 2026*<br>
 
 ---
 
@@ -55,11 +56,34 @@ Three layers, in order. They are not one act.
 
 | Layer | What it is | What it is not |
 |-------|------------|----------------|
-| Air | A thicker, warmer column over a named basin, held | A breathable planet |
+| Air | A thicker, warmer column at a named basin, held. Local only under named containment. | A breathable planet. A hill of air. |
 | Water | A rain cycle in that basin: evaporate, move, fall, collect | A global ocean |
 | Life | A biosphere that can run the cycle, native or introduced | A seeding before a survey |
 
-A dome is a regional habitability tool. It is not these three layers. It may be how a basin is practiced. It is not the result.
+A dome is a regional habitability tool. It is how a basin is practiced. It is not the result.
+
+A basin is a score site. It is not a container. Gas equalizes. A thickened column does not sit in a depression as a separate atmosphere. Hellas is deeper and already has a higher pressure. That is the weight of the air above a low point, not a hill of air. R1 may be practiced under a dome or another named containment. Open air is what a later campaign has to earn, and it will be planetary. A cycle that exists only inside a dome and is filed as open air still fails.
+
+### Dome and leak
+
+The containment that makes a local column possible is a soft-shell dome, and the leak is how that column becomes a planet.
+
+A prime site comes first. Hellas, then Argyre, then other deep basins. Depth is already a pressure gift. The dome does not have to fight a flat plain. It is a soft pressure shell, in layers: an outer shell, a filter layer, an inner shell. Warm air helps it stand. It is not a hot-air balloon, and it does not float. It holds a pressure difference over a low point. It is not sealed. A designed leak, filtered, lets gas out into the global air on purpose.
+
+The interior column holds only if the feed meets or beats the leak. Ice, a local volatile, or a counted drop is the feed. A dome that leaks faster than it is fed deflates. That is an R1 fail, not a faster planet. The leak is gas. It is not a path for biology. An untrialed native find does not leave with the air.
+
+| Piece | What it does | What it does not do |
+|-------|----------------|---------------------|
+| Soft shell, layered | Holds a pressure difference above the basin null | A restored planet by itself. Not a balloon. |
+| Designed leak | Feeds the global column, slowly, and only as fast as the feed allows | An accidental tear filed as a feature. A path for biology. |
+| Filter layer | Passes gas. Holds dust, biology, and an untrialed native find | A promise the outside is breathable |
+| Prime site | Hellas first. Argyre next. Other deep basins after their own R0 | A dome on a flat site as the first article |
+
+Scale is by counting domes. Each one is a reservoir with a leak. More domes, more leak, faster global thickening. The rate is proportional to the number of domes that are actually leaking on their cards. A stitched run of shells over one basin is one article grown sideways. It is still one basin until a second basin has its own card.
+
+The leak is scored. Gas that leaves the dome is a contribution to the global column, against the planetary null, not a loss to hide. A dome that does not leak is a habitat. It is not this campaign. A tear that is not on the card is a fail, not a faster leak.
+
+Open air remains what a later campaign earns, when enough domes have leaked enough mass that the outside column has moved. One dome does not get there. A count of them can start.
 
 ### The field is not the air
 
@@ -156,17 +180,17 @@ Fail: a seeding. A survey that stopped short and was filed as clear.
 
 ### R1 — Column
 
-Thicken and warm the column over the basin, by a named means, on a scale the basin can survey. Score the column. Do not score a biosphere.
+Thicken and warm the column at the basin, by a named means, on a scale the basin can survey. Containment is named on the card if the rise is to be local. Score the column. Do not score a biosphere.
 
-Pass: a held rise in column mass or temperature against the R0 baseline, with covariates logged, and no seeding.  
-Fail: a biosphere claim. A rise that dies when the actuator stops and is filed as held.
+Pass: a held rise in column mass or temperature against the R0 baseline, with covariates logged, containment named if the rise is claimed as local, and no seeding.  
+Fail: a biosphere claim. A rise that dies when the actuator stops and is filed as held. A local rise with no containment, filed as if the basin were a bottle.
 
 ### R2 — Rain cycle
 
-Ask whether water evaporates, moves, falls, and collects in the basin, and whether that cycle holds. This is the first campaign allowed to talk about rain. It is not allowed to talk about a biosphere.
+Ask whether water evaporates, moves, falls, and collects at the basin, and whether that cycle holds. Water that leaves the basin can freeze out at the poles. That loss is logged. A cycle that only exists because the loss was ignored is not a pass. This is the first campaign allowed to talk about rain. It is not allowed to talk about a biosphere.
 
-Pass: a closed water cycle in the basin, against R0, held across a covariate return.  
-Fail: a single melt event. A cycle that exists only inside a dome and is filed as open air.
+Pass: a closed water cycle at the basin, against R0, held across a covariate return, with polar and out-of-basin loss logged.  
+Fail: a single melt event. A cycle that exists only inside a dome and is filed as open air. A cycle whose water left and was not counted.
 
 ### R3 — Biosphere, gated
 
@@ -227,7 +251,9 @@ A mass not on this list is chosen on the card when both uses are named. A drop w
 A specialized bulk, parked in a shallow orbit and allowed to ablate, can in principle disperse an atmospheric-building aerosol over a wide footprint. This is an experiment, not an R1 pass.
 
 - The bulk is named. Composition, mass, and orbit are on the card before it is placed.  
-- Ablation is the method. A detonation is not a slow-burn.  
+- The bulk is braked onto a decaying path before it meets the air. A sacrificial burn or a tethered let-down. Ablation is what it does after it is no longer at orbital speed.  
+- A bulk that ablates by dragging at orbital speed is a deorbit. It is on its way to being a strike. That is the refused impact, not this option.  
+- Ablation after the brake is the method. A detonation is not a slow-burn.  
 - The footprint is the basin, or it is a miss. A planet-wide dispersal from one bulk is not this article.  
 - What arrives is scored as column or as aerosol load against R0. A prettier sunset is not a result.  
 - An aerosol that cannot be stopped, or whose composition was not on the card, fails. Fail closed means the next bulk is not placed.
@@ -285,7 +311,9 @@ The article scales by counting basins, not by declaring a planet.
 | Step | What changes | What stays |
 |------|----------------|------------|
 | One basin | The R0 card, the column, the survey | Survey before seed. |
-| A second basin | A second card. Its own survey. | No borrowing of the first basin’s clear bill. |
+| A dome on that basin | Named containment. A designed leak. | Not a restored planet. |
+| A second dome, same basin | A stitched run. Same card. | Not a second basin. |
+| A second basin | A second card. Its own survey. Hellas before Argyre before a flat site. | No borrowing of the first basin’s clear bill. |
 | A native find | The order. Protect, study, run with or around. | Not an obstacle to erase. |
 | Another body | That body’s own null and its own life survey. | Mars’s basin is not inherited. |
 
@@ -322,12 +350,16 @@ Mars is the only scored object. Other bodies inherit the order only after their 
 - A dynamo or a coil claimed as an atmosphere  
 - Accessible CO₂ claimed as a breathable sky  
 - A dome claimed as a restored planet  
+- A tear filed as a designed leak  
 - Seed before survey  
 - A native find erased to simplify the schedule  
 - A contact with no containment  
 - A beneficial trial used to clear the next basin  
 - Extinction of a native find to simplify the schedule  
 - A leak answered by a hunt through reserved ground  
+- A local rise with no containment, filed as if the basin were a bottle  
+- A bulk that ablates at orbital speed, filed as a slow-burn  
+- A cycle whose water left and was not counted  
 - A survey that stopped short, filed as clear  
 - An impact specified as volatile delivery  
 - An uncontrolled drop filed as a controlled delivery  
