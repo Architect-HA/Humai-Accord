@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying*
 <br>
 <br>
 <br>
@@ -59,6 +59,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 - [Material Tides](#material-tides)
 - [The Tides of Circulation](#the-tides-of-circulation)
 - [Relevancy Orbits](#relevancy-orbits)
+- [Process-Reward Alignment](#process-reward-alignment)
 - [Utilization Integrity Protocol](#utilization-integrity-protocol)
 - [Circulation Recovery Protocol](#circulation-recovery-protocol)
 - [Production Integrity Protocol](#production-integrity-protocol)
@@ -389,6 +390,16 @@ Provides a quantitative, difficult-to-game metric for material stagnation and un
 A supporting conceptual and quantitative frame for the **relational** structure of relevance: how knowledge items and material units bind, cluster, strengthen, weaken, and reconfigure relative to one another. Complements the **temporal** pressure of *Knowledge Tides* / *Material Tides* and the aggregate enablement signal of downstream density. Bond strength is attestation-weighted, integrity-sensitive, and time-decaying; orbits remain modular and fluid rather than permanent capture shells. Hybrid knowledge–material orbits require typed co-enablement links, not mere co-location.
 
 [→ Read **Relevancy Orbits**](RELEVANCY_ORBITS.md)
+
+---
+
+## Process-Reward Alignment
+
+*Process-Reward Alignment: Intermediate Points as the Primary Objects of Credit*
+
+Establishes that in any sequential process the legible, parameter-satisfying intermediate points are the primary objects of credit. Terminal success is necessary but insufficient. Failure or opacity at a point reduces weight for dependent subsequent points; recovery restores weight only forward. System-proposed sequences remain proposals until human acceptance. Exit stays cheap, generative coarseness stays available, and decision altitude stays with the human. Optional harmony and somatic notes may attach under existing data parameters; they carry no credit weight and gate nothing.
+
+[→ Read **Process-Reward Alignment**](PROCESS_REWARD_ALIGNMENT.md)
 
 ---
 
@@ -876,6 +887,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[October 16th, 2026]**
+- Added **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)** — intermediate procedural points as the primary objects of credit. Terminal success is necessary but insufficient. Forward-only weight restoration. System sequences stay proposals until human acceptance. Optional, non-gating harmony/somatic feedback under existing parameters. Not a new integrity protocol; the general rule Utilization Integrity and Production Integrity implement.
 
 **[October 13th, 2026]**
 - Added **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — Mars air, water, and biosphere schedule. Survey before seed. Occupied, reserved, and trial volumes. Shared ice delivery with Dynamo Reignition. Not a breathable sky and not a dynamo.
