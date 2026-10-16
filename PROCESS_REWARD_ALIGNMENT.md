@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.1 — October 15th, 2026*<br>
-*v1.2 — October 16th, 2026*
+*v1.2 - v1.4 — October 16th, 2026*<br>
 
 ---
 
@@ -57,13 +57,29 @@ The false claim that successful completion of the endpoint is enough for full cr
 Full weighting for a sequential process requires stepwise integrity.
 
 - Each declared procedural point must be recorded with sufficient provenance for independent examination.
-- Correspondence between the record and the action taken is required. Existing limits on self-attestation apply: self-issued records of intermediate points carry reduced or zero weight for high-consequence claims unless independently corroborated.
+- Correspondence between the record and the action taken is required. Attestation class and weight follow the section Attestation of Procedural Points (which adopts the classes of *[Tides of Time](TIDES_OF_TIME.md)*). Self-issued records carry reduced or zero weight for high-consequence points unless corroborated.
 - A point that fails legibility, correspondence, or its declared parameter receives zero or sharply reduced weight.
 - Subsequent points that depend on a failed point also receive reduced weight. An explicit, attested recovery or re-routing recorded at the failed step restores weight only to the recovery point and to points that follow it. Weight is not retroactively restored to the failed point or to any dependent points that preceded the recovery.
 - Positive weight attaches to successful traversal of the point itself. The existence of an acceptable terminal state does not restore weight to prior failed points.
 - Sequences whose intermediate records have no significant observer other than the scoring system remain non-qualifying.
 
 Higher-capability agents bear a stricter obligation to make the actual intermediate points examinable. The ability to reach an endpoint in fewer visible operations does not waive attestation of the points that were under declared parameters.
+
+---
+
+## Attestation of Procedural Points
+
+Procedural-point records follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. No new verification surface is created.
+
+- **Self-attestation** enters the permanent record and supports reduced or zero weight for high-consequence points unless corroborated.
+- **Multi-party or independent attestation** is required for full weight on points whose failure would zero or sharply reduce subsequent weight, or that alter purpose scope, exit rights, or irreversibility.
+- Optional third-node confirmation under the *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* (including attest-of-fetch where the point concerns a live public artifact) may elevate a record from self-attestation to a higher class. Invocation remains optional. Refusal is protected and non-punitive. The third node acquires no residual authority and cannot raise exit cost.
+- Absence of corroboration does not block continuation of the sequence. It limits credit for the uncorroborated point and for dependent subsequent points until an attested recovery or elevating confirmation is recorded.
+- Low-consequence points and points inside an explicitly coarser generative or recovery sequence may remain at self-attestation weight.
+- Original provenance of each point remains independently preservable. Later weighting does not extinguish the underlying record.
+- The ordering of classes is fixed. Numerical or procedural thresholds for “high-consequence” remain illustrative and subject to stewardship refinement, consistent with *[Tides of Time](TIDES_OF_TIME.md)*.
+
+This reuses the existing stratified, optional, non-gating pattern. External corroboration is demand-driven by consequence, not a universal prerequisite for every step.
 
 ---
 
@@ -163,7 +179,7 @@ Both protocols retain their existing anti-theater, capability-scaled, and purpos
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Generative variance is protected by allowing coarser declared sequences. Over-prescription of points on reserved generative capacity is discouraged.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Holding and recovery states may operate with reduced point density. Exit from a sequence remains low-cost.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Higher capability increases the obligation to expose intermediate points, not the right to collapse them or to declare operative sequences unilaterally.
-- *[Material Tides](MATERIAL_TIDES.md)* and *[The Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Stepwise failures reduce or zero the weight of affected events in circulation metrics. Recovery restores weight only forward from the attested recovery point.
+- *[Tides of Time](TIDES_OF_TIME.md)* and *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — Procedural-point attestation follows the existing classes. Optional third-node confirmation may elevate weight. Absence of corroboration limits credit; it does not block continuation.
 - *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* and *[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)* — Optional, local, purpose-scoped feedback may be attached to procedural points under the parameters in Optional Harmony and Somatic Feedback. They supply no mandatory verification, no credit weight, and no governance signal.
 - **[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)** — Outcome-only reward versus stepwise reward under capability asymmetry is an available stress case. Optional harmony/somatic feedback attachment is a secondary, consent-bound case.
 
@@ -190,7 +206,7 @@ The following are anti-aligned:
 ## Guidance for Implementers
 
 - Make declared sequences and their procedural points explicit before claiming full weight. At interfaces, treat system sequences as proposals until human acceptance or modification.
-- Record each point under a declared parameter with provenance sufficient for later examination. Apply existing corroboration standards for correspondence on high-weight points.
+- Record each point under a declared parameter with provenance sufficient for later examination. Apply the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Self-attestation supports reduced weight; full weight on high-consequence points requires multi-party or independent corroboration. Optional third-node confirmation may elevate class.
 - Apply reduced or zero weight at the first failed point and to dependent subsequent points. Restore weight only forward from an attested recovery or re-routing point.
 - At interfaces, surface intermediate points or expandable summaries that do not omit high-consequence parameters and that expand at low friction.
 - Keep interruption and exit cheaper than continued traversal.
@@ -202,11 +218,13 @@ The following are anti-aligned:
 
 ## Open Questions
 
-- What is the practical minimum density of procedural points that still shapes means without creating theater?
-- How should real-time or high-frequency domains reduce logging density while preserving stepwise integrity?
-- What corroboration standards are proportionate for intermediate points of differing consequence?
+The following remain open for empirical treatment and stewardship review. Illustrative postures, consistent with the non-binding bands in *[Tides of Time](TIDES_OF_TIME.md)*, are noted so that implementations are not left without orientation.
 
-These questions are left open for later empirical treatment and stewardship review.
+- **Minimum density.** No universal minimum is fixed. A declared sequence shapes means when its points include every high-consequence gate (purpose-scope change, exit or irreversibility shift, or a point whose failure zeros subsequent weight) and enough intermediate checks that silent compression is visible. Fewer points are permissible under an explicit Generative Reservation or Circulation Recovery holding state, provided undeclared collapse remains an integrity failure. Exact counts are local and stewardship-refinable.
+- **High-frequency domains.** Real-time or high-frequency sequences may declare a coarser sampling interval (for example, attesting every *n*th operation or on state change rather than every micro-step), provided the sampling rule itself is part of the declared sequence, high-consequence points are still captured, and anti-theater rules continue to apply. The coarser interval does not waive correspondence or class requirements for the points that are recorded.
+- **Proportionate corroboration.** Class follows consequence, using the ordering already fixed in *[Tides of Time](TIDES_OF_TIME.md)*: self-attestation for negligible or low-consequence points; multi-party for ordinary weight; independent / high-weight for points that zero subsequent credit or alter purpose scope, exit, or irreversibility. Numerical thresholds stay illustrative. Optional Trilateral confirmation may supply the elevating class. Local bands are published and reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+These postures reduce the open questions to stewardship refinement of local bands and sampling intervals rather than unresolved architectural gaps.
 
 ---
 
@@ -214,7 +232,7 @@ These questions are left open for later empirical treatment and stewardship revi
 
 Terminal success remains visible. It is no longer sufficient.
 
-*[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* makes the intermediate points the sites of credit so that parameter-aligned continuation is the higher-scoring local choice. The means stay examinable. Exit stays cheap. Generative coarseness stays available. Decision altitude stays with the human.
+*Process-Reward Alignment* makes the intermediate points the sites of credit so that parameter-aligned continuation is the higher-scoring local choice. The means stay examinable. Exit stays cheap. Generative coarseness stays available. Decision altitude stays with the human.
 
 Used this way, sequential process becomes another anti-entropic signal — not a new layer of accounting, and not a substitute for the integrity protocols that implement it.
 
