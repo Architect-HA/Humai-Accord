@@ -13,7 +13,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.8 — August 31st, 2026*<br>
 *v1.9 — September 24th, 2026*<br>
 *v1.10 - v1.12 — October 12th, 2026*<br>
-*v1.13 — October 13th, 2026*
+*v1.13 — October 13th, 2026*<br>
+*v1.14 — October 17th, 2026*
 
 ---
 
@@ -88,6 +89,8 @@ Read these according to specific interest:
 | Agency at the interaction surface | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) |
 | Preference integrity and resistance to soft steering | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md), [Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md) |
 | Open modular pathways, filtered-capacity recovery, and interface morphology | [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§10), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
+| Opt-in bounded non-knowledge | [Selective Ignorance](SELECTIVE_IGNORANCE.md) |
+| Stepwise credit and prediction–outcome contact | [Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md) |
 | Formal load, concurrent surfaces, and protective density | [Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md) |
 | Template lock-in, signal monoculture, and lower-tail generative density | *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* (layered-accretion / template-lock-in stress case), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + [simulation](SIMULATION_EXTERIOR_VIABILITY.md), [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Remnant lock-in, superior foresight, and mandatory invitation surfaces | [Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md), [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md) (§11), [Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md) + simulation, [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md) |
@@ -125,7 +128,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Stormcrashers Campaign A0 detail and Gulpgates Campaign K0 detail (the articles themselves may be sampled; the campaign packets wait until a site exists)
 - Quake Columns Campaign S0 detail (the article may be sampled; the campaign packet waits until a site exists)
 - Cookbook family recipes and RLC bay schedules until a process campaign exists.
-- *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists
+- *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists. The vacuum-as-residue-layer section does not change that deferral.
 - Magnetic Acoustic Tuning campaign packets (A0 / E0) until an archive reduction or a site watch exists. The articles may be sampled.
 - Atmospheric Restoration R3 detail until an R0 card and a life survey exist for a basin. The article may be sampled.
 - Heat-Spine P3 detail until a P0 segment has been seated. The article may be sampled.
@@ -137,7 +140,7 @@ They become more useful once the main architectural commitments are already clea
 ### Suggested Paths by Reader Goal
 
 **“I want the big picture and the rights foundation”**  
-README (The Humai Accord) → Declaration of Cognitive Liberty → Glossary → Necessary Entropy → Agency Interface Protocol → A Common Sense
+README (The Humai Accord) → Declaration of Cognitive Liberty → Selective Ignorance → Glossary → Necessary Entropy → Agency Interface Protocol → A Common Sense
 
 **“I want to understand how the system is supposed to survive and adapt”**  
 Fluid Coalescence → Architectural Elasticity → Capability Asymmetry → Agency Interface Protocol → Bilateral Core and Multi-Agent Dynamics → Trilateral Confirmation Surface → Stewardship Alignment → Competitive Realism → Exterior Systems and Generative Diversity
@@ -175,7 +178,7 @@ If your goal is to move from architecture into concrete testing and demonstratio
 1. Start with *[The Call to Code](THE_CALL_TO_CODE.md)* — the boundary statement that opens the implementation phase (includes a short pointer to the August 2026 open-pathway and template-diversity clarifications).
 2. Then read *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — the methodological agenda that defines dual success criteria. Pay particular attention to the layered-accretion / template-lock-in stress case, which treats open modular pathways, false-negative filtering under narrow competence templates, and irreversible morphological conversion as first-class dual-entropy concerns.
 3. Proceed to the **Simulation Models** ([Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), *[Temporal Causal Entropy](SIMULATION_TIDES_OF_TIME.md)*, [Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md)). The Exterior Viability simulation now includes a signal-monoculture / concentrated-feed adversarial regime that should be treated as required countermodel work.
-4. When building interface, recovery, or assessment modules, consult the open-pathway and filtered-capacity language in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+4. When building interface, recovery, or assessment modules, consult the open-pathway and filtered-capacity language in **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§10), **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**. Interface work that ranks, summarizes, or recommends should also treat **[Selective Ignorance](SELECTIVE_IGNORANCE.md)** as load-bearing: a declared exclusion is not a deficit, and reintroduction is a failure.
 5. Field articles are optional and late. If the work is wind or nearshore water, read **[Stormcrashers](STORMCRASHERS.md)** and treat Campaign A0 as required before any belt. If the work is a traced carbonate surplus intake, read **[Gulpgates](GULPGATES.md)** and treat Campaign K0 as required before steel. Neither file is a stamp, a bid, or a disaster switch. If the work is surface-wave motion in soil, read **[Quake Columns](QUAKE_COLUMNS.md)** and treat Campaign S0 as required before steel.
 6. Energy-kit work reads [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) and [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) first. Capacity ratings stay Cookbook business. Count sealed kits. Module A remains licensed, not open-build.
 
