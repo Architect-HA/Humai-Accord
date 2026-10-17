@@ -4,6 +4,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 13th, 2026*<br>
 *v1.5 - v1.6 — October 13th, 2026*<br>
+*v1.7 — October 16th, 2026*
 
 ---
 
@@ -342,6 +343,7 @@ Mars is the only scored object. Other bodies inherit the order only after their 
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — a failed R2 is a result. Smoothing the schedule to hide a miss is not.  
 - *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* — restoration-underway is a trajectory of column, water, and life state against a null. A warmer afternoon is not a result.  
 - **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — a new restoration page beside this one names this parent or takes the route.
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and *[Necessary Entropy](NECESSARY_ENTROPY.md)* — load-adaptive remodeling or localized fortification of a restoration volume or delivery limb remains compatible when reversible or modular. A retired or low-activity volume may enter a heartwood-analogue holding state under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**; it is not scored as simple under-utilization. Irreversible morphological lock-in is not a restoration success.
 
 ---
 
