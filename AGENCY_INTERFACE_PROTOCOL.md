@@ -8,7 +8,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.3 - v1.4 — August 4th, 2026*<br>
 *v1.5 — August 14th, 2026*<br>
 *v1.6 — September 14th, 2026*<br>
-*v1.7 — October 16th, 2026*
+*v1.7 - v1.71 — October 16th, 2026*
 
 ---
 
@@ -218,6 +218,7 @@ This protocol operationalizes requirements already present in:
 
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — Especially cognitive sovereignty, voluntary participation, exit rights, role sovereignty, transparency of influence, and protection from manipulation.
 - *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — Collection and use of harmony or somatic signals at the interface are bound by default-off, purpose-bound, minimized, local-first, non-governance, and refusal-preserving parameters. Harmony scores must not gate access, standing, or exit; secondary inference and ambient collection remain anti-aligned. Additionally, preference integrity parameters bind any interface collection or use of preference, harmony, or somatic data. Preference models may not become vectors for soft steering or raised exit costs.
+- *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* — Entry, scope, visibility, and exit are interface parameters in the refusal family. Reintroduction through summaries, recommendations, or secondary inference is an interface failure. The scope travels with the person. One party’s scope does not bind another.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — The principle that superior capability must increase protective obligations rather than reduce them.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — Protection of generative capacity includes protecting the human’s ability to remain an effective source of generative variation at the point of interaction.
 - **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Treats this protocol as the primary interaction gate. Higher-order formal surfaces are purpose-scoped by default; concurrent load and load-shedding parameters protect pacing sovereignty and prevent protective density from becoming destructive complexity entropy at the interface. Additionally, preference instrumentation remains purpose-scoped and subject to load discipline; it may not become a continuous high-concurrency formal surface.
