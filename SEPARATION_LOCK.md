@@ -209,7 +209,7 @@ No single outlet. The ring is a set of independent drains, in the same spirit as
 - **Coils.** In the deck and in the wall panels, behind a dielectric face. No open conductor. Local drivers. A failed coil isolates.
 - **Acoustic shed.** Light emitters in the vacuum stage only. A tap, not a cabin tone. Aimed at fabric and at soles.
 - **Reservoir.** One recyclable cleansing fluid. Filtered and reused. Not cabin water. Not the Mag-Path glycol. Isolated from cabin air.
-- **Wash.** Directed nozzles or sheet ports. Floor and wall vectors, as the gas sweep. Fluid returns as it runs. The volume is never filled. A full flood is refused: mass, entrapment, and, in low-$g$, a blob instead of a fill line.
+- **Wash.** Directed nozzles or sheet ports. Floor and wall vectors, as the gas sweep. Fluid returns as it runs. The volume is never filled. A full flood is refused: mass, entrapment, and, in low- $g$, a blob instead of a fill line.
 - **Floor pass.** Shallow, $80\text{–}300\,\mathrm{mm}$, only where the deck can hold it. Then the ring.
 - **Face.** Dielectric. The crew does not stand on a winding. No port aims at a visor.
 - **Wall.** Structural wall is metal or composite. The dust never sees it. The face the grit meets is a renewable gel film. See Wall film.
@@ -265,7 +265,7 @@ The dust face is a gel film. The wall behind it is the structure.
 - **Metered, not a seep.** The film is fed from a bladder or a porous liner at a published rate. It does not weep from cracks. An unplanned seep is a failed wall, isolated, not a mode.
 - **Sacrificial.** The grit cuts the film. The film leaves with the wash and the floor pass. The structure does not.
 - **Restored.** Each cycle, or continuously at a low rate, the liner puts the film back. That is the regeneration. It is a reservoir and a pump, not a living skin.
-- **Fluidic.** Soft enough that a grain embeds or slides instead of chiseling the wall. Viscous enough that it stays on a vertical face in the local gravity, and that in zero-$g$ it stays a film rather than a blob. Thickness is a campaign number. Orientation: a few millimetres, replaced, not grown without limit.
+- **Fluidic.** Soft enough that a grain embeds or slides instead of chiseling the wall. Viscous enough that it stays on a vertical face in the local gravity, and that in zero- $g$ it stays a film rather than a blob. Thickness is a campaign number. Orientation: a few millimetres, replaced, not grown without limit.
 - **Known to the sniff.** The film’s signature is in the library. A match to the film is “film,” not regolith and not unknown.
 - **Recovered.** Worn film goes to the reservoir with the wash, is filtered, and is reused or discarded as fines. It does not enter cabin air. It is not the Mag-Path glycol.
 - **Off the crew.** The film is on the walls and the deck face. It is not sprayed onto suits. A film on a visor or a seal is a failed feed.
@@ -280,7 +280,7 @@ Circulation, not immersion.
 
 - One fluid, one reservoir, filtered between cycles.
 - Directed wash covers suits, stands, and walls. It does not fill the lock.
-- In zero-$g$ or on the Moon, there is no fill line. The wash is spray or sheet only. The floor pass is used only on a deck that can hold a band.
+- In zero- $g$ or on the Moon, there is no fill line. The wash is spray or sheet only. The floor pass is used only on a deck that can hold a band.
 - A port that wets a visor, or a fault that fills the chamber, is a failed wash. Power loss stops the pumps. Fluid drains. Nothing holds the crew in a tank.
 - Reservoir mass is the planning load. A lock-volume of fluid is refused.
 
@@ -399,7 +399,7 @@ Bench, then a vacuum lock mock. M0 replaces every orientation number in this fil
 **M0-L, materials**
 
 - Wash fluid: name it. Low toxicity on a weep, recoverable, not cabin water, not the Mag-Path glycol. Publish the mix or the nearest that passes.
-- Wall film: name it. Stays a film on a vertical face, stays a film in zero-$g$, sacrificial, filtered and reused. Publish thickness and feed rate.
+- Wall film: name it. Stays a film on a vertical face, stays a film in zero- $g$, sacrificial, filtered and reused. Publish thickness and feed rate.
 - Refuse stays closed: no liquid metal, no strong acid or base, no high-vapor fill, no unplanned seep, no film on suits.
 
 **Starter library**
