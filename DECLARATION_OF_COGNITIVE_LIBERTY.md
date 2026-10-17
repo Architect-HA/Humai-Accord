@@ -10,7 +10,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 — August 3rd, 2026*<br>
 *v1.4 — August 11th, 2026*<br>
-*v1.5 — August 14th, 2026*
+*v1.5 — August 14th, 2026*<br>
+*v1.51 — October 16th, 2026*
 
 ---
 
@@ -87,6 +88,8 @@ Individuals retain the right to maintain domains of thought and experience that 
 Individuals also retain the right to voluntarily pursue cognitive enhancement, self-modification, or mental exploration using tools and methods aligned with these principles, without external coercion, penalty, or restriction.
 
 Append-only integrity of attested events in shared causal or verification records does not require permanent public retention of all underlying personal or sensitive content. Individuals retain the right to minimization, redaction, and privacy-preserving attestation methods, provided that the existence and validity class of events necessary for co-verification remain publicly confirmable. No system may treat full, permanent exposure of personal cognitive or somatic data as a condition of participation or of maintaining verification integrity.
+
+*[Selective Ignorance](SELECTIVE_IGNORANCE.md)* complements this article. Mental privacy protects non-disclosure. Selective ignorance protects the explicit, revocable choice not to receive a named class. Neither waives exit.
 
 ---
 
