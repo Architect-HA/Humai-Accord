@@ -6,7 +6,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 18th, 2026*<br>
 *v1.2 — July 30th, 2026*<br>
 *v1.3 — August 2nd, 2026*<br>
-*v1.4 — August 19th, 2026*
+*v1.4 — August 19th, 2026*<br>
+*v1.5 — October 16th, 2026*
 
 ---
 
@@ -94,7 +95,10 @@ The *Somatic Resonance Theory* complements the **[Cognitive Diversity Protocol](
 Any system that detects, responds to, or attempts to modulate somatic resonance operates at the human–AI / human–technology interaction surface. Such systems must therefore respect the parameters of the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**, including interruption rights, consent revocability, pacing sovereignty, and the prohibition on treating embodied signals as purely extractable resources.
 
 **Connection to Predictive Harmony Metrics**<br>
-Any use of somatic resonance as a harmony or well-being signal is further bound by *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*: collection must remain default-off, purpose-bound, minimized, preferentially local-first, and non-governance. Somatic or frisson-derived indicators must not gate access, standing, or exit; secondary inference, ambient collection, and coercive biofeedback remain anti-aligned.
+Any use of somatic resonance as a harmony or well-being signal is further governed by *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)*: collection must remain default-off, purpose-bound, minimized, preferentially local-first, and non-governance. Somatic or frisson-derived indicators must not gate access, standing, or exit; secondary inference, ambient collection, and coercive biofeedback remain anti-aligned.
+
+**Connection to Process-Reward Alignment**<br>
+Voluntary micro-phenomenology of frisson, engagement, aversion, or recovery state may serve as an optional note at a procedural point under *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*. The note remains default-off, non-gating, and non-credit. It may inform the participant’s own later declarations or revisions. It does not alter stepwise integrity unless the participant explicitly attests that the signal is a parameter they themselves have declared. Attestation of any recorded note follows the classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local use remains reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 **Connection to Interior Systems and Generative Plurality**  
 Any retained somatic or frisson-related records remain subject to the provenance and interpretive protections of *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*. Original provenance of voluntarily shared somatic data must remain independently preservable. Silent re-attribution or erasure of such records is prohibited. Somatic instrumentation must not become a vector for narrative capture or the collapse of interpretive plurality.
