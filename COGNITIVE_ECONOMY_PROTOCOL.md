@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — August 11th, 2026*<br>
 *v1.1 — August 14th, 2026*<br>
-*v1.2 — August 25th, 2026*
+*v1.2 — August 25th, 2026*<br>
+*v1.2.1 — October 16th, 2026*
 
 ---
 
@@ -118,6 +119,7 @@ This protocol operationalizes load and economy parameters that were previously d
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — long-horizon relevancy flow and relational clustering are kept computationally anti-entropic through working-set and multi-resolution parameters
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — computational substrate consumed by formal surfaces is subject to the same integrity standards applied to material circulation
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — load budgets, shedding orders, and working-set parameters remain subject to review and empirical revision
+- *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* — A declared exclusion is chosen load-shedding, not a deficit to be repaired by reintroduction.
 
 The Knowledge Continuity Floor is not satisfied by continuous high-resolution attention to every element of a growing corpus. It is satisfied by durable, recoverable, low-overhead access paths that remain compatible with residual agency under both ordinary and extreme conditions.
 
