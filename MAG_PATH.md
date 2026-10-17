@@ -2,7 +2,8 @@
 ### *Sealed Liquid EAP Walk Lines, Gait-Following Grip, and Tagged Acoustic Link for Enterprise and Space Dock*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.5 — October 17th, 2026*<br>
+*v1.0 - v1.4 — October 17th, 2026*<br>
+*v1.5 - v1.6 — October 17th, 2026*<br>
 
 ---
 
@@ -106,10 +107,25 @@ A removable pseudo-sock for interior zero- $g$.
 
 - Receives the slipper. If the slipper seats, the slipper’s plate and tag are the inner stack.
 - If dust or damage blocks the seat, the shell walks on its own plate and its own tag. Conversion does not depend on a clean slipper. [Separation Lock](SEPARATION_LOCK.md) is what keeps ordinary EVA inside the film. This file only requires the shell to walk alone.
-- Shell adds thermal, dust, and abrasion cover.
+- Shell adds thermal, dust, and abrasion cover. See Panels.
 - Seat tolerance, orientation: the slipper seats with up to $0.2\,\mathrm{mm}$ of film at the plate face. Above that, or if the tag does not read, the shell walks alone. M0 confirms the number. [Separation Lock](SEPARATION_LOCK.md) is what keeps ordinary EVA inside it. The lock idles Mag-Path in that chamber for its cycle. The two do not share a driver.
 
 The law is the same in slipper and shell. A crew member who must exit does not relearn the foot.
+
+---
+
+## Panels
+
+The shell does not wait to be scrubbed, and it does not hot-swap a sole.
+
+Every ablative panel on the shell, not only the sole, refuses the grain before it seats.
+
+- **Repulsion.** A low field and a light acoustic tick in the panel stack. Charged fines are pushed off. Packed grains are kept from keying into the face. It runs during EVA. Intensity stays below what would fight path grip or pin a foot. In the lock, Mag-Path is idle, so the panels may run harder for the cycle, then drop.
+- **Sweat.** A metered micro-film from the panel face, the same idea as the Separation Lock wall film. The grit cuts the film, not the panel. Worn film leaves in the lock wash and in the boot well. It is not a seep from a crack. It is not sprayed into the visor. Restored from a small reservoir in the suit. Not the path glycol. Not a cabin-air contaminant.
+- **No disassembly.** No retractable sole. No replaceable pad. No internal shutter. A panel that cannot sweat isolates. The boot still walks.
+- **Not the closer.** Repulsion and sweat cut the load. They do not promise a clean tread after a long EVA. [Separation Lock](SEPARATION_LOCK.md) wells finish the contact face. The $0.2\,\mathrm{mm}$ check is after the well.
+
+Fail open. A panel field dies with power. It does not trap a foot. Untagged contact still does not harden the path.
 
 ---
 
@@ -404,6 +420,8 @@ Separation Lock M0 may share the bench. The path card does not replace the lock 
 - Path under live solar or on spinning rim skin
 - Claiming the path link is private, or keeping it as a movement log
 - Forcing traffic onto the path to harvest heat
+- A retractable or replaceable sole
+- A panel field that pins a foot
 
 ---
 
