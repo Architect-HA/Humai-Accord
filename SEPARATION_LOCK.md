@@ -105,7 +105,7 @@ It classes the dust on the lock’s own surfaces against a published library. A 
 
 ## Two worlds
 
-Martian air is mostly carbon dioxide, about $95\%$, with a little nitrogen and argon. It is not a nitrogen sky. Surface pressure is about $0.6\,\mathrm{kPa}$, well under one percent of Earth. A sealed lock holds a thin volume of that gas. The volume is worth spending. It is not breathable air, and it is not thrown away into the cabin.
+Martian air is mostly carbon dioxide, about $95$ percent, with a little nitrogen and argon. It is not a nitrogen sky. Surface pressure is about $0.6\,\mathrm{kPa}$, well under one percent of Earth. A sealed lock holds a thin volume of that gas. The volume is worth spending. It is not breathable air, and it is not thrown away into the cabin.
 
 The Moon has no useful atmosphere. A lock there is already at vacuum. The Mars sweep has nothing to sweep with. The Moon cycle starts at the vacuum stage.
 
