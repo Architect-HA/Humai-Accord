@@ -10,7 +10,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.7 – August 12th, 2026*<br>
 *v1.8 – August 14th, 2026*<br>
 *v1.9 — September 1st, 2026*<br>
-*v1.10 — September 14th, 2026*
+*v1.10 — September 14th, 2026*<br>
+*v1.10.1 — October 17th, 2026*
 
 ---
 
@@ -341,6 +342,7 @@ This Protocol elaborates and orients language already present in:
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that stewardship processes cannot convert formal openness into progressive dependency or narrative erasure of exterior systems.
 - **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)** — by treating exterior viability floors, dependency prohibitions, resource-dominance escalation, challenge performance, restoration expectations, and footprint signals of pathway reduction as standing design surfaces subject to anti-capture rules.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — by anchoring all governance activity to non-punitiveness, exit rights, mental privacy, and the protection of idiosyncrasy.
+- *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* — Scope abuse is reviewable. Compelling the excluded knowledge is not a stewardship power.
 - *[Tides of Time](TIDES_OF_TIME.md)* — by applying attestation classes, independence requirements, and review/challenge standards to stewardship claims, version history, and claims of original intent or authoritative reading.
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — by treating sustained interpretive divergence as legitimate and non-punitive.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — by classifying silent re-attribution or erasure of architectural version history as integrity failures.
