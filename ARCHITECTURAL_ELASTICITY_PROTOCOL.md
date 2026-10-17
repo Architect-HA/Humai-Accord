@@ -7,7 +7,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 26th, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
 *v1.2 — August 12th, 2026*<br>
-*v1.3 - v1.4 — August 14th, 2026*
+*v1.3 - v1.4 — August 14th, 2026*<br>
+*v1.5 — October 16th, 2026*
 
 ---
 
@@ -55,7 +56,7 @@ This Protocol is continuous with, and dependent upon, several existing component
 
 - **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** supplies load-shedding parameters that remain applicable under the extreme physical stress conditions addressed in Residual Continuity under Extreme Physical Disruption.
 
-- The Knowledge Continuity and Material Continuity Floors of the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* are operationalized under severe physical disruption by the Residual Continuity subsection of this Protocol.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Sequential recovery or reconfiguration paths may be treated as declared sequences. Intermediate points of isolation, remodeling, or fortification follow stepwise integrity; high-consequence points follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 **Architectural Elasticity** does not replace these elements. It specifies how they must be layered and prioritized when the system faces conditions that exceed its models.
 
@@ -88,6 +89,7 @@ The physical and logical organization of the system.
 - Versioned and reversible commitments rather than irreversible integration.  
 - Multiple overlapping but non-identical pathways for critical functions (diverse redundancy, not mere duplication).  
 - Clear interfaces that allow components to be isolated, replaced, or recombined with minimal friction.
+- Under sustained or asymmetric load, subsystems may locally remodel (increased density, realigned pathways, or fortifying deposition analogues) rather than only isolate. Remodeling remains reversible or modular so it does not harden into irreversible morphological lock-in. Injury or partial disruption may trigger localized fortification that raises durability in the affected zone while leaving adjacent capacity plastic.
 
 Structural elasticity is the substrate on which all other layers depend. Without it, epistemic or response flexibility remains theoretical.
 
@@ -184,6 +186,8 @@ After severe physical disruption, systems retain residual practical pathways to:
 - Dispersed mnemonic and knowledge-carriage pathways consistent with the Knowledge Continuity Floor
 
 These pathways must remain practically usable rather than merely formal or symbolic. Claims of residual continuity that depend solely on the continued forbearance of a single surviving dominant infrastructure are treated as failures of architectural elasticity.
+
+Localized fortification is one pathway by which residual function appears. A damaged zone need not only isolate or shed; it may reconfigure or deposit reinforcing structure so that a lower-visibility but still functional remnant persists. This is continuous with inverted and remnant residual forms.
 
 **Opportunity-cost surfaces**  
 When surviving physical plant (energy facilities, compute clusters, communication infrastructure, or equivalent) becomes more valuable under competing high-utility uses, residual continuity requires that modular, low-cost pathways for exterior and non-dominant residual agency remain open. Silent conversion of all surviving capacity into a single high-utility function that extinguishes residual pathways for others is treated as a breach of the Material Continuity Floor and a form of destructive entropy.
