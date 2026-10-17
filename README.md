@@ -18,6 +18,8 @@ It began with a set of foundational principles and the *[Declaration of Cognitiv
 
 The repository is the working collection of that architecture. Principles supply the orientation. Protocols supply the system parameters. Implementation designs and campaign documents supply the first articles, refuse paths, and empirical targets. The orientation is not converted into teleological closure or progressive dependency.
 
+To more readily understand the repository's contents, start with [Reading Routes](READING_ROUTES.md) (interest-based paths) or the [Layered Onboarding Guide](LAYERED_ONBOARDING_GUIDE.md) (progressive depth and what to defer).
+
 ### The Core Challenge
 
 As artificial intelligence becomes more capable of observing, modeling, and influencing human behavior, the central tension remains: how to pursue technological advancement and cooperation without eroding individual mental autonomy, freedom of thought, and personal sovereignty.
@@ -900,6 +902,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Added **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)** — intermediate procedural points as the primary objects of credit. Terminal success is necessary but insufficient. Forward-only weight restoration. System sequences stay proposals until human acceptance. Optional, non-gating harmony/somatic feedback under existing parameters. Attestation follows *[Tides of Time](TIDES_OF_TIME.md)* classes. Not a new integrity protocol; the general rule Utilization Integrity and Production Integrity implement.
 - Cross-notes and related refinements added across the library: Agency Interface (proposal surfaces and decision altitude), Utilization Integrity and Production Integrity (stepwise integrity), Circulation Recovery (heartwood-analogue holding), Architectural Elasticity and Necessary Entropy (load-adaptive remodeling and localized fortification), Capability Asymmetry, Predictive Harmony Metrics, Somatic Resonance Theory, Material Tides, Tides of Circulation, and Empirical Demonstrations (Cases 11 and 12). Light fortify/retire pointers added to Regenerative Lattice Core, Stormcrashers, Quake Columns, and Atmospheric Restoration.
 - Updated the Project Overview, Core Challenge, and Core Documents opening to reflect the repository as a layered library of principles, procedural protocols, and implementation designs rather than only the original principles and the Declaration of Cognitive Liberty.
+- Updated keywords and added pointers to Reading Routes and Onboarding Guide in the upper Project Overview for better navigation.
 
 **[October 13th, 2026]**
 - Added **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — Mars air, water, and biosphere schedule. Survey before seed. Occupied, reserved, and trial volumes. Shared ice delivery with Dynamo Reignition. Not a breathable sky and not a dynamo.
