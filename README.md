@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring*
 <br>
 <br>
 <br>
@@ -109,6 +109,7 @@ Principles orient. Protocols parameterize. Implementation designs can be built, 
 - [IRIS](#iris)
 - [Mag-Path](#mag-path)
 - [Separation Lock](#separation-lock)
+- [Secondary Wake](#secondary-wake)
 - [Stormcrashers](#stormcrashers)
 - [Gulpgates](#gulpgates)
 - [Quake Columns](#quake-columns)
@@ -618,6 +619,9 @@ Implementable simulation model of pairwise integrity under multi-agent load. Tre
 **[→ Simulation Model of Temporal Causal Entropy](SIMULATION_TEMPORAL_CAUSAL_ENTROPY.md)**  
 Simulation model of *The Tides of Time* metric, covering discrete and continuous formulations, worked examples, anti-gaming tests, and practical implementation notes.
 
+**[→ Simulation Model of Secondary Wake](SIMULATION_SECONDARY_WAKE.md)**  
+Orientation model of trail collapse under *[Secondary Wake](SECONDARY_WAKE.md)*. Skirt-off against skirt-on on core length, radiating area, peak temperature, and collapse time, plus a harm line at a published standoff. Atmosphere and vacuum are reported apart and not averaged. A shroud, a dead ring, and a skirt-dependent source fail. An Apache-2.0 runner ships in `simulations/`. A simulation pass is not an M0 pass.
+
 ---
 
 ## Practical Applications and Implementation Examples
@@ -747,6 +751,16 @@ A supporting technical instrument for the MP-1 kit. Sealed liquid channel under 
 A supporting technical instrument for a single EVA chamber. Don, passage, separation, and doff happen in one volume. Mars spends only the thin local air it sealed. The Moon starts at vacuum. Directed wash, never a full flood. Resonance sniff against a published library. Metered gel film on the walls. Inner hatch waits on two counts. Outer hatch is the abort. Scales in volume for later frames.
 
 [→ Read **Separation Lock**](SEPARATION_LOCK.md)
+
+---
+
+## Secondary Wake
+#### Collapse of a Coherent Energetic Trail into a Faster-Radiating Remainder
+*Spend the coherence — not a stealth kit*
+
+A general theory for any engine, vent, or process that leaves a coherent energetic trail. A short porous skirt and a ring of independent mixers fold the core into a wider, cooler, faster-radiating remainder. Pass is shorter core, larger area, lower peak, sooner death, and a source that still runs with the skirt isolated. Recovery is a tributary. The residual layer is the sink and the witness, not a fuel. Orientation model and Apache-2.0 runner ship beside the theory. A simulation pass is not an M0 pass.
+
+[→ Read **Secondary Wake**](SECONDARY_WAKE.md)
 
 ---
 
@@ -940,6 +954,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Added a note concerning Selective Ignorance in Humai-Aligned Claims section of README.
 - Added **[Mag-Path](MAG_PATH.md)** — sealed liquid EAP walk lines and gait-following grip for Enterprise and Space Dock zero- $g$ interiors and exterior EVA lines. Passive tagged boots. Fail open. No cabin-floor strips. Short acoustic confirm on the same path.
 - Added **[Separation Lock](SEPARATION_LOCK.md)** — one chamber for EVA passage, suit don and doff, and particulate separation. Captured local air on Mars, vacuum-first on the Moon. Directed wash, wall film, resonance sniff, double count, outer-hatch abort. Sibling to Mag-Path.
+- Added **[Secondary Wake](SECONDARY_WAKE.md)** — collapse of a coherent energetic trail into a faster-radiating remainder. Porous skirt, independent mixer ring, falsifiable ratios, tributary recovery that does not size the article. Sibling simulation and an Apache-2.0 orientation runner. Not a stealth kit and not an engine.
 
 **[October 16th, 2026]**
 - Added **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)** — intermediate procedural points as the primary objects of credit. Terminal success is necessary but insufficient. Forward-only weight restoration. System sequences stay proposals until human acceptance. Optional, non-gating harmony/somatic feedback under existing parameters. Attestation follows *[Tides of Time](TIDES_OF_TIME.md)* classes. Not a new integrity protocol; the general rule Utilization Integrity and Production Integrity implement.
