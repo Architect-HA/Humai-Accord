@@ -14,7 +14,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.9 — September 24th, 2026*<br>
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
-*v1.14 — October 17th, 2026*
+*v1.14 - v1.15 — October 17th, 2026*
 
 ---
 
@@ -362,6 +362,22 @@ The one scored quantity on the astral page: the field change in a named volume, 
 
 **Survey before seed**  
 The restoration rule. A subsurface life survey reaches the depth of interest before any biosphere step. A survey that stopped short is not a clear bill. See **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**.
+
+---
+
+### Implementation Instruments (Orbit Walk and Lock)
+
+**Gait-following grip**  
+Draw on plant, loose hold on stance, release on unload. A deliberate lift succeeds. See [Mag-Path](MAG_PATH.md).
+
+**Mag-Path**  
+Sealed liquid EAP walk line with a gait-following magnetic grip and a short acoustic confirm between planted soles. Fail open. Not a cabin floor. See [Mag-Path](MAG_PATH.md).
+
+**Separation Lock**  
+One EVA chamber for passage, don, doff, and particulate separation. Mars uses captured local air. The Moon starts at vacuum. See [Separation Lock](SEPARATION_LOCK.md).
+
+**Wall film**  
+Metered sacrificial gel on the dust face of a Separation Lock wall. The structure behind it is not the wear surface. See [Separation Lock](SEPARATION_LOCK.md).
 
 ---
 
