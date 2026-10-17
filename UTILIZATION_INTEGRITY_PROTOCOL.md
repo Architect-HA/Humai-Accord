@@ -9,7 +9,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.5 — August 31st, 2026*<br>
 *v1.6 — September 14th, 2026*<br>
 *v1.7 — October 12th, 2026*<br>
-*v1.8 — October 16th, 2026*
+*v1.8 — October 16th, 2026*<br>
+*v1.8.1 — October 17th, 2026*
 
 ---
 
@@ -244,6 +245,7 @@ This protocol directly supports and bounds:
 - *[Tides of Time](TIDES_OF_TIME.md)* — live-artifact speech that is not fetched or independently confirmed remains self-attestation and does not renew $t_{\mathrm{last}}$. 
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Linking events that feed bond strength (including hybrid knowledge–material co-enablement claims) remain subject to the integrity standards of this protocol. Token pairing, wash trading, and silent purpose-scope violations do not create durable orbit bonds.
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Recovery, Holding, Quiet, and purpose-scoped claims are themselves subject to integrity standards. Artificial, indefinite, or silently reallocated recovery claims used to disguise lock-in or manufacture utility remain anti-aligned. Heartwood-analogue holding remains legitimate; forcing it into unnecessary active use or scoring it as simple under-utilization is an integrity failure.
+- *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* — Non-reception of an ignored class is not under-utilization. Forcing the class back into presentation to manufacture a utilization event is an integrity failure.
 - *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Stepwise integrity of declared sequences is required for full utilization weight. Terminal validity alone is insufficient. High-consequence points follow *[Tides of Time](TIDES_OF_TIME.md)* attestation classes. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 - **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — this page owns genuine versus artificial use. That page owns new-unit credit beside a living parent. A unit can pass one and fail the other.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by preventing capability from translating into easier fabrication of utility.
