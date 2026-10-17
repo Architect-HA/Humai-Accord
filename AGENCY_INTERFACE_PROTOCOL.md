@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 - v1.4 — August 4th, 2026*<br>
 *v1.5 — August 14th, 2026*<br>
-*v1.6 — September 14th, 2026*
+*v1.6 — September 14th, 2026*<br>
+*v1.7 — October 16th, 2026*
 
 ---
 
@@ -129,6 +130,10 @@ When an action would otherwise require the human to manually reconstruct multi-s
 - Proposal surfaces must themselves obey interruption, consent, reversibility, and low-cost exit parameters.
 - Proposal quality and ranking must remain auditable; opaque “best path” presentation that hides material alternatives is a role-sovereignty and legibility failure.
 - Manual construction remains legitimate. The failure mode is *forcing* manual micro-accounting as the only practical path when proposal surfaces are feasible.
+- For multi-step actions, proposal surfaces must expose the declared intermediate points, or provide an expandable summary that meets the parameters in *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* (no systematic omission of high-consequence points; expansion at low friction and human reaction speed). Presentation of only the terminal outcome is insufficient.
+- System-proposed sequences remain proposals. They become operative declared sequences only upon human acceptance or modification. Unilateral imposition by the system is a failure.
+- An interface that makes the parameter-aligned intermediate path higher-friction than an unconstrained path, or that hides intermediate points behind a binary success indicator, is an agency-interface failure even when the final outcome is acceptable.
+- High-consequence points on an affirmed sequence follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 This parameter exists to preserve decision altitude: strategic and directional choice should not collapse into compulsory bean-counting of the entire underlying state.
 
@@ -224,7 +229,8 @@ This protocol operationalizes requirements already present in:
 - *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)* — The bilateral human–AI pair that meets at the interface is the generative atom of the architecture. Multi-agent systems inherit legitimacy only by composition of intact pairs; interface design must not become a vector for dissolving pairwise protections.
 - *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — confirmation and mediation must not become interface-level overrides of pairwise interruption, consent, pacing, or exit rights.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — the interface is a primary surface during transition; alignment at the interface is grounded in verifiable, attested, and challengeable processes rather than in the inconsistent concept of trust.
-- *[Tides of Time](TIDES_OF_TIME.md)* — supplies the attestation, provenance, and challenge standards that apply to interface claims and records, including the class rule that speech about a live public artifact is self-attestation unless fetched or independently confirmed.
+- *[Tides of Time](TIDES_OF_TIME.md)* — supplies the attestation, provenance, and challenge standards that apply to interface claims and records, including the class rule that speech about a live public artifact is self-attestation unless fetched or independently confirmed. High-consequence points on declared sequences follow the same classes.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Multi-step proposal surfaces expose declared intermediate points or an expandable summary meeting its parameters. System sequences remain proposals until human acceptance. Making the parameter-aligned path higher-friction is an interface failure. Decision altitude is preserved.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* — Interface behavior is a high-value target for empirical evaluation, including Case 10 (scored win, unheld mass; unfetched live-artifact speech).
 
 ---
@@ -243,6 +249,8 @@ The following interface patterns are treated as anti-aligned:
 - Failing to scale protective obligations upward with capability
 - Forcing full manual ledger reconstruction or micro-accounting as the only practical path when legible, reversible proposal surfaces are feasible
 - Presenting a single opaque “recommended path” without material alternatives or human authority to modify or reject
+- Making the parameter-aligned intermediate path higher-friction than an unconstrained path, or hiding intermediate points behind a binary success indicator
+- Unilateral imposition of an operative sequence over human objection
 - Silently reallocating purpose-scoped capacity, attention, or commitments away from the human’s declared intent
 - Erasing or silently re-attributing interface records of consent, purpose scope, or commitment
 - Converting open modular pathways into irreversibly thickened or non-recoverable morphology through interface design choices
