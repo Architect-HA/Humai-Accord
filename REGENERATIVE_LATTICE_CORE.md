@@ -8,6 +8,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.11 - v1.12 — September 24th, 2026*<br>
 *v1.13 — October 11th, 2026*<br>
 *v1.14 — October 12th, 2026*<br>
+*v1.15 — October 16th, 2026*
 
 ---
 
@@ -46,7 +47,7 @@ Worked power and mass figures are orientation arithmetic under [*Empirical Demon
 - Builder handoff for Cookbook-buildable articles  
 - Basic operating modes, start-up and shutdown sequences, and normal safety parameters  
 - RLC-10 envelope: dimensions, stack, mass, materials, cost bands, assembly sequence, output and life  
-- Accord bindings that govern custody, isolation, remate, audit, and exclusion of residual/somatic methods from the rack  
+- Accord parameters that govern custody, isolation, remate, audit, and exclusion of residual/somatic methods from the rack  
 - Scale-out doctrine, cassette class family (RLC-10 / RLC-10-CHP / later RLC-B), and chemistry-agnostic buffer slots
 - Surface-station alternate source kit: closed-loop geothermal coupler in the source bay (RLC-10-G configuration)
 - Polar-array alternate source kit: stellar-feed coupler at standoff, counted cassettes (RLC-10-P configuration)
@@ -123,9 +124,9 @@ No. Salt is a different plant. Electrolyte belongs only inside a **ground-sealed
 
 ---
 
-## Accord Bindings
+## Accord Parameters
 
-These bindings refine the design. They do not replace the envelope tables.
+These parameters refine the design. They do not replace the envelope tables.
 
 ### Necessary Entropy and gated reconstitution
 
@@ -140,6 +141,8 @@ Under the [**Architectural Elasticity Protocol**](ARCHITECTURAL_ELASTICITY_PROTO
 - Pre-authorized isolation: the emergency table *is* the authorization. Crew do not wait for stewardship consensus to pull a smoking couple.  
 - Re-coalescence: a reconstituted cartridge or a swapped head returns through travelers, not through folklore.  
 - C4 (remote the vehicle from the cassette) is elasticity, not abandonment.
+
+Load-adaptive remodeling or localized fortification of a cassette, head, or limb under sustained load remains compatible with this elasticity, provided the change stays reversible or modular and does not harden into irreversible morphological lock-in. A retired or low-activity module may enter a heartwood-analogue holding state under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**; it is not scored as simple under-utilization. See *[Necessary Entropy](NECESSARY_ENTROPY.md)* and *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* for coarser sequences on generative or recovery paths.
 
 ### Capability Asymmetry and kit custody
 
@@ -246,7 +249,7 @@ The Knowledge Continuity Floor and Material Continuity Floor in the *[Declaratio
 
 ### Cognitive liberty
 
-All bindings remain subordinate to the [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md). No cassette procedure may compel mental disclosure, harmony scores, or residual-order claims as a condition of drawing power.
+All parameters remain subordinate to the [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md). No cassette procedure may compel mental disclosure, harmony scores, or residual-order claims as a condition of drawing power.
 
 ---
 
@@ -1082,7 +1085,7 @@ These surfaces are explicit.
 
 ## Relation to Existing Humai Work
 
-This architecture is a companion **implementation example** of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md), including Gated Mobility. It binds to:
+This architecture is a companion **implementation example** of [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md), including Gated Mobility. It connects to:
 
 - [*Necessary Entropy*](NECESSARY_ENTROPY.md)  
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**  
