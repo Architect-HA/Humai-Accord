@@ -7,7 +7,8 @@
 by **Bradford James Focht (The Architect / Aspenth)**  
 *v0.1 - v1.0 — September 24th, 2026*   
 *v1.1 - v1.9 — September 26th, 2026*  
-*v1.10 - v1.16 — September 27th, 2026*  
+*v1.10 - v1.16 — September 27th, 2026*<br>
+*v1.16.1 — October 17th, 2026*
 
 ---
 
@@ -287,7 +288,7 @@ This is not gravity plating and not $1\,g$. The spinning rim already has $0.3\,g
 
 **Keep-out.** **$1.0\,\mathrm{m}$** from an RLC plate. Not under a later maglev hub bearing. Strips do not share a driver with IRIS coils.
 
-Kit: MP-1 (interior lots + exterior lots + boot plates). Same article on the yard truss and boom root.
+Kit: MP-1 (interior lots + exterior lots + boot plates). Same article on the yard truss and boom root. The article is [Mag-Path](MAG_PATH.md). EVA return uses [Separation Lock](SEPARATION_LOCK.md). The lock idles Mag-Path in that chamber. No shared driver. A dead path still does not trap a boot.
 
 **Living with $3.3\,\mathrm{rpm}$.** At the rim you feel about $0.3\,g$ toward the floor. Turn your head fast or drop a tool and it will drift in a curve (Coriolis). That is expected. Cabins keep the head toward the hub or along the rim, not a mix that fights the inner ear. First weeks use short rim shifts. If E0-G cannot show a crew can work at this rate, drop the first discs to $20\,\mathrm{m}$ (faster spin, worse Coriolis) only as a mass save — or keep $25\,\mathrm{m}$ and accept the floor area. Do not claim Earth-normal $g$ on a $15\,\mathrm{m}$ rim.
 
