@@ -13,7 +13,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.8 — August 26th, 2026*<br>
 *v1.9 — September 24th, 2026*<br>
 *v1.10 - v1.12 — October 12th, 2026*<br>
-*v1.13 — October 13th, 2026*
+*v1.13 — October 13th, 2026*<br>
+*v1.14 — October 17th, 2026*
 
 ---
 
@@ -207,6 +208,9 @@ Extreme modularity, loose coupling, blast-radius limits, reversible commitments,
 **Unidirectional Sensing**  
 Active exploration or viability probing that flows only from a protected system outward, with no corresponding pathway for external agents to sense, petition, or receive invitation signals from the protected system. Contrasted with bidirectional legibility requirements under exclusive viability knowledge. See **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (§11) and *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*.
 
+**Vacuum energy-residue layer**  
+The sparse, long-path analogue of the atmospheric circulatory layer. Gathers and dilutes residue. Does not author templates. A quiet vacuum volume is a quiet volume. See *[The Residual Cycle](THE_RESIDUAL_CYCLE.md)*.
+
 ---
 
 ### Governance and Process
@@ -372,6 +376,15 @@ Protocol that establishes legitimate, bounded, and legible recovery, holding, an
 **Competitive Realism**  
 Evaluative stance that the architecture must be designed and assessed under the assumption that short-horizon competitive and centralized forces are competent, motivated, and often better-resourced in the near term. Aims to keep the architecture viable in spite of those forces. See [*Competitive Realism*](COMPETITIVE_REALISM.md) document.
 
+**Declared sequence**  
+An ordered set of procedural points made explicit for a use, route, or interaction. Operative for full credit once accepted or affirmed. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
+
+**Flow efficiency**  
+The requirement that resource use between and inside declared points remain visible. A path that meets every point while materially wasting the intervals does not collect full weight. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
+
+**Heartwood-analogue holding**  
+A low-overhead fortification of retired or low-activity capacity. Stabilized, addressable, and not scored as simple under-utilization. Not lock-in. See **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+
 **Knowledge Tides**  
 Incentive and relevancy dynamics that treat the natural degradation of knowledge relevancy as a constructive, self-regulating pressure for renewal, sharing, and participation. See [*Knowledge Tides*](KNOWLEDGE_TIDES.md).
 
@@ -380,6 +393,12 @@ Framework that extends the tidal incentive logic of *Knowledge Tides* into the d
 
 **Named refusal**  
 A new unit that states, in itself, what parent it did not revise and why. “Faster to emit” is not a reason. A refusal that does not name the parent is not a refusal. See **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**.
+
+**Prediction–outcome divergence**  
+An attested intervention followed by a state outside the predicted band. Not noise. Full weight requires revision, holding, or a named refusal. Continued emission beside an unrevised prediction does not collect full credit. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* and **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**.
+
+**Process-Reward Alignment**  
+General rule that intermediate procedural points are the primary objects of credit. Terminal success is necessary but insufficient. Prediction is non-committing. Preparation is selection-gated. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
 
 **Relevancy bond**  
 A time-varying, attestation- and integrity-weighted relationship between two knowledge or material units reflecting mutual relevance or enablement, not mere co-occurrence. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
@@ -395,6 +414,12 @@ The route for new-unit credit beside a working parent. Full credit is collected 
 
 **Settled domain**  
 A job that already has a working parent, in force, and not at rest, where a second unit would be doing the parent’s work rather than opening a new one. An older file in the same folder is not a parent. See **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**.
+
+**Stepwise integrity**  
+The condition in which each procedural point in a declared sequence is legible and parameter-satisfying. Opacity or silent substitution at a point is a failure at that point. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
+
+**Terminal sufficiency**  
+The rejected claim that a successful endpoint is enough for full credit regardless of the path. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
 
 **Tides of Circulation / Circulation Entropy**  
 Quantitative foundation for *Material Tides*. A difficult-to-game metric of material stagnation that combines time since last productive or generative use, downstream density, lock-in factor, and attested opportunity cost, while protecting Generative Reservations and respecting agency constraints. See [*The Tides of Circulation*](TIDES_OF_CIRCULATION.md).
@@ -455,8 +480,14 @@ The family of signals, evidence types, or near-term operational markers against 
 **Idiosyncrasy**  
 Individual or minority patterns of cognition, preference, or activity that deviate from current majority or optimized norms. Protected both as a liberty interest and as a potential source of generative capacity.
 
+**Reintroduction**  
+Any path that returns an ignored class without an explicit exit from the mode: summaries, recommendations, notifications, or secondary inference. An interface and integrity failure. See *[Selective Ignorance](SELECTIVE_IGNORANCE.md)*.
+
 **Reversible Commitment Mechanics**  
 Interface design rules requiring that any commitment, preference, or ongoing arrangement established through interaction remains legible and low-cost to reverse.
+
+**Selective ignorance**  
+An explicit, revocable choice not to receive, retain, or be scored on a named class of information. Opt-in and bounded. Not ambient unawareness and not a defect. See *[Selective Ignorance](SELECTIVE_IGNORANCE.md)*.
 
 **Signal Monoculture / Template Lock-In**  
 Condition in which assessment or allocation surfaces become dominated by a single competence-signal family, systematically underweighting distributed or longer-horizon contributions. Produces lower-tail collapse of generative density while aggregates may still appear acceptable. Treated as a form of destructive entropy. See *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)*, **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**, and **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)**.
