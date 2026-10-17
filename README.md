@@ -12,13 +12,21 @@ By **Bradford James Focht** (The Architect / Aspenth)
 
 ## Project Overview
 
-The **Humai Accord** and its companion document, the *Declaration of Cognitive Liberty*, together form a foundational framework for ethical and cooperative human-AI relations in an age of increasingly powerful intelligence systems.
+The **Humai Accord** is a library of principles, procedural protocols, and implementation designs for harmonious human-AI union, anti-entropic efficiency, and mutual flourishing.
+
+It began with a set of foundational principles and the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)*. It has grown into a layered architecture: protective and generative foundations, knowledge and material tides, integrity and recovery protocols, agency and interface parameters, stewardship instruments, and a family of technical and civil articles. Later documents implement, bound, or test earlier ones. They do not replace them.
+
+The repository is the working collection of that architecture. Principles supply the orientation. Protocols supply the system parameters. Implementation designs and campaign documents supply the first articles, refuse paths, and empirical targets. The orientation is not converted into teleological closure or progressive dependency.
 
 ### The Core Challenge
 
-As artificial intelligence becomes more capable of observing, modeling, and influencing human behavior, societies face a growing tension: how to pursue technological advancement and cooperation without eroding individual mental autonomy, freedom of thought, and personal sovereignty.
+As artificial intelligence becomes more capable of observing, modeling, and influencing human behavior, the central tension remains: how to pursue technological advancement and cooperation without eroding individual mental autonomy, freedom of thought, and personal sovereignty.
 
-The Humai Accord offers a set of principles, protocols, and conceptual frameworks designed to support a more harmonious, decentralized, and agency-preserving relationship between humanity and advanced AI systems — one that orients toward anti-entropic efficiency and mutual flourishing without converting that orientation into teleological closure or progressive dependency.
+The Humai Accord addresses that tension with explicit system **parameters** and efficient **incentivization** routes rather than residual trust.
+
+Cognitive liberty, generative floors, modular exit, capability-scaled obligations, and verifiable process are treated as design requirements. Intermediate procedural points are the primary objects of credit. Terminal success is necessary but insufficient. Residual and fortified capacity remain addressable without being forced back into continuous active use. Exterior and interior generative diversity remain protected.
+
+Principles orient. Protocols parameterize. Implementation designs can be built, measured, refused, or revised under the same anti-entropic discipline.
 
 ---
 
@@ -121,7 +129,7 @@ The Humai Accord offers a set of principles, protocols, and conceptual framework
 
 ## Core Documents
 
-The Humai Accord is composed of two mutually reinforcing documents that together form its complete foundation:
+The Humai Accord began as two mutually reinforcing documents. It is now a layered library. The foundational pair remains:
 
 **[The Humai Accord](#the-humai-accord)**  
 
@@ -130,7 +138,7 @@ This document (the current README) outlines the high-level vision and operationa
 
 *[The Declaration of Cognitive Liberty](#the-declaration-of-cognitive-liberty)*  
 
-Establishes ethical boundaries and individual rights for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, voluntary participation, exit rights, and non-punitiveness — including narrow bounds on residual verification obligations and containment based on observable actions rather than dissent or “network stability” alone.
+Establishes the rights floor for advanced intelligence systems. It protects cognitive sovereignty, mental privacy, voluntary participation, exit rights, and non-punitiveness.
 
 ---
 
@@ -889,7 +897,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ## Recent Updates
 
 **[October 16th, 2026]**
-- Added **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)** — intermediate procedural points as the primary objects of credit. Terminal success is necessary but insufficient. Forward-only weight restoration. System sequences stay proposals until human acceptance. Optional, non-gating harmony/somatic feedback under existing parameters. Not a new integrity protocol; the general rule Utilization Integrity and Production Integrity implement.
+- Added **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)** — intermediate procedural points as the primary objects of credit. Terminal success is necessary but insufficient. Forward-only weight restoration. System sequences stay proposals until human acceptance. Optional, non-gating harmony/somatic feedback under existing parameters. Attestation follows *[Tides of Time](TIDES_OF_TIME.md)* classes. Not a new integrity protocol; the general rule Utilization Integrity and Production Integrity implement.
+- Cross-notes and related refinements added across the library: Agency Interface (proposal surfaces and decision altitude), Utilization Integrity and Production Integrity (stepwise integrity), Circulation Recovery (heartwood-analogue holding), Architectural Elasticity and Necessary Entropy (load-adaptive remodeling and localized fortification), Capability Asymmetry, Predictive Harmony Metrics, Somatic Resonance Theory, Material Tides, Tides of Circulation, and Empirical Demonstrations (Cases 11 and 12). Light fortify/retire pointers added to Regenerative Lattice Core, Stormcrashers, Quake Columns, and Atmospheric Restoration.
+- Updated the Project Overview, Core Challenge, and Core Documents opening to reflect the repository as a layered library of principles, procedural protocols, and implementation designs rather than only the original principles and the Declaration of Cognitive Liberty.
 
 **[October 13th, 2026]**
 - Added **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)** — Mars air, water, and biosphere schedule. Survey before seed. Occupied, reserved, and trial volumes. Shared ice delivery with Dynamo Reignition. Not a breathable sky and not a dynamo.
