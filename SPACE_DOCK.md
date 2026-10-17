@@ -4,11 +4,12 @@
 
 ---
 
-by **Bradford James Focht (The Architect / Aspenth)**  
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.1 — September 24th, 2026*    
 *v1.2 - v1.4 — September 25th, 2026*    
 *v1.5 - v1.13 — September 26th, 2026*  
-*v1.14 - v1.19 — September 27th, 2026*    
+*v1.14 - v1.19 — September 27th, 2026*<br>
+*v1.20 — October 17th, 2026*    
 
 ---
 
@@ -141,7 +142,7 @@ Each part flies as a sealed kit with a checklist. Masses are planning tonnes. Re
 | SD-H01 | Living / commons can | Housing for eight | 15 | Not a $25\,\mathrm{m}$ disc on day one |
 | SD-H02 | Dock air and water | Life support for the watch | 6 | Separate from ship air and water |
 | SD-H03 | Stores / shop can | Spares, gel, connectors | 10 | |
-| SD-H04 | Lock Node | Yard egress hub; six IRIS Stage 0 faces | 16 | Same article as the ship. Unused faces capped. No suitports. |
+| SD-H04 | Lock Node | Yard egress hub; six IRIS Stage 0 faces; [Separation Lock](SEPARATION_LOCK.md) on used faces | 16 | Same article as the ship. Unused faces capped. No suitports. |
 | SD-K01 | Traffic beacon | Lights, ranging, radio | 0.4 | Not a weapon |
 | SD-K02 | Traffic desk | Computers and radio watch | 0.3 | Required at Earth; useful everywhere |
 
@@ -272,9 +273,11 @@ Slice count: a $25\,\mathrm{m}$ disc into pieces that fit an $8\,\mathrm{m}$ fai
 
 The living-arm **Lock Node (SD-H04)** is the same six-face article as the ship: fore to the living can, four waist rings that can be a lander or a space door, aft capped unless a later module sits there. Unused faces stay capped. A lander parks on a waist face. Reverse-prop (RP-1) may sit on a berth or a stub. It does not fire at the yard.
 
-**Mag-path.** Same MP-1 strips as the ship: living-can interior, Lock Node clean side, **exterior truss and boom-root walk lines** (not on live cells, not on a spinning disc). 0 g cling only. Not gravity. Power-loss releases.
+**Mag-path.** Same article as the ship: [Mag-Path](MAG_PATH.md). Living-can interior, Lock Node clean side, exterior truss and boom-root walk lines. Not on live cells. Not on a spinning disc. Sealed liquid path, ship-side power, passive tagged sole. Draw, loose hold, release. Fail open. Not gravity. Power-loss releases. No shared driver with IRIS. $1.0\,\mathrm{m}$ keep-out from an RLC plate.
 
-**Dust cycle.** Same Lock Node dirty-face cycle as [Enterprise](ENTERPRISE.md): magnetic probe, optional short N₂ puff, working pulse, filter into **sealed cans** on that face. Do not blow cuttings down the truss.
+**EVA lock.** Crew return uses [Separation Lock](SEPARATION_LOCK.md), the same chamber as the ship. One volume: don, passage, separation, doff. Mars spends captured local air. The Moon starts at vacuum. Directed wash, never a full flood. Sniff against a published library. Inner hatch waits on the count. Outer hatch is the abort. The lock idles Mag-Path in that chamber. No shared driver. Not a suitport.
+
+**Dust and cuttings.** Suit dust is the Separation Lock cycle. Cartridges stay on that face. Cuttings use the same face and the same rule: sealed, not blown down the truss, not into the water loop. The older probe-and-puff recipe is retired.
 
 ---
 
@@ -385,7 +388,7 @@ Enterprise gate E0-D can be marked “interfaces written” when **D0-E** lists 
 | Park a spare disc | Second berth or an extra truss stub |
 | Backup if one mover fails | Two tugs, plus a second berth or an SD-0 rack |
 | Join a $25\,\mathrm{m}$ disc from sections | Crane, rails, then boom test |
-| EVA and unsuited walk-out | Yard **Lock Node** (SD-H04), six Stage 0 faces, unused capped. No suitports. |
+| EVA and unsuited walk-out | Yard **Lock Node** (SD-H04), six Stage 0 faces, [Separation Lock](SEPARATION_LOCK.md) on used faces. Unused capped. No suitports. |
 | Park a lander | A waist face on the ship or yard Lock Node. Not a new connector. |
 | Optional reverse-prop (RP-1) | Hold on a berth or stub. **Do not fire** at the yard. |
 
@@ -542,7 +545,7 @@ SD-1 watch is **8** people: two on power plates, two on crane and boom, two on b
 
 They are not the Enterprise crew of 12. Those twelve do not live on the yard by default. If they must stay, use a docked living disc with its spin **stopped**, on a written card, with air and power that can be cut off from the truss.
 
-Yard EVA and any unsuited walk to a free module go through the living-arm **Lock Node**, not through a berth hatch used as a door and not through a suitport.
+Yard EVA and any unsuited walk to a free module go through the living-arm **Lock Node** and its [Separation Lock](SEPARATION_LOCK.md), not through a berth hatch used as a door and not through a suitport. Walk lines on the truss are [Mag-Path](MAG_PATH.md).
 
 Records, power, and water for the watch must still work if one can and one cassette fail.
 
