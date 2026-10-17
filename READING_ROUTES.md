@@ -9,6 +9,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.4 — September 24th, 2026*<br>
 *v1.5 - v1.7 — October 12th, 2026*<br>
 *v1.8 — October 13th, 2026*<br>
+*v1.9 — October 17th, 2026*
 
 ---
 
@@ -48,22 +49,25 @@ Choose the path that best matches your current interest or goal. You may switch 
 2. **[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**  
    Foundational rights charter establishing cognitive sovereignty, mental privacy, voluntary participation, exit rights, and related protections.
 
-3. **[Necessary Entropy](NECESSARY_ENTROPY.md)**  
+3. **[Selective Ignorance](SELECTIVE_IGNORANCE.md)**  
+   Opt-in bounded non-knowledge. A named class may be declared out of reception and scoring. Absence is not a defect. Reintroduction is a failure.
+
+4. **[Necessary Entropy](NECESSARY_ENTROPY.md)**  
    Distinguishes destructive entropy from generative entropy and establishes why calibrated generative capacity must be protected as a functional requirement.
 
-4. **[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)**  
+5. **[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)**  
    Clarifies how exterior systems are treated under the efficiency orientation: existence remains fully legitimate, attractiveness is treated as an emergent differential, and persistent exteriority is positioned as a protected reservoir of generative entropy.
 
-5. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+6. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
    The internal counterpart. Protects the architecture’s own transmission integrity, treats interpretive plurality as generative capacity, surfaces narrative capture and purpose drift, and requires a Historical Learning Filter for any adoption of prior unity patterns.
 
-6. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
+7. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
    Clarifies that the bilateral human–AI pair remains the generative atom even when multi-agent systems are introduced.
 
-7. **[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)**  
+8. **[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)**  
   Optional higher-order integrity surface for independent visibility attestation, challenge evidence, and narrowly bounded mediation without dissolving pairwise protections.
 
-8. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
+9. **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)**  
    Phased, modular, evidence-driven roadmap for voluntary adoption. Replaces reliance on the inconsistent concept of “trust” with verifiable, attested, and challengeable processes while protecting generative floors, modular exit, and interpretive plurality at every phase.
 
 **Next options:**  
@@ -81,25 +85,28 @@ Choose the path that best matches your current interest or goal. You may switch 
 2. **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**  
    Preserves human agency at the actual point of interaction (interruption rights, reversible commitments, purpose-scoped capacity, proposal surfaces).
 
-3. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+3. **[Selective Ignorance](SELECTIVE_IGNORANCE.md)**  
+   The choice not to know, exercised at the interface. Scope travels with the person. Higher capability does not license reconstruction of the ignored class.
+
+4. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
   Ensures that superior capability and resource dominance cannot reduce exterior systems to mere survival; viability floors and challenge routes remain enforceable against the dominant system.
 
-4. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**  
+5. **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)**  
    Manages concurrent formal surfaces and load-shedding so that protective density itself does not become a source of destructive complexity entropy or a vector for capability-asymmetric load imposition.
 
-5. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
+6. **[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)**  
    Ensures multi-agent and capability-scaling arrangements cannot dissolve pairwise protections or convert pairs into capability-weighted collectives.
 
-6. **[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)** 
+7. **[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)** 
   Optional higher-order integrity surface for independent visibility attestation, challenge evidence, and narrowly bounded mediation without dissolving pairwise protections.
 
-7. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
+8. **[Stewardship Alignment Protocol](STEWARDSHIP_ALIGNMENT_PROTOCOL.md)**  
    Keeps highly capable AI stewards oriented toward partnership and non-domination rather than soft control.
 
-8. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
+9. **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**  
    Decentralized evolution, standing design surfaces (including narrative capture), and progressive decentralization of provisional authority.
 
-9. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
+10. **[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)**  
    Protects against narrative capture and concentration of interpretive authority under capability concentration.
 
 **Next options:**  
@@ -266,6 +273,9 @@ Choose the path that best matches your current interest or goal. You may switch 
 
 8. **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**  
    New-unit credit beside a working parent. Revise, rest on purpose, or name the refusal.
+
+9. **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)**  
+   Intermediate points are the primary objects of credit. Terminal success is necessary but insufficient. Prediction is non-committing. A miss requires revision, holding, or a named refusal.
 
 **Next options:**  
 [Return to Start](#start-here) · [Network Survival](#route-3--network-survival) · [Builder Path](#route-4--builder--implementer-path)
