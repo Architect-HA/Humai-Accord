@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 - v1.4 — August 4th, 2026*<br>
 *v1.5 — August 11th, 2026*<br>
-*v1.6 — October 12th, 2026*
+*v1.6 — October 12th, 2026*<br>
+*v1.7 — October 16th, 2026*
 
 ---
 
@@ -50,6 +51,8 @@ When properly declared and bounded, Material Recovery States receive reduced or 
 ### 2. Material Holding State
 
 A temporary, low-commitment state in which material is not under active productive or generative use, yet remains modular, visible, and available for rapid re-entry into circulation. Holding States prevent the false choice between destructive continuous activity and high-penalty idleness.
+
+A heartwood-analogue holding state is a deliberate low-overhead fortification of retired or low-activity capacity. The capacity is chemically, structurally, or logically stabilized so that it persists with minimal ongoing cost, resists decay or capture, and remains addressable for later re-activation. It is not pure dormancy and it is not lock-in. It remains subject to purpose scope, visibility, bounded duration or re-attestation, and low-cost exit. Forcing such fortified residual capacity back into unnecessary active metabolism, or scoring it as simple under-utilization, is an integrity failure under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
 
 ### 3. Knowledge Quiet State
 
@@ -179,10 +182,12 @@ This protocol is shaped by and must remain consistent with:
 - **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — quiet and holding are one of that page’s three routes to full new-unit credit. They are rest. They are not a skip.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — Prevents recovery privileges from becoming a new form of structural advantage.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Especially relevant when recovery or holding involves human attention, human-maintained knowledge processes, proposal surfaces, or purpose-scoped commitments.
-- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Supports regenerative capacity by allowing legitimate rest rather than brittle continuous operation.
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Supports regenerative capacity by allowing legitimate rest rather than brittle continuous operation. Localized fortification and heartwood-analogue holding are compatible with residual continuity and load-adaptive remodeling; both remain reversible or modular.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by applying provenance preservation, challenge rights, and integrity standards to declarations of recovery, holding, and quiet states, and by treating silent re-attribution or erasure of such declarations as an integrity failure.
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that recovery and holding mechanisms cannot be used to create progressive dependency or to erode effective exterior viability.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — governs refinement of durations, attestation standards, and standing design surfaces related to recovery, holding, and purpose-scoped capacity.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Holding and recovery states may operate with reduced point density. Exit from a sequence remains low-cost. High-consequence points inside a recovery sequence follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Localized fortification and heartwood-analogue holding are compatible with residual continuity and load-adaptive remodeling; both remain reversible or modular.
 
 ---
 
