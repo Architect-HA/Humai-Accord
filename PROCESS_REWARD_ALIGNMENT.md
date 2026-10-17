@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.1 — October 15th, 2026*<br>
-*v1.2 - v1.5 — October 16th, 2026*<br>
+*v1.2 - v1.6 — October 16th, 2026*<br>
 
 ---
 
@@ -100,6 +100,20 @@ Declared procedural points remain the primary objects of integrity credit. Full 
 - Across the sequence, resource trajectory is visible. A path that meets every point while materially exceeding the spend of a cleaner attested path collects reduced efficiency weight.
 
 Generative Reservations and Circulation Recovery holding states may still declare coarser point density. They do not license untracked speculative spend. Decision altitude is preserved: humans accept, modify, or abort; they do not micro-attest every interval. Expandable summaries continue to meet the parameters already stated.
+
+### Prediction–outcome divergence
+
+When an attested intervention is followed by a state outside the predicted band, the divergence is not noise to be smoothed. It is evidence that contact with the subsequent state was weaker than the confidence of the prediction.
+
+Full weight then requires a visible response to the miss, not continued fluent emission beside an unrevised prediction. The response is one of the three routes already defined in the **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**:
+
+- a revision of the prediction or of the sequence that depended on it,
+- an attested holding or quiet state while the miss is examined, or
+- a named refusal that states what was not revised and why.
+
+Smoothing the miss, re-emitting the original prediction as current, or collecting terminal credit while the divergence remains unaddressed is an integrity failure. The divergence itself is recorded with the intervention. It remains subject to the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Thresholds for “outside the predicted band” stay illustrative and reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+Intelligence that does not meet the consequence of its own action remains a more sophisticated form of hallucination.
 
 This closes the gap between recognizing what comes next and accounting for what happens when the system acts. Prediction stays cheap. Intervention is an attested object. Preparation waits on selection. Efficiency is priced through the flow, not only at the checkpoints.
 
