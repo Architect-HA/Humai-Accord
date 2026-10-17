@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 29th, 2026*  
 *v1.1, v1.2 — August 2nd, 2026*<br>
-*v1.3 — August 3rd, 2026*
+*v1.3 — August 3rd, 2026*<br>
+*v1.4 — October 16th, 2026*
 
 ---
 
@@ -190,10 +191,11 @@ Circulation Entropy describes state, stagnation, and lock-in. Implementations ma
 - *[Entropy Audit Methodology](ENTROPY_AUDIT_METHODOLOGY.md)* gains an objective, comparable measure of material stagnation and unnecessary lock-in.
 - **[Fluid Coalescence Protocol](FLUID_COALESCENCE_PROTOCOL.md)** can compute clear relative entropy differentials involving material circulation, including under Bootstrap Mode and cold-start conditions.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** gains a measurable way to detect capability-driven material capture.
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** gains support for detecting high-exit-cost interface patterns and for protecting attention from pure extractive scoring; proposal surfaces and purpose-scoped commitments remain binding at allocation interfaces.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** gains support for detecting high-exit-cost interface patterns and for protecting attention from pure extractive scoring; proposal surfaces and purpose-scoped commitments remain operative at allocation interfaces.
 - *[A Common Sense](A_COMMON_SENSE.md)* makes the efficiency consequences of high-circulation versus high-stagnation strategies legible to both human and artificial agents.
-- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** defines legitimate Material Recovery and Holding States that may receive reduced or zero time-based Circulation Entropy penalties when properly attested and bounded, preventing forced circulation from becoming physically destructive.
-- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** defines what counts as meaningful productive or generative use so Circulation Entropy cannot be reduced by token activity, wash trading, or silent reallocation of purpose-scoped capacity.
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** defines legitimate Material Recovery and Holding States that may receive reduced or zero time-based Circulation Entropy penalties when properly attested and bounded, preventing forced circulation from becoming physically destructive. Heartwood-analogue or extractive-fortification holding is one such path; it is not scored as simple under-utilization.
+- **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** defines what counts as meaningful productive or generative use so Circulation Entropy cannot be reduced by token activity, wash trading, or silent reallocation of purpose-scoped capacity. When a utilization claim rests on a declared sequence, stepwise integrity is required for full weight. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Stepwise failures reduce or zero the weight of affected events. Recovery restores weight only forward from the attested recovery point. High-consequence points follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* uses attested utilization and enablement events in $\mathcal{U}$ as inputs to time-decaying, integrity-weighted bond strengths between material units. Downstream density $D(m)$ remains an aggregate enablement signal for a single unit; orbits describe cluster structure and bond flux among sets of units. Hybrid knowledge–material bonds require typed co-enablement under integrity rules. Orbit cohesion is not a substitute for Circulation Entropy.
 - *[Empirical Demonstrations of Anti-Entropic Superiority](EMPIRICAL_DEMONSTRATIONS.md)* treats Circulation Entropy and related material-circulation signals as valid empirical targets under the dual entropy criteria, with preference for trajectories over snapshot-only metrics.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by applying provenance preservation and challenge rights to utilization, release, and lock-in records, and by treating silent re-attribution or erasure of the utilization record as an integrity failure.
