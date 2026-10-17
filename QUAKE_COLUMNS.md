@@ -5,7 +5,8 @@
 ---
 
 by **Bradford James Focht (The Architect / Aspenth)**  
-*v1.0 - v1.5 — September 24th, 2026*
+*v1.0 - v1.5 — September 24th, 2026*<br>
+*v1.6 — October 16th, 2026*
 
 ---
 
@@ -569,6 +570,8 @@ Ordinary insulation around header wiring is allowed. It is insulation, not a pow
 **Quake Columns** is the crustal sibling of [Stormcrashers](STORMCRASHERS.md) and [Gulpgates](GULPGATES.md). It is not a foundation protocol. File it in the Implementation layer after [Gulpgates](GULPGATES.md).
 
 [Hydrofilaments](HYDROFILAMENTS.md) may sit as a sight-glass on the leak-home sump or as a lab cell inside the protection zone. Failure to stand says the sump is not rating water. It says nothing about the belt.
+
+Under sustained or asymmetric seismic load, a column or belt segment may locally remodel or deposit fortifying structure while remaining reversible or modular. Irreversible morphological lock-in is not an article of this file. A retired or low-activity segment may enter a heartwood-analogue holding state under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**; it is not scored as simple under-utilization. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
 Ghost Glass is named only to bound it. This file does not describe that article.
 
