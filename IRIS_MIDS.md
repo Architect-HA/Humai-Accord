@@ -4,11 +4,12 @@
 
 ---
 
-by **Bradford James Focht (The Architect / Aspenth)**  
+by **Bradford James Focht** (The Architect / Aspenth)  
 *v0.1 — May 9th, 2026*  
 *v1.0 — September 25th, 2026*  
 *v1.1 - v1.7 — September 26th, 2026*  
-*v1.8 - v1.10 — September 27th, 2026*  
+*v1.8 - v1.10 — September 27th, 2026*<br>
+*v1.11 — October 17th, 2026*  
   
 ---
 
@@ -91,13 +92,14 @@ Earth roofs prove that large petals can move. They do not prove a 1-atm seal in 
 2. **Latches take the load.** Blades may guide. They do not replace hard capture.  
 3. **Safe default if power dies.** Latched. Power open.  
 4. **Stage 0 can fly without Stage 3.** Locked blades are a valid first article.  
-5. **Do not mix dust and ferrofluid on day one.** Ore berths wait for a dust card.  
+5. **Do not mix dust and ferrofluid on day one.** Ore berths wait for a dust card. Crew dust is not that card. Crew return is [Separation Lock](SEPARATION_LOCK.md) on a Lock Node face. Ore dust stays an ore problem.  
 6. **Magnetic keep-out.** Coils stay a published distance from RLC plates, wheels, and radios.  
 7. **Reconnect order matches the ship.** Spin down → own power → align → mechanical → air → data → power.  
 8. **Local undock.** Isolate and undock do not wait on Earth.  
 9. **Open source.** This description is released so others can build and change it.  
 10. **Spin down first.** A turning disc does not mate. The ring is not a bearing.  
-11. **The ring is not a window and not a speaker.** No viewport through the flange. No actuator that drives the ring as a sound source.
+11. **The ring is not a window and not a speaker.** No viewport through the flange. No actuator that drives the ring as a sound source.  
+12. **The ring is not a walk path and not a dust lock.** [Mag-Path](MAG_PATH.md) does not share a driver with these coils and does not cross a mate face. [Separation Lock](SEPARATION_LOCK.md) sits on a Lock Node face. It is not this ring. A port may fail latched. A path and a lock fail open. A failed face isolates. The other faces stay up.
 
 ---
 
@@ -420,7 +422,7 @@ Planning masses. Replace in the I0 drawing.
 
 Replace after you weigh the real face. Count each ring face. One ship joint is two faces. A Lock Node is six (fore, aft, four waist). Do not count “one IRIS per ship.”
 
-A **Lock Node** (ship or yard) is six Stage 0 faces on one short can: fore, aft, four waist. Same I0 numbers. Same hooks. Same ports. Waist and aft faces are universal (lander or space door). It is not a new ring type. Suitports are not an IRIS mode.
+A **Lock Node** (ship or yard) is six Stage 0 faces on one short can: fore, aft, four waist. Same I0 numbers. Same hooks. Same ports. Waist and aft faces are universal (lander or space door). It is not a new ring type. Suitports are not an IRIS mode. Used faces carry a [Separation Lock](SEPARATION_LOCK.md). Walk lines on the clean side are [Mag-Path](MAG_PATH.md). Neither shares a driver with this ring.
 
 IRIS-C is a later kit with the same IDs and a 2.00 m opening. Do not mix C and crew openings on one mate.
 
@@ -493,6 +495,9 @@ Replace pass/fail numbers with measured ones. Do not invent a certified leak rat
 - [Space Dock](SPACE_DOCK.md) — SD-B01 is an IRIS Stage 0 ring. D0-B uses I0. Yard Lock Node (SD-H04) uses the same six-face article; unused faces stay capped.  
 - [Enterprise](ENTERPRISE.md) — module joints, remate, and the ship Lock Node use the same ring. Six faces on the ship node, not a new type.  
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — 1.0 m keep-out from plate faces until a map says otherwise.  
+- [Mag-Path](MAG_PATH.md) — no shared driver with this ring. Does not cross a mate face. A path fails open. This port may fail latched.  
+- [Separation Lock](SEPARATION_LOCK.md) — sits on a Lock Node face. Crew dust, not ore dust. It is not this ring and not a suitport. A lock fails open. Coil keep-out stands.  
+- **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — a failed face isolates. The other faces stay up.  
 - Transit Hotel Bus (inside Enterprise) — electrical remate order is unchanged.  
 - Civil articles — not hardware here.
 
@@ -506,6 +511,7 @@ Replace pass/fail numbers with measured ones. Do not invent a certified leak rat
 - Docking loads carried only by petals  
 - A third connector “just for cargo”  
 - Using an IRIS face as a suitport  
+- Using an IRIS coil as a Mag-Path driver or as a Separation Lock coil  
 - Mating a disc that is still spinning  
 - A pressure window through the Stage 0 flange  
 - Using the ring as a vibration driver or “tuning fork” for the hull  
