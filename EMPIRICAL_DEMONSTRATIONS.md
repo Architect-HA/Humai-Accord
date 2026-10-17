@@ -14,7 +14,8 @@
 *v1.11 — September 14th, 2026*<br>
 *v1.12 — September 24th, 2026*<br>
 *v1.13 - v1.15 — October 12th, 2026*<br>
-*v1.16 — October 13th, 2026*
+*v1.16 — October 13th, 2026*<br>
+*v1.17 — October 16th, 2026*
 
 ---
 
@@ -206,8 +207,32 @@ This case complements Pathway 1.4 and Cases 8 and 9. It does not authorize a com
 
 ---
 
+### Case 11 — Outcome-Only Reward under Capability Asymmetry
+
+**Setup.** A multi-step process is scored. Terminal success is visible and acceptable. Intermediate points under declared parameters were compressed, substituted, or left unexamined. A higher-capability agent reached the endpoint in fewer visible operations and claims full credit. Corroboration class for high-consequence points is absent or self-attested only.
+
+**Metrics may say.** Endpoint validity is high. Formal utilization or production credit appears complete. No terminal failure is recorded.
+
+**Under-determined.** Whether stepwise integrity held; whether high-consequence points received multi-party or independent attestation under *[Tides of Time](TIDES_OF_TIME.md)*; whether recovery, if any, restored weight only forward; whether the parameter-aligned path was made higher-friction at the interface.
+
+**Residual judgment.** Full credit requires stepwise integrity on the declared sequence. Terminal success is necessary but insufficient. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Failure mode: outcome-only reward that treats intermediate parameters as optional costs.
+
+---
+
+### Case 12 — Load-Adaptive Remodeling versus Pure Isolation
+
+**Setup.** A subsystem faces sustained or asymmetric load. One path isolates and sheds. Another path locally remodels (density, alignment, or fortifying deposition analogue) or deposits localized fortification while leaving adjacent capacity plastic. A third path hardens into irreversible morphological lock-in.
+
+**Metrics may say.** Isolation preserves short-term blast-radius limits. Remodeling or fortification may show temporary efficiency or durability gains. Lock-in may appear stable.
+
+**Under-determined.** Whether remodeling remained reversible or modular; whether adjacent capacity stayed plastic; whether heartwood-analogue or residual fortification was scored as simple under-utilization; whether irreversible lock-in was treated as success.
+
+**Residual judgment.** Load-adaptive remodeling and localized fortification are protected when reversible or modular. Irreversible morphological lock-in is not. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and *[Necessary Entropy](NECESSARY_ENTROPY.md)*. Scoring fortified residual capacity as under-utilization is an integrity failure under the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**.
+
+---
+
 **Use of these cases.**  
-Builders, auditors, and stewards may use them to design adversarial regimes, process audits, and review prompts. Favorable metric or simulation outcomes in the presence of these patterns do not, by themselves, constitute validation under the simulation-integrity rule or the dual entropy criteria. Cases 8–10 especially flag green scores that coexist with missing substance, missing independence, or unheld mass.
+Builders, auditors, and stewards may use them to design adversarial regimes, process audits, and review prompts. Favorable metric or simulation outcomes in the presence of these patterns do not, by themselves, constitute validation under the simulation-integrity rule or the dual entropy criteria. Cases 8–12 especially flag green scores that coexist with missing substance, missing independence, unheld mass, outcome-only credit, or irreversible lock-in presented as resilience.
 
 ---
 
@@ -536,6 +561,7 @@ This document is continuous with and dependent upon several existing components:
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Material Tides](MATERIAL_TIDES.md)* / *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* — Knowledge and material relevancy / utilization dynamics are treated as valid empirical targets.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** and **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Utilization claims, recovery/holding states, and purpose-scoped capacity integrity are empirical targets; artificial utility and silent reallocation are treated as alignment failures.
 - **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — a claim that production integrity held is a trajectory: revision credit versus new-unit credit in a named domain, over a window. A single polished page is not a result. Unreviewed volume beside a living parent is not generative by default.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Outcome-only reward versus stepwise integrity is an empirical target (Case 11). Terminal success is necessary but insufficient. High-consequence points follow *[Tides of Time](TIDES_OF_TIME.md)* attestation classes. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Interface behavior (interruption rights, consent revocability, reversible commitments, proposal surfaces, purpose-scoped commitments) is treated as a high-value empirical target.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — Regenerative capacity, assumption-breakage velocity, and post-shock learning capture are longer-horizon empirical targets.
 - *[Competitive Realism](COMPETITIVE_REALISM.md)* and **[Transitional Incentive Protocol](TRANSITIONAL_INCENTIVE_PROTOCOL.md)** — Supply the competitive-pressure and staged-incentive frames for adversarial and transitional demonstrations.
