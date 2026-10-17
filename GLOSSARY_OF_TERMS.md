@@ -14,7 +14,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.9 — September 24th, 2026*<br>
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
-*v1.14 - v1.15 — October 17th, 2026*
+*v1.14 - v1.16 — October 17th, 2026*
 
 ---
 
@@ -38,6 +38,8 @@ Definitions are intentionally measured and definitional rather than expansive. N
 - [Implementation Instruments (Cookbook and Cassette)](#implementation-instruments-cookbook-and-cassette)
 - [Implementation Instruments (Civil Mitigation)](#implementation-instruments-civil-mitigation)
 - [Implementation Instruments (Magnetic Acoustic Tuning)](#implementation-instruments-magnetic-acoustic-tuning)
+- [Implementation Instruments (Orbit Walk and Lock)](#implementation-instruments-orbit-walk-and-lock)
+- [Implementation Instruments (Trail Collapse)](#implementation-instruments-trail-collapse)
 - [Incentives, Knowledge, and Transition](#incentives-knowledge-and-transition)
 - [Power, Capability, and Alignment](#power-capability-and-alignment)
 - [Rights and Diversity](#rights-and-diversity)
@@ -378,6 +380,19 @@ One EVA chamber for passage, don, doff, and particulate separation. Mars uses ca
 
 **Wall film**  
 Metered sacrificial gel on the dust face of a Separation Lock wall. The structure behind it is not the wear surface. See [Separation Lock](SEPARATION_LOCK.md).
+
+---
+
+### Implementation Instruments (Trail Collapse)
+
+**Mixer ring**  
+Independent elements on a Secondary Wake skirt. One clog is a remainder, not a lost source. See [Secondary Wake](SECONDARY_WAKE.md).
+
+**Secondary Wake**  
+Collapse of a coherent energetic trail into a wider, cooler, faster-radiating remainder. A porous skirt and a mixer ring. The source must still run with the skirt isolated. Not a stealth kit. See [Secondary Wake](SECONDARY_WAKE.md).
+
+**Trail**  
+The coherent energetic exhaust downstream of a source. A plume, a vent wake, a heat lane. See [Secondary Wake](SECONDARY_WAKE.md).
 
 ---
 
