@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 29th, 2026*<br>
 *v1.1 — August 3rd, 2026*<br>
-*v1.2 — September 14th, 2026*
+*v1.2 — September 14th, 2026*<br>
+*v1.3 — October 16th, 2026*
 
 ---
 
@@ -145,7 +146,8 @@ Optional forecast-informed introduction timing guidance also lives there; it ran
 ### Additional Alignments
 
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — Defines what counts as meaningful productive or generative use so Circulation Entropy and *Material Tides* incentives cannot be gamed by token activity or wash trading; additionally - silent promotion of occupancy into “in use,” and silent promotion of a hedge into live-document fact, are the same family of purpose-drift.
-- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Establishes legitimate recovery, holding, and purpose-scoped states so circulation pressure cannot force destructive churn or physical degradation.
+- **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Establishes legitimate recovery, holding, and purpose-scoped states so circulation pressure cannot force destructive churn or physical degradation. Heartwood-analogue or extractive-fortification holding converts circulating or at-risk material into a durable, lower-maintenance residual state. Under-utilization pressure does not require continuous active recirculation when a legitimate fortified holding path exists. Forcing such capacity back into unnecessary active use remains an integrity failure.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Material utilization or reallocation sequences may be treated as declared sequences. Stepwise integrity applies for full weight. High-consequence points follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — Allocation and attention interfaces remain subject to interruption, consent, proposal-surface, and purpose-scope parameters; *Material Tides* does not override agency protections.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — Provides the relational complement to material under-utilization and matching pressures: fluid clusters of mutual enablement among material units (and hybrid knowledge–material links under typed co-enablement rules). Orbits do not replace Circulation Entropy or exempt members from modular circulation incentives.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — by ensuring that material allocation claims, utilization records, and lock-in assertions remain subject to provenance preservation and cannot be used to enable narrative capture or silent re-attribution of allocation history.
@@ -207,7 +209,7 @@ These patterns convert material control into quiet domination or generative-floo
 - How should different material classes be weighted or separated within the tidal model?
 - What practical signals best represent “productive use” versus mere occupation of a material?
 - How can Generative Reservations be protected without creating new forms of rent-seeking or capture?
-- How should *Material Tides* interact with existing markets, cloud allocation systems, and physical infrastructure constraints while preserving Humai parameters?
+- How should *Material Tides* interact with existing markets, cloud allocation systems, and physical infrastructure limits while preserving Humai parameters?
 - How can attention be governed under *Material Tides* without violating the stronger protections established in the [Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)?
 
 These questions remain open for refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md).
