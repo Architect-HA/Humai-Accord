@@ -8,7 +8,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.11 - v1.12 — September 24th, 2026*<br>
 *v1.13 — October 11th, 2026*<br>
 *v1.14 — October 12th, 2026*<br>
-*v1.15 — October 16th, 2026*
+*v1.15 — October 16th, 2026*<br>
+*v1.16 — October 17th, 2026*
 
 ---
 
@@ -1103,6 +1104,8 @@ This architecture is a companion **implementation example** of [*The Synthesist'
 - *[Gulpgates](GULPGATES.md)*
 - *[Quake Columns](QUAKE_COLUMNS.md)*
 - [*Empirical Demonstrations*](EMPIRICAL_DEMONSTRATIONS.md)  
+- [*Mag-Path*](MAG_PATH.md)
+- [*Separation Lock*](SEPARATION_LOCK.md)
 - [The Call to Code](THE_CALL_TO_CODE.md)  
 - [Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)  
 
@@ -1112,7 +1115,7 @@ It shares empirical posture with [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) a
 
 **Polar array.** RLC-10-P is this cassette with a stellar-feed coupler at standoff, Module A omitted, in a counted array. The watch, the null season, and any bias stay on [Magnetic Acoustic Tuning](MAGNETIC_ACOUSTIC_TUNING.md). Drawing power is not a bias. The lattice is not a ring around the pole.
 
-**Orbit.** [*Enterprise*](ENTERPRISE.md), [*Space Dock*](SPACE_DOCK.md), and [*IRIS*](IRIS_MIDS.md) share counting and remate discipline. The cassette plate is not an IRIS ring. This document is not first-article Enterprise.
+**Orbit.** [*Enterprise*](ENTERPRISE.md), [*Space Dock*](SPACE_DOCK.md), and [*IRIS*](IRIS_MIDS.md) share counting and remate discipline. The cassette plate is not an IRIS ring. This document is not first-article Enterprise. [*Mag-Path*](MAG_PATH.md) keeps $1.0\,\mathrm{m}$ from a power plate and is not a cassette. Its heat may join the cabin bus. It does not share an RLC driver, and walking the path is not a reason to harvest. [*Separation Lock*](SEPARATION_LOCK.md) keeps the same distance. Its coil heat is not an RLC feed. Neither article crosses a mate face or uses this plate as a walk line.
 
 **Restoration cluster.** [*Archaeo-Biorestoration*](ARCHAEO_BIORESTORATION.md) names the records. [*Ghost Glass*](GHOST_GLASS.md) may read them. The **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** isolates a subject-linked record. The **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** is the person-class floor. None of those files rewrites the cassette, and none holds an energy account on this plate. A BDF-I is an Archaeo record, not an energy account. Bone mineral is a candidate preferred site in *The Residual Cycle*, not a lattice article. Marrow is not a crystal.
 
