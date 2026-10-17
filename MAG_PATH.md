@@ -2,7 +2,7 @@
 ### *Sealed Liquid EAP Walk Lines, Gait-Following Grip, and Tagged Acoustic Link for Enterprise and Space Dock*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.4 — October 17th, 2026*<br>
+*v1.0 - v1.5 — October 17th, 2026*<br>
 
 ---
 
@@ -264,7 +264,7 @@ A published coupler may bridge two lots. It is a joint in the channel, not a rad
 
 The lock and the path are not in one ear. Lock pulses and the lock’s light acoustic shed stay off this window. During a lock cycle, Mag-Path in that chamber is idle, so the path circuit is quiet while the lock works.
 
-The lock borrows the idea, not the circuit. After its shed it chirps its own floor, walls, and drain cartridges and matches the return to a published particulate library. A hazard class holds that lock’s inner hatch. Unknown is a result. That sniff is a cycle result for the hatch count. It is not a tone on this path, and it is not a trail. See [Separation Lock](SEPARATION_LOCK.md).
+The lock borrows the idea, not the circuit. After its shed it chirps its own floor, walls, and drain cartridges and matches the return to a published particulate library. A hazard class holds that lock’s inner hatch. Unknown is a result. The lock’s dust face is a metered gel film on a hard wall, so the grit does not cut structure. That film is a known library signature, not a path fluid. The sniff is a cycle result for the hatch count. It is not a tone on this path, and it is not a trail. See [Separation Lock](SEPARATION_LOCK.md).
 
 This is a local surface telephone for feet on the same line. It is not a comms system, and it is not a log.
 
@@ -367,6 +367,12 @@ Bench, then a vacuum channel. M0 replaces every orientation number in this file.
 11. Publish the bands, the center, the mix, and the seat number that survived.
 
 M0 does not fly. It replaces the orientation numbers.
+
+**What this file cannot finish**
+
+Channel modes, the surviving acoustic center, the acetate load, lift-off residual on a real sole, and heat returned to a cabin bus. Those wait on the bench.
+
+Separation Lock M0 may share the bench. The path card does not replace the lock card. See [Separation Lock](SEPARATION_LOCK.md).
 
 ---
 
