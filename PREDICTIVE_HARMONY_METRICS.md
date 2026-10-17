@@ -8,7 +8,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 — August 14th, 2026*<br>
-*v1.4 - v1.5 — October 16th, 2026*<br>
+*v1.4 - v1.5.1 — October 16th, 2026*<br>
 
 ---
 
@@ -42,7 +42,7 @@ This document is continuous with, and operates within the parameters of, several
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that harmony metrics cannot be used to create progressive dependency or to erode effective exterior viability.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — harmony metrics used during transition remain subject to the pragmatic alignment stance: grounded in verifiable, attested, and challengeable processes rather than in affective trust.
 - *[Tides of Time](TIDES_OF_TIME.md)* — any harmony or somatic records remain subject to provenance preservation and open challenge rights.
-- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Optional, local, purpose-scoped harmony or somatic notes may be attached to procedural points. They remain default-off, non-gating, and non-credit. They supply no mandatory verification and no governance signal. Attestation of any such note, when recorded, follows the classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local use remains reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Optional, local, purpose-scoped harmony or somatic notes may be attached to procedural points. They remain default-off, non-gating, and non-credit. They supply no mandatory verification and no  signal. Attestation of any such note, when recorded, follows the classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local use remains reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 - **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Preference instrumentation and harmony data collection remain subject to concurrent-load and purpose-scoping discipline; they may not harden into high-concurrency formal burdens.
 
 Predictive Harmony Metrics does not replace these elements. It operationalizes Principle 8 within their parameters.
@@ -168,6 +168,8 @@ Harmony or somatic indicators **must not** gate:
 - Exit cost, consent friction, or role assignment
 
 Using “low harmony” as soft punishment, ranking pressure, or eligibility filter is a non-punitive, role-sovereignty, and Agency Interface failure. The same prohibition applies when a harmony or somatic note is optionally attached to a procedural point under *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*: the note cannot gate credit, standing, or exit.
+
+Absence of a class under *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* is not low harmony, low engagement, or a governance signal. Secondary inference from permitted signals back into the ignored class is prohibited.
 
 #### Capability-scaled obligations
 Under the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, systems that can model somatic or affective state at scale face **stricter** transparency, audit, interruption, and minimization duties — not looser ones “because accuracy improved.”
