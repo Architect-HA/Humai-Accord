@@ -2,7 +2,7 @@
 ### *Opt-in Bounded Non-Knowledge as a Protected Mode*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.2 — October 17th, 2026*<br>
+*v1.0 - v1.3 — October 17th, 2026*<br>
 
 ---
 
@@ -74,7 +74,16 @@ No default expiry is required. Long-held scopes remain valid until revoked or un
 The scope travels with the person. A downstream surface that has not received the declaration does not invent reception and does not fill in the class. Absence of the scope record is not permission to reintroduce.
 
 **Shared and multi-party surfaces**  
-One party’s scope does not bind another. A shared surface shows the class to parties who have not scoped it out and withholds it from the party who has. It does not become a reason to hide the class from everyone, or to reveal it to the person who excluded it. How contested shared surfaces resolve remains open for stewardship review. The non-imposition rule does not.
+One party’s scope does not bind another. A shared surface shows the class to parties who have not scoped it out and withholds it from the party who has. It does not become a reason to hide the class from everyone, or to reveal it to the person who excluded it. The non-imposition rule is fixed. Contested presentation on the canvas remains ordinary residual judgment.
+
+**Non-spoiling**  
+Per-party presentation handles the canvas. It does not handle the side channel.
+
+Knowing parties may declare a non-spoiling commitment: they will not introduce the ignored class to the excluding party through a surface that party can read, or through an attested channel. The commitment is opt-in, purpose-scoped, and reversible under the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**. Declining it is legitimate. It is not a gag and it is not speech surveillance. Private, unattested conversation is outside the credit system and outside the system’s power.
+
+Maintaining the commitment is the higher-scoring path under *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*. Credit attaches to the maintained commitment, not to the continued ignorance of the other party. Spoiling ends that party’s non-spoiling credit. It does not reduce standing, raise exit cost, or trigger penalty.
+
+The mode ends when the excluding party revokes it or independently realizes the class. Realization is a valid exit. The system does not re-hide the class, fight the inference, or score anyone for the maturation. A non-spoiling commitment cannot be imposed on a party who has not accepted it, and it cannot be used to hold a party in non-knowledge against their own developing inference.
 
 ---
 
@@ -142,6 +151,10 @@ It is not a Generative Reservation and not a Circulation Recovery holding state.
 - A higher-capability system reconstructing the ignored class and presenting the reconstruction as help.
 - Using minimized provenance of the declaration to reconstruct or reintroduce the excluded class.
 - Treating “important,” “timely,” or “beneficial” as permission to reintroduce an ignored class.
+- Imposing a non-spoiling commitment on a party who has not accepted it.
+- Punishing a spoiler, or raising exit cost for spoiling or for declining the commitment.
+- Re-hiding a class after the excluding party has realized it, or scoring anyone for that realization.
+- Surveilling private conversation in order to enforce non-spoiling.
 - Sunsetting the mode in order to resume the feed.
 
 ---
@@ -149,10 +162,10 @@ It is not a Generative Reservation and not a Circulation Recovery holding state.
 ## Relationship to Existing Documents
 
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* — Article V protects mental privacy and minimization. This document protects the complementary choice not to know. Neither waives exit or non-punitiveness.
-- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — entry, scope, visibility, and exit are interface parameters in the refusal family. Reintroduction is an interface failure.
+- **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — entry, scope, visibility, and exit are interface parameters in the refusal family. Reintroduction is an interface failure. A non-spoiling commitment is a purpose-scoped, reversible declaration by a knowing party. It is not a gag.
 - *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — absence is not a harmony or governance signal. Secondary inference into the ignored class is prohibited.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — non-reception is not under-utilization. Forced reintroduction to manufacture use is an integrity failure.
-- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — non-reception of an unaccepted prediction is consistent with non-committing prediction. An accepted high-consequence point in a live sequence is not ignorable.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — non-reception of an unaccepted prediction is consistent with non-committing prediction. An accepted high-consequence point in a live sequence is not ignorable. Non-spoiling credit attaches to the maintained commitment, not to the other party’s continued ignorance.
 - **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — the mode is not a production route and creates no new-unit credit.
 - **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — a declared exclusion is chosen load-shedding, not a deficit.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — bounded non-knowledge can protect generative capacity against over-fitted relevance.
@@ -169,6 +182,7 @@ It is not a Generative Reservation and not a Circulation Recovery holding state.
 - Exclude the class from reception, retention for presentation, summaries, recommendations, and scoring.
 - Propagate the scope with the person. A downstream surface without the declaration does not invent reception.
 - On a shared surface, withhold the class from the party who scoped it out. Do not hide it from parties who have not, and do not reveal it to the party who has.
+- Offer non-spoiling as an opt-in commitment to knowing parties. Do not infer it. Do not punish its decline or its breach. End the mode on revocation or on the excluding party’s own realization.
 - Block secondary inference from permitted signals back into the excluded class.
 - Keep exit as cheap as entry.
 - Do not apply the mode to an accepted high-consequence point inside a live sequence. Offer abort or exit instead.
@@ -182,7 +196,7 @@ It is not a Generative Reservation and not a Circulation Recovery holding state.
 - What is the practical minimum specificity of a named class that remains excludable without becoming a general information blackout?
 - How should re-attestation of long-held scopes work without becoming a nudge back into the feed?
 - What co-verification events, if any, must remain confirmable in minimized form when the underlying class is ignored?
-- How should shared or multi-party surfaces behave when one party has scoped out a class another party has not? The non-imposition rule is fixed. Contested presentation on a shared surface remains open.
+- How should shared or multi-party surfaces behave when one party has scoped out a class another party has not? The non-imposition rule is fixed. Per-party canvas presentation is fixed. Non-spoiling is an optional, incentivized commitment. Whether a given allusion counts as introduction remains ordinary residual judgment.
 
 These remain open for empirical treatment and stewardship review. Thresholds stay illustrative.
 
