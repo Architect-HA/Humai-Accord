@@ -2,7 +2,7 @@
 ### *One Chamber for EVA Passage, Suit Don and Doff, and Particulate Separation*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.7 — October 17th, 2026*<br>
+*v1.0 - v1.10 — October 17th, 2026*<br>
 
 ---
 
@@ -42,6 +42,9 @@ No. Pulses end. Fluid drains. Power loss fails open. A full flood is refused.
 **How many stands?**  
 One rear-entry stand per suited crew member in that cycle. Two people and one stand is a queue, not a cycle.
 
+**Do the grate steps finish the sole?**  
+No. They open the patch. Boot wells at the stand finish the contact face. A hand wipe is not the cycle.
+
 **What does the sniff do?**  
 It classes the dust on the lock’s own surfaces against a published library. A hazard class holds the inner hatch. Unknown is a result, not a pass and not a hidden fail. It does not use the Mag-Path circuit. The wall film is a known signature. It is not dust.
 
@@ -62,6 +65,7 @@ It classes the dust on the lock’s own surfaces against a published library. A 
 | Drains | Four minimum, six planning. Independent. One clog is a remainder |
 | Inner hatch | Two counts. Either fail holds it. Sniff result attached |
 | Sniff | Lock surfaces only. Published library. Hazard holds. Unknown is a result. Not the Mag-Path circuit |
+| Soles | Grate opens the patch. Wells finish it. Film check is after the well |
 | Abort | Outer hatch. Always available. Inner stays shut |
 | Fail posture | Open. Unlike an IRIS port, nothing here latches a person or a boot |
 | Family | The EVA lock Mag-Path points at. Not a suit. Not a second connector |
@@ -149,16 +153,18 @@ Outer hatch shut. The lock holds the Martian volume it sealed. Crew still suited
 5. Pull the lock to vacuum.
 6. **Magnetic train**, then a **light acoustic shed**.
 7. **Sniff.** Low-intensity chirps on the lock’s own floor, walls, and drain cartridges. Match against the published library. Mag-Path in this chamber stays idle. The path circuit is not the sensor.
-8. **Wash.** Directed nozzles, floor and wall, from the reservoir. Fluid runs and returns. The chamber is never full. Crew still suited. No port wets a visor. Fluid stays off the helmet face and below the suit’s critical seals.
-9. **Floor pass.** A shallow band, $80\text{–}300\,\mathrm{mm}$, only on a sloped deck that can hold it, to take what the wash dropped. Then the perimeter ring. Recover to the reservoir. Dry the floor path.
-10. Repress with recovered cabin air.
-11. Count the volume, with the sniff result attached. Fail the count and the inner hatch stays shut. Repeat shed or hold. Do not open.
-12. Doff through the back onto the stand. Suit exterior stays sealed to the stand.
-13. Count again. Pass, then inner hatch.
+8. **Open the patch.** Two or three steps on the grate, or soles lifted on the stand. A grain clamped under a planted sole is not in the cycle until the sole leaves the deck. The steps loosen. They do not finish the sole.
+9. **Boot wells.** Suited feet step into sealed wells at the stand. High-intensity magnetic and acoustic work in the well only. The sole is the target. The chamber is not. Then out. See Boot wells.
+10. **Wash.** Directed nozzles, floor and wall, from the reservoir. Fluid runs and returns. The chamber is never full. Crew still suited. No port wets a visor. Fluid stays off the helmet face and below the suit’s critical seals.
+11. **Floor pass.** A shallow band, $80\text{–}300\,\mathrm{mm}$, only on a sloped deck that can hold it, to take what the wash dropped. Then the perimeter ring. Recover to the reservoir. Dry the floor path.
+12. Repress with recovered cabin air.
+13. Count the volume, with the sniff result attached. Fail the count and the inner hatch stays shut. Repeat shed or hold. Do not open.
+14. Doff through the back onto the stand. Suit exterior stays sealed to the stand.
+15. Count again. Pass, then inner hatch.
 
 ### Return, Moon
 
-No sweep. Seal, confirm vacuum, then steps 6 through 13.
+No sweep. Seal, confirm vacuum, then steps 6 through 15.
 
 A skipped train, standing fluid, a failed count, or a doff that exposes the suit exterior holds the inner hatch. It does not hold the crew.
 
@@ -211,7 +217,7 @@ No single outlet. The ring is a set of independent drains, in the same spirit as
 - **Reservoir.** One recyclable cleansing fluid. Filtered and reused. Not cabin water. Not the Mag-Path glycol. Isolated from cabin air.
 - **Wash.** Directed nozzles or sheet ports. Floor and wall vectors, as the gas sweep. Fluid returns as it runs. The volume is never filled. A full flood is refused: mass, entrapment, and, in low- $g$, a blob instead of a fill line.
 - **Floor pass.** Shallow, $80\text{–}300\,\mathrm{mm}$, only where the deck can hold it. Then the ring.
-- **Face.** Dielectric. The crew does not stand on a winding. No port aims at a visor.
+- **Deck.** A grate over a shallow pit. The pit feeds the drain ring. Two or three steps, or soles lifted on the stand, before the wash. A closed contact patch is not a cleaned sole.
 - **Wall.** Structural wall is metal or composite. The dust never sees it. The face the grit meets is a renewable gel film. See Wall film.
 - **Stands.** Rear-entry. The suit’s outside faces the stand seal or the outer side. After doff it is not in the breathing volume.
 - **Count.** Particle count before the inner hatch, and again after doff. Two passes. One fail holds the hatch.
@@ -253,6 +259,25 @@ After the shed, and before the wash, low-intensity chirps run in the floor, the 
 - **No trail.** Signatures are cycle results, attached to that count. They are not a movement log and not a wearer score.
 
 The sniff tells the count what is still in the room. The count still decides the hatch. The wall film is in the library as itself. A reading of the film is not a dust class.
+
+---
+
+## Boot wells
+
+A few steps on the grate open the patch. They do not clear a sole. A hand wipe is the inefficient option: it puts the contact face in the breathing volume and spends a person on a job the lock should do.
+
+The close is a well, not a second room.
+
+- **At the stand.** Two wells, one per foot. The suited boot steps in. The suit stays on. No one handles the sole.
+- **Sealed.** The well mouth closes on the boot collar, or the boot seats into a boot-shaped throat. Dust that leaves the sole stays in the well. It does not return to the chamber.
+- **Aggressive, local.** High-intensity magnetic pulses and a short acoustic burst, inside the well only. Stronger than the chamber train. Aimed at the contact face and the tread. Not at the visor. Not at the chamber.
+- **Out the bottom.** The well floor is a grate over the same pit. Grains fall. They do not pile under the next boot.
+- **Not a trap.** Power loss opens the mouth and kills the pulse. A foot lifts out. Fail open, as the path does.
+- **Then the wash.** Wells first, so the chamber wash is not fighting a loaded sole.
+
+Hand cleaning remains a maintenance act on a stand that has already failed its well. It is not the cycle.
+
+The shell helps before the well. Ablative panels on the boot, specified in [Mag-Path](MAG_PATH.md), run a low repulsion and a metered micro-film during EVA. They cut the load. They do not finish the sole. No hot-swap pad. The well is still the closer. The $0.2\,\mathrm{mm}$ check is after the well. Panel film is not the wall film and not the path glycol.
 
 ---
 
@@ -329,7 +354,7 @@ The lock must not do Mag-Path’s job and must not undo it.
 
 Mag-Path seats a slipper through $0.2\,\mathrm{mm}$ of film, and the shell walks alone above that. This lock is what keeps ordinary EVA inside that film.
 
-- Target, orientation: soil remaining on the sole face after a passed cycle is under $0.2\,\mathrm{mm}$ equivalent. M0 measures mass and film, not a slogan.
+- Target, orientation: soil remaining on the sole face after the boot well, on a passed cycle, is under $0.2\,\mathrm{mm}$ equivalent. M0 measures mass and film, not a slogan. The grate is not the measurement point.
 - A cycle that misses the target does not block the shell-alone walk. It blocks the claim that the seat is clean.
 - Trays, not the cabin, hold what came off.
 
@@ -367,6 +392,18 @@ The first article fits a crew suit. The chamber is meant to grow.
 Later frames — assistive exoskeletons, mobile suits for mining and hauling, machines that need large lift and torque — use the same lock at a larger volume. The cycle does not change. Sweep, vacuum, shed, sniff, wash, floor pass, drain, count, doff, count. Rear-entry stands scale with the frame. One stand per frame in that cycle. Drains stay a ring. The wash stays directed. The volume is never filled.
 
 A larger lock is not a new article and not a second connector. It is this chamber with more room. Force and torque stay in the suit. The lock does not supply them and does not restrain them. Fail-open, the outer-hatch abort, and the two counts hold at any size.
+
+---
+
+## Later tunnel
+
+When a station is built on site, and launch mass is no longer the limit, a length of tunnel may replace the box.
+
+The tunnel is a later article. It is not the first lock. It is this cycle stretched into a walk: a grate floor, a pit under it, emitters and the sniff in the walls, two ends. Walking works the sole. Gaps drop the grains. The length is also a buffer. A mining face, or any section that may need to be cut off, sits at the far end. Delicate modules sit at the near end. Damage isolates down the tunnel. It does not sit against the habitat.
+
+The first article does not spin the crew and does not launch a rotor. A short grate drum inside a later tunnel is allowed if a flat grate leaves a film. The room itself does not rotate. Vestibular load is not a lock mode.
+
+Same rules at any length. Directed wash. Never a full flood. Two counts. Outer end is the abort. Inner end waits. Fail open.
 
 ---
 
@@ -425,9 +462,10 @@ Publish these classes before the first sniff. Add classes in public. Do not hide
 6. Kill power. Nothing holds. Fluid drains.
 7. Directed wash, then the floor pass. One drain blocked. The ring still clears. Recovered fluid does not enter a cabin volume. A fault does not fill the lock.
 8. Harmonics off the Mag-Path grip band and acoustic window.
-9. Sole film after a passed full cycle under $0.2\,\mathrm{mm}$ equivalent on the test dust, or the target is revised in public.
+9. Sole film after the boot well, on a passed full cycle, under $0.2\,\mathrm{mm}$ equivalent on the test dust, or the target is revised in public. The grate is not the measurement point.
 10. Inner-hatch interlock: no train, no drain, no open. A failed count does not average into a pass. Outer hatch abort works at mid-cycle and after a held count.
 11. Wall film restores after a cycle. Structure behind it is unmarked. An unplanned seep fails the card.
+12. Boot wells: a test sole enters, the mouth seals, the pulse stays in the well, power loss lets the foot out. Hand wipe is not a passed cycle.
 
 **What this file cannot finish**
 
@@ -441,7 +479,7 @@ M0 does not fly. It replaces the orientation numbers and publishes the fraction.
 
 ## Relation to existing work
 
-- [Mag-Path](MAG_PATH.md) — this lock keeps the seat inside $0.2\,\mathrm{mm}$. It does not share a driver. It idles Mag-Path in the lock for the cycle. It fails open, as Mag-Path does. Mag-Path names this lock back. A path draw is not a lock pulse. The sniff is the path’s surface-circuit idea used on the lock’s own floor and drains. It is not the path circuit. Chirps stay off the path window.
+- [Mag-Path](MAG_PATH.md) — this lock keeps the seat inside $0.2\,\mathrm{mm}$. It does not share a driver. It idles Mag-Path in the lock for the cycle. It fails open, as Mag-Path does. Mag-Path names this lock back. A path draw is not a lock pulse. The sniff is the path’s surface-circuit idea used on the lock’s own floor and drains. It is not the path circuit. Chirps stay off the path window. Shell panels cut the dust load. They do not replace the well. Panel film is not the wall film.
 - [Enterprise](ENTERPRISE.md) and [Space Dock](SPACE_DOCK.md) — EVA locks only.
 - [IRIS / MIDS](IRIS_MIDS.md) — no shared driver. A port may fail latched. This lock does not.
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — $1.0\,\mathrm{m}$ keep-out. Coil heat is not an RLC feed.
@@ -462,6 +500,11 @@ M0 does not fly. It replaces the orientation numbers and publishes the fraction.
 - An abort path that is not the outer hatch
 - A full-chamber flood
 - An unplanned seep from the wall, or a film fed onto suits
+- A hand wipe as the sole-cleaning cycle
+- A boot well that holds a foot after power loss
+- A hot-swap sole as the way a shell stays clean
+- Sweep on breathable air, or an open swirl
+- Sweep on breathable air, or an open swirl
 - Sweep on breathable air, or an open swirl
 - A single drain
 - Drain path into the cabin
