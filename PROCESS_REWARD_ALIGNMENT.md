@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.1 — October 15th, 2026*<br>
-*v1.2 - v1.4 — October 16th, 2026*<br>
+*v1.2 - v1.5 — October 16th, 2026*<br>
 
 ---
 
@@ -80,6 +80,28 @@ Procedural-point records follow the attestation classes of *[Tides of Time](TIDE
 - The ordering of classes is fixed. Numerical or procedural thresholds for “high-consequence” remain illustrative and subject to stewardship refinement, consistent with *[Tides of Time](TIDES_OF_TIME.md)*.
 
 This reuses the existing stratified, optional, non-gating pattern. External corroboration is demand-driven by consequence, not a universal prerequisite for every step.
+
+---
+
+## Prediction, Intervention, and Flow Efficiency
+
+Pattern recognition of likely next states is not the same as understanding the consequences of an action the system itself takes.
+
+Three layers are kept distinct:
+
+- **Prediction** — a distribution over likely next states or endpoints given history. It is cheap and non-committing. It does not authorize preparation and collects no preparation credit.
+- **Intervention** — an action the system itself takes that changes the subsequent distribution. It is a procedural point. It is recorded and attested under the classes in Attestation of Procedural Points. High-consequence interventions require multi-party or independent corroboration for full weight. Optional third-node confirmation under the *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* may elevate class. Absence of corroboration limits credit; it does not block continuation.
+- **Preparation** — allocation of capacity, opening of side effects, or writing of hard-to-unwind state for a possible endpoint. It is gated on selection or explicit affirmation. Unselected preparation is waste.
+
+Declared procedural points remain the primary objects of integrity credit. Full weight also requires a non-wasteful flow:
+
+- Between points, speculative preparation of unselected endpoints stays reversible and low-cost until affirmed. See the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** (proposal surfaces) and the **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** (load-shedding).
+- Inside a point, the work that satisfies the declared parameter is the cheaper local path. A compliant detour does not collect full efficiency weight.
+- Across the sequence, resource trajectory is visible. A path that meets every point while materially exceeding the spend of a cleaner attested path collects reduced efficiency weight.
+
+Generative Reservations and Circulation Recovery holding states may still declare coarser point density. They do not license untracked speculative spend. Decision altitude is preserved: humans accept, modify, or abort; they do not micro-attest every interval. Expandable summaries continue to meet the parameters already stated.
+
+This closes the gap between recognizing what comes next and accounting for what happens when the system acts. Prediction stays cheap. Intervention is an attested object. Preparation waits on selection. Efficiency is priced through the flow, not only at the checkpoints.
 
 ---
 
