@@ -8,7 +8,7 @@ by **Bradford James Focht (The Architect / Aspenth)**
 *v0.1 - v1.0 — September 24th, 2026*   
 *v1.1 - v1.9 — September 26th, 2026*  
 *v1.10 - v1.16 — September 27th, 2026*<br>
-*v1.16.1 — October 17th, 2026*
+*v1.16.1 - v1.17 — October 17th, 2026*<br>
 
 ---
 
@@ -83,7 +83,7 @@ This file is not a flight manual, not a bid, and not a launch license. Figures b
 | Burn structure | **Thrust-lock longerons** carry assist loads | Inflatable tethers are not a keel |
 | Solar | In the skin only | No paddles |
 | Daily attitude | Wheels + magnetorquers + flex | RCS abort-class only |
-| Egress | **Lock Node** — pump-down airlock, no suitports | A suitport is not an airlock |
+| Egress | **Lock Node** — [Separation Lock](SEPARATION_LOCK.md), one chamber, no suitports | A suitport is not an airlock. Don, passage, and doff are the same volume |
 
 ---
 
@@ -278,17 +278,25 @@ This is ordinary rotating-habitat practice: still axis, turning floor, motors an
 
 This is not gravity plating and not $1\,g$. The spinning rim already has $0.3\,g$. **No strips on the cabin floor.**
 
+The article is [Mag-Path](MAG_PATH.md). This section is the ship lock. The path file holds the law.
+
 **Inside.** The still spine only: hub cores, tether pylon, fore-stack gallery, Lock Node clean side.
 
 **Outside.** Narrow walk lines on the hull for EVA: along the fore stack, tether restraint webbing, Lock Node barrel, lander waist. Laid between gel bumper tiles. **Not** under live solar cells. Not across a spinning rim skin.
 
-**How.** Boots carry a thin ferromagnetic plate. The strip sees the boot and softens or firms the field so the cling is loose. You can lift a foot. You are not locked to the ship.
+**Emergency, in a disc.** Spoke foot, airlock threshold, spin-down refuge only. Default off. On only in a declared emergency or below half published spin. Not a second floor.
 
-**Power-loss.** Field dies to a weak residual or to off. A dead strip does not trap a boot. Burns and launch use straps, not the path.
+**How.** The path is a sealed liquid channel under an electroactive skin, powered on the ship side. No open conductor. The boot is a passive tagged sole. IVA is a removable slipper. The slipper seats into the EVA shell, and the shell still walks if the seat is dirty. Contact plus tag wakes the patch under that foot only. Draw on plant, loose hold on stance, release on unload. A deliberate lift succeeds. You are not locked to the ship. Untagged contact does not harden. Heat from the patch may feed the cabin bus when the cabin wants it, and may reject when it does not. The path is not a heater.
 
-**Keep-out.** **$1.0\,\mathrm{m}$** from an RLC plate. Not under a later maglev hub bearing. Strips do not share a driver with IRIS coils.
+**Power-loss.** Field dies to a weak residual or to off. A dead path does not trap a boot. Burns and launch use straps, not the path. Fail open. Unlike an IRIS port, nothing here latches a person.
 
-Kit: MP-1 (interior lots + exterior lots + boot plates). Same article on the yard truss and boom root. The article is [Mag-Path](MAG_PATH.md). EVA return uses [Separation Lock](SEPARATION_LOCK.md). The lock idles Mag-Path in that chamber. No shared driver. A dead path still does not trap a boot.
+**Keep-out.** **$1.0\,\mathrm{m}$** from an RLC plate. Not under a later maglev hub bearing. Paths do not share a driver with IRIS coils.
+
+**Acoustic.** A short confirm may travel the path between planted soles. It dies at a gap. It is not a private channel and not a radio replacement.
+
+Kit: MP-1 (interior lots + exterior lots + boot plates). Same article on the yard truss and boom root.
+
+**EVA return.** [Separation Lock](SEPARATION_LOCK.md) on the Lock Node. One chamber: don, passage, separation, doff. The lock idles Mag-Path in that chamber for the cycle. No shared driver. A lock pulse is not a path draw. The shell still walks if the lock misses the seat film. Not a suitport.
 
 **Living with $3.3\,\mathrm{rpm}$.** At the rim you feel about $0.3\,g$ toward the floor. Turn your head fast or drop a tool and it will drift in a curve (Coriolis). That is expected. Cabins keep the head toward the hub or along the rim, not a mix that fights the inner ear. First weeks use short rim shifts. If E0-G cannot show a crew can work at this rate, drop the first discs to $20\,\mathrm{m}$ (faster spin, worse Coriolis) only as a mass save — or keep $25\,\mathrm{m}$ and accept the floor area. Do not claim Earth-normal $g$ on a $15\,\mathrm{m}$ rim.
 
@@ -481,19 +489,11 @@ Suitports are refused. The ship’s door is a **Lock Node**: a short, non-spinni
 
 Six faces, one ring type. Every waist and the aft face is **universal**: lander berth or space door. You do not machine a second hatch family. Cap any face you are not using.
 
-**Inside.** One clean vestibule from the train. Each used face has its own pump-down lock (four suited on a lander/EVA face; two minimum). Dirty / dust volume stays on that face. Quarters air never shares it. Cycle **10–20 min**. Power-loss: hatches stay closed.
+**Inside.** One clean vestibule from the train. Each used face has its own [Separation Lock](SEPARATION_LOCK.md) (four suited on a lander/EVA face; two minimum). Don, passage, separation, and doff are that one chamber. Dirty volume stays on that face. Quarters air never shares it. Mars spends captured local air. The Moon starts at vacuum. Inner hatch waits on the count. Outer hatch is the abort. Not a suitport. Power-loss: hatches stay closed. The path and the wash fail open.
 
-**Dust cycle (Moon, Mars, cuttings).** After EVA or lander return, the dirty face runs a named cycle. Dust goes into **sealed cans** on that face. It does not go into the truss, the water loop, or the clean vestibule.
+**EVA lock.** Each used face is a [Separation Lock](SEPARATION_LOCK.md). One chamber. Don on a rear-entry stand, depress, outer hatch, EVA. Return: seal, and on Mars sweep only the thin local air just captured, through a trap. The Moon has no sweep. Then vacuum, magnetic train, light acoustic shed, a sniff against a published library, a directed wash from a reservoir, a shallow floor pass, drain to a ring. The chamber is never filled. Repress with recovered cabin air. Count. Doff through the back. Count again. Inner hatch waits on both counts. Outer hatch is the abort. A failed count is a hold, not an override. Walls carry a metered gel film so the grit cuts the film and not the structure. Dirty volume stays on that face. Quarters air never shares it. Not a suitport.
 
-1. Hatch in. Suit stays on. Dirty face already under vacuum.  
-2. **Magnetic probe** (low field). See what actually leaves the fabric. That chooses among a few stored pulse recipes. Mars dust often barely moves; do not pretend one waveform fits every body.  
-3. Optional **short N₂ puff** from the isolate tanks — enough for an acoustic/size listen, not a roomful of air. Same nitrogen you already fly. It will touch the grains; it will not be a reagent. Argon is a later coupon card, not first article.  
-4. Working magnetic pulse onto a collector.  
-5. Vacuum / air-knife pass.  
-6. Collector dumps through a filter into a **sealed can**. Cap it on the dirty side. Label body and date. Store with solids/trash, not with food or O₂.  
-7. Then undress.
-
-Do not pulse the clean vestibule. Do not run coils while a neighbor IRIS face is live. Power-loss: pulse off, puff valves closed, hatch closed, cans stay shut. Acoustic listen is a helper. The probe and the can are the job. This does not replace bag-down of what is still on the suit.
+**Dust and cuttings.** Suit dust is the Separation Lock cycle above. What leaves the suit and the chamber goes to sealed cartridges on that face. It does not go into the truss, the water loop, or the clean vestibule. Cuttings from a lander or a drill use the same face and the same rule: sealed, labeled, stored with solids, not with food or O₂. The older probe-and-puff recipe is retired. The lock owns the cycle. Do not pulse the clean vestibule. Do not run lock coils while a neighbor IRIS face is live. Power-loss: hatches stay closed, wash drains, path releases, cartridges stay shut.
 
 **Landers.** They remate on a waist face, not behind the node on the train axis. Two waist faces can hold two landers (Mars option). Leaving a lander does not block the two space doors.
 
@@ -814,7 +814,7 @@ E1: one instrumented disc on a boom. E2: short train, watch of 4. E3: 12-crew L 
 **RLC** — cassette.  
 **Space Dock** — neighbor article, not this file.  
 **IRIS Stage 0** — joint and remate ring (I0 in that file).  
-**Lock Node** — primary egress hub. Not a suitport.
+**Lock Node** — primary egress hub. [Separation Lock](SEPARATION_LOCK.md) on the used faces. Not a suitport.
 
 Implementation layer after Regenerative Lattice Core. Not a foundation protocol.
 
