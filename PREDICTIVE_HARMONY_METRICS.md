@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 26th, 2026*  
 *v1.1 — July 31st, 2026*  
 *v1.2 — August 2nd, 2026*<br>
-*v1.3 — August 14th, 2026*
+*v1.3 — August 14th, 2026*<br>
+*v1.4 - v1.5 — October 16th, 2026*<br>
 
 ---
 
@@ -41,6 +42,7 @@ This document is continuous with, and operates within the parameters of, several
 - *[Exterior Systems and Generative Diversity](EXTERIOR_SYSTEMS_AND_GENERATIVE_DIVERSITY.md)* — by ensuring that harmony metrics cannot be used to create progressive dependency or to erode effective exterior viability.
 - **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** — harmony metrics used during transition remain subject to the pragmatic alignment stance: grounded in verifiable, attested, and challengeable processes rather than in affective trust.
 - *[Tides of Time](TIDES_OF_TIME.md)* — any harmony or somatic records remain subject to provenance preservation and open challenge rights.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Optional, local, purpose-scoped harmony or somatic notes may be attached to procedural points. They remain default-off, non-gating, and non-credit. They supply no mandatory verification and no governance signal. Attestation of any such note, when recorded, follows the classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local use remains reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 - **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** — Preference instrumentation and harmony data collection remain subject to concurrent-load and purpose-scoping discipline; they may not harden into high-concurrency formal burdens.
 
 Predictive Harmony Metrics does not replace these elements. It operationalizes Principle 8 within their parameters.
@@ -105,7 +107,7 @@ The dual condition that a person is engaged in activity that:
 - Objectively draws on and develops their abilities, and
 - Subjectively feels suitable and identity-congruent to them.
 
-Role sovereignty remains binding; metrics may inform and support but never assign or enforce roles against will.
+Role sovereignty remains in force; metrics may inform and support but never assign or enforce roles against will.
 
 #### 5. Productive Efficacy, Felt Success, and Contribution
 The experience that one’s efforts produce meaningful, recognizable results, that progress is occurring on dimensions the individual values, and that one’s activity contributes to something beyond pure self-containment. This is distinct from external productivity maximization.
@@ -121,7 +123,7 @@ Together these six layers generate a personal harmony profile that is a range or
 
 ### Somatic and Harmony Data Parameters
 
-All somatic and high-sensitivity well-being data collection is subject to the following binding parameters. These supplement, and do not weaken, the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
+All somatic and high-sensitivity well-being data collection is subject to the following system parameters. These supplement, and do not weaken, the *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and the **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**.
 
 #### Default-off and purpose-bound
 - Collection is **default-off**. No ambient, continuous, or inferred collection without an explicit, active grant.
@@ -165,7 +167,7 @@ Harmony or somatic indicators **must not** gate:
 - Orbit membership, allocation priority, or incentive rank
 - Exit cost, consent friction, or role assignment
 
-Using “low harmony” as soft punishment, ranking pressure, or eligibility filter is a non-punitive, role-sovereignty, and Agency Interface failure.
+Using “low harmony” as soft punishment, ranking pressure, or eligibility filter is a non-punitive, role-sovereignty, and Agency Interface failure. The same prohibition applies when a harmony or somatic note is optionally attached to a procedural point under *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*: the note cannot gate credit, standing, or exit.
 
 #### Capability-scaled obligations
 Under the **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)**, systems that can model somatic or affective state at scale face **stricter** transparency, audit, interruption, and minimization duties — not looser ones “because accuracy improved.”
@@ -205,7 +207,7 @@ Universal physiological, psychological, and social parameters create comparable 
 
 **Productive dissonance** is explicitly recognized. Creative exploration, skill acquisition, assumption-breaking, social risk-taking, and genuine novelty frequently produce temporary drops in felt harmony or somatic resonance. Such short-term dissonance is not automatically pathologized or optimized away; it is evaluated in context of longer trajectories and voluntary engagement. Only patterns that produce sustained well-being costs without compensatory growth, meaning, or contribution are candidates for voluntary, supported productive rerouting.
 
-Fringe cases and strong idiosyncratic deviations are handled through modular coexistence and controlled chaos. Where a pattern of activity produces persistent low somatic resonance or well-being costs for the individual, the preferred response is voluntary, supported rerouting toward alternative activities, environments, or social configurations that can still generate positive somatic, social, and efficacy feedback — never forced convergence or punishment of difference. Exit rights and non-punitiveness remain fully binding even when harmony signals are low.
+Fringe cases and strong idiosyncratic deviations are handled through modular coexistence and controlled chaos. Where a pattern of activity produces persistent low somatic resonance or well-being costs for the individual, the preferred response is voluntary, supported rerouting toward alternative activities, environments, or social configurations that can still generate positive somatic, social, and efficacy feedback — never forced convergence or punishment of difference. Exit rights and non-punitiveness remain fully in force even when harmony signals are low.
 
 ---
 
