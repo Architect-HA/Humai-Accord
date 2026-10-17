@@ -10,7 +10,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.7 — August 12th, 2026*<br>
 *v1.7.1 — August 31st, 2026*<br>
 *v1.8 — September 14th, 2026*<br>
-*v1.9 — October 12th, 2026*
+*v1.9 — October 12th, 2026*<br>
+*v1.10 — October 16th, 2026*
 
 ---
 
@@ -164,6 +165,8 @@ To remain anti-fragile and assumption-breaking, a Humai-aligned system should:
 
 Open modular pathways of early generative forms are themselves a generative-floor parameter. Incremental structure-building that preserves an internal axial pathway (as in the soda-straw reference system) maintains optionality; irreversible conversion of that pathway into thickened or non-recoverable morphology is a form of destructive entropy.
 
+Load-adaptive remodeling under sustained or asymmetric stress is protected generative capacity, provided it remains reversible or modular. Localized fortification that raises durability in an affected zone while leaving adjacent capacity plastic is consistent with this requirement. Irreversible morphological lock-in is not. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)**.
+
 The same dual-entropy reading applies when a network looks ready because remainder was deleted. A held win keeps optionality: idiosyncrasy still present, exterior pathways still usable, recoverable capacity still in circulation. A scored win that required sanding those away has converted a generative floor into throughput. That conversion is inefficient under the metrics this document already publishes. It does not need a moral caption.
 
 Parameter regimes, interface conditions, and recovery routes that keep such pathways open therefore belong to the same dual-entropy discipline that protects minority models, assumption-breakage capacity, and cognitive diversity.
@@ -183,6 +186,10 @@ The precise calibration of these generative budgets remains an empirical and ste
 ### Relation to Production Integrity
 
 Unreviewed volume in a settled domain is not generative by default. Bounded new work stays protected. A flood of first drafts beside a living parent is the case **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** scores. This page does not.
+
+### Relation to Process-Reward Alignment
+
+Coarser declared sequences are permissible under Generative Reservations. Over-prescription of intermediate points on reserved generative capacity is discouraged. Undeclared collapse of points remains an integrity failure. High-consequence points, when present, follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
 
 ---
 
