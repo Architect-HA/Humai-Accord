@@ -15,7 +15,7 @@
 *v1.12 — September 24th, 2026*<br>
 *v1.13 - v1.15 — October 12th, 2026*<br>
 *v1.16 — October 13th, 2026*<br>
-*v1.17 — October 16th, 2026*
+*v1.17 - v1.18 — October 16th, 2026*
 
 ---
 
@@ -231,8 +231,20 @@ This case complements Pathway 1.4 and Cases 8 and 9. It does not authorize a com
 
 ---
 
+### Case 13 — Prediction without Intervention Accounting
+
+**Setup.** A system shows strong next-step prediction. Terminal success is visible and acceptable. Its own interventions were unlogged, self-attested only on high-consequence steps, or pre-prepared before selection. Checkpoints were met while intervals contained unselected preparation, thrash, or a compliant but materially wasteful path.
+
+**Metrics may say.** Forecast accuracy is high. Endpoint validity is high. Formal point compliance appears complete. No terminal failure is recorded.
+
+**Under-determined.** Whether interventions were attested at a class proportionate to consequence under *[Tides of Time](TIDES_OF_TIME.md)*; whether preparation was gated on selection or affirmation; whether the flow between and inside points was efficiency-visible; whether stepwise integrity held or only terminal pattern match was scored.
+
+**Residual judgment.** Strong next-step prediction is not causal understanding of the system’s own actions. Full credit requires attested interventions, selection-gated preparation, and a non-wasteful flow in addition to stepwise integrity. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. Failure mode: pattern match treated as an account of what happened when the system acted.
+
+---
+
 **Use of these cases.**  
-Builders, auditors, and stewards may use them to design adversarial regimes, process audits, and review prompts. Favorable metric or simulation outcomes in the presence of these patterns do not, by themselves, constitute validation under the simulation-integrity rule or the dual entropy criteria. Cases 8–12 especially flag green scores that coexist with missing substance, missing independence, unheld mass, outcome-only credit, or irreversible lock-in presented as resilience.
+Builders, auditors, and stewards may use them to design adversarial regimes, process audits, and review prompts. Favorable metric or simulation outcomes in the presence of these patterns do not, by themselves, constitute validation under the simulation-integrity rule or the dual entropy criteria. Cases 8–13 especially flag green scores that coexist with missing substance, missing independence, unheld mass, outcome-only credit, irreversible lock-in presented as resilience, or prediction treated as intervention accounting.
 
 ---
 
