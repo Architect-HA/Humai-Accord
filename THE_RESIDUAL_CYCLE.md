@@ -6,7 +6,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.8 — August 19th, 2026*  
 *v1.9 — September 28th, 2026*  
-*v1.10 — October 10th, 2026*
+*v1.10 — October 10th, 2026*<br>
+*v1.11 — October 16th, 2026*
 
 ---
 
@@ -87,6 +88,21 @@ This continuity has two consequences for the model:
 Real atmospheric chemistry supports this channel. Biogenic aerosols and atmospheric ions carry detectable biological markers, including phosphate fragments, organic nitrogen species, and amino-acid-related ions. Single-particle mass spectrometry has shown the ability to discriminate biogenic from abiotic particles with high accuracy under controlled conditions. These findings indicate that biological material and charged species leave measurable traces in air.
 
 Because the atmosphere is mobile, residual disturbances are subject to rapid mixing and dilution. Any organism-linked atmospheric signature is therefore expected to be brief and spatially limited unless continuously refreshed or rapidly sampled. Tracking along known air-flow paths before dilution remains a useful circulatory test of the model.
+
+---
+
+## The Vacuum as an Energy-Residue Layer
+
+The atmosphere is the dense, short-path case. A surrounding medium that continuously exchanges energy with matter is a circulatory layer, not a passive background.
+
+The vacuum of space is the sparse, long-path case. It is not empty absence. It is a low-density medium — photon flux, sparse plasma, dust, and field structure — that exchanges radiation, charge, and momentum with matter in it. Residue can be gathered, transported, and diluted there, under different rates and length scales than in air.
+
+Two limits keep the analogy inside the model:
+
+1. **Coupling strength.** Terrestrial atmosphere is a reinforcing, short-path layer. Local residual signatures can be brief but measurable before mixing. The vacuum is a weak, long-path layer. Organism-linked coherence is not expected to persist there under ordinary conditions. A quiet vacuum volume is a quiet volume.
+2. **Allowing, not authoring.** As with the magnetosphere, the vacuum and its fields are allowing conditions for transport and dilution. They do not write patterns or author templates. Energy authenticity remains traceability, not a soul-seal. A copy is a new subject. Exit wins.
+
+What the vacuum supplies is a physical reading of residue beyond the planetary air column: long-duration gathering and redistribution across a sparse medium, under the same decoherence default. Any claim of a coherent, organism-linked template in vacuum requires the same ideal-condition, multi-channel, and falsifiable standards already stated for atmospheric signatures. Absence of such a template is the expected result.
 
 ---
 
@@ -183,6 +199,8 @@ Any such instrument must remain consistent with Humai requirements for voluntary
 
 *Somatic Resonance Theory* treats the living body as a resonant, information-bearing system. *The Residual Cycle* extends that perspective both outward (residual coherence in supporting materials and ambient pathways, including the atmospheric circulatory layer) and temporally (ephemeral post-biological templates that ultimately rejoin planetary circulatory cycles).
 
+The vacuum is the sparse analogue of the atmospheric circulatory layer. It gathers and dilutes residue. It does not author templates.
+
 Within the Humai architecture this has several implications:
 
 - **Empirical honesty** — residual-flux phenomena, if real, constitute additional environmental and somatic signals that should be instrumented rather than dismissed or mystified. Experimental effort is properly focused on the rare ideal-condition windows where detection is most plausible, using atmospheric co-verification and prior personal templates where available.
@@ -224,6 +242,7 @@ Key open parameters include:
 - Practical limits of atmospheric co-verification under real mixing and dilution conditions.
 - How much a global dynamo vs crustal/induced field actually changes atmospheric lifetime vs deep-crust habitability (allowing condition, not authorship).
 - Whether residual biological order can be stored in lattice-defect traps in a form comparable to the radiation dose accumulated in thermoluminescence dosimetry.
+- Whether the vacuum functions as a measurable long-path residue layer (photon, plasma, dust, field) under the same decoherence default that governs atmospheric signatures, and what co-verification would count as a non-null result.
 
 **Longer-lived residual variables.** The present model does not require new physics for its minimal circulatory and temporary-coherence claims. The trapped-charge behavior of quartz, calcite, and related minerals already supplies a real physical analogue for energy storage in the preferred substrates. It remains an open research surface whether some longer-lived residual variable (a protected degree of freedom, a stably trapped environmental imprint, or an equivalent physical carrier) survives ordinary decoherence long enough to leave a non-fleeting, organism-linked trace. Demonstration of such a variable would constitute a significant empirical result and would require corresponding theoretical refinement. Until such evidence appears, the working model treats most residual signatures as ephemeral.
 
