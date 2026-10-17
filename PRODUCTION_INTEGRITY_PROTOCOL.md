@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.3 — October 12th, 2026*<br>
+*v1.4 — October 16th, 2026*
 
 ---
 
@@ -31,6 +32,7 @@ Not all new units are circulation.
 - Generative new work remains protected. Bounded variation is not what this page withholds credit from. Unreviewed volume in a settled domain is.  
 - A Knowledge Quiet State is rest. It is not permission to skip the edit and emit beside it.  
 - Formal novelty is necessary but never sufficient. A unit that does not name its parent, or names one it did not read, is not a revision and is not a refusal.
+- The three routes are declared sequences under *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*. Full credit requires stepwise integrity on the claimed route, not merely the existence of a terminal artifact. High-consequence points follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
 
 These are system parameters under the [Humai Accord](README.md). The efficient route runs inside them. Skipping the route is legal. It is not the path that collects full credit.
 
@@ -136,6 +138,7 @@ Self-attestation is enough to file. It is not enough for full weight where **[Ut
 ## Relation to existing work
 
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — owns genuine versus artificial use. This page owns new-unit credit beside a living parent. A unit can pass one and fail the other.  
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — The three routes are declared sequences. Full credit attaches to stepwise integrity on the claimed route, not merely the existence of a terminal artifact. High-consequence points follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.  
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — quiet and holding are one of the three conditions. They are not a skip.  
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — bounded new work stays protected. Unreviewed volume is not generative by default.  
 - *[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Tides of Time](TIDES_OF_TIME.md)* — relevancy decay does not by itself justify a new unit beside an unrevised parent.  
