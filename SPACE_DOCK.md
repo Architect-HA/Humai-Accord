@@ -9,7 +9,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 - v1.4 — September 25th, 2026*    
 *v1.5 - v1.13 — September 26th, 2026*  
 *v1.14 - v1.19 — September 27th, 2026*<br>
-*v1.20 — October 17th, 2026*    
+*v1.20 — October 17th, 2026*<br>
+*v1.20.1 — October 18th, 2026*
 
 ---
 
@@ -693,6 +694,7 @@ Then an Enterprise reconnect test.
 - [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) — crystal work stays in the cassette workshop, not on a berth.  
 - Transit Hotel Bus (section inside Enterprise) — reconnect order and how to count power units versus spare cells.  
 - [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), [Quake Columns](QUAKE_COLUMNS.md) — not used as hardware here. Same working rule: name leftover load, shut down to a safe state, finish the campaign before you build.
+- [Secondary Wake](SECONDARY_WAKE.md) — yard vents may use it. Same article as a ship trail. Not a dock system. The source must run without the skirt.
 
 ---
 
