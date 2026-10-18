@@ -6,7 +6,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 6th, 2026 (unpublished)*  
 *v1.1 - v1.3 — August 31st, 2026*<br>
 *v1.4 — October 16th, 2026*<br>
-*v1.4.1 — October 18th, 2026*
+*v1.4.1 - v1.5 — October 18th, 2026*<br>
 
 ---
 
@@ -396,7 +396,7 @@ Substitution does not waive a structural stamp, a marine warranty survey, or the
 
 ## Campaign A0 — Wind-Tunnel / LES Matrix
 
-Purpose: replace borrowed shelterbelt curves with a $C_D(\phi,\alpha)$ map and a lee-speed field for *this* tip-and-mast geometry before anyone pours UHPC.
+Purpose: replace borrowed shelterbelt curves with a $C_D(\phi,\alpha)$ map and a lee-speed field for *this* tip-and-mast geometry before anyone pours UHPC. Under [Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md), a skipped case in this matrix zeros the card for the claim that case was meant to support. A poured mast does not wash a missing tunnel.
 
 **Model.** Rigid tip + mast, scale 1:80 to 1:150. Blockage at or under 5% preferred; apply a published blockage correction if higher. Surface roughness scaled or tripped.
 
@@ -458,7 +458,7 @@ Add $\pm 15^{\circ}$ and $\pm 25^{\circ}$ only if the $C_D$ curve is non-monoton
 
 ## Campaign B0 — Flume Matrix
 
-Purpose: replace borrowed $K_t$ bands with measured transmission, reflection, and dissipation for one pylon and a three-unit line.
+Purpose: replace borrowed $K_t$ bands with measured transmission, reflection, and dissipation for one pylon and a three-unit line. Under [Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md), a skipped case zeros the card for the claim that case was meant to support. A set pylon does not wash a missing flume.
 
 **Model scale.** 1:30 to 1:50 in a 2-D flume for the single unit; 3-D basin for the three-unit line if available.
 
@@ -667,6 +667,8 @@ ATMA, MAMG, wildfire/ember, and Arctic ice-collar are horizon names on the scala
 [Hydrofilaments](HYDROFILAMENTS.md) may log a stilling basin or a B0 flume lane at the article foot. It does not add $K_t$ and it is not a jet curtain. Article T inherits this file’s bubble-curtain limit: a density modifier, not a surge-killer.
 
 [Secondary Wake](SECONDARY_WAKE.md) uses this file’s porosity against a coherent trail. An array, not a wall. Not a stealth kit and not a tower.
+
+[Stormcrashers — Mars](STORMCRASHERS_MARS.md) is the thin-sky sibling. Same porosity and the same counted array. A different fluid, a different gravity, and abrasion as the life instead of force. Earth Article B does not transfer until that world has standing water and a rain cycle. This file does not specify the Martian articles.
 
 Under sustained wind or wave load, a tower or pylon limb may locally remodel or deposit fortifying structure while remaining reversible or modular. Irreversible morphological lock-in is not an article of this file. A retired or low-activity unit may enter a heartwood-analogue holding state under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**; it is not scored as simple under-utilization. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
