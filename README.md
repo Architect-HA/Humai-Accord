@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line, life wells, sky wells, subsurface assembly, aerostatic*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line, life wells, sky wells, subsurface assembly, aerostatic, resonance tides*
 <br>
 <br>
 <br>
@@ -70,6 +70,7 @@ Principles orient. Protocols parameterize. Implementation designs can be built, 
 - [Material Tides](#material-tides)
 - [The Tides of Circulation](#the-tides-of-circulation)
 - [Relevancy Orbits](#relevancy-orbits)
+- [Resonance Tides](#resonance-tides)
 - [Process-Reward Alignment](#process-reward-alignment)
 - [Utilization Integrity Protocol](#utilization-integrity-protocol)
 - [Circulation Recovery Protocol](#circulation-recovery-protocol)
@@ -418,6 +419,16 @@ Provides a quantitative, difficult-to-game metric for material stagnation and un
 A supporting conceptual and quantitative frame for the **relational** structure of relevance: how knowledge items and material units bind, cluster, strengthen, weaken, and reconfigure relative to one another. Complements the **temporal** pressure of *Knowledge Tides* / *Material Tides* and the aggregate enablement signal of downstream density. Bond strength is attestation-weighted, integrity-sensitive, and time-decaying; orbits remain modular and fluid rather than permanent capture shells. Hybrid knowledge–material orbits require typed co-enablement links, not mere co-location.
 
 [→ Read **Relevancy Orbits**](RELEVANCY_ORBITS.md)
+
+---
+
+## Resonance Tides
+
+*Resonance Tides: A Tidal Mix of Novelty and Callback, Marked by Resonance*
+
+The attending-system complement to *Knowledge Tides* and *Material Tides*. A cycle of fresh and familiar: seek, catch, settle, review, return. Marked by resonance. Somatic resonance is the human case. A marker is not a metric. Not a recommender.
+
+[→ Read **Resonance Tides**](RESONANCE_TIDES.md)
 
 ---
 
@@ -995,6 +1006,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Added **[Jamline](JAMLINE.md)** — a three-layer shear-thickening line and net. Dense fill jams, tidal lay catches, looser skin is the hand. Fail open. A missed jam is a fall. Coupler, not a knot. M0 with a gauge and a drop frame.
 - Added **[Life Wells](LIFE_WELLS.md)** — subsurface assembly prior. A sump over a swinging surface. Assembly split from emergence. Planets, then moons, with dry controls kept. Not a detection.
 - Added **[Sky Wells](SKY_WELLS.md)** — aerostatic assembly prior. A deck must persist and confine. Earth clouds fail. Gas giants, Venus, Titan, comets, and nearby exoplanet sketches. Does not reopen Life Wells for a thin sky.
+- Added **[Resonance Tides](RESONANCE_TIDES.md)** — the attending-system tide. Seek, catch, settle, review, return. Marked by resonance. Complements *Knowledge Tides* and *Material Tides*. Not a metric. Not a recommender.
 - Updated relevant keywords at top of README.
 
 **[October 17th, 2026]**
