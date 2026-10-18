@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)    
 *v1.0 – v1.3 — August 31st, 2026*<br>
-*v1.3.1 — October 18th, 2026*
+*v1.3.1 - v1.3.2 — October 18th, 2026*
 
 ---
 
@@ -546,6 +546,8 @@ That is a setback box, not a tower and not a basin dam. If K0-R returns tens of 
 **Scale-out** is counting independent K0 remainders along a river, not stacking Survival on one throat.
 
 [Stormcrashers](STORMCRASHERS.md) remains the air / nearshore-wave sibling. ATMA, MAMG, wildfire/ember, and Arctic ice-collar stay on the Stormcrashers horizon list.
+
+[Stormcrashers — Mars](STORMCRASHERS_MARS.md) is the thin-sky sibling of that file. Same remainder rule. One buried panel is a remainder, not a lost line. Different sky.
 
 [Quake Columns](QUAKE_COLUMNS.md) is the ground sibling: leftover surface-wave motion stays on a named path; the crust is not the overflow tank.
 
