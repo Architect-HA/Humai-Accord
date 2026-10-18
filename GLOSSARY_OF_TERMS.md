@@ -15,7 +15,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.18 — October 18th, 2026*
+*v1.17 - v1.19 — October 18th, 2026*
 
 ---
 
@@ -363,6 +363,9 @@ A heat-flow schedule for an extinguished core. Mars is the study object. The lev
 **Heat-Spine**  
 A staged deep-crustal drilling column. Leaves a counted conductive spine of tensegrity segments. The close seats the segment. Not a road. Not a dynamo. See **[Heat-Spine](HEAT_SPINE.md)**.
 
+**Life Wells**  
+A prior for assembly in a buffered subsurface sump while a surface is still open to the star. Assembly and emergence are split. Not a detection. See [Life Wells](LIFE_WELLS.md).
+
 **Mantle valve**  
 The rate at which the lower mantle takes heat from the core-mantle boundary. The lever on the reignition page. Not a coil, not a pierce past the crust, and not a field. See **[Dynamo Reignition](DYNAMO_REIGNITION.md)**.
 
@@ -374,6 +377,9 @@ The Core Cassette with Module A omitted and a stellar-feed coupler in the source
 
 **Seated spine**  
 The Heat-Spine article. A segment set under a pressure balance and clamped when that balance is drawn down. A close with no segment is a plug. See **[Heat-Spine](HEAT_SPINE.md)**.
+
+**Sky Wells**  
+A prior for aerostatic assembly in a pressure-equilibrium deck. Persistence, confinement, a gradient, and carbon are required. Earth’s clouds fail. Not a detection. See [Sky Wells](SKY_WELLS.md).
 
 **Surface residual**  
 The one scored quantity on the astral page: the field change in a named volume, against the null window, on two instruments. Not a core torque and not a reversal. See [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md).
