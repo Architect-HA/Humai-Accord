@@ -15,7 +15,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.18 — October 18th, 2026*
+*v1.17 - v1.19 — October 18th, 2026*
 
 ---
 
@@ -116,6 +116,7 @@ Read these according to specific interest:
 | Heat-flow valve (Mars) | [Dynamo Reignition](DYNAMO_REIGNITION.md) |
 | Seated spine (Mars) | [Heat-Spine](HEAT_SPINE.md) |
 | Air, water, biosphere (Mars) | [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) |
+| Where life is more likely to assemble | [Life Wells](LIFE_WELLS.md), [Sky Wells](SKY_WELLS.md) |
 | Zero-g walk lines and EVA dust lock | [Mag-Path](MAG_PATH.md), [Separation Lock](SEPARATION_LOCK.md) |
 | Trail collapse (any coherent exhaust) | [Secondary Wake](SECONDARY_WAKE.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
@@ -138,6 +139,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists. The vacuum-as-residue-layer section does not change that deferral.
 - Magnetic Acoustic Tuning campaign packets (A0 / E0) until an archive reduction or a site watch exists. The articles may be sampled.
 - Atmospheric Restoration R3 detail until an R0 card and a life survey exist for a basin. The article may be sampled.
+- Life Wells and Sky Wells as detections. They are priors. The articles may be sampled.
 - Heat-Spine P3 detail until a P0 segment has been seated. The article may be sampled.
 - Mag-Path M0 and Separation Lock M0 until a bench exists. The articles may be sampled.
 - Secondary Wake M0 until a fired or vented source exists. The article and the orientation runner may be sampled.
