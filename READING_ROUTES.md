@@ -9,7 +9,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.4 — September 24th, 2026*<br>
 *v1.5 - v1.7 — October 12th, 2026*<br>
 *v1.8 — October 13th, 2026*<br>
-*v1.9 - v1.11 — October 17th, 2026*
+*v1.9 - v1.11 — October 17th, 2026*<br>
+*v1.12 — October 18th, 2026*
 
 ---
 
@@ -325,37 +326,40 @@ Choose the path that best matches your current interest or goal. You may switch 
 5. **[Stormcrashers](STORMCRASHERS.md)**  
    Windbreaker tower and coastal hydro-fractal pylon. Dissipate coherent structure; do not claim a hurricane switch. A0 before any belt.
 
-6. **[Gulpgates](GULPGATES.md)**  
+6. **[Stormcrashers — Mars](STORMCRASHERS_MARS.md)**  
+   Thin-sky sibling. Dustbreak and pad fence. Earth coastal article waits on standing water. Not a global-storm switch.
+
+7. **[Gulpgates](GULPGATES.md)**  
    Variable-aperture karst intake. The cave is not the overflow tank. K0 (flood-stage trace, $Q_{\mathrm{spare}}$, refused-hydrograph vault) before steel. Arrays are sums of independent remainders.
 
-7. **[Quake Columns](QUAKE_COLUMNS.md)**<br>
+8. **[Quake Columns](QUAKE_COLUMNS.md)**<br>
    Fluid borehole belt for surface-wave motion in a published band. Campaign S0 before steel. Not an earthquake sink.
 
-8. **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)**  
+9. **[Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md)**  
    Sol study and polar-first method. A0 before any bias. Not a harvest plant.
 
-9. **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)**  
+10. **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)**  
    Earth counterpart. E0 before any local coil. Not a tuned planet.
 
-10. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**  
+11. **[Dynamo Reignition](DYNAMO_REIGNITION.md)**  
    Extinguished-core schedule. M0 before any pierce. Not a restarted dynamo.
 
-11. **[Heat-Spine](HEAT_SPINE.md)**  
+12. **[Heat-Spine](HEAT_SPINE.md)**  
    The machine for the pierce. A seated segment is the article. A finished path is a handoff, not an M1 pass.
 
-12. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**  
+13. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**  
    Air half of the pair. R0 before any seeding. Not a breathable sky.
 
-13. **[Mag-Path](MAG_PATH.md)**  
+14. **[Mag-Path](MAG_PATH.md)**  
     Sealed liquid walk lines and gait-following grip. Fail open. No cabin-floor strips.
 
-14. **[Separation Lock](SEPARATION_LOCK.md)**  
+15. **[Separation Lock](SEPARATION_LOCK.md)**  
     One chamber for passage, don, doff, and particulate separation. Sibling to Mag-Path.
 
-15. **[Secondary Wake](SECONDARY_WAKE.md)**  
+16. **[Secondary Wake](SECONDARY_WAKE.md)**  
     Collapse of a coherent energetic trail. Porous skirt, mixer ring. Not a stealth kit. The simulation is not a route stop.
 
-16. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+17. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
