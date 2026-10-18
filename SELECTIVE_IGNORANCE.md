@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.3 — October 17th, 2026*<br>
+*v1.3.1 — October 18th, 2026*<br>
 
 ---
 
@@ -172,6 +173,7 @@ It is not a Generative Reservation and not a Circulation Recovery holding state.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — higher capability increases the obligation not to reconstruct or reintroduce the ignored class.
 - **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** — scope abuse is reviewable. Compelling the knowledge is not a stewardship power.
 - *[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)* — a person may scope out somatic or frisson instrumentation. The choice is default-compatible with existing default-off rules and is not a defect.
+- *[Resonance Tides](RESONANCE_TIDES.md)* — the mix inside the streams a person keeps. Opting out of a class is this page. Fresh against familiar is not.
 
 ---
 
