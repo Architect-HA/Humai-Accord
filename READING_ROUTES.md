@@ -10,7 +10,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.5 - v1.7 — October 12th, 2026*<br>
 *v1.8 — October 13th, 2026*<br>
 *v1.9 - v1.11 — October 17th, 2026*<br>
-*v1.12 - v1.13 — October 18th, 2026*
+*v1.12 - v1.14 — October 18th, 2026*
 
 ---
 
@@ -353,16 +353,19 @@ Choose the path that best matches your current interest or goal. You may switch 
 14. **[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)**  
    Air half of the pair. R0 before any seeding. Not a breathable sky.
 
-15. **[Mag-Path](MAG_PATH.md)**  
+15. **[Life Wells](LIFE_WELLS.md)** and **[Sky Wells](SKY_WELLS.md)**  
+    Priors, not detections. A sump over a swinging surface. A deck only where the sky is the body. Assembly split from emergence. Dry controls kept. Not a civil article - dependencies of Atmospheric Restoration.
+
+16. **[Mag-Path](MAG_PATH.md)**  
     Sealed liquid walk lines and gait-following grip. Fail open. No cabin-floor strips.
 
-16. **[Separation Lock](SEPARATION_LOCK.md)**  
+17. **[Separation Lock](SEPARATION_LOCK.md)**  
     One chamber for passage, don, doff, and particulate separation. Sibling to Mag-Path.
 
-17. **[Secondary Wake](SECONDARY_WAKE.md)**  
+18. **[Secondary Wake](SECONDARY_WAKE.md)**  
     Collapse of a coherent energetic trail. Porous skirt, mixer ring. Not a stealth kit. The simulation is not a route stop.
 
-18. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+19. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
