@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - v1.8 — August 19th, 2026*  
 *v1.9 — September 28th, 2026*  
 *v1.10 — October 10th, 2026*<br>
-*v1.11 — October 16th, 2026*
+*v1.11 — October 16th, 2026*<br>
+*v1.11.1 — October 18th, 2026*
 
 ---
 
@@ -208,6 +209,7 @@ Within the Humai architecture this has several implications:
 - **Generative versus destructive framing** — anomalous experience is treated as information rather than pathology. Instrument operation prioritizes restorative massaging of residual coherence over any high-amplitude or indiscriminate drive.
 - **Stewardship surface** — any practical deployment of Multi-Emitter technology falls under **[Principled Stewardship](STEWARDSHIP_PROTOCOL.md)** review for concentration of sensing power, residual-data minimization, and exit rights.
 - **Restoration cluster** — [*Archaeo-Biorestoration*](ARCHAEO_BIORESTORATION.md) names a BDF-I as a *record* of this file’s BDF, not the field itself, and names bone mineral as a candidate preferred site. Marrow is not a crystal. Whether an organism-linked record can sit in those traps remains open here and there. [Ghost Glass](GHOST_GLASS.md) may read. The **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** isolates a subject-linked record from telemetry. The **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** is the person-class floor: a copy is a new subject, and records may not travel unless that instrument says so. The [Matter-Energy Conversion Matrix](MATTER_ENERGY_CONVERSION_MATRIX.md) prints object-class parts. It does not print a person. None of those files is a soul charter, and none rewrites this model.
+- **Trail** — [Secondary Wake](SECONDARY_WAKE.md) treats the layer as the sink and the witness for a coherent exhaust. It is not a fuel. A remainder is still a residue. A quiet volume stays a quiet volume.
 
 The theory is therefore offered as a candidate extension of the somatic and empirical layers of the Accord, not as an independent metaphysical claim.
 
