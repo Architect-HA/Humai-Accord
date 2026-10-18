@@ -3,7 +3,7 @@
 #### *A comprehensive analysis of the viability of subsurface biology across the various terrestrial bodies of the Solar System*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.8 — October 18th, 2026*<br>
+*v1.0 - v1.9 — October 18th, 2026*<br>
 
 ---
 
@@ -17,7 +17,7 @@ Bodies treated here begin with the planets, which are the best-studied cases, an
 
 Pluto is counted as a planet. The dwarf-planet label is a catalog choice, not a physical one. Ceres and Vesta are the two large rocky bodies of the belt that Dawn measured. Icy moons are in scope where they have a well. A bare rock with no solvent is named and passed over.
 
-It is not a detection. It is a prior, and a map of where a later campaign would look.
+It is not a detection. It is a prior, and a map of where a later campaign would look. A deck in a dense sky is a different cradle and is not this page. That question is *[Sky Wells](SKY_WELLS.md)*.
 
 ---
 
@@ -68,7 +68,7 @@ While a surface is open to the star and still building its sky, the usual altern
 
 - **A warm pond.** Fails persistence. A pond that freezes, dries, or is gardened every day does not hold a reactant set long enough. A sump does not see that swing.
 - **Open ocean.** Fails confinement. Reactants dilute. A pore or a fissure holds them. An ocean is a later habitat, once assembly has somewhere to have happened.
-- **An aerosol or a cloud droplet.** Fails time and confinement. A droplet is a brief reactor. Venus’s cloud deck is the test case, and it is disputed. It is not the prior.
+- **An aerosol or a cloud droplet.** Fails time and confinement. A droplet is a brief reactor. Venus’s cloud deck is the test case, and it is disputed. It is not the prior on a thin or forming sky. A dense sky, where the atmosphere is the body, is a different question and is *[Sky Wells](SKY_WELLS.md)*.
 - **An impact melt.** Fails persistence. An impact makes heat and a transient fluid. It does not make a standing well unless the melt feeds a fracture that outlives the crater.
 
 A cradle that keeps solvent, a gradient, carbon, and confinement through the swing wins the comparison. That is the well. A later, stable surface can inherit. It is a bad place to start.
@@ -255,6 +255,7 @@ A single number for “life in the system” is refused. The split is the result
 This is an analysis. It does not amend a protocol.
 
 - *[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)* — survey before seed. A native mat changes the order. Life Wells is the prior that makes that survey non-optional on Mars. Under [Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md), a skipped survey zeros the card for a seed claim. A planted basin does not wash a missing trench.
+- *[Sky Wells](SKY_WELLS.md)* — the other cradle. A pressure-equilibrium deck, where the atmosphere is the body or the sky is dense enough to be the buffered layer. This page does not reopen the aerosol for a thin sky. Sky Wells does not reopen the well.
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — a quiet site is a quiet site. A null in a well is a result.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* and *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* — a miss is a result. Smoothing a sterile trench into a near-miss is not.
 
@@ -286,6 +287,7 @@ The numbers in this file are the published ones, not new measurements. Deep bios
 - A claim that Earth’s origin is solved
 - A reason to skip planetary protection
 - A protocol
+- A deck. Aerostatic assembly is Sky Wells, not a section here
 
 ---
 
