@@ -14,7 +14,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.9 — September 24th, 2026*<br>
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
-*v1.14 - v1.16 — October 17th, 2026*
+*v1.14 - v1.16 — October 17th, 2026*<br>
+*v1.17 — October 18th, 2026*
 
 ---
 
@@ -304,6 +305,9 @@ Required site packet before steel or a first belt. Stormcrashers: A0 (wind) / B0
 **Dual-report (civil)**  
 A public performance sentence must name the protected side and the neighbor / receptor side in the same window. One quiet gauge is not a demonstration. See *[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)* and the three civil articles.
 
+**Dustbreak**  
+The porous mast in [Stormcrashers — Mars](STORMCRASHERS_MARS.md). Replaceable windward coupons. Not an Earth tower.
+
 **Export (surface-wave)**  
 Quake Columns failure mode: leftover shaking reflects, focuses, or rides a weak layer into a district that was not part of the design. Design for that first. See [Quake Columns](QUAKE_COLUMNS.md).
 
@@ -316,6 +320,9 @@ Parent civil article: a fail-closed, stage-gated intake that takes a measured su
 **Independent remainder**  
 Two kits that share a weak layer, one aquifer, or one traced throat count as one remainder, not two. Scale-out is counting remainders, not stacking commands on shared rock or shared soil. See [Gulpgates](GULPGATES.md) and [Quake Columns](QUAKE_COLUMNS.md).
 
+**Pad fence**  
+A counted line of low porous panels upwind of a Martian pad or door. Not a pressure wall. See [Stormcrashers — Mars](STORMCRASHERS_MARS.md).
+
 **Quake Columns**  
 Parent civil article: a fail-closed belt of fluid-filled boreholes that takes a measured share of surface-wave motion (Rayleigh and Love waves in a published band) around a defined zone. Not an earthquake sink and not a fault switch. See [Quake Columns](QUAKE_COLUMNS.md).
 
@@ -324,6 +331,9 @@ More protection by adding independent kits or belts after the relevant campaign 
 
 **Stormcrashers**  
 Parent civil articles: a 100 m porous Windbreaker Tower and a Coastal Hydro-Fractal Pylon Grid for local dissipation of gust, shear, and nearshore wave energy. Shelter is an array property. Not a hurricane switch. See [Stormcrashers](STORMCRASHERS.md).
+
+**Stormcrashers — Mars**  
+Thin-sky sibling of Stormcrashers. A 40 m dustbreak mast and a counted pad fence. Abrasion is the life. Force is not the load. Earth coastal article waits on standing water. See [Stormcrashers — Mars](STORMCRASHERS_MARS.md).
 
 **Surface waves (Rayleigh / Love)**  
 The shaking Quake Columns is written to argue with: motion that travels near the ground surface in a published frequency band. Deep body-wave arrival and a near-fault pulse stay outside that article’s guarantee. See [Quake Columns](QUAKE_COLUMNS.md).
