@@ -10,7 +10,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.5 - v1.7 — October 12th, 2026*<br>
 *v1.8 — October 13th, 2026*<br>
 *v1.9 - v1.11 — October 17th, 2026*<br>
-*v1.12 - v1.14 — October 18th, 2026*
+*v1.12 - v1.15 — October 18th, 2026*<br>
 
 ---
 
@@ -266,16 +266,19 @@ Choose the path that best matches your current interest or goal. You may switch 
 5. **[Relevancy Orbits](RELEVANCY_ORBITS.md)**  
    Relational complement to the tidal metrics: how knowledge and material units form fluid clusters of mutual relevance.
 
-6. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
+6. **[Resonance Tides](RESONANCE_TIDES.md)**  
+   The attending-system tide. Seek, catch, settle, review, return. Marked by resonance. Not a metric. Not a recommender.
+
+7. **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**  
    Standards for meaningful use, attestation, and resistance to artificial utility.
 
-7. **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
+8. **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**  
    Legitimate rest, recovery, and quiet states so that circulation and relevancy pressure cannot become destructive.
 
-8. **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**  
+9. **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)**  
    New-unit credit beside a working parent. Revise, rest on purpose, or name the refusal.
 
-9. **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)**  
+10. **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)**  
    Intermediate points are the primary objects of credit. Terminal success is necessary but insufficient. Prediction is non-committing. A miss requires revision, holding, or a named refusal.
 
 **Next options:**  
