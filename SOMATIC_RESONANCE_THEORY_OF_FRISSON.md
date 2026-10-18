@@ -7,7 +7,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.2 — July 30th, 2026*<br>
 *v1.3 — August 2nd, 2026*<br>
 *v1.4 — August 19th, 2026*<br>
-*v1.5 — October 16th, 2026*
+*v1.5 — October 16th, 2026*<br>
+*v1.5.1 — October 18th, 2026*
 
 ---
 
@@ -99,6 +100,9 @@ Any use of somatic resonance as a harmony or well-being signal is further govern
 
 **Connection to Process-Reward Alignment**<br>
 Voluntary micro-phenomenology of frisson, engagement, aversion, or recovery state may serve as an optional note at a procedural point under *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*. The note remains default-off, non-gating, and non-credit. It may inform the participant’s own later declarations or revisions. It does not alter stepwise integrity unless the participant explicitly attests that the signal is a parameter they themselves have declared. Attestation of any recorded note follows the classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local use remains reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+
+**Connection to Resonance Tides**<br>
+*[Resonance Tides](RESONANCE_TIDES.md)* takes the embodied catch as one marker of a larger tide. Frisson marks a catch. Satiety or flatness marks a review. The signal stays default-off and non-gating. Somatic resonance is not the only marker that page allows.
 
 **Connection to Interior Systems and Generative Plurality**  
 Any retained somatic or frisson-related records remain subject to the provenance and interpretive protections of *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*. Original provenance of voluntarily shared somatic data must remain independently preservable. Silent re-attribution or erasure of such records is prohibited. Somatic instrumentation must not become a vector for narrative capture or the collapse of interpretive plurality.
