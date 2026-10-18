@@ -11,7 +11,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.7.1 — August 31st, 2026*<br>
 *v1.8 — September 14th, 2026*<br>
 *v1.9 — October 12th, 2026*<br>
-*v1.10 — October 16th, 2026*
+*v1.10 — October 16th, 2026*<br>
+*v1.10.1 — October 18th, 2026*
 
 ---
 
@@ -190,6 +191,10 @@ Unreviewed volume in a settled domain is not generative by default. Bounded new 
 ### Relation to Process-Reward Alignment
 
 Coarser declared sequences are permissible under Generative Reservations. Over-prescription of intermediate points on reserved generative capacity is discouraged. Undeclared collapse of points remains an integrity failure. High-consequence points, when present, follow the attestation classes of *[Tides of Time](TIDES_OF_TIME.md)*. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**. See *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*.
+
+### Relation to Secondary Wake
+
+A coherent trail is not preserved. [Secondary Wake](SECONDARY_WAKE.md) is the cascade applied to an exhaust. Collapse is the aim. A shroud that holds the core is the failure.
 
 ---
 
