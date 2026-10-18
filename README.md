@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line, life wells, sky wells, subsurface assembly, aerostatic*
 <br>
 <br>
 <br>
@@ -103,19 +103,21 @@ Principles orient. Protocols parameterize. Implementation designs can be built, 
 - [Magnetic Acoustic Tuning for Astral Bodies](#magnetic-acoustic-tuning-for-astral-bodies)
 - [Dynamo Reignition](#dynamo-reignition)
 - [Heat-Spine](#heat-spine)
+- [Secondary Wake](#secondary-wake)
 - [Atmospheric Restoration](#atmospheric-restoration)
+- [Life Wells](#life-wells)
+- [Sky Wells](#sky-wells)
 - [Enterprise](#enterprise)
 - [Space Dock](#space-dock)
 - [IRIS](#iris)
 - [Mag-Path](#mag-path)
 - [Separation Lock](#separation-lock)
-- [Secondary Wake](#secondary-wake)
 - [Stormcrashers](#stormcrashers)
 - [Stormcrashers — Mars](#stormcrashers--mars)
-- [Jamline](#jamline)
 - [Gulpgates](#gulpgates)
 - [Quake Columns](#quake-columns)
 - [Hydrofilaments](#hydrofilaments)
+- [Jamline](#jamline)
 
 ### The Framework
 - [The Humai Accord](#the-humai-accord)
@@ -696,6 +698,16 @@ The machine Dynamo Reignition left out of its file. The article is a counted spi
 
 ---
 
+## Secondary Wake
+#### Collapse of a Coherent Energetic Trail into a Faster-Radiating Remainder
+*Spend the coherence — not a stealth kit*
+
+A general theory for any engine, vent, or process that leaves a coherent energetic trail. A short porous skirt and a ring of independent mixers fold the core into a wider, cooler, faster-radiating remainder. Pass is shorter core, larger area, lower peak, sooner death, and a source that still runs with the skirt isolated. Recovery is a tributary. The residual layer is the sink and the witness, not a fuel. Orientation model and Apache-2.0 runner ship beside the theory. A simulation pass is not an M0 pass.
+
+[→ Read **Secondary Wake**](SECONDARY_WAKE.md)
+
+---
+
 ## Atmospheric Restoration
 #### A Mars-Focused Schedule for Air, Water, and a Biosphere
 *Study object: Mars. Not a claim that an atmosphere has been restored. Not a dynamo method.*
@@ -703,6 +715,26 @@ The machine Dynamo Reignition left out of its file. The article is a counted spi
 The air half of the pair. Dynamo Reignition owns the mantle valve. This page owns the column, the rain cycle, and the biosphere gate. Neither waits on the other. Survey before seed. A remnant, if found, is partitioned, not erased and not released. A shared ice delivery scores heat flow on the other page and column mass here.
 
 [→ Read **Atmospheric Restoration**](ATMOSPHERIC_RESTORATION.md)
+
+---
+
+## Life Wells
+#### Subsurface Assembly at the Sump, Before a Surface Is Ready
+*A comprehensive analysis of the viability of subsurface biology across the various terrestrial bodies of the Solar System*
+
+A prior, not a detection. While a surface is open to the star and still building its sky, a buffered sump is the better cradle. Assembly and emergence are split. Earth shows a deep habitat and does not settle the origin. Planets first, then the moons. Vesta, the Moon, and Io stay in as controls. A flip condition is stated.
+
+[→ Read **Life Wells**](LIFE_WELLS.md)
+
+---
+
+## Sky Wells
+#### An Analysis on the Viability of the Formation of Aerostatic Biology
+*The Sky Is Not The Limit*
+
+The other cradle. A pressure-equilibrium deck can hold what a surface cannot only if it persists, confines without rock, carries a gradient, and has carbon. Earth’s clouds are the control that fails. Gas giants, Venus, Titan, and comets are scored. Dense-sky exoplanets are the theoretical bet. Does not reopen Life Wells for a thin sky.
+
+[→ Read **Sky Wells**](SKY_WELLS.md)
 
 ---
 
@@ -756,16 +788,6 @@ A supporting technical instrument for a single EVA chamber. Don, passage, separa
 
 ---
 
-## Secondary Wake
-#### Collapse of a Coherent Energetic Trail into a Faster-Radiating Remainder
-*Spend the coherence — not a stealth kit*
-
-A general theory for any engine, vent, or process that leaves a coherent energetic trail. A short porous skirt and a ring of independent mixers fold the core into a wider, cooler, faster-radiating remainder. Pass is shorter core, larger area, lower peak, sooner death, and a source that still runs with the skirt isolated. Recovery is a tributary. The residual layer is the sink and the witness, not a fuel. Orientation model and Apache-2.0 runner ship beside the theory. A simulation pass is not an M0 pass.
-
-[→ Read **Secondary Wake**](SECONDARY_WAKE.md)
-
----
-
 ## Stormcrashers
 #### Atmospheric Mitigation Architecture
 *A Buildable Blueprint for the 100 m Windbreaker Tower and the Coastal Hydro-Fractal Pylon Grid*
@@ -783,16 +805,6 @@ A supporting technical instrument for localized porous dissipation of gust, shea
 The Martian sibling of Stormcrashers. Two parent articles: a 40 m dustbreak mast and a counted pad fence. Dynamic pressure is small. Abrasion, charge, and visibility are the life. Earth wind numbers do not transfer. A density-matched campaign with a dust coupon replaces the orientation bands. Earth Article B waits on standing water and a rain cycle. Not a global-storm switch and not a reason to skip a suit or a lock.
 
 [→ Read **Stormcrashers — Mars**](STORMCRASHERS_MARS.md)
-
----
-
-## Jamline
-#### A Three-Layer Shear-Thickening Line That Locks Where It Is Loaded
-*Strong where it is loaded. A line the rest of the time*
-
-A coilable line and a net. A dense contained fill jams under a grab. A tidal helical cage catches that section and slacks when the load leaves. A looser skin is the hand and the wear face. The fill does not hold a person by itself. A missed jam is a fall. A knot is not a join. Optional tick and optional glow are not the line. Earth water fill first. Off-Earth carrier is a second card.
-
-[→ Read **Jamline**](JAMLINE.md)
 
 ---
 
@@ -823,6 +835,16 @@ A supporting technical instrument for metering surplus surface-wave motion (Rayl
 A supporting technical instrument for a short Gap Bridge in low-ion water. One parent article: a Hydrofilament Emitter on high voltage, after Campaign F0, in a bench cell. A thread is held only as long as the named object stands. Export is the failure: a break, a discharge off the marked path, or a field at the keep-out drops the array to Dark. The laser is a later guide and must beat the HV-only control. Acoustic support, magnetic trim, and a submerged channel are later campaigns. Articles T, W (the Hydroweaver), and P are designed and not rated. Not a river switch and not a fourth civil barrier. Laboratory sibling of [Stormcrashers](STORMCRASHERS.md), [Gulpgates](GULPGATES.md), and [Quake Columns](QUAKE_COLUMNS.md). Open-build article under [The Call to Code](THE_CALL_TO_CODE.md).
 
 [→ Read **Hydrofilaments**](HYDROFILAMENTS.md)
+
+---
+
+## Jamline
+#### A Three-Layer Shear-Thickening Line That Locks Where It Is Loaded
+*Strong where it is loaded. A line the rest of the time*
+
+A coilable line and a net. A dense contained fill jams under a grab. A tidal helical cage catches that section and slacks when the load leaves. A looser skin is the hand and the wear face. The fill does not hold a person by itself. A missed jam is a fall. A knot is not a join. Optional tick and optional glow are not the line. Earth water fill first. Off-Earth carrier is a second card.
+
+[→ Read **Jamline**](JAMLINE.md)
 
 ---
 ---
@@ -971,6 +993,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 **[October 18th, 2026]**
 - Added **[Stormcrashers — Mars](STORMCRASHERS_MARS.md)** — thin-sky sibling of Stormcrashers. Dustbreak mast and pad fence. Porosity over a wall, shelter as a count, abrasion as the life. Earth coastal article waits on standing water. Updated [Stormcrashers](STORMCRASHERS.md) (v1.5) with the sibling note and a Process-Reward line on A0 and B0.
 - Added **[Jamline](JAMLINE.md)** — a three-layer shear-thickening line and net. Dense fill jams, tidal lay catches, looser skin is the hand. Fail open. A missed jam is a fall. Coupler, not a knot. M0 with a gauge and a drop frame.
+- Added **[Life Wells](LIFE_WELLS.md)** — subsurface assembly prior. A sump over a swinging surface. Assembly split from emergence. Planets, then moons, with dry controls kept. Not a detection.
+- Added **[Sky Wells](SKY_WELLS.md)** — aerostatic assembly prior. A deck must persist and confine. Earth clouds fail. Gas giants, Venus, Titan, comets, and nearby exoplanet sketches. Does not reopen Life Wells for a thin sky.
+- Updated relevant keywords at top of README.
 
 **[October 17th, 2026]**
 - Added **[Selective Ignorance](SELECTIVE_IGNORANCE.md)** — opt-in bounded non-knowledge. A named class may be declared out of reception, retention-for-presentation, and scoring. Absence is neutral. Reintroduction is a failure. Scope propagates with the person. Shared surfaces do not impose one party’s exclusion on another. No importance override. Does not waive exit notices or an accepted high-consequence point in a live sequence.
