@@ -15,7 +15,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.19 — October 18th, 2026*
+*v1.17 - v1.20 — October 18th, 2026*
 
 ---
 
@@ -80,7 +80,7 @@ Read these according to specific interest:
 
 | Interest | Documents |
 |----------|-----------|
-| Knowledge & material incentive dynamics | [*Knowledge Tides*](KNOWLEDGE_TIDES.md), [*Tides of Time*](TIDES_OF_TIME.md), [*Material Tides*](MATERIAL_TIDES.md), [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md), [Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md), [*Relevancy Orbits*](RELEVANCY_ORBITS.md) |
+| Knowledge & material incentive dynamics | [*Knowledge Tides*](KNOWLEDGE_TIDES.md), [*Tides of Time*](TIDES_OF_TIME.md), [*Material Tides*](MATERIAL_TIDES.md), [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md), [Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md), [*Relevancy Orbits*](RELEVANCY_ORBITS.md), [*Resonance Tides*](RESONANCE_TIDES.md) |
 | Epistemic variation | [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Entropy visibility | [*Entropy Audit Methodology*](ENTROPY_AUDIT_METHODOLOGY.md) |
 | Long-horizon instrumental case under abundance and lineage continuation | *[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship); cross-notes in Stewardship Alignment, Capability Asymmetry, Transitional Incentive, Competitive Realism |
@@ -137,6 +137,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Quake Columns Campaign S0 detail (the article may be sampled; the campaign packet waits until a site exists)
 - Cookbook family recipes and RLC bay schedules until a process campaign exists.
 - *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists. The vacuum-as-residue-layer section does not change that deferral.
+- Resonance Tides as a recommender, or as a score. It is a tide. The marker is not a metric.
 - Magnetic Acoustic Tuning campaign packets (A0 / E0) until an archive reduction or a site watch exists. The articles may be sampled.
 - Atmospheric Restoration R3 detail until an R0 card and a life survey exist for a basin. The article may be sampled.
 - Life Wells and Sky Wells as detections. They are priors. The articles may be sampled.
