@@ -3,13 +3,13 @@
 #### *The Sky Is Not The Limit*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 -v1.5 — October 18th, 2026*<br>
+*v1.0 -v1.5.1 — October 18th, 2026*<br>
 
 ---
 
 ## Purpose
 
-This document is a prior about aerostatic assembly. It asks whether a pressure-equilibrium layer in a dense atmosphere can do the job [Life Wells](LIFE_WELLS.md) assigns to a sump: hold a solvent, a gradient, and a carbon source long enough for chemistry to persist, without a rock and without a surface.
+This document is a prior about aerostatic assembly. It asks whether a pressure-equilibrium layer in a dense atmosphere can do the job *[Life Wells](LIFE_WELLS.md)* assigns to a sump: hold a solvent, a gradient, and a carbon source long enough for chemistry to persist, without a rock and without a surface.
 
 It treats the gas giants of this system, the decks where a terrestrial body has a thick sky, and the theoretical case of an extrasolar terrestrial world whose atmosphere is dense enough that a floating layer is a better cradle than the ground. Comets are carriers, not cradles.
 
@@ -38,7 +38,7 @@ Earth has no aerostatic organism. Cloud droplets host bacteria that were lifted 
 
 ### Why a thin sky still loses
 
-Life Wells retires the aerosol while a surface is forming. This page does not reopen that. A thin sky, a Mars, a Mercury, has no equilibrium band a droplet can sit in. The question is asked only where the atmosphere is the body, or dense enough that the ground is the hostile face and the deck is the buffered one.
+*[Life Wells](LIFE_WELLS.md)* retires the aerosol while a surface is forming. This page does not reopen that. A thin sky, a Mars, a Mercury, has no equilibrium band a droplet can sit in. The question is asked only where the atmosphere is the body, or dense enough that the ground is the hostile face and the deck is the buffered one.
 
 ### Flip against the well
 
@@ -151,11 +151,11 @@ The prior rises if a deck is shown to persist, confine, and carry a gradient and
 
 ## Relation
 
-- [Life Wells](LIFE_WELLS.md) — the rocky and icy sump. This page does not reopen the aerosol for a thin sky. It asks the question only where the atmosphere is the body, or dense enough to be the cradle.
+- *[Life Wells](LIFE_WELLS.md)* — the rocky and icy sump. This page does not reopen the aerosol for a thin sky. It asks the question only where the atmosphere is the body, or dense enough to be the cradle.
 - *[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)* — a sky raised on Mars is not a deck ecology. Do not merge them.
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — a quiet deck is a quiet deck. A null is a result.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — a miss is a result. Smoothing a sterile deck into a near-miss is not.
-- [Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md) — a skipped sample zeros the card for a deck claim. A model of a temperate band does not wash a missing droplet.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — a skipped sample zeros the card for a deck claim. A model of a temperate band does not wash a missing droplet.
 
 ---
 
