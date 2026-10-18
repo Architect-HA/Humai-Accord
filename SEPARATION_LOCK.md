@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.10 — October 17th, 2026*<br>
+*v1.10.1 — October 18th, 2026*<br>
 
 ---
 
@@ -486,6 +487,7 @@ M0 does not fly. It replaces the orientation numbers and publishes the fraction.
 - [Gulpgates](GULPGATES.md) — the drain ring is a set of independent outlets. One clog is a remainder. Shared blockage is not averaged away.
 - [Hydrofilaments](HYDROFILAMENTS.md) — a sight on a drain says whether it is passing. It is not a fourth collector.
 - *[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md)* — captured Martian air is mostly CO₂ and is not breathable. Storing or handing that volume is not a sky and not a restoration. This lock does not seed and does not claim a cycle.
+- **[Stormcrashers — Mars](STORMCRASHERS_MARS.md)** — a dustbreak cuts the load outside. It does not finish a suit. This lock still does. A cleaner wake is not a clean seat.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — a failed coil or a failed drain isolates. The lock remains a lock.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — the lock is a separation cycle, not a restraint and not a score.
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — a missed fraction is a result. Smoothing it to claim a clean suit is not.
