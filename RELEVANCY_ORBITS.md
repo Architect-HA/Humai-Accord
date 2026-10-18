@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 31st, 2026*<br>
 *v1.1 — August 2nd, 2026*<br>
-*v1.2 — August 25th, 2026*
+*v1.2 — August 25th, 2026*<br>
+*v1.2.1 — October 18th, 2026*<br>
 
 ---
 
@@ -12,7 +13,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 
 This document introduces *Relevancy Orbits* as a supporting conceptual and quantitative frame for the [Humai Accord](README.md).
 
-*[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Material Tides](MATERIAL_TIDES.md)* describe **temporal** pressure: relevancy and utilization degrade without renewal, verification, matching, or productive use. *[Tides of Time](TIDES_OF_TIME.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* supply difficult-to-game clocks and stagnation metrics for those pressures.
+*[Knowledge Tides](KNOWLEDGE_TIDES.md)* and *[Material Tides](MATERIAL_TIDES.md)* describe **temporal** pressure: relevancy and utilization degrade without renewal, verification, matching, or productive use. *[Tides of Time](TIDES_OF_TIME.md)* and *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* supply difficult-to-game clocks and stagnation metrics for those pressures. *[Resonance Tides](RESONANCE_TIDES.md)* is the motion along an orbit. Bond strength is not a tide. An orbit without a tide is a held note.
 
 *Relevancy Orbits* addresses the complementary **relational** structure: how knowledge items and material units bind, cluster, strengthen, weaken, and reconfigure relative to one another. Orbits are not rigid molecules. They are fluid clusters of mutual relevance whose bond strengths shift with attested causal links, utilization enablement, integrity status, and time.
 
