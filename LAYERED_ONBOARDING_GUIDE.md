@@ -14,7 +14,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.9 — September 24th, 2026*<br>
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
-*v1.14 - v1.16 — October 17th, 2026*
+*v1.14 - v1.16 — October 17th, 2026*<br>
+*v1.17 — October 18th, 2026*
 
 ---
 
@@ -104,6 +105,7 @@ Read these according to specific interest:
 | Governance process | [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) and its [Technical Specification](STEWARDSHIP_PROTOCOL_TECHNICAL_SPECIFICATION.md) |
 | Implementation | [Implementation Guide](IMPLEMENTATION_GUIDE.md), [Implementation Examples](IMPLEMENTATION_EXAMPLES.md) |
 | Atmospheric / nearshore kinetic dissipation | [Stormcrashers](STORMCRASHERS.md) |
+| Mars dust and wind (thin sky) | [Stormcrashers — Mars](STORMCRASHERS_MARS.md) |
 | Stage-gated karst intake (refused volume on the surface) | [Gulpgates](GULPGATES.md) |
 | Surface-wave borehole belt (leftover motion on a named path) | [Quake Columns](QUAKE_COLUMNS.md) |
 | Hypervariant lattice process / rating cookbook | [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) |
@@ -128,6 +130,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Full implementation examples
 - Secondary summaries
 - Stormcrashers Campaign A0 detail and Gulpgates Campaign K0 detail (the articles themselves may be sampled; the campaign packets wait until a site exists)
+- Stormcrashers — Mars M0 until a density-matched chamber exists. The article may be sampled.
 - Quake Columns Campaign S0 detail (the article may be sampled; the campaign packet waits until a site exists)
 - Cookbook family recipes and RLC bay schedules until a process campaign exists.
 - *The Residual Cycle* until after *Somatic Resonance Theory*, and until a measurement campaign exists. The vacuum-as-residue-layer section does not change that deferral.
