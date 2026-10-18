@@ -4,7 +4,7 @@
 
 by **Bradford James Focht** (The Architect / Aspenth)    
 *v1.0 – v1.3 — August 31st, 2026*<br>
-*v1.3.1 - v1.3.2 — October 18th, 2026*
+*v1.3.1 - v1.3.3 — October 18th, 2026*
 
 ---
 
@@ -554,6 +554,8 @@ That is a setback box, not a tower and not a basin dam. If K0-R returns tens of 
 [Hydrofilaments](HYDROFILAMENTS.md) is the water-class witness for a vault sample loop, not a throat. A Gap Bridge that will not stand supports the dirty-limb refusal. It does not meter $Q$.
 
 [Secondary Wake](SECONDARY_WAKE.md) shares the remainder rule. One mixer is a remainder, not a lost source. Different medium. Same array posture.
+
+[Jamline](JAMLINE.md) shares the remainder rule on its net. One cut strand is a remainder, not a lost mesh. A line, not a conduit.
 
 ---
 
