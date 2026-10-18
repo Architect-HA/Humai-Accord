@@ -4,7 +4,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 13th, 2026*<br>
 *v1.5 - v1.6 — October 13th, 2026*<br>
-*v1.7 — October 16th, 2026*
+*v1.7 — October 16th, 2026*<br>
+*v1.7.1 — October 18th, 2026*
 
 ---
 
@@ -337,7 +338,8 @@ Mars is the only scored object. Other bodies inherit the order only after their 
 
 ## Relation to existing work
 
-- **[Dynamo Reignition](DYNAMO_REIGNITION.md)** — owns the mantle valve. This page owns the air. Neither waits on the other. A field is not a column.  
+- **[Dynamo Reignition](DYNAMO_REIGNITION.md)** — owns the mantle valve. This page owns the air. Neither waits on the other. A field is not a column.
+- **[Stormcrashers — Mars](STORMCRASHERS_MARS.md)** — owns dust and wind on today’s thin sky. This page owns the air. Neither does the other’s job. A mast is not a restoration.
 - **[Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md)** — owns the field score. A crustal edit is not an atmosphere.  
 - **[Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md)** — breadth is a functional strength. A distinct Martian metabolism is breadth in matter. Extinguishing it spends a data source. It is not required as sentiment.  
 - *[Necessary Entropy](NECESSARY_ENTROPY.md)* — a failed R2 is a result. Smoothing the schedule to hide a miss is not.  
