@@ -5,7 +5,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 - v1.4 — October 13th, 2026*<br>
 *v1.5 - v1.6 — October 13th, 2026*<br>
 *v1.7 — October 16th, 2026*<br>
-*v1.7.1 — October 18th, 2026*
+*v1.7.2 — October 18th, 2026*
 
 ---
 
@@ -114,6 +114,8 @@ A microbial mat, or a brine community, deep under the surface is an open questio
 ### The rule
 
 Survey before seed. A native find changes the order: protect, study, and ask whether the restoration runs with it or around it. Erasing it to simplify the schedule is not a pass. It is the refuse line.
+
+[Life Wells](LIFE_WELLS.md) is the prior that makes the subsurface survey non-optional. A native mat, if found, changes the order. [Sky Wells](SKY_WELLS.md) is a different cradle. A sky raised here is not a deck ecology.
 
 ### Two planning assumptions
 
