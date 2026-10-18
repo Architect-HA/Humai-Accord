@@ -2,8 +2,8 @@
 ### *Sealed Liquid EAP Walk Lines, Gait-Following Grip, and Tagged Acoustic Link for Enterprise and Space Dock*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
-*v1.0 - v1.4 — October 17th, 2026*<br>
-*v1.5 - v1.6 — October 17th, 2026*<br>
+*v1.0 - v1.6 — October 17th, 2026*<br>
+*v1.6.1 — October 18th, 2026*<br>
 
 ---
 
@@ -396,6 +396,7 @@ Separation Lock M0 may share the bench. The path card does not replace the lock 
 
 - [Enterprise](ENTERPRISE.md) — this file is MP-1. Interior spine, exterior walk lines, no cabin-floor paths, power-loss release, RLC and IRIS keep-out. Fail open, not IRIS-latched.
 - [Separation Lock](SEPARATION_LOCK.md) — the EVA lock this path required. It keeps the seat inside $0.2\,\mathrm{mm}$. It idles Mag-Path in the lock for its cycle. No shared driver. A lock pulse is not a path draw. Harmonics stay apart. The shell still walks if the lock misses the film.
+- [Secondary Wake](SECONDARY_WAKE.md) — heat is a tributary there as it is here. It does not size the article. No shared driver. A skirt is not a walk line.
 - [Space Dock](SPACE_DOCK.md) — same kit on truss and boom root.
 - [IRIS / MIDS](IRIS_MIDS.md) — no shared driver. A port may fail latched. A path fails open.
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — $1.0\,\mathrm{m}$ keep-out. Heat may join the cabin bus. The path is not a cassette.
