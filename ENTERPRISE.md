@@ -9,6 +9,7 @@ by **Bradford James Focht (The Architect / Aspenth)**
 *v1.1 - v1.9 — September 26th, 2026*  
 *v1.10 - v1.16 — September 27th, 2026*<br>
 *v1.16.1 - v1.17 — October 17th, 2026*<br>
+*v1.17.1 — October 18th, 2026*<br>
 
 ---
 
@@ -192,7 +193,7 @@ Planning lock:
 
 **Daily.** Wheels, magnetorquers (in Earth field), flex joints. Electric thrusters on the flanks for low-thrust cruise and stationkeeping.
 
-**Published burns.** Storable chemical or hybrid assist on the **fore flanks**: Earth departure, lunar plane change, Mars departure, abort. Tanks and engines for those burns stay on the fore stack. Plume is not a crew-disc problem.
+**Published burns.** Storable chemical or hybrid assist on the **fore flanks**: Earth departure, lunar plane change, Mars departure, abort. Tanks and engines for those burns stay on the fore stack. Plume is not a crew-disc problem. Flank trails may use [Secondary Wake](SECONDARY_WAKE.md). The skirt is not part of the engine. The engine must run without it. Not a stealth kit.
 
 **Reverse-prop module (optional).** A second pair of the same engine class may dock on the **aft face of the Lock Node**, engines facing forward along the train, for braking and capture. Same longeron lock, train straight, discs stopped or spin-locked. Not the daily attitude system. Not required on first Enterprise-L. Do not fire it at a berth. Count it as kit RP-1 when flown.
 
