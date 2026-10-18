@@ -5,7 +5,8 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 — July 6th, 2026 (unpublished)*  
 *v1.1 - v1.3 — August 31st, 2026*<br>
-*v1.4 — October 16th, 2026*
+*v1.4 — October 16th, 2026*<br>
+*v1.4.1 — October 18th, 2026*
 
 ---
 
@@ -664,6 +665,8 @@ ATMA, MAMG, wildfire/ember, and Arctic ice-collar are horizon names on the scala
 [Quake Columns](QUAKE_COLUMNS.md) is the ground sibling: same fail-closed, kit-count approach; different medium and different failure mode (leftover shaking sent into the next block, not a coherent gust).
 
 [Hydrofilaments](HYDROFILAMENTS.md) may log a stilling basin or a B0 flume lane at the article foot. It does not add $K_t$ and it is not a jet curtain. Article T inherits this file’s bubble-curtain limit: a density modifier, not a surge-killer.
+
+[Secondary Wake](SECONDARY_WAKE.md) uses this file’s porosity against a coherent trail. An array, not a wall. Not a stealth kit and not a tower.
 
 Under sustained wind or wave load, a tower or pylon limb may locally remodel or deposit fortifying structure while remaining reversible or modular. Irreversible morphological lock-in is not an article of this file. A retired or low-activity unit may enter a heartwood-analogue holding state under the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**; it is not scored as simple under-utilization. See **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** and *[Necessary Entropy](NECESSARY_ENTROPY.md)*.
 
