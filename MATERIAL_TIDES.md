@@ -5,7 +5,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.0 — July 29th, 2026*<br>
 *v1.1 — August 3rd, 2026*<br>
 *v1.2 — September 14th, 2026*<br>
-*v1.3 — October 16th, 2026*
+*v1.3 — October 16th, 2026*<br>
+*v1.3.1 — October 18th, 2026*<br>
 
 ---
 
@@ -137,9 +138,11 @@ The knowledge and material tidal systems are complementary:
 - Materials without relevant knowledge and agency remain misallocated.
 - Both benefit from modularity, legibility, and resistance to irreversible capture.
 
+*[Resonance Tides](RESONANCE_TIDES.md)* treats attention as a material in that tide. Wallpaper is the lock-in of the familiar bank. It names the motion. It does not add a circulation metric.
+
 ### Quantitative Foundation
 
-Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides*, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost. 
+Just as *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides*, *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. It defines Circulation Entropy as a difficult-to-game measure of material stagnation based on time since last productive or generative use, downstream density, lock-in, and attested opportunity cost.
 
 Optional forecast-informed introduction timing guidance also lives there; it ranks candidate allocation and matching moments as proposal surfaces only and does not gate modular release, Generative Reservations, or replace valid events in the utilization record as the basis for entropy reduction.
 
