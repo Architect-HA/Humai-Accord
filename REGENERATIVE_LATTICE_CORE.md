@@ -9,7 +9,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.13 — October 11th, 2026*<br>
 *v1.14 — October 12th, 2026*<br>
 *v1.15 — October 16th, 2026*<br>
-*v1.16 — October 17th, 2026*
+*v1.16 — October 17th, 2026*<br>
+*v1.16.1 — October 18th, 2026*<br>
 
 ---
 
@@ -1127,7 +1128,7 @@ For the full set of documents, see the [README](README.md).
 
 ## Closing
 
-The **Regenerative Lattice Core** is one Core Cassette: a licensed heat source, a heat-pipe tree, Stirling-first conversion, a thermoelectric reject-heat bus, and a Cookbook lattice buffer that can be pulled and reconstituted. It runs transit hotel loads, remates to a surface station on the same plate, and treats ejection as a last-resort vehicle option for the heat source — never as the answer to a lattice problem.
+The **Regenerative Lattice Core** is one Core Cassette: a licensed heat source, a heat-pipe tree, Stirling-first conversion, a thermoelectric reject-heat bus, and a Cookbook lattice buffer that can be pulled and reconstituted. [Resonant Recovery](RESONANT_RECOVERY.md) does not reverse this order. A tuned skin stays on the reject, after Stirling. It runs transit hotel loads, remates to a surface station on the same plate, and treats ejection as a last-resort vehicle option for the heat source — never as the answer to a lattice problem.
 
 The crystal does not store fission. The tree carries heat. The bus recovers waste. The lattice levels and regenerates on a shielded tap. Custody of the kit is not government. Isolation is pre-authorized. Remate is a transition, not a capture. The cassette is what you keep.
 
