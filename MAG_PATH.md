@@ -4,20 +4,21 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.6 — October 17th, 2026*<br>
 *v1.6.1 - v1.6.3 — October 18th, 2026*<br>
+*v1.6.4 — October 19th, 2026*<br>
 
 ---
 
 ## Purpose
 
-This document is the article behind the **MP-1** kit named in [Enterprise](ENTERPRISE.md). It specifies a sealed, liquid-filled conductive path that hardens under a tagged boot, a gait-following grip that does not cling, and a short acoustic link along that path.
+This document is the article behind the **MP-1** kit named in *[Enterprise](ENTERPRISE.md)*. It specifies a sealed, liquid-filled conductive path that hardens under a tagged boot, a gait-following grip that does not cling, and a short acoustic link along that path.
 
 The path is powered. The boot is passive. Contact with a valid tag is what makes a segment active. There is no open charged surface.
 
-The same article serves [Space Dock](SPACE_DOCK.md) truss and boom-root walk lines. It does not replace the spinning rim. The rim already has about $0.3\,g$. Paths are not laid on the cabin floor. Emergency lots inside a disc stay off unless an emergency or a spin-down calls them.
+The same article serves *[Space Dock](SPACE_DOCK.md)* truss and boom-root walk lines. It does not replace the spinning rim. The rim already has about $0.3\,g$. Paths are not laid on the cabin floor. Emergency lots inside a disc stay off unless an emergency or a spin-down calls them.
 
 The document is an architecture and first-article campaign. It is not a flight stamp and not a medical device. Frequencies and force bands below are orientation. Campaign M0 replaces them.
 
-A [Separation Lock](SEPARATION_LOCK.md) is the EVA airlock sibling. It keeps ordinary return inside the seat film. It is not in this file. This file only requires that an EVA shell still walks if a slipper will not seat.
+A *[Separation Lock](SEPARATION_LOCK.md)* is the EVA airlock sibling. It keeps ordinary return inside the seat film. It is not in this file. This file only requires that an EVA shell still walks if a slipper will not seat.
 
 ---
 
@@ -40,7 +41,7 @@ A [Separation Lock](SEPARATION_LOCK.md) is the EVA airlock sibling. It keeps ord
 - IRIS drive coils used as a walk surface
 - Trapping a boot on power loss
 - A claim that the acoustic link is private against another body on the same path
-- [Separation Lock](SEPARATION_LOCK.md). This file does not specify the lock. It only requires a shell that walks if the seat is dirty
+- *[Separation Lock](SEPARATION_LOCK.md)*. This file does not specify the lock. It only requires a shell that walks if the seat is dirty
 - AURA-suit overwatch or high-potential energy beaming
 
 ---
@@ -108,7 +109,7 @@ A removable pseudo-sock for interior zero- $g$.
 - Receives the slipper. If the slipper seats, the slipper’s plate and tag are the inner stack.
 - If dust or damage blocks the seat, the shell walks on its own plate and its own tag. Conversion does not depend on a clean slipper. [Separation Lock](SEPARATION_LOCK.md) is what keeps ordinary EVA inside the film. This file only requires the shell to walk alone.
 - Shell adds thermal, dust, and abrasion cover. See Panels.
-- Seat tolerance, orientation: the slipper seats with up to $0.2\,\mathrm{mm}$ of film at the plate face. Above that, or if the tag does not read, the shell walks alone. M0 confirms the number. [Separation Lock](SEPARATION_LOCK.md) is what keeps ordinary EVA inside it. The lock idles Mag-Path in that chamber for its cycle. The two do not share a driver.
+- Seat tolerance, orientation: the slipper seats with up to $0.2\,\mathrm{mm}$ of film at the plate face. Above that, or if the tag does not read, the shell walks alone. M0 confirms the number. *[Separation Lock](SEPARATION_LOCK.md)* is what keeps ordinary EVA inside it. The lock idles Mag-Path in that chamber for its cycle. The two do not share a driver.
 
 The law is the same in slipper and shell. A crew member who must exit does not relearn the foot.
 
@@ -280,7 +281,7 @@ A published coupler may bridge two lots. It is a joint in the channel, not a rad
 
 The lock and the path are not in one ear. Lock pulses and the lock’s light acoustic shed stay off this window. During a lock cycle, Mag-Path in that chamber is idle, so the path circuit is quiet while the lock works.
 
-The lock borrows the idea, not the circuit. After its shed it chirps its own floor, walls, and drain cartridges and matches the return to a published particulate library. A hazard class holds that lock’s inner hatch. Unknown is a result. The lock’s dust face is a metered gel film on a hard wall, so the grit does not cut structure. That film is a known library signature, not a path fluid. The sniff is a cycle result for the hatch count. It is not a tone on this path, and it is not a trail. See [Separation Lock](SEPARATION_LOCK.md).
+The lock borrows the idea, not the circuit. After its shed it chirps its own floor, walls, and drain cartridges and matches the return to a published particulate library. A hazard class holds that lock’s inner hatch. Unknown is a result. The lock’s dust face is a metered gel film on a hard wall, so the grit does not cut structure. That film is a known library signature, not a path fluid. The sniff is a cycle result for the hatch count. It is not a tone on this path, and it is not a trail. See *[Separation Lock](SEPARATION_LOCK.md)*.
 
 This is a local surface telephone for feet on the same line. It is not a comms system, and it is not a log.
 
@@ -341,7 +342,7 @@ Named. Not required for M0.
 
 - **Buddy confirm.** “On path” between an enrolled pair. Not a locator.
 - **Distress bit.** One reserved symbol. Local. Does not replace the suit radio.
-- **Dust-shed tick.** Later, on the EVA sole, after [Separation Lock](SEPARATION_LOCK.md) has run. Not on the IVA slipper. Not a substitute for the lock.
+- **Dust-shed tick.** Later, on the EVA sole, after *[Separation Lock](SEPARATION_LOCK.md)* has run. Not on the IVA slipper. Not a substitute for the lock.
 - **Weak-side assist.** A slightly higher draw on a declared side. Crew-affirmed. Default off.
 - **Lot-end chirp.** One tone at a path end.
 
@@ -388,19 +389,20 @@ M0 does not fly. It replaces the orientation numbers.
 
 Channel modes, the surviving acoustic center, the acetate load, lift-off residual on a real sole, and heat returned to a cabin bus. Those wait on the bench.
 
-Separation Lock M0 may share the bench. The path card does not replace the lock card. See [Separation Lock](SEPARATION_LOCK.md).
+Separation Lock M0 may share the bench. The path card does not replace the lock card. See *[Separation Lock](SEPARATION_LOCK.md)*.
 
 ---
 
 ## Relation to existing work
 
-- [Enterprise](ENTERPRISE.md) — this file is MP-1. Interior spine, exterior walk lines, no cabin-floor paths, power-loss release, RLC and IRIS keep-out. Fail open, not IRIS-latched.
-- [Separation Lock](SEPARATION_LOCK.md) — the EVA lock this path required. It keeps the seat inside $0.2\,\mathrm{mm}$. It idles Mag-Path in the lock for its cycle. No shared driver. A lock pulse is not a path draw. Harmonics stay apart. The shell still walks if the lock misses the film.
-- [Jamline](JAMLINE.md) — same fail-open posture. Loss of jam is a soft line, not a trap. No shared driver. A line is not a walk path. A tick on the line stays off this band.
-- [Secondary Wake](SECONDARY_WAKE.md) — heat is a tributary there as it is here. It does not size the article. No shared driver. A skirt is not a walk line.
-- [Space Dock](SPACE_DOCK.md) — same kit on truss and boom root.
-- [IRIS / MIDS](IRIS_MIDS.md) — no shared driver. A port may fail latched. A path fails open.
-- [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — $1.0\,\mathrm{m}$ keep-out. Heat may join the cabin bus. The path is not a cassette.
+- *[Enterprise](ENTERPRISE.md)* — this file is MP-1. Interior spine, exterior walk lines, no cabin-floor paths, power-loss release, RLC and IRIS keep-out. Fail open, not IRIS-latched.
+- *[Separation Lock](SEPARATION_LOCK.md)* — the EVA lock this path required. It keeps the seat inside $0.2\,\mathrm{mm}$. It idles Mag-Path in the lock for its cycle. No shared driver. A lock pulse is not a path draw. Harmonics stay apart. The shell still walks if the lock misses the film.
+- *[Repulsion Sphere](REPULSION_SPHERE.md)* is the lane article. It uses this path's low-field repulsion as a traveling pair, and it does not walk a boot.
+- *[Jamline](JAMLINE.md)* — same fail-open posture. Loss of jam is a soft line, not a trap. No shared driver. A line is not a walk path. A tick on the line stays off this band.
+- *[Secondary Wake](SECONDARY_WAKE.md)* — heat is a tributary there as it is here. It does not size the article. No shared driver. A skirt is not a walk line.
+- *[Space Dock](SPACE_DOCK.md)* — same kit on truss and boom root.
+- *[IRIS / MIDS](IRIS_MIDS.md)* — no shared driver. A port may fail latched. A path fails open.
+- *[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)* — $1.0\,\mathrm{m}$ keep-out. Heat may join the cabin bus. The path is not a cassette.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — a failed lot isolates. A dead path releases.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — attachment and a short link only. Not a restraint, not a trail, not a heat-harvest pretext.
 - *[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)* and **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — sole data stay local. Tag is an address. Share is affirmed.
@@ -437,6 +439,6 @@ The rim already stands. The spine and the outer skin do not. The liquid feels th
 
 ## License
 
-Text of this document is released under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Implementation is invited under [The Call to Code](THE_CALL_TO_CODE.md).
+Text of this document is released under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Implementation is invited under *[The Call to Code](THE_CALL_TO_CODE.md)*.
 
 This license covers the architecture and the campaign. It does not certify a flown boot, a filled channel, or a suited crew.
