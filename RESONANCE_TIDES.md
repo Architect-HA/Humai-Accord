@@ -2,7 +2,7 @@
 ### *A Tidal Mix of Novelty and Callback, Marked by Resonance*
 ---
 by **Bradford James Focht** (The Architect / Aspenth)<br>
-*v1.0 - v1.6 — October 18th, 2026*<br>
+*v1.0 - v1.6.1 — October 18th, 2026*<br>
 
 ## Purpose
 
@@ -66,6 +66,7 @@ A platform that deleted the flat phrase for them, or that chased the chill, has 
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* — bond strength. This page is the motion along the bond. An orbit without a tide is a held note.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — the attending system keeps the report. An outside score of its resonance is not its resonance.
 - *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — a review the system declares can be a point in its own sequence. A platform's guess at satiety was never given.
+- *[The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md)* — the incentive that kills this tide. Only-familiar is the symptom. Fit purchased by spending the unresolved is the cause, and the inefficiency.
 - *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* — somatic and harmony data stay default-off and local-first. A feed may not harvest the marker to tune itself.
 - *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* — opting out. Not the mix.
 - *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)* — a retained note keeps its provenance.
