@@ -15,7 +15,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.22 — October 18th, 2026*
+*v1.17 - v1.22 — October 18th, 2026*<br>
+*v1.23 — October 19th, 2026*
 
 ---
 
@@ -117,7 +118,7 @@ Read these according to specific interest:
 | Seated spine (Mars) | [Heat-Spine](HEAT_SPINE.md) |
 | Air, water, biosphere (Mars) | [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) |
 | Where life is more likely to assemble | [Life Wells](LIFE_WELLS.md), [Sky Wells](SKY_WELLS.md) |
-| Zero-g walk lines and EVA dust lock | [Mag-Path](MAG_PATH.md), [Separation Lock](SEPARATION_LOCK.md) |
+| Zero-g walk lines and EVA dust lock | [Mag-Path](MAG_PATH.md), [Separation Lock](SEPARATION_LOCK.md), [Repulsion Sphere](REPULSION_SPHERE.md) |
 | Trail collapse (any coherent exhaust) | [Secondary Wake](SECONDARY_WAKE.md), [Resonant Recovery](RESONANT_RECOVERY.md) |
 | Simulations | [Simulation – Fluid Coalescence](SIMULATION_FLUID_COALESCENCE.md), [Simulation – Tides of Time](SIMULATION_TIDES_OF_TIME.md), [Simulation – Exterior Viability](SIMULATION_EXTERIOR_VIABILITY.md) |
 
@@ -143,6 +144,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Life Wells and Sky Wells as detections. They are priors. The articles may be sampled.
 - Heat-Spine P3 detail until a P0 segment has been seated. The article may be sampled.
 - Mag-Path M0 and Separation Lock M0 until a bench exists. The articles may be sampled.
+- Repulsion Sphere as a collector or a lock. It clears a lane. Nothing comes aboard.
 - Secondary Wake M0 until a fired or vented source exists. The article and the orientation runner may be sampled.
 - Resonant Recovery as a reason to fly the skirt. It is a coupon. The collapse is the job.
 - Hyperoptimization as a ban on accuracy. It is the line where fit spends the tide.
