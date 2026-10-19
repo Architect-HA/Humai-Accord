@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 17th, 2026*<br>
-*v1.5 — October 18th, 2026*<br>
+*v1.5 - v1.6 — October 18th, 2026*<br>
 
 ---
 
@@ -280,6 +280,24 @@ Optional. Not required for a collapse pass.
 **What this file cannot finish**
 
 $\phi$, $n_{\min}$, $\eta$, the band used for $S$, the clock choice for $\tau$, the standoff $d$, and the harvester window. Those wait on the bench. Writing them now would be a guess.
+
+### Orientation run, not an M0
+
+The runner in [`simulations/secondary_wake_sim.py`](simulations/secondary_wake_sim.py) was executed against this card. A run is not a burn. These numbers do not close M0. They show a pass shape and the fails the card already names.
+
+Reference, skirt on, ring live:
+
+| | off | on | ratio |
+|---|---|---|---|
+| $L$ | 40.0 m | 18.4 m | $\Lambda = 0.460$ |
+| $A$ | 20.0 m² | 52.4 m² | $\alpha = 2.620$ |
+| $T$ | 1800 K | 1368 K | $\theta = 0.760$ |
+| $\tau$ | 24.0 s | 9.0 s | down |
+| $q$ ratio | | | 0.153 |
+
+One mixer dead: still collapsing. Ring below minimum: holds, no collapse. Solid shroud: no collapse. Source with the skirt isolated: still on.
+
+Atmosphere and vacuum were run apart and are not averaged. Atmosphere $\alpha = 2.296$, $\theta = 0.712$, $q$ ratio 0.118. Vacuum $\alpha = 3.430$, $\theta = 0.832$, $q$ ratio 0.220. Both pass the shape. Both keep the source independent of the skirt.
 
 ---
 
