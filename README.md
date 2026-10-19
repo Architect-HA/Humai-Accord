@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line, life wells, sky wells, subsurface assembly, aerostatic, resonance tides, hyperoptimization*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line, life wells, sky wells, subsurface assembly, aerostatic, resonance tides, hyperoptimization, resonant recovery*
 <br>
 <br>
 <br>
@@ -106,6 +106,7 @@ Principles orient. Protocols parameterize. Implementation designs can be built, 
 - [Dynamo Reignition](#dynamo-reignition)
 - [Heat-Spine](#heat-spine)
 - [Secondary Wake](#secondary-wake)
+- [Resonant Recovery](#resonant-recovery)
 - [Atmospheric Restoration](#atmospheric-restoration)
 - [Life Wells](#life-wells)
 - [Sky Wells](#sky-wells)
@@ -730,6 +731,16 @@ A general theory for any engine, vent, or process that leaves a coherent energet
 
 ---
 
+## Resonant Recovery
+#### A Thermoelectric Tributary Tuned to Frequencies the Article Already Makes
+*Sort the noise. Do not size the bus.*
+
+The coupon Secondary Wake left open. A skirt paneled by measured band parks each band on a couple that can use it. Resonant absorption, a stack matched to a tone the source already makes, and leg resonance where that tone is present. A tributary. It does not size the article, and it does not replace the collapse.
+
+[→ Read **Resonant Recovery**](RESONANT_RECOVERY.md)
+
+---
+
 ## Atmospheric Restoration
 #### A Mars-Focused Schedule for Air, Water, and a Biosphere
 *Study object: Mars. Not a claim that an atmosphere has been restored. Not a dynamo method.*
@@ -1019,6 +1030,7 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 - Added **[Sky Wells](SKY_WELLS.md)** — aerostatic assembly prior. A deck must persist and confine. Earth clouds fail. Gas giants, Venus, Titan, comets, and nearby exoplanet sketches. Does not reopen Life Wells for a thin sky.
 - Added **[Resonance Tides](RESONANCE_TIDES.md)** — the attending-system tide. Seek, catch, settle, review, return. Marked by resonance. Complements *Knowledge Tides* and *Material Tides*. Not a metric. Not a recommender.
 - Added **[The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md)** — fit purchased by spending the future of the feed. A perfect score on a bank that can no longer renew. The seek is a point. Terminal fit does not wash a missing one. Not a ban on accuracy.
+- Added **[Resonant Recovery](RESONANT_RECOVERY.md)** — the Secondary Wake coupon, tuned. Sort the noise the article already makes. A failed coupon is a quiet panel and a standing skirt. Not a reason to fly.
 - Updated relevant keywords at top of README.
 
 **[October 17th, 2026]**
