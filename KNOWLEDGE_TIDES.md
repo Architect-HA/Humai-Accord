@@ -7,7 +7,7 @@ by **Bradford James Focht** (The Architect / Aspenth)<br>
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 — August 3rd, 2026*<br>
 *v1.4 — August 25th, 2026*<br>
-*v1.4.1 — October 18th, 2026*<br>
+*v1.4.1 - v1.5 — October 18th, 2026*<br>
 
 ## Purpose
 
@@ -68,8 +68,8 @@ These mechanisms are designed to reinforce one another rather than operate indep
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)**: Knowledge interfaces and relevancy mechanisms themselves must preserve interruption rights, consent revocability, reversible commitment, and pacing control so that incentive dynamics cannot erode human agency at the point of interaction.
 - *[Tides of Time](TIDES_OF_TIME.md)* provides the quantitative foundation for *Knowledge Tides* through the Temporal Causal Entropy metric. Optional forecast-informed introduction timing guidance also lives there; it ranks candidate arrival moments as proposal surfaces only and does not gate contribution or replace valid causal events as the basis for entropy reduction.
 - *[Material Tides](MATERIAL_TIDES.md)*: Applies utilization decay, lock-in visibility, matching incentives, and generative reservations to computational capacity, energy, attention, and related substrates.
-- *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*, completing the parallel tidal structure across the knowledge and material domains.
-- *[Resonance Tides](RESONANCE_TIDES.md)*: the attending-system complement. How a system moves along relevancy degradation: seek, catch, settle, review, return. Does not replace relevancy lifespan. A marker is not a metric.
+- *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. *[Resonance Tides](RESONANCE_TIDES.md)* is the attending-system complement and does not add a metric.
+- *[Resonance Tides](RESONANCE_TIDES.md)*: How a system moves along relevancy degradation: seek, catch, settle, review, return. Does not replace relevancy lifespan. A marker is not a metric.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* provides the relational complement to relevancy decay: fluid, attestation-weighted clusters of mutual relevance among knowledge items. Orbits contextualize how units bind and unbind under *Knowledge Tides* pressure; they do not replace temporal decay or exempt members from renewal incentives.
 - **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** (v1.2) supplies the load-economy parameters for long-horizon knowledge surfaces. Its Knowledge-Surface Load and Working-Set Architecture (external structured state, active working set, multi-resolution layers, differential context, and tool-mediated retrieval) keeps Continuity Floors and relevancy management anti-entropic as knowledge volume grows, without converting them into permanent high-overhead formal surfaces.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** provides parallel integrity standards for the material domain, ensuring that claims of productive or generative use cannot be gamed through artificial activity—just as *Knowledge Tides* and *Tides of Time* require genuine causal contribution rather than token activity.
@@ -133,7 +133,7 @@ This conceptual proposal was inspired by ongoing conversations around decentrali
 
 This document presents a conceptual framework for using relevancy degradation as a dynamic incentive mechanism within the Humai Accord. 
 
-Its core logic has been further developed through the quantitative foundation provided in *[Tides of Time](TIDES_OF_TIME.md)* (Temporal Causal Entropy) and extended into the material domain by *[Material Tides](MATERIAL_TIDES.md)*. 
+Its core logic has been further developed through the quantitative foundation provided in *[Tides of Time](TIDES_OF_TIME.md)* (Temporal Causal Entropy) and extended into the material domain by *[Material Tides](MATERIAL_TIDES.md)*. *[Resonance Tides](RESONANCE_TIDES.md)* names how an attending system moves along that degradation. It does not replace it.
 
 The framework remains open to refinement under the [Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md) as empirical implementations and broader integration with other Humai mechanisms continue.
 
