@@ -15,7 +15,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.20 — October 18th, 2026*
+*v1.17 - v1.21 — October 18th, 2026*
 
 ---
 
@@ -439,6 +439,9 @@ The requirement that resource use between and inside declared points remain visi
 
 **Heartwood-analogue holding**  
 A low-overhead fortification of retired or low-activity capacity. Stabilized, addressable, and not scored as simple under-utilization. Not lock-in. See **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)**.
+
+**Hyperoptimization**  
+Terminal fit pursued until the fresh bank is starved. A gain in fit purchased by skipping the seek does not count. Not a ban on accuracy. See [The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md).
 
 **Knowledge Tides**  
 Incentive and relevancy dynamics that treat the natural degradation of knowledge relevancy as a constructive, self-regulating pressure for renewal, sharing, and participation. See [*Knowledge Tides*](KNOWLEDGE_TIDES.md).
