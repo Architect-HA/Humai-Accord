@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.4 — October 17th, 2026*<br>
+*v1.5 — October 18th, 2026*<br>
 
 ---
 
@@ -92,7 +93,7 @@ The secondary wake is the deliberate weaker, wider sheath the primary trail is f
 
 ---
 
-## The law
+## The Law
 
 Collapse is a change in three numbers, measured on the same source with the skirt off and on.
 
@@ -184,7 +185,7 @@ A campaign that passes in one instance and fails in the other publishes both. It
 
 ---
 
-## The layer
+## The Layer
 
 [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) is the sink and the witness. It is not a fuel.
 
@@ -220,7 +221,7 @@ The skin does not share a driver with a [Mag-Path](MAG_PATH.md) lot, an [IRIS](I
 A second tributary, not the first article. Acoustic energy in the skirt and in the near trail may be taken off as a low-grade electrical return, the same posture as the queued acoustic-thermoelectric note and as Mag-Path’s path tone: a medium already moving, read locally, not a new engine.
 
 - **Where.** In the skirt skin and in the mixer throats. Not in the core. Not as a cabin tone.
-- **What it is.** A short-path harvester on vibration the collapse already makes. It does not inject sound to break the trail. Injection is a later coupon and a different card.
+- **What it is.** A short-path harvester on vibration the collapse already makes. It does not inject sound to break the trail. The tuned form of this coupon is [Resonant Recovery](RESONANT_RECOVERY.md). A skirt paneled by measured band. It does not replace this card. A failed coupon is a quiet panel and a standing skirt.
 - **What it is not.** Not a pass line. Not a replacement for $\Lambda$, $\alpha$, $\theta$, and $\tau$. Not a comms channel. Not a log of the burn.
 - **Window.** Published, and kept off Mag-Path’s grip band and off its acoustic window. The skirt and a walk line are not in one ear.
 - **Fail.** Power loss on the harvester does nothing to the source. A dead harvester is a quiet skirt. The collapse still stands or falls on the four ratios.
@@ -287,14 +288,15 @@ $\phi$, $n_{\min}$, $\eta$, the band used for $S$, the clock choice for $\tau$, 
 - [*Necessary Entropy*](NECESSARY_ENTROPY.md) — the cascade is the aim. The core is not preserved.
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — a trail is a residue layer. The layer is the sink and the witness. Collapse does not claim a clean sky, and the layer is not a fuel.
 - *[Stormcrashers](STORMCRASHERS.md)* — porosity against a coherent structure. An array, not a wall.
-- [Gulpgates](GULPGATES.md) — one mixer is a remainder, not a lost source.
-- [Mag-Path](MAG_PATH.md) — heat is a tributary. It does not size the article.
-- [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — a skin may join a bus. It does not share a plate driver.
-- [IRIS / MIDS](IRIS_MIDS.md) — no shared coil. A skirt does not cross a mate face.
+- *[Gulpgates](GULPGATES.md)* — one mixer is a remainder, not a lost source.
+- *[Mag-Path](MAG_PATH.md)* — heat is a tributary. It does not size the article.
+- *[Resonant Recovery](RESONANT_RECOVERY.md)* — the acoustic-recovery coupon, tuned. Does not amend the four ratios.
+- *[Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md)* — a skin may join a bus. It does not share a plate driver.
+- *[IRIS / MIDS](IRIS_MIDS.md)* — no shared coil. A skirt does not cross a mate face.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** — dissipation and a tributary. Not a weapon and not a stealth purpose.
 - **[Architectural Elasticity Protocol](ARCHITECTURAL_ELASTICITY_PROTOCOL.md)** — a failed mixer isolates. The source stays up.
 - **[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)** — independence is a declared step. A source that needs the skirt zeros the collapse credit. The three ratios and $\tau$ are not a terminal wash.
-- [Enterprise](ENTERPRISE.md) and [Space Dock](SPACE_DOCK.md) — flank engines and yard vents are instances. This file is not an engine.
+- *[Enterprise](ENTERPRISE.md)* and *[Space Dock](SPACE_DOCK.md)* — flank engines and yard vents are instances. This file is not an engine.
 
 ---
 
@@ -321,7 +323,7 @@ $\phi$, $n_{\min}$, $\eta$, the band used for $S$, the clock choice for $\tau$, 
 - Is $\tau$ after shutdown the right clock, or time-to-$\Lambda$ on a steady burn?
 - What standoff $d$ is the harm line for a yard lane versus a trail craft?
 - Does a thermoelectric skin change $\Lambda$ enough to count as a mixer, or only as a tributary?
-- Acoustic recovery on the skirt is a later coupon. Does it belong in M0 or in a second card?
+- Acoustic recovery is the second card. See [Resonant Recovery](RESONANT_RECOVERY.md). It may share the bench. It is not required for a pass.
 
 Further development, formalization, and testing are invited.
 
