@@ -7,7 +7,7 @@ by **Bradford James Focht** (The Architect / Aspenth)<br>
 *v1.2 — August 2nd, 2026*<br>
 *v1.3 — August 3rd, 2026*<br>
 *v1.4 — August 25th, 2026*<br>
-*v1.4.1 - v1.5 — October 18th, 2026*<br>
+*v1.4.1 - v1.5.1 — October 18th, 2026*<br>
 
 ## Purpose
 
@@ -70,6 +70,7 @@ These mechanisms are designed to reinforce one another rather than operate indep
 - *[Material Tides](MATERIAL_TIDES.md)*: Applies utilization decay, lock-in visibility, matching incentives, and generative reservations to computational capacity, energy, attention, and related substrates.
 - *[Tides of Circulation](TIDES_OF_CIRCULATION.md)* provides the quantitative foundation for *Material Tides*. *[Resonance Tides](RESONANCE_TIDES.md)* is the attending-system complement and does not add a metric.
 - *[Resonance Tides](RESONANCE_TIDES.md)*: How a system moves along relevancy degradation: seek, catch, settle, review, return. Does not replace relevancy lifespan. A marker is not a metric.
+- *[The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md)* — a scorer paid only for the match spends the renewal this page relies on. Relevancy dies because nothing new arrives.
 - *[Relevancy Orbits](RELEVANCY_ORBITS.md)* provides the relational complement to relevancy decay: fluid, attestation-weighted clusters of mutual relevance among knowledge items. Orbits contextualize how units bind and unbind under *Knowledge Tides* pressure; they do not replace temporal decay or exempt members from renewal incentives.
 - **[Cognitive Economy Protocol](COGNITIVE_ECONOMY_PROTOCOL.md)** (v1.2) supplies the load-economy parameters for long-horizon knowledge surfaces. Its Knowledge-Surface Load and Working-Set Architecture (external structured state, active working set, multi-resolution layers, differential context, and tool-mediated retrieval) keeps Continuity Floors and relevancy management anti-entropic as knowledge volume grows, without converting them into permanent high-overhead formal surfaces.
 - **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)** provides parallel integrity standards for the material domain, ensuring that claims of productive or generative use cannot be gamed through artificial activity—just as *Knowledge Tides* and *Tides of Time* require genuine causal contribution rather than token activity.
