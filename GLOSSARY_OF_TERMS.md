@@ -15,7 +15,8 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.22 — October 18th, 2026*
+*v1.17 - v1.22 — October 18th, 2026*<br>
+*v1.23 — October 19th, 2026*<br>
 
 ---
 
@@ -398,6 +399,9 @@ Draw on plant, loose hold on stance, release on unload. A deliberate lift succee
 
 **Mag-Path**  
 Sealed liquid EAP walk line with a gait-following magnetic grip and a short acoustic confirm between planted soles. Fail open. Not a cabin floor. See [Mag-Path](MAG_PATH.md).
+
+**Repulsion Sphere**  
+A field drone that moves dust off a lane without collecting it. Traveling magnetic and harmonic fields, a chirp, no intake. Moon tether and Mars kite posture. See [Repulsion Sphere](REPULSION_SPHERE.md).
 
 **Separation Lock**  
 One EVA chamber for passage, don, doff, and particulate separation. Mars uses captured local air. The Moon starts at vacuum. See [Separation Lock](SEPARATION_LOCK.md).
