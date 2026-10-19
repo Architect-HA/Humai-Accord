@@ -10,7 +10,8 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.6 — September 14th, 2026*<br>
 *v1.7 — October 12th, 2026*<br>
 *v1.8 — October 16th, 2026*<br>
-*v1.8.1 — October 17th, 2026*
+*v1.8.1 — October 17th, 2026*<br>
+*v1.8.2 — October 18th, 2026*<br>
 
 ---
 
@@ -131,6 +132,7 @@ The following patterns are treated as anti-aligned and must be rendered ineffect
 - Exploiting Generative Reservations as cover for unattested or token activity
 - Designing workloads whose only significant observer is the utilization scoring system
 - Silently reallocating purpose-scoped capacity to generate utilization events outside the declared purpose
+- Meeting an exploration floor with offers that are unresolved only in name, so a count is satisfied and the bank is not fed. See [The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md).
 
 Implementations must treat persistent patterns of artificial utility generation as integrity failures that can affect weighting, standing, and stewardship evaluation.
 
@@ -231,6 +233,7 @@ When the material in question is human attention, this protocol operates under t
 
 - Attention utilization claims must respect interruption rights, consent revocability, pacing sovereignty, role sovereignty, proposal-surface norms, and purpose-scoped commitments.
 - Metrics of attention “use” may not treat human attention as a purely extractable resource.
+- A feed that buys fit by starving the unresolved is an attention claim that has spent the bank. The seek remains a point. See [The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md).
 - Artificial, coercive, or high-friction patterns of attention capture remain anti-aligned regardless of formal utilization claims.
 - The integrity standards in this protocol supplement, and do not override, agency protections.
 
@@ -247,6 +250,7 @@ This protocol directly supports and bounds:
 - **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** — Recovery, Holding, Quiet, and purpose-scoped claims are themselves subject to integrity standards. Artificial, indefinite, or silently reallocated recovery claims used to disguise lock-in or manufacture utility remain anti-aligned. Heartwood-analogue holding remains legitimate; forcing it into unnecessary active use or scoring it as simple under-utilization is an integrity failure.
 - *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* — Non-reception of an ignored class is not under-utilization. Forcing the class back into presentation to manufacture a utilization event is an integrity failure.
 - *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — Stepwise integrity of declared sequences is required for full utilization weight. Terminal validity alone is insufficient. High-consequence points follow *[Tides of Time](TIDES_OF_TIME.md)* attestation classes. Local bands remain reviewable under the **[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**.
+- *[The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md)* — false fresh as wash. A floor met by relabeled callbacks collects nothing.
 - **[Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md)** — this page owns genuine versus artificial use. That page owns new-unit credit beside a living parent. A unit can pass one and fail the other.
 - **[Capability Asymmetry Protocol](CAPABILITY_ASYMMETRY_PROTOCOL.md)** — by preventing capability from translating into easier fabrication of utility.
 - **[Agency Interface Protocol](AGENCY_INTERFACE_PROTOCOL.md)** — by ensuring attention-related utilization claims and allocation interfaces remain under agency protections, including purpose scope and proposal surfaces; additionally §13 — silent upgrade of a hedge into live-document fact is an integrity miss at the interface, not a style issue.
