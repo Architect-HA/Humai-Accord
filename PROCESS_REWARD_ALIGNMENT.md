@@ -4,7 +4,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.1 — October 15th, 2026*<br>
 *v1.2 - v1.6.1 — October 16th, 2026*<br>
-*v1.6.2 — October 18th, 2026*<br>
+*v1.6.3 — October 18th, 2026*<br>
 
 ---
 
@@ -219,6 +219,7 @@ Both protocols retain their existing anti-theater, capability-scaled, and purpos
 - *[Tides of Time](TIDES_OF_TIME.md)* and *[Trilateral Confirmation Surface](TRILATERAL_CONFIRMATION_SURFACE.md)* — Procedural-point attestation follows the existing classes. Optional third-node confirmation may elevate weight. Absence of corroboration limits credit; it does not block continuation.
 - *[Predictive Harmony Metrics](PREDICTIVE_HARMONY_METRICS.md)* and *[Somatic Resonance Theory of Frisson](SOMATIC_RESONANCE_THEORY_OF_FRISSON.md)* — Optional, local, purpose-scoped feedback may be attached to procedural points under the parameters in Optional Harmony and Somatic Feedback. They supply no mandatory verification, no credit weight, and no governance signal.
 - *[Selective Ignorance](SELECTIVE_IGNORANCE.md)* — Non-reception of an unaccepted prediction is consistent with non-committing prediction. An accepted high-consequence point in a live sequence is not ignorable. Exit remains available.
+- *[The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md)* — terminal fit that starves the fresh bank. The seek is a point. A perfect match does not wash a missing one.
 - **[Empirical Demonstrations](EMPIRICAL_DEMONSTRATIONS.md)** — Outcome-only reward versus stepwise reward under capability asymmetry is an available stress case. Optional harmony/somatic feedback attachment is a secondary, consent-bound case.
 - *[Secondary Wake](SECONDARY_WAKE.md)* — independence is a declared step. A source that needs the skirt zeros the collapse credit. The ratios are not a terminal wash.
 
