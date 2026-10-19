@@ -11,6 +11,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.8 — October 13th, 2026*<br>
 *v1.9 - v1.11 — October 17th, 2026*<br>
 *v1.12 - v1.17 — October 18th, 2026*<br>
+*v1.18 — October 19th, 2026*<br>
 
 ---
 
@@ -368,13 +369,16 @@ Choose the path that best matches your current interest or goal. You may switch 
 17. **[Separation Lock](SEPARATION_LOCK.md)**  
     One chamber for passage, don, doff, and particulate separation. Sibling to Mag-Path.
 
-18. **[Secondary Wake](SECONDARY_WAKE.md)**  
+18. **[Repulsion Sphere](REPULSION_SPHERE.md)**  
+    A field drone that moves dust without collecting it. Moon tether, Mars kite posture. Not a lock.
+
+19. **[Secondary Wake](SECONDARY_WAKE.md)**  
    Collapse of a coherent energetic trail. Porous skirt, mixer ring. Not a stealth kit. The simulation is not a route stop.
 
-19. **[Resonant Recovery](RESONANT_RECOVERY.md)**  
+20. **[Resonant Recovery](RESONANT_RECOVERY.md)**  
    The Secondary Wake coupon, tuned. Sort the noise the article already makes. Not a pass line for the collapse.
 
-20. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+21. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
