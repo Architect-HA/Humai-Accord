@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.6 — October 18th, 2026*<br>
+*v1.6.1 — October 19th, 2026*<br>
 
 ---
 
@@ -397,7 +398,10 @@ Until standing water exists, M-A and M-B are the articles. The coastal machine w
 
 *[Stormcrashers](STORMCRASHERS.md)* remains the Earth parent. This file does not rewrite it and does not inherit its coastal article.
 
-[Gulpgates](GULPGATES.md) supplies the remainder rule. [Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) is the sky-raising sibling, not this job. [Secondary Wake](SECONDARY_WAKE.md) is a trail article. A mast is not a skirt.
+[Gulpgates](GULPGATES.md) supplies the remainder rule.
+[Atmospheric Restoration](ATMOSPHERIC_RESTORATION.md) is the sky-raising sibling, not this job.
+[Secondary Wake](SECONDARY_WAKE.md) is a trail article. A mast is not a skirt.
+[Repulsion Sphere](REPULSION_SPHERE.md) is the mobile cousin. A dustbreak holds a pad. The sphere clears a lane and does not steer dust onto a neighbor.
 
 ---
 
