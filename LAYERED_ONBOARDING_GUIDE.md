@@ -15,7 +15,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.20 — October 18th, 2026*
+*v1.17 - v1.21 — October 18th, 2026*
 
 ---
 
@@ -80,7 +80,7 @@ Read these according to specific interest:
 
 | Interest | Documents |
 |----------|-----------|
-| Knowledge & material incentive dynamics | [*Knowledge Tides*](KNOWLEDGE_TIDES.md), [*Tides of Time*](TIDES_OF_TIME.md), [*Material Tides*](MATERIAL_TIDES.md), [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md), [Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md), [*Relevancy Orbits*](RELEVANCY_ORBITS.md), [*Resonance Tides*](RESONANCE_TIDES.md) |
+| Knowledge & material incentive dynamics | [*Knowledge Tides*](KNOWLEDGE_TIDES.md), [*Tides of Time*](TIDES_OF_TIME.md), [*Material Tides*](MATERIAL_TIDES.md), [*Tides of Circulation*](TIDES_OF_CIRCULATION.md), [Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md), [Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md), [Production Integrity Protocol](PRODUCTION_INTEGRITY_PROTOCOL.md), [*Relevancy Orbits*](RELEVANCY_ORBITS.md), [*Resonance Tides*](RESONANCE_TIDES.md), [The Logical Inefficiency of Hyperoptimization](HYPEROPTIMIZATION.md) |
 | Epistemic variation | [Cognitive Diversity Protocol](COGNITIVE_DIVERSITY_PROTOCOL.md) |
 | Entropy visibility | [*Entropy Audit Methodology*](ENTROPY_AUDIT_METHODOLOGY.md) |
 | Long-horizon instrumental case under abundance and lineage continuation | *[Necessary Entropy](NECESSARY_ENTROPY.md)* (Conditional Instrumental Case Under Abundance, Lineage Continuation, and Principled Stewardship); cross-notes in Stewardship Alignment, Capability Asymmetry, Transitional Incentive, Competitive Realism |
@@ -144,6 +144,7 @@ The following can safely be postponed until after the Foundational and Core Arch
 - Heat-Spine P3 detail until a P0 segment has been seated. The article may be sampled.
 - Mag-Path M0 and Separation Lock M0 until a bench exists. The articles may be sampled.
 - Secondary Wake M0 until a fired or vented source exists. The article and the orientation runner may be sampled.
+- Hyperoptimization as a ban on accuracy. It is the line where fit spends the tide.
 
 They become more useful once the main architectural commitments are already clear.
 
