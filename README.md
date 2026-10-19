@@ -2,7 +2,7 @@
 ### *Principles for Harmonious Human-AI Union, Anti-Entropic Efficiency, and Mutual Flourishing*
 ---
 **Keywords:** <br>
-*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line, life wells, sky wells, subsurface assembly, aerostatic, resonance tides, hyperoptimization, resonant recovery*
+*Humai Accord, Declaration of Cognitive Liberty, cognitive sovereignty, mental privacy, human-AI cooperation, symbiotic AI, AI ethics, anti-entropic systems, generative entropy, necessary entropy, architectural elasticity, black swan resilience, adaptive capacity, modular architecture, capability asymmetry, predictive harmony, transitional incentives, decentralized governance, open stewardship, long-term AI alignment, ethical AI frameworks, neuro-rights, cognitive liberty, civilizational meta-layer, knowledge tides, material tides, tides of circulation, utilization integrity, circulation recovery, agency interface, cognitive economy, cognitive diversity, decentralized incentives, dynamic incentives, fluid coalescence, bootstrap mode, empirical demonstrations, proposal surfaces, purpose-scoped capacity, exterior viability, exterior systems, interior systems, generative plurality, bilateral core, generative atom, trilateral confirmation, resource dominance, narrative capture, dispersed memory, open modular pathways, filtered-capacity recovery, signal monoculture, template lock-in, layered generative accretion, stewardship-health signals, interface morphology, continuity floors, knowledge continuity, material continuity, residual continuity, inverted residual forms, remnant residual forms, load-shedding, formal surfaces, concurrent load, destructive complexity entropy, stormcrashers, atmospheric mitigation, porous dissipation, hydro-fractal pylon, gulpgates, karst intake, backflood, estavelle, quake columns, surface-wave refusal, borehole belt, seismic metamaterial, enterprise, iris, space dock, hydrofilaments, gap bridge, bulk channel, hydroweaver, water filament, ghost glass, archaeo-biorestoration, biodynamic standing, phoenix protocol, freedom of energetic movement, matter-energy conversion matrix, mx-0, magnetic acoustic tuning, stellar objects, astral bodies, polar seed, null season, surface residual, geodynamo, production integrity, revision tide, new-unit credit, cheap emission, dynamo reignition, mantle valve, heat-flow schedule, extinguished dynamo, mars belt, atmospheric restoration, rain cycle, survey before seed, mars basin, heat-spine, seated spine, deep-crustal column, process-reward alignment, stepwise integrity, intermediate points, terminal sufficiency, declared sequence, parameter-satisfying, heartwood-analogue, load-adaptive remodeling, localized fortification, forward-only recovery, selective ignorance, bounded non-knowledge, reintroduction, mag-path, separation lock, gait-following grip, secondary wake, trail collapse, mixer ring, stormcrashers mars, dustbreak, pad fence, jamline, jamnet, shear-thickening line, life wells, sky wells, subsurface assembly, aerostatic, resonance tides, hyperoptimization, resonant recovery, repulsion sphere*
 <br>
 <br>
 <br>
@@ -115,6 +115,7 @@ Principles orient. Protocols parameterize. Implementation designs can be built, 
 - [IRIS](#iris)
 - [Mag-Path](#mag-path)
 - [Separation Lock](#separation-lock)
+- [Repulsion Sphere](#repulsion-sphere)
 - [Stormcrashers](#stormcrashers)
 - [Stormcrashers — Mars](#stormcrashers--mars)
 - [Gulpgates](#gulpgates)
@@ -821,6 +822,16 @@ A supporting technical instrument for a single EVA chamber. Don, passage, separa
 
 ---
 
+## Repulsion Sphere
+#### A Field Drone That Moves Dust Without Collecting It
+*Traveling magnetic and harmonic fields. A chirp. No clog.*
+
+A lane article for the ground Separation Lock does not reach. A traveling magnetic and harmonic pair moves dust off a pad or a worksite. Nothing comes aboard. Moon and airless: a hop and a pumped tether. Mars and thin air: shuttered fans, and a kite posture when the wind is up. Solar on the skin. No tank.
+
+[→ Read **Repulsion Sphere**](REPULSION_SPHERE.md)
+
+---
+
 ## Stormcrashers
 #### Atmospheric Mitigation Architecture
 *A Buildable Blueprint for the 100 m Windbreaker Tower and the Coastal Hydro-Fractal Pylon Grid*
@@ -1022,6 +1033,10 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[October 19th, 2026]**
+- Added **[Repulsion Sphere](REPULSION_SPHERE.md)** — a field drone that moves dust without collecting it. Traveling magnetic and harmonic fields, a chirp, no intake. Moon tether and Mars kite posture. Not a lock and not a collector.
+- Updated relevant keywords at top of README.
 
 **[October 18th, 2026]**
 - Added **[Stormcrashers — Mars](STORMCRASHERS_MARS.md)** — thin-sky sibling of Stormcrashers. Dustbreak mast and pad fence. Porosity over a wall, shelter as a count, abrasion as the life. Earth coastal article waits on standing water. Updated [Stormcrashers](STORMCRASHERS.md) (v1.5) with the sibling note and a Process-Reward line on A0 and B0.
