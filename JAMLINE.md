@@ -3,6 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.9 — October 18th, 2026*<br>
+*v1.9.1 — October 19th, 2026*<br>
 
 ---
 
@@ -318,6 +319,7 @@ The lay is tidal. It is not a knot.
 
 - [Mag-Path](MAG_PATH.md) — same fail-open posture. Loss of jam is a soft line, not a trap. The optional tick stays off that band. No shared driver. A line is not a walk path.
 - [Separation Lock](SEPARATION_LOCK.md) — the skin film is that wall-film idea. It does not finish a suit. A line is not a lock.
+- [Repulsion Sphere](REPULSION_SPHERE.md) — this line posture at fishing-line scale, on a reel, as a Moon tether and a Mars kite. A spiral is not a climb.
 - [Gulpgates](GULPGATES.md) — one cut strand is a remainder. A single path for the load is refused.
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — a spill is a residue. It is not a clean deck.
 - [Stormcrashers — Mars](STORMCRASHERS_MARS.md) — the off-Earth carrier lesson. Water is Earth only.
