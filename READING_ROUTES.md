@@ -10,7 +10,7 @@ by **Bradford James Focht** (The Architect / Aspenth)
 *v1.5 - v1.7 — October 12th, 2026*<br>
 *v1.8 — October 13th, 2026*<br>
 *v1.9 - v1.11 — October 17th, 2026*<br>
-*v1.12 - v1.16 — October 18th, 2026*<br>
+*v1.12 - v1.17 — October 18th, 2026*<br>
 
 ---
 
@@ -369,9 +369,12 @@ Choose the path that best matches your current interest or goal. You may switch 
     One chamber for passage, don, doff, and particulate separation. Sibling to Mag-Path.
 
 18. **[Secondary Wake](SECONDARY_WAKE.md)**  
-    Collapse of a coherent energetic trail. Porous skirt, mixer ring. Not a stealth kit. The simulation is not a route stop.
+   Collapse of a coherent energetic trail. Porous skirt, mixer ring. Not a stealth kit. The simulation is not a route stop.
 
-19. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
+19. **[Resonant Recovery](RESONANT_RECOVERY.md)**  
+   The Secondary Wake coupon, tuned. Sort the noise the article already makes. Not a pass line for the collapse.
+
+20. **[Exterior Viability Protocol](EXTERIOR_VIABILITY_PROTOCOL.md)**  
    A dry bank that exports flood or harm to the next field is a failed siting.
 
 **Next options:**  
