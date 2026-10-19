@@ -4,6 +4,7 @@
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.10 — October 17th, 2026*<br>
 *v1.10.1 - v1.10.2 — October 18th, 2026*<br>
+*v1.10.3 — October 19th, 2026*<br>
 
 ---
 
@@ -481,6 +482,7 @@ M0 does not fly. It replaces the orientation numbers and publishes the fraction.
 ## Relation to existing work
 
 - [Mag-Path](MAG_PATH.md) — this lock keeps the seat inside $0.2\,\mathrm{mm}$. It does not share a driver. It idles Mag-Path in the lock for the cycle. It fails open, as Mag-Path does. Mag-Path names this lock back. A path draw is not a lock pulse. The sniff is the path’s surface-circuit idea used on the lock’s own floor and drains. It is not the path circuit. Chirps stay off the path window. Shell panels cut the dust load. They do not replace the well. Panel film is not the wall film.
+- [Repulsion Sphere](REPULSION_SPHERE.md) — the lane article. This lock clears a suit at a hatch. The sphere clears the pad and the worksite, and does not collect. Same chirp, same film posture. It is not a lock.
 - [Enterprise](ENTERPRISE.md) and [Space Dock](SPACE_DOCK.md) — EVA locks only.
 - [IRIS / MIDS](IRIS_MIDS.md) — no shared driver. A port may fail latched. This lock does not.
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — $1.0\,\mathrm{m}$ keep-out. Coil heat is not an RLC feed.
