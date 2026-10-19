@@ -3,7 +3,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)  
 *v1.0 - v1.6 — October 17th, 2026*<br>
-*v1.6.1 - v1.6.2 — October 18th, 2026*<br>
+*v1.6.1 - v1.6.3 — October 18th, 2026*<br>
 
 ---
 
@@ -75,7 +75,7 @@ It is a sealed channel: a conductive liquid under a dielectric electroactive-pol
 - **Driver.** On the ship side. Sees the tag. Commands stiffness and field for that patch. Does not run a ship-wide magnet.
 - **Fail-safe.** Driver loss or skin fault $\rightarrow$ patch to soft and field to residual or off. Residual is below the free-band ceiling. A dead path does not trap a boot.
 
-The path is a walking line, a pressure sensor, a short acoustic medium, and a heat tributary. It is not a power bus and not a data backbone.
+The path is a walking line, a pressure sensor, a short acoustic medium, and a heat tributary. It is not a power bus and not a data backbone. [Resonant Recovery](RESONANT_RECOVERY.md) is the same method at walking scale. A tuned couple on this loop does not become the path's power. Windows stay apart.
 
 ---
 
