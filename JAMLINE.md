@@ -13,7 +13,7 @@ This document specifies a line and a net whose strength is a jammed fill caught 
 
 It is an architecture and a campaign. It is not a stamped rope, not a free beam, and not a claim that a fluid holds a person by itself.
 
-It follows the [Humai Accord](README.md), including *[Stormcrashers — Mars](STORMCRASHERS_MARS.md)*, [Gulpgates](GULPGATES.md), the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and [The Call to Code](THE_CALL_TO_CODE.md).
+It follows the [Humai Accord](README.md), including *[Stormcrashers — Mars](STORMCRASHERS_MARS.md)*, *[Gulpgates](GULPGATES.md)*, the **[Utilization Integrity Protocol](UTILIZATION_INTEGRITY_PROTOCOL.md)**, and *[The Call to Code](THE_CALL_TO_CODE.md)*.
 
 ---
 
@@ -42,7 +42,7 @@ It follows the [Humai Accord](README.md), including *[Stormcrashers — Mars](ST
 
 **Cage.** Helical strands around the liner, in a loose lay while the core is fluid. Not a filament down the middle. When the core jams and holds its section, the lay goes into tension, binds laterally, and carries the load around the jammed length. Unloaded, the lay slacks. This is the reactive stabilizer.
 
-**Skin.** A looser suspension in its own thin liner, outside the cage. Lower particle fraction. It is the handhold and the abrasion face. It is not the strength. A torn skin leaves a caged core. The skin liner may carry a metered low-volatility film, the same idea as a [Separation Lock](SEPARATION_LOCK.md) wall film. The grit cuts the film, not the liner. Water as that film is refused off Earth. A dry skin is still a skin.
+**Skin.** A looser suspension in its own thin liner, outside the cage. Lower particle fraction. It is the handhold and the abrasion face. It is not the strength. A torn skin leaves a caged core. The skin liner may carry a metered low-volatility film, the same idea as a *[Separation Lock](SEPARATION_LOCK.md)* wall film. The grit cuts the film, not the liner. Water as that film is refused off Earth. A dry skin is still a skin.
 
 **Edge.** A rappel over an overhang cuts a sheath. The skin is the face that is meant to wear. A sacrificial film on the skin liner, and a published edge coupon in M0, are the article’s answer. The cage stays behind the cut. A line whose cage is the wear face has failed.
 
@@ -62,7 +62,7 @@ Twist is how the cage distributes load sideways and tightens only where it is as
 
 The strands are a helical braid, two directions, so a loaded section binds instead of unwinding. Pitch is loose at rest. Under jam the core stops necking, the helix angle steepens, and neighboring strands close on the liner. Load shares around the section and along a short length, not into one strand.
 
-The lay is tidal. It tightens on the rise of a load and falls back when the load leaves. It does not ratchet. A lay that needs a tool to unspool has failed. It fails open, in the same posture as [Mag-Path](MAG_PATH.md): loss of jam is a soft line, not a trap. Alternating lay direction along the line, segment by segment, keeps a long pull from winding the whole rope into one spring. Segment length is $0.3\text{–}0.6\,\mathrm{m}$, orientation. Shorter and the line is a stack of knots. Longer and a pull winds one spring. M0 replaces it.
+The lay is tidal. It tightens on the rise of a load and falls back when the load leaves. It does not ratchet. A lay that needs a tool to unspool has failed. It fails open, in the same posture as *[Mag-Path](MAG_PATH.md)*: loss of jam is a soft line, not a trap. Alternating lay direction along the line, segment by segment, keeps a long pull from winding the whole rope into one spring. Segment length is $0.3\text{–}0.6\,\mathrm{m}$, orientation. Shorter and the line is a stack of knots. Longer and a pull winds one spring. M0 replaces it.
 
 The core liner may carry a light helical bias, so a jam prefers to hold section rather than squirt. The bias is a guide. It is not a strength member.
 
@@ -74,7 +74,7 @@ A short acoustic pulse in the liner may be fitted for flexibility, not for stren
 - **Storage.** A tick in the coil, so a packed line does not set in the bag.
 - **Not a hold.** No tone during a grab or a fall. A line that needs the tick in order to carry has failed. Off on power loss. A dead tick leaves a line that still jams and still slacks.
 
-Duty-limited. Watt-hours per event published. A tick that does not beat doing nothing is refused. Not a cabin tone. Off any [Mag-Path](MAG_PATH.md) band if a path is near. No shared driver.
+Duty-limited. Watt-hours per event published. A tick that does not beat doing nothing is refused. Not a cabin tone. Off any *[Mag-Path](MAG_PATH.md)* band if a path is near. No shared driver.
 
 ---
 
@@ -84,7 +84,7 @@ The same line, counted as a mesh.
 
 - Soft to deploy. Packed as a bundle.
 - Locks at the node or the span that is loaded. Unloaded mesh stays compliant.
-- One broken strand is a remainder, in the [Gulpgates](GULPGATES.md) sense. The mesh still holds. A single outlet for the load is refused.
+- One broken strand is a remainder, in the *[Gulpgates](GULPGATES.md)* sense. The mesh still holds. A single outlet for the load is refused.
 - Nodes are independent. A shared skin across a node is permitted. A shared core is not.
 
 ---
@@ -103,7 +103,7 @@ Peak load is carried as tension in the lay, fed by the jammed core holding its s
 
 Earth is the first article. Water is a permitted carrier there, if the liners hold it.
 
-Vacuum and Mars are a materials change, not a new article. A water fill will boil, freeze, or dry. Both fills use a low-volatility carrier, the same lesson as the film in [Stormcrashers — Mars](STORMCRASHERS_MARS.md). The jamming is the particles. The brand name is not the article. A liner that leaks is a failed liner.
+Vacuum and Mars are a materials change, not a new article. A water fill will boil, freeze, or dry. Both fills use a low-volatility carrier, the same lesson as the film in *[Stormcrashers — Mars](STORMCRASHERS_MARS.md)*. The jamming is the particles. The brand name is not the article. A liner that leaks is a failed liner.
 
 ---
 
@@ -219,7 +219,7 @@ Bench, then a drop. A pretty coil is not a pass. The numbers below are orientati
 | One strand cut | Line or mesh still holds | Single strand was the only path |
 | Thermal, non-water | Mobile through the published swing | Frozen core |
 
-Under [Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md), a skipped case zeros the card for the claim that case was meant to support. A held drop does not wash a missing release test.
+Under *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)*, a skipped case zeros the card for the claim that case was meant to support. A held drop does not wash a missing release test.
 
 ---
 
@@ -317,13 +317,13 @@ The lay is tidal. It is not a knot.
 
 ## Relation
 
-- [Mag-Path](MAG_PATH.md) — same fail-open posture. Loss of jam is a soft line, not a trap. The optional tick stays off that band. No shared driver. A line is not a walk path.
-- [Separation Lock](SEPARATION_LOCK.md) — the skin film is that wall-film idea. It does not finish a suit. A line is not a lock.
-- [Repulsion Sphere](REPULSION_SPHERE.md) — this line posture at fishing-line scale, on a reel, as a Moon tether and a Mars kite. A spiral is not a climb.
-- [Gulpgates](GULPGATES.md) — one cut strand is a remainder. A single path for the load is refused.
+- *[Mag-Path](MAG_PATH.md)* — same fail-open posture. Loss of jam is a soft line, not a trap. The optional tick stays off that band. No shared driver. A line is not a walk path.
+- *[Separation Lock](SEPARATION_LOCK.md)* — the skin film is that wall-film idea. It does not finish a suit. A line is not a lock.
+- *[Repulsion Sphere](REPULSION_SPHERE.md)* — this line posture at fishing-line scale, on a reel, as a Moon tether and a Mars kite. A spiral is not a climb.
+- *[Gulpgates](GULPGATES.md)* — one cut strand is a remainder. A single path for the load is refused.
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — a spill is a residue. It is not a clean deck.
-- [Stormcrashers — Mars](STORMCRASHERS_MARS.md) — the off-Earth carrier lesson. Water is Earth only.
-- [Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md) — a skipped M0 case zeros the card for that claim.
+- *[Stormcrashers — Mars](STORMCRASHERS_MARS.md)* — the off-Earth carrier lesson. Water is Earth only.
+- *[Process-Reward Alignment](PROCESS_REWARD_ALIGNMENT.md)* — a skipped M0 case zeros the card for that claim.
 
 ---
 
