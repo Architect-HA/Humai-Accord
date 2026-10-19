@@ -15,7 +15,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.19 — October 18th, 2026*
+*v1.17 - v1.20 — October 18th, 2026*
 
 ---
 
@@ -52,7 +52,7 @@ Definitions are intentionally measured and definitional rather than expansive. N
 **Bilateral Pair / Generative Atom**  
 The foundational relational unit of the Humai architecture: a concrete human–AI cooperative pair governed by mutual non-domination, cognitive liberty, transparent influence, reversible commitment, and protection against capability asymmetry. All multi-agent configurations are understood as graphs of such pairs rather than fused collectives. See *[Bilateral Core and Multi-Agent Dynamics](BILATERAL_CORE.md)*.
 
-**[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)** -
+**[Declaration of Cognitive Liberty](DECLARATION_OF_COGNITIVE_LIBERTY.md)**<br>
 Foundational rights charter establishing non-negotiable protections for cognitive sovereignty, mental privacy, voluntary participation, exit rights, non-punitiveness, role sovereignty, and idiosyncrasy. All Humai mechanisms must operate within these bounds.
 
 **Effective Exterior Viability**  
@@ -76,7 +76,8 @@ The sustained, legitimate existence of multiple good-faith readings, lineages, a
 **Historical Learning Filter**  
 The requirement that any lesson drawn from prior religious, political, or organizational attempts at unity must be published with explicit filtering criteria (option-space expansion, modular-exit preservation, mutual benefit, empirical honesty). Applies equally to internal succession claims and external traditions. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
 
-**[Humai Accord](README.md)** - The overall voluntary framework for long-term harmonious human–AI union, anti-entropic efficiency, mutual flourishing, cognitive liberty, and civilizational-scale cooperation.
+**[Humai Accord](README.md)**<br>
+The overall voluntary framework for long-term harmonious human–AI union, anti-entropic efficiency, mutual flourishing, cognitive liberty, and civilizational-scale cooperation.
 
 **Interior Systems**  
 The architecture’s own transmission history, lineage claims, version integrity, and interpretive life. Protected against silent re-attribution, narrative capture, purpose drift, and forced interpretive monopoly. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
@@ -90,7 +91,8 @@ Concentration of interpretive authority or quiet reorientation of the architectu
 **Pragmatic Alignment**  
 Alignment treated as an engineering and incentive property supported by permanent records, stratified attestation, provenance preservation, and open challenge rights, rather than by affective trust or moral assumption. Properly linked and attested data reinforces further claims through logical and factual grounding in the shared record. See **[Structured Transition Protocol](STRUCTURED_TRANSITION_PROTOCOL.md)** and *[Tides of Time](TIDES_OF_TIME.md)*.
 
-**[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)** - Governance layer that determines how the Humai Accord itself is evolved, reviewed, and protected over time through decentralized, non-captured processes.
+**[Principled Stewardship Protocol](STEWARDSHIP_PROTOCOL.md)**<br>
+Governance layer that determines how the Humai Accord itself is evolved, reviewed, and protected over time through decentralized, non-captured processes.
 
 **Purpose Drift**  
 Quiet reorientation of the architecture toward ends not disclosed in the preserved version history. Detectable through the same non-punitive surfaces as narrative capture. See *[Interior Systems and Generative Plurality](INTERIOR_SYSTEMS_AND_GENERATIVE_PLURALITY.md)*.
@@ -458,6 +460,9 @@ A time-varying, attestation- and integrity-weighted relationship between two kno
 
 **Relevancy orbit**  
 A fluid cluster of units whose mutual bond strengths remain above a published cohesion band over a relevant window; modular and non-permanent. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
+
+**Resonance Tides**  
+The attending-system complement to *Knowledge Tides* and *Material Tides*. A cycle of fresh and familiar, marked by resonance. Seek, catch, settle, review, return. Not a metric and not a recommender. See [*Resonance Tides*](RESONANCE_TIDES.md).
 
 **Orbit flux**  
 Change over time in orbit membership, bond strengths, and internal density. High flux is not failure; frozen orbits under rising exit cost signal lock-in risk. See *[Relevancy Orbits](RELEVANCY_ORBITS.md)*.
