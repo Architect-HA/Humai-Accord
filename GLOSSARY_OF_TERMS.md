@@ -15,7 +15,7 @@ By **Bradford James Focht** (The Architect / Aspenth)
 *v1.10 - v1.12 — October 12th, 2026*<br>
 *v1.13 — October 13th, 2026*<br>
 *v1.14 - v1.16 — October 17th, 2026*<br>
-*v1.17 - v1.21 — October 18th, 2026*
+*v1.17 - v1.22 — October 18th, 2026*
 
 ---
 
@@ -411,6 +411,9 @@ Metered sacrificial gel on the dust face of a Separation Lock wall. The structur
 
 **Mixer ring**  
 Independent elements on a Secondary Wake skirt. One clog is a remainder, not a lost source. See [Secondary Wake](SECONDARY_WAKE.md).
+
+**Resonant Recovery**  
+A thermoelectric tributary tuned to frequencies the article already makes. Band panels on a skirt. Does not size the article and does not replace the collapse. See [Resonant Recovery](RESONANT_RECOVERY.md).
 
 **Secondary Wake**  
 Collapse of a coherent energetic trail into a wider, cooler, faster-radiating remainder. A porous skirt and a mixer ring. The source must still run with the skirt isolated. Not a stealth kit. See [Secondary Wake](SECONDARY_WAKE.md).
