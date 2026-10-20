@@ -4,7 +4,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)<br>
 *v1.0 - v1.35 — October 19th, 2026*<br>
-*v1.36 - v1.43 — October 20th, 2026*<br>
+*v1.36 - v1.44 — October 20th, 2026*<br>
 
 ---
 
@@ -126,7 +126,7 @@ Chosen for what a small shop can buy, not for a research alloy. Quality and safe
 - **Body.** Aluminum alloy shell, 6061 class, with a hard anodize. Light, cheap, known, and stiff enough for a small drone. A composite shell is a later mass save, not the first article.
 - **Emitters.** Copper windings on a ferrite or laminated-iron core for the magnetic pair. A piezoelectric or small voice-coil driver for the harmonic pair. Both are catalog parts. Intensity published. A pin that plates the hull is a failed setting.
 - **Cells.** Commercial space-rated or terrestrial high-efficiency cells on the skin, on a thin cover glass. No deployable. The fields keep them clear.
-- **Fans, Mars.** Catalog ducted fans for translation along the ground, in ground effect. Not a hover. A $40\,\mathrm{W}$ fan does not lift $5.5\,\mathrm{kg}$ in air at $0.6\,\mathrm{kPa}$. It crawls and it turns. The fan has a gas inlet. It is tested for ingestion, so the inlet does not become the intake the article refused. Published thrust on a density-matched bench.
+- **Fans, Mars.** Catalog ducted fans for translation along the ground, in ground effect. Not a hover. A $40\,\mathrm{W}$ fan does not lift $5.6\,\mathrm{kg}$ in air at $0.6\,\mathrm{kPa}$. It crawls and it turns. The fan has a gas inlet. It is tested for ingestion, so the inlet does not become the intake the article refused. Published thrust on a density-matched bench.
 - **Film.** A vacuum-stable gel, metered through pores onto a section that reads thin. Silicone elastomer or a vacuum-rated silicone gel. Not gelatin. Not a wet weep. Volatiles outgas and a water gel freezes. Catalog, replaced at service.
 - **Braid.** Ultra-high-molecular-weight polyethylene, Spectra or Dyneema class, fishing-braid construction. Orientation diameter $0.2$ – $0.4\,\mathrm{mm}$. This is the cost-effective strong line. Wire rope at this job is heavier and collects more.
 - **Leader.** A short Jamline-class section. Shear-thickening. Stiffens under the peak, slacks after. At the anchor, at the drone, and where the line bottoms. Short, so it does not become the net.
@@ -151,10 +151,11 @@ A first-article estimate for a small shop. Not a quote and not a pass line. A bu
 | Wheels | $0.3\,\mathrm{kg}$ |
 | Plates and coils | $0.3\,\mathrm{kg}$ |
 | Magneto-rheological coupling | $0.2\,\mathrm{kg}$ |
+| Thermoelectric couple | $0.1\,\mathrm{kg}$ |
 | Battery, reel-home only | $0.3\,\mathrm{kg}$ |
 | Fans, Mars article | $0.5\,\mathrm{kg}$ |
 
-Moon article about $5.0\,\mathrm{kg}$. Mars article about $5.5\,\mathrm{kg}$. The mast and tulip are ground equipment and are not in the flying mass.
+Moon article about $5.1\,\mathrm{kg}$. Mars article about $5.6\,\mathrm{kg}$. The mast and tulip are ground equipment and are not in the flying mass.
 
 ### Power
 
@@ -184,7 +185,7 @@ Skin array, projected face, about $100$ – $150\,\mathrm{W}$ at the Moon and le
 
 - **Life.** Orientation $100$ missions or $500$ hours, whichever first, before a major service.
 - **Serviceable.** Film metered and replaced. Jamline leaders replaced. Reel dust lip and bearing seals inspected. Cells wiped by the fields, replaced if a cover clouds. No part requires the body to be cut.
-- **Cost.** Catalog parts and a small-shop shell, about 2,000 to 3,500 USD a unit at first-article quantity. The mast and tulip are ground equipment, about 800 to 1,500 USD for the pole, the head, and three hooded pitons. The braid is the cheap piece. The shell, the emitters, and the mast are the cost.
+- **Cost.** Catalog parts and a small-shop shell, about 2,000 to 3,500 USD a unit at first-article quantity. The mast and tulip are ground equipment, about 800 to 1,500 USD for the pole, the head, and three hooded pitons. The braid is the cheap piece. The shell, the emitters, and the mast are the cost. The thermoelectric couple is catalog, about 30 to 80 USD, and small. It does not move the band.
 
 ## The tether
 
@@ -227,6 +228,14 @@ Sound does not cross a vacuum. The Moon article does not pretend it does.
 In air the harmonic driver is acoustic. A tone in the thin Mars atmosphere, or in a bench tank, couples to grains through the gas. In vacuum the same driver does not make a sound. It modulates the electromagnetic field at the harmonic frequency, an electrodynamic wave in the traveling magnetic pair, and it shakes only the emitter mount. Charged grains and magnetic grains feel the modulation. Grains with neither charge nor susceptibility are the fraction the page already refuses to claim.
 
 The hull is not the speaker. Emitter mounts are isolated from the shell on catalog dampers. Published forbidden bands cover the reaction-wheel bearing frequencies and the cover-glass modes. A drive that lands in a forbidden band is cut. The drone does not tune itself onto its own structure.
+
+### Thermal path
+
+The shell is the radiator. Heat from the emitters and the fans goes to the aluminum body and leaves as radiation. There is no dedicated radiator panel, because the body is the panel. The cells and the film cover the skin, and both are thin. A thin coat does not insulate a hot body the way a thick coat would. The fields and the photon self-sweep keep dust off the cover glass and the film, so a dust layer does not build into a blanket.
+
+A small thermoelectric couple sits on the emitter mounts. It is a tributary. It recovers a fraction of the heat the mounts already make and feeds it to the bus. It does not size the bus. It does not replace the derate. A cold shell does not depend on the couple. The couple is catalog. It does not move the cost band.
+
+The power is not continuous at peak. The pair averages. The fans run only while the vent is open. The reel runs while the arc is being pumped. A continuous peak is not the duty the article budgets. If the shell temperature rises past a published limit, the drive derates. The pair eases, the fans pause, and the mission reports it. A shell that is still climbing after the derate is a paused mission, not a continued sweep. A burned emitter from a dust blanket is the failure the fields and the derate exist to prevent.
 
 Structural health is watched. A small accelerometer on the shell reports its natural frequency at the start of a mission and at intervals. If the shell's frequency has drifted toward a forbidden band, the drive is narrowed or stopped and the mission reports it. A shell that has aged into its own resonance is a service item, not a continued sweep.
 
@@ -282,7 +291,7 @@ While the petals are open, the same field bias that keeps the fan face clear is 
 
 No leg. A pair of plates, one on the belly and one on the launch face. Attract to lock. Repel to shove. Switched coils, so the force is set and the lock is not permanent. The force is highest at contact and falls off fast. An impulse, not a lift.
 
-The tulip opens. The petals fold down. The plates repel and the drone leaves the face. The line to the head reels in and takes it up. That is the rise, and it works in both gravities because it does not use the air. On the Moon a $5.0\,\mathrm{kg}$ drone weighs about $8\,\mathrm{N}$ and the shove is easy. On Mars it weighs about $20\,\mathrm{N}$, so the shove is larger and the reel does more of the work. The outboard lines stay slack until the drone is in the sphere. The strand stays dead until the curtain is clear. The shell is not part of the hop. Spinning it makes no useful lift in thin air and none in vacuum.
+The tulip opens. The petals fold down. The plates repel and the drone leaves the face. The line to the head reels in and takes it up. That is the rise, and it works in both gravities because it does not use the air. On the Moon a $5.1\,\mathrm{kg}$ drone weighs about $8\,\mathrm{N}$ and the shove is easy. On Mars it weighs about $21\,\mathrm{N}$, so the shove is larger and the reel does more of the work. The outboard lines stay slack until the drone is in the sphere. The strand stays dead until the curtain is clear. The shell is not part of the hop. Spinning it makes no useful lift in thin air and none in vacuum.
 
 From rest to first arc is a repel and a reel-in. No cast from a closed tulip. No live strand on the plate. A lane is reported clear only against a threshold declared before the pass. A partial result is partial.
 
@@ -416,7 +425,7 @@ The gel is viable for the service interval if the pores keep it metered and the 
 
 The force at the bottom is the close-pass figure. It is larger than the meter figure because the range is shorter. It is still a shed, not a throw. Clearance is the height the swing is published to. A pass that bottoms higher has not used this band.
 
-The fan thrust is a crawl in ground effect. $0.5$ to $2\,\mathrm{N}$ moves a $5.5\,\mathrm{kg}$ drone along the ground in that air. It does not lift it. A bench that measures more has a better fan. A bench that measures less has a slower crawl. Neither fails the article.
+The fan thrust is a crawl in ground effect. $0.5$ to $2\,\mathrm{N}$ moves a $5.6\,\mathrm{kg}$ drone along the ground in that air. It does not lift it. A bench that measures more has a better fan. A bench that measures less has a slower crawl. Neither fails the article.
 
 ## Component specification
 
@@ -434,6 +443,7 @@ Every part named, so a builder does not have to guess.
 | Strand | Fine conductor with the braid. Insulated except the working segment. Dead unless sweeping. Under the Mars ceiling |
 | Braid | Dyneema or Spectra, $0.2$ – $0.4\,\mathrm{mm}$. Three lines standard. Jamline-class leaders, short |
 | Coupling | Magneto-rheological, on the column. Field sets the slip. Fails soft |
+| Thermoelectric couple | Catalog. On the emitter mounts. Tributary. Feeds the bus. Does not size it. $0.1\,\mathrm{kg}$. About 30 to 80 USD |
 | Wheels | Reaction wheels. Attitude only. Not translation |
 | Mast | Telescoping pole, a few meters. Tulip petals fold flat to the stem |
 | Anchors | Three hooded pitons. Hood faces the wind |
@@ -491,6 +501,7 @@ No claim of a flight certification. The article meets the safety rules it states
 
 - **Separation Lock.** The chirp and the library. Unknown is a result. The renewable film on the dust face. Not every grain is ferromagnetic.
 - **Mag-Path.** A low field and a light acoustic tick as repulsion, not as a cling. The magneto-rheological coupling is the same family. A fluid that answers a field, used here for torque.
+- **Resonant Recovery.** A thermoelectric tributary on the emitter mounts. It feeds the bus. It does not size the bus. A cold shell does not depend on it.
 - **Process-Reward Alignment.** The chirp, the tune, the lane report, and the wind-threshold call are points. A clear lane with no chirp is an opaque point. Dependent credit is reduced.
 - **Necessary Entropy.** A miss is a result. A calm day with no kite, or a high-wind interval that only holds the drone on the line, is not smoothed into a claimed clear.
 - **Utilization Integrity.** A drone that flies to produce a utilization event, and does not clear a lane, is wash.
@@ -535,6 +546,7 @@ M0 does not fly a worksite. A bench lane is enough to close the coupon.
 - A mission with no reel-home reserve
 - A drive in a forbidden structural band
 - A butt joint between the Jamline leader and the braid
+- A shell that is still climbing after a thermal derate, and is still driven
 - A shell whose frequency has drifted into a forbidden band, and is still driven
 - A strand left live between sweeps, or live on the plate
 - A mission that starts with a person or an object in the radius
