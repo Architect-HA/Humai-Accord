@@ -4,7 +4,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)<br>
 *v1.0 - v1.35 — October 19th, 2026*<br>
-*v1.36 - v1.41 — October 20th, 2026*<br>
+*v1.36 - v1.42 — October 20th, 2026*<br>
 
 ---
 
@@ -227,6 +227,16 @@ Sound does not cross a vacuum. The Moon article does not pretend it does.
 In air the harmonic driver is acoustic. A tone in the thin Mars atmosphere, or in a bench tank, couples to grains through the gas. In vacuum the same driver does not make a sound. It modulates the electromagnetic field at the harmonic frequency, an electrodynamic wave in the traveling magnetic pair, and it shakes only the emitter mount. Charged grains and magnetic grains feel the modulation. Grains with neither charge nor susceptibility are the fraction the page already refuses to claim.
 
 The hull is not the speaker. Emitter mounts are isolated from the shell on catalog dampers. Published forbidden bands cover the reaction-wheel bearing frequencies and the cover-glass modes. A drive that lands in a forbidden band is cut. The drone does not tune itself onto its own structure.
+
+Structural health is watched. A small accelerometer on the shell reports its natural frequency at the start of a mission and at intervals. If the shell's frequency has drifted toward a forbidden band, the drive is narrowed or stopped and the mission reports it. A shell that has aged into its own resonance is a service item, not a continued sweep.
+
+### Counter-wake
+
+On Mars the upswell behind a pass can curl. Thin air and a round body make a wake, and a wake can loop fines back into the lane. The mitigation is the next pass and the path. The return is offset, so the drone does not fly back through its own wake. A following pass works the edge where the curl would land. The landing track says whether the curl brought dust back. A lane whose edge grows from its own wake has failed the pattern, and the pattern changes. More offset, or a slower bottom, until the track is stable.
+
+### The leader joint
+
+The Jamline leader and the braid are different stiffnesses. The joint between them is where a cyclic swing will fatigue. The mitigation is a tapered transition. The leader's lay loosens over a short length into the braid, so the stiffness changes gradually and not at a point. The joint is inspected at service. A fray at the transition is a swap of the leader, not a continued mission. A butt joint between a stiff leader and a soft braid is refused.
 
 ### Attract pulse
 
@@ -524,7 +534,8 @@ M0 does not fly a worksite. A bench lane is enough to close the coupon.
 - An AI that invents a lane or a spoil ground
 - A mission with no reel-home reserve
 - A drive in a forbidden structural band
-- A mission that starts with a person or an object in the radius
+- A butt joint between the Jamline leader and the braid
+- A shell whose frequency has drifted into a forbidden band, and is still driven
 - A strand left live between sweeps, or live on the plate
 - A clear with no landing measurement
 - An attract pulse that lets dust reach the skin or the strand
