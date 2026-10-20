@@ -4,7 +4,7 @@
 ---
 by **Bradford James Focht** (The Architect / Aspenth)<br>
 *v1.0 - v1.35 — October 19th, 2026*<br>
-*v1.36 - v1.42 — October 20th, 2026*<br>
+*v1.36 - v1.43 — October 20th, 2026*<br>
 
 ---
 
@@ -40,7 +40,7 @@ The two are not averaged. A published mission names which world it is in. Moon-l
 ## Flight patterns
 
 - **Moon and airless.** A tri-axial swing. Momentum is pumped, the bottom of the arc works the lane, the drone rises and returns. A single anchor is the reduced case. Fans are absent.
-- **Mars and thin air.** A racetrack flown as a wave, not a hover. The drone rides the moving air. The perforated shell takes drag and a little lift as the attitude and the rotation bias the through-flow. Fans add a crawl when the wind is down. Into the wind is the return leg. In a blow the same lane is flown as a kite on the tether. The frame does not change.
+- **Mars and thin air.** A racetrack flown as a wave, not a hover. The drone rides the moving air. The perforated shell takes drag and a little lift as the attitude and the rotation bias the through-flow. Fans add a crawl when the wind is down. Into the wind is the return leg. In a gust the same lane is flown as a kite on the tether. The frame does not change.
 
 ### Kite posture, Mars
 
@@ -55,7 +55,7 @@ The magnetic field is not a control. Mars has no global field worth the name. Th
 
 The fan is a translation tool in thin air. It is not a vacuum and it is not a filter.
 
-- **Shutter.** The outlet vent is shut except while the fan is blowing, then shut again. Open time is the blow. A vent left open is an intake the article refused.
+- **Shutter.** The outlet vent is shut except while the fan is running, then shut again. Open time is the run. A vent left open is an intake the article refused.
 - **No filter tray.** A screen that extends, spins, and shakes is a collector with extra steps. It clogs, it adds a mechanism, and it contradicts the no-intake rule. Refused.
 - **How it stays clear.** The same traveling pair that clears a lane is biased across the fan face while the shutter is shut, so fines do not sit on it. The blades are a shedding geometry, pitched to throw a grain outward rather than hold it. Bearings are sealed.
 - **Size.** Catalog ducted fans, sized for a density-matched flow, not for an Earth hover. Published diameter and thrust on the Mars-like bench. A fan that only works in sea-level air has failed the article.
@@ -76,7 +76,7 @@ This page is those two tools, traveling, and pointed outward.
 
 - **Sphere.** The drone. A shielded body, field emitters around it, no intake.
 - **Traveling magnetic field.** A field that moves relative to the body, so dust is urged along a direction rather than pinned to the hull.
-- **Traveling harmonic field.** A vibrational wave, acoustic where a medium exists and a coupled vibration of the field hardware where it does not. It sheds and sorts. It does not blow.
+- **Traveling harmonic field.** A vibrational wave, acoustic where a medium exists and a coupled vibration of the field hardware where it does not. It sheds and sorts. It does not propel air.
 - **Chirp.** A low-intensity probe. The return is matched to a published library of dust signatures. Unknown is a result. It is not a pass.
 - **Lane.** The volume or surface the mission is clearing. The dust goes somewhere that is not the lane. It is not collected.
 - **Tether.** A fishing-line-scale braided line on a reel. The Moon translation mode for a radius around an anchor. Not a power cable. Not a data line.
@@ -87,7 +87,7 @@ No tank. No wing. Solar on the skin runs the fields, the chirp, the wheels, and 
 
 - **Attitude.** Reaction wheels, both worlds. They point the drone. They do not translate it.
 - **Moon and airless.** A plate repel and a reel-in off the mast for the first rise. Then the tri-axial swing. Fans are absent.
-- **Mars and thin air.** A wave on the air, fans for the crawl, a kite in a blow. The swing is available when the tether is up.
+- **Mars and thin air.** A wave on the air, fans for the crawl, a kite in a gust. The swing is available when the tether is up.
 - **Power.** Cells on the body, not on a deployable. The drone does not slew to find the sun. The same fields that clear a lane keep the cells clear. A small battery holds a reel-home and a lights-out chirp. It does not size the mission.
 
 ### Where the dust goes
@@ -171,7 +171,7 @@ Moon article about $5.0\,\mathrm{kg}$. Mars article about $5.5\,\mathrm{kg}$. Th
 | Photon burst, at the bottom | $5\,\mathrm{W}$ |
 | Computer | $5\,\mathrm{W}$ |
 
-Skin array, projected face, about $100$ – $150\,\mathrm{W}$ at the Moon and less under Mars dust. Enough for the pair, the wheels, and the reel. The Mars fans fit if the pair is eased during the blow. The battery is not in this budget. It holds a reel-home.
+Skin array, projected face, about $100$ – $150\,\mathrm{W}$ at the Moon and less under Mars dust. Enough for the pair, the wheels, and the reel. The Mars fans fit if the pair is eased during a high-wind interval. The battery is not in this budget. It holds a reel-home.
 
 ### Electrical
 
@@ -274,7 +274,7 @@ Momentum is built before the first working pass. A cold start does not clear. Th
 
 ### The mast and the tulip
 
-The home point is a telescoping pole, not a pad. A few meters up in calm air, so the drone works a full sphere around the head. It retracts in a blow or for stow. The head carries a fairing that opens like a tulip. The petals fold all the way down toward the stem, flat against the pole, so a line cannot clip a tip. Petals out and down for launch. Petals closed over the drone when it is home. The closed tulip is the storm shell.
+The home point is a telescoping pole, not a pad. A few meters up in calm air, so the drone works a full sphere around the head. It retracts in high wind or for stow. The head carries a fairing that opens like a tulip. The petals fold all the way down toward the stem, flat against the pole, so a line cannot clip a tip. Petals out and down for launch. Petals closed over the drone when it is home. The closed tulip is the storm shell.
 
 While the petals are open, the same field bias that keeps the fan face clear is run across the petal roots and the plate. Dust that settles on an open fairing is shed before the petals close. A petal that closes on a layer of fines has failed the stow.
 
@@ -492,7 +492,7 @@ No claim of a flight certification. The article meets the safety rules it states
 - **Separation Lock.** The chirp and the library. Unknown is a result. The renewable film on the dust face. Not every grain is ferromagnetic.
 - **Mag-Path.** A low field and a light acoustic tick as repulsion, not as a cling. The magneto-rheological coupling is the same family. A fluid that answers a field, used here for torque.
 - **Process-Reward Alignment.** The chirp, the tune, the lane report, and the wind-threshold call are points. A clear lane with no chirp is an opaque point. Dependent credit is reduced.
-- **Necessary Entropy.** A miss is a result. A calm day with no kite, or a blow that only holds the drone on the line, is not smoothed into a claimed clear.
+- **Necessary Entropy.** A miss is a result. A calm day with no kite, or a high-wind interval that only holds the drone on the line, is not smoothed into a claimed clear.
 - **Utilization Integrity.** A drone that flies to produce a utilization event, and does not clear a lane, is wash.
 - **Stormcrashers — Mars.** Dust is the life of a thin-sky article. This drone is a mobile cousin. It is not a dustbreak, and its home mast is not one either.
 
@@ -526,7 +526,7 @@ M0 does not fly a worksite. A bench lane is enough to close the coupon.
 
 - An intake, a filter, or a vacuum, including a tray that extends to shake a screen clean
 - A seep, or a film fed through a fan vent. The film and the fan do not share a hole
-- Spending stored air to blow
+- Spending stored air to propel dust
 - A static field that plates the hull
 - A claimed sort with no chirp
 - Averaging the Moon case and the Mars case
@@ -537,6 +537,7 @@ M0 does not fly a worksite. A bench lane is enough to close the coupon.
 - A butt joint between the Jamline leader and the braid
 - A shell whose frequency has drifted into a forbidden band, and is still driven
 - A strand left live between sweeps, or live on the plate
+- A mission that starts with a person or an object in the radius
 - A clear with no landing measurement
 - An attract pulse that lets dust reach the skin or the strand
 - A chirp that cannot name its modality
