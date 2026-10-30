@@ -3,7 +3,8 @@
 #### *A Laser–EHD–Acoustic–MHD Emitter for Controlled Water Threads — Not a River Switch*
 
 by **Bradford James Focht**  (The Architect / Aspenth) <br>
-*v1.0 – v1.14 — October 9th, 2026*  
+*v1.0 – v1.14 — October 9th, 2026*<br>
+*v1.15 — October 29th, 2026*
 
 ---
 
@@ -224,7 +225,7 @@ Waste heat is the byproduct. The bus is the return path: heat that would otherwi
 
 Orientation band for a mid single array after F0: gross draw about $0.2\text{–}2\,\mathrm{kW}$ average under pulsed duty. A $5\text{–}15\,\%$ return on that gross is an upper orientation, and only if most of the draw arrives as heat at the junctions and the gradient is real. Treat $3\text{–}8\,\%$ of measured reject as the planning number. The bus can stretch a battery and can feed loggers. It does not run the laser.
 
-This is circulation recovery in the small. It binds to the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** as a local return of waste heat to the same article, not as a claim on the watershed. It is not a skipped Stirling. The [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) puts thermoelectric recovery after a higher-grade converter. This article has no Stirling, so the bus stays housekeeping. If the rail ever leaves the bench, it remates as a named bay in the sense of the [Transit Hotel Bus](TRANSIT_HOTEL_BUS.md), not as a spliced feeder into someone else’s plant.
+This is circulation recovery in the small. It binds to the **[Circulation Recovery Protocol](CIRCULATION_RECOVERY_PROTOCOL.md)** as a local return of waste heat to the same article, not as a claim on the watershed. It is not a skipped Stirling. The [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) puts thermoelectric recovery after a higher-grade converter. This article has no Stirling, so the bus stays housekeeping. If the rail ever leaves the bench, it remates as a named bay in the sense of the Transit Hotel Bus included in the [Enterprise](ENTERPRISE.md#transit-hotel-bus) design, not as a spliced feeder into someone else’s plant.
 
 ---
 
