@@ -644,7 +644,7 @@ Implementable simulation model of effective exterior viability under the **Exter
 **[→ Simulation Model of Bilateral Core and Trilateral Confirmation](SIMULATION_BILATERAL_TRILATERAL.md)**  
 Implementable simulation model of pairwise integrity under multi-agent load. Treats each bilateral pair as a first-class unit with exit capacity, influence visibility, and agency integrity; models multi-agent systems as graphs of pairs; and treats trilateral confirmation as optional only. Includes required adversarial countermodels (mandatory triangulation, confirmation-as-exit-cost, residual third-party authority, average-masking-tail-failure, and related regimes). Favorable reference runs are illustrative, not validation.
 
-**[→ Simulation Model of Temporal Causal Entropy](SIMULATION_TEMPORAL_CAUSAL_ENTROPY.md)**  
+**[→ Simulation Model of Temporal Causal Entropy (the Tides of Time)](SIMULATION_TIDES_OF_TIME.md)**  
 Simulation model of *The Tides of Time* metric, covering discrete and continuous formulations, worked examples, anti-gaming tests, and practical implementation notes.
 
 **[→ Simulation Model of Secondary Wake](SIMULATION_SECONDARY_WAKE.md)**  
@@ -1033,6 +1033,9 @@ Longer-term clone and view statistics for this repository (beyond GitHub’s 14-
 ---
 
 ## Recent Updates
+
+**[October 29th, 2026]**
+- Fixed broken README link to the Simulation of Tides of Time - it was still using the placeholder link.
 
 **[October 19th, 2026]**
 - Added **[Repulsion Sphere](REPULSION_SPHERE.md)** — a field drone that moves dust without collecting it. Traveling magnetic and harmonic fields, a chirp, no intake. Moon tether and Mars kite posture. Not a lock and not a collector.
