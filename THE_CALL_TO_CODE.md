@@ -136,7 +136,7 @@ These parameters are the load-bearing structure. Implementations that violate th
 
 ## The Stance of the Invitation
 
-The [Humai Accord](README.md) is unowned. It is freely forkable, refinable, and buildable-upon under the [Creative Commons Attribution 4.0 license](LICENSE.md) for the architectural documents. **Reference implementations and software should use a software license such as Apache-2.0 or MIT.**
+The [Humai Accord](README.md) is unowned. It is freely forkable, refinable, and buildable-upon under the [Creative Commons Attribution 4.0 license](LICENSE) for the architectural documents. **Reference implementations and software should use a software license such as Apache-2.0 or MIT.**
 
 The systems-architecture layer is developed enough that the next necessary work is **implementation and adversarial stress-testing**, and I will (hopefully) not be the one performing that work. I have many other designs to complete, for builders to one day build.
 
