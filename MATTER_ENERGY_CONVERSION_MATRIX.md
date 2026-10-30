@@ -597,7 +597,7 @@ A forge that can arrange atoms to a map is still not a clinic. Absence of any li
 - **[Phoenix Protocol](PHOENIX_PROTOCOL.md)** — person-class floor; FoEM default off; copy’s exit wins; instrument has a holder field.  
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — BDF; preferred sites; organism-linked storage in mineral remains open.  
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — plate bus may feed the bay; an RLC-10-P array may later feed the forge. The feed does not replace the contactor or the E-stop. The bay is not a cassette.  
-- [The Synthesist's Cookbook](THE_SYNTHESISTS_COOKBOOK.md) — lattices are not person storage and not feedstock.  
+- [The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md) — lattices are not person storage and not feedstock.  
 - [Magnetic Acoustic Tuning](MAGNETIC_ACOUSTIC_TUNING.md) — owns the polar watch and the score. A feed is not a bias.  
 - **[Biodynamic Standing Protocol](BIODYNAMIC_STANDING_PROTOCOL.md)** — person-class BDF-I is not M0 material.  
 - [IRIS](IRIS_MIDS.md) — MX-0 is the Stage 0 hook claw. Change claw numbers there first.  
