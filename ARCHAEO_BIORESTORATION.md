@@ -160,7 +160,7 @@ A quiet volume is a quiet volume. It is not an imprint to be raised. Negative re
 
 ### What marrow is and is not
 
-Bone **marrow** is living tissue: fat, blood-forming cells, vessels. It is not an energy-storage lattice of the kind in [The Synthesist's Cookbook](THE_SYNTHESISTS_COOKBOOK.md), and it is not a preferred crystalline site.
+Bone **marrow** is living tissue: fat, blood-forming cells, vessels. It is not an energy-storage lattice of the kind in [The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md), and it is not a preferred crystalline site.
 
 Bone **mineral** is mostly hydroxyapatite, a crystalline phosphate. That mineral is the candidate that sits in the same family as the preferred sites already named in [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md): quartz, calcite, mullite — materials that can trap charge and later release it (thermoluminescence, optically stimulated luminescence). Whether an *organism-linked* BDF record can be stored in those traps the way a radiation dose can is **an open question** in that file. This file does not close it.
 
@@ -339,7 +339,7 @@ Beamed power and long-haul corridors are infrastructure. They do not loosen Phoe
 - No retcon language  
 - Bulk transport in a third file, or a marked part of the matrix file, horizon only  
 
-[The Synthesist's Cookbook](THE_SYNTHESISTS_COOKBOOK.md) and RLC do not store persons.
+[The Synthesist's Cookbook](SYNTHESISTS_COOKBOOK.md) and RLC do not store persons.
 
 ---
 
