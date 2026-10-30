@@ -264,7 +264,7 @@ No surface closes by analogy, by a matched drift, or by a sentence in a later dr
 This page is the counterpart to [Magnetic Acoustic Tuning for Stellar Objects](MAGNETIC_ACOUSTIC_TUNING.md). That page owns Sol. This page owns Earth. Neither absorbs the other.
 
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — RLC-10-P is a stellar-feed kit. It is not seated here.  
-- [*The Synthesist's Cookbook*](THE_SYNTHESISTS_COOKBOOK.md) — no lattice is rated by this page.  
+- [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) — no lattice is rated by this page.  
 - [Quake Columns](QUAKE_COLUMNS.md) — seismic structure is a report. This page does not claim a column.
 - [Dynamo Reignition](DYNAMO_REIGNITION.md) — owns the mantle valve on an extinguished core. This page owns the field score. A crustal edit is not a dynamo. 
 
