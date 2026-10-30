@@ -398,7 +398,7 @@ This page shares empirical posture with [*Empirical Demonstrations*](EMPIRICAL_D
 **Named siblings.**
 
 - [Magnetic Acoustic Tuning for Astral Bodies](MAGNETIC_ACOUSTIC_TUNING_ASTRAL.md) — the non-stellar counterpart. Earth is scored there. The polar-twist method does not transfer.
-- [*The Synthesist's Cookbook*](THE_SYNTHESISTS_COOKBOOK.md) — stellar C/O crystallization is not a Cookbook pathway. This page does not rate a lattice.  
+- [*The Synthesist's Cookbook*](SYNTHESISTS_COOKBOOK.md) — stellar C/O crystallization is not a Cookbook pathway. This page does not rate a lattice.  
 - [Regenerative Lattice Core](REGENERATIVE_LATTICE_CORE.md) — RLC-10-P is specified there, under Alternate source kit — polar array (standoff). This page does not restate the cassette, the coupler, or the dose map.  
 - [Matter-Energy Conversion Matrix](MATTER_ENERGY_CONVERSION_MATRIX.md) — a later forge may draw from a cleared RLC-10-P array. That feed does not replace the bay’s contactor or E-stop, does not raise a map grade, and does not make this model a print procedure. Power, grade, and lattice capacity stay separate accounts.  
 - [*The Residual Cycle*](THE_RESIDUAL_CYCLE.md) — Sol’s circulation is a Tide in the framework sense. It is not a biodynamic flux.  
